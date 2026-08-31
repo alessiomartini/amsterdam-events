@@ -1,18 +1,7 @@
 {
-  "generatedAt": "2026-08-31T18:19:22.274Z",
-  "count": 252,
+  "generatedAt": "2026-08-31T22:17:16.237Z",
+  "count": 325,
   "events": [
-    {
-      "title": "Yoga --  All Levels All Welcome",
-      "url": "https://radar.squat.net/en/event/amsterdam/nieuwland/2026-08-31/yoga-all-levels-all-welcome",
-      "id": "radar-squat-54d1b02a1740d4ec",
-      "source": "radar-squat",
-      "sourceName": "Radar (squat.net)",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
-    },
     {
       "title": "Chaos Kitchen Voku for MiGreat",
       "url": "https://radar.squat.net/en/event/amsterdam/joes-garage/2026-08-31/chaos-kitchen-voku-migreat",
@@ -22,29 +11,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
-    },
-    {
-      "title": "BPW Woonspreekuur",
-      "url": "https://radar.squat.net/en/event/amsterdam/bpw-amsterdam/2026-08-31/bpw-woonspreekuur",
-      "id": "radar-squat-64f154d475217539",
-      "source": "radar-squat",
-      "sourceName": "Radar (squat.net)",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
-    },
-    {
-      "title": "Het Vrije Taalcafé",
-      "url": "https://radar.squat.net/en/event/amsterdam/huis-vrederiks-begane-grond/2026-08-31/het-vrije-taalcafe",
-      "id": "radar-squat-37c3dbc202e52c8f",
-      "source": "radar-squat",
-      "sourceName": "Radar (squat.net)",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Last Summer",
@@ -55,7 +22,29 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "title": "BPW Woonspreekuur",
+      "url": "https://radar.squat.net/en/event/amsterdam/bpw-amsterdam/2026-08-31/bpw-woonspreekuur",
+      "id": "radar-squat-64f154d475217539",
+      "source": "radar-squat",
+      "sourceName": "Radar (squat.net)",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "title": "Het Vrije Taalcafé",
+      "url": "https://radar.squat.net/en/event/amsterdam/huis-vrederiks-begane-grond/2026-08-31/het-vrije-taalcafe",
+      "id": "radar-squat-37c3dbc202e52c8f",
+      "source": "radar-squat",
+      "sourceName": "Radar (squat.net)",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "KABRA | Herbal treatment & massage",
@@ -66,7 +55,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Yoga -- Special Class (chronic issues, injuries, etc.)",
@@ -77,7 +66,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "ABC Community  Bike Repair",
@@ -88,7 +77,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Justice for Minab: Film screening of \"Minab 168\"  + Panel Discussion",
@@ -99,7 +88,7 @@
       "categories": [
         "film-media"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Kraakspreekuur Oost",
@@ -110,7 +99,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "[SOLD OUT] DEAD MOON NIGHT w/ TOODY COLE & HER BAND (US) + JENNY DON'T & THE SPURS (US) + DJ BONE",
@@ -121,7 +110,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Lunch at Café Gilde",
@@ -132,7 +121,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Vlaggen voor Palestina - Noord",
@@ -143,7 +132,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Joe's Salon",
@@ -154,7 +143,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Vlaggen voor Palestina - West",
@@ -165,7 +154,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Early Wednesday @ MKZ",
@@ -176,7 +165,18 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "title": "Yoga --  All Levels All Welcome",
+      "url": "https://radar.squat.net/en/event/amsterdam/nieuwland/2026-09-02/yoga-all-levels-all-welcome",
+      "id": "radar-squat-1ae1177898b7aed0",
+      "source": "radar-squat",
+      "sourceName": "Radar (squat.net)",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "KRAZY HEAVY BAG WORKOUT",
@@ -187,7 +187,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Open drumming practice evening - RoR Amsterdam",
@@ -198,7 +198,29 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "title": "Vegan Taalcafé",
+      "url": "https://radar.squat.net/en/event/amsterdam/bollox/2026-09-02/vegan-taalcafe",
+      "id": "radar-squat-c14049f0494f05b7",
+      "source": "radar-squat",
+      "sourceName": "Radar (squat.net)",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "title": "Hackerspace Social Evening",
+      "url": "https://radar.squat.net/en/event/amsterdam/technologia-incognita/2026-09-02/hackerspace-social-evening",
+      "id": "radar-squat-fda7b3ce77df1328",
+      "source": "radar-squat",
+      "sourceName": "Radar (squat.net)",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Drawing in the Open Studio",
@@ -220,9 +242,9 @@
       "source": "iamsterdam",
       "sourceName": "I amsterdam",
       "categories": [
-        "free-museum"
+        "other"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Museum Market",
@@ -251,10 +273,9 @@
       "source": "iamsterdam",
       "sourceName": "I amsterdam",
       "categories": [
-        "free-museum",
         "park-square"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Glass, made in antiquity",
@@ -275,9 +296,9 @@
       "source": "iamsterdam",
       "sourceName": "I amsterdam",
       "categories": [
-        "free-museum"
+        "other"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Welcome at AMAZE by ID&T: Immersive Audiovisuele Experience",
@@ -299,7 +320,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Bottomless Brunch",
@@ -321,7 +342,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Pink Dance's dance",
@@ -346,7 +367,7 @@
       "categories": [
         "park-square"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Exhibition: the ESSENCE",
@@ -367,9 +388,9 @@
       "source": "iamsterdam",
       "sourceName": "I amsterdam",
       "categories": [
-        "free-museum"
+        "other"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Onno Theelen's Strange Creatures",
@@ -388,9 +409,9 @@
       "source": "iamsterdam",
       "sourceName": "I amsterdam",
       "categories": [
-        "free-museum"
+        "other"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Exhibition Worn in the Rijksmuseum",
@@ -411,9 +432,9 @@
       "source": "iamsterdam",
       "sourceName": "I amsterdam",
       "categories": [
-        "free-museum"
+        "other"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Lunchtime organ concerts at Waterlooplein",
@@ -436,7 +457,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Kaboom X Melkweg Cinema",
@@ -462,7 +483,7 @@
       "categories": [
         "film-media"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Tekenwandeling",
@@ -485,7 +506,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Amsterdam Origami Club",
@@ -508,407 +529,797 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
-      "sourceId": "flamingos-spoonbills",
-      "title": "Flamingos and Spoonbills at Artisplein",
-      "description": "Sneak a peek at the pink flamingos and white spoonbills at Artisplein, a freely accessible square next to the entrance to Artis Zoo.",
-      "url": "https://www.amsterdamsights.com/events/free-events.html",
-      "venue": "Artisplein",
+      "sourceId": "flamingos-and-spoonbills",
+      "title": "Flamingos and spoonbills",
+      "description": "Sneak a peek at the pink flamingos and white spoonbills at Artisplein, a freely accessible square next to the entrance to the zoo.",
+      "url": "https://www.amsterdamsights.com/attractions/artis.html",
       "dateText": "Always accessible",
       "isFree": true,
-      "tags": [
-        "outdoor",
-        "animals"
-      ],
-      "id": "amsterdamsights-manual-d19cc24398326540",
+      "id": "amsterdamsights-manual-225ea13ce983584a",
       "source": "amsterdamsights-manual",
       "sourceName": "AmsterdamSights (curated list)",
       "categories": [
         "park-square",
         "free-entry"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "sourceId": "melkweg-expo",
       "title": "Melkweg Expo",
-      "description": "An exhibition of innovative contemporary photography in a casual setting. Free entrance via MILK café.",
-      "url": "https://www.amsterdamsights.com/events/free-events.html",
-      "venue": "Melkweg",
-      "dateText": "Tuesday to Sunday, 11:00–23:00",
+      "description": "Visit an exhibition of innovative contemporary photography in a casual way. Free entrance via MILK café.",
+      "url": "https://www.amsterdamsights.com/nightlife/melkweg.html#expo",
+      "dateText": "from Tuesday to Sunday from 11:00 to 23:00",
       "isFree": true,
-      "tags": [
-        "exhibition",
-        "photography"
-      ],
       "id": "amsterdamsights-manual-66addaf5108f5acb",
       "source": "amsterdamsights-manual",
       "sourceName": "AmsterdamSights (curated list)",
       "categories": [
-        "free-museum",
-        "free-entry"
+        "free-entry",
+        "free-museum"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "sourceId": "rijksmuseum-gardens",
       "title": "Rijksmuseum Gardens",
       "description": "The Rijksmuseum's gardens are a veritable oasis in which to peacefully enjoy nature at its most beautiful.",
-      "url": "https://www.amsterdamsights.com/events/free-events.html",
-      "venue": "Rijksmuseum",
-      "dateText": "Daily, 9:00–18:00",
+      "url": "https://www.rijksmuseum.nl/en/visit/inside-the-museum/rijksmuseum-gardens",
+      "dateText": "daily from 9:00 to 18:00",
       "isFree": true,
-      "tags": [
-        "museum",
-        "park",
-        "outdoor"
-      ],
       "id": "amsterdamsights-manual-95a61f95e296cfb1",
       "source": "amsterdamsights-manual",
       "sourceName": "AmsterdamSights (curated list)",
       "categories": [
-        "free-museum",
-        "park-square",
         "free-entry"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
-      "sourceId": "lunchtime-concerts-concertgebouw",
-      "title": "Lunchtime Concerts at The Concertgebouw",
+      "sourceId": "lunchtime-concerts",
+      "title": "Lunchtime Concerts",
       "description": "Free lunch concerts in the beautiful Main Hall of The Concertgebouw.",
-      "url": "https://www.amsterdamsights.com/events/free-events.html",
-      "venue": "The Concertgebouw",
-      "dateText": "Usually Wednesdays at 12:30",
+      "url": "https://www.amsterdamsights.com/nightlife/concertgebouw.html#lunchconcert",
+      "dateText": "usually on Wednesdays at 12:30",
       "isFree": true,
-      "tags": [
-        "live music",
-        "classical"
-      ],
-      "id": "amsterdamsights-manual-759f248e09cc699c",
+      "id": "amsterdamsights-manual-c5449638f54545b9",
       "source": "amsterdamsights-manual",
       "sourceName": "AmsterdamSights (curated list)",
       "categories": [
-        "jazz-live-music",
         "free-entry"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "sourceId": "vondelpark-open-air-theater",
       "title": "Vondelpark Open Air Theater",
       "description": "Free dance, music and cabaret performances in the park's band shell.",
-      "url": "https://www.amsterdamsights.com/events/free-events.html",
-      "venue": "Vondelpark",
-      "dateText": "Every weekend, May to September",
+      "url": "https://www.openluchttheater.nl/",
+      "dateText": "every weekend from May to September",
       "isFree": true,
-      "tags": [
-        "outdoor",
-        "live music",
-        "park"
-      ],
       "id": "amsterdamsights-manual-2c029c257beed129",
       "source": "amsterdamsights-manual",
       "sourceName": "AmsterdamSights (curated list)",
       "categories": [
-        "jazz-live-music",
         "park-square",
         "free-entry"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "sourceId": "civic-guards-gallery",
       "title": "Civic Guards Gallery",
-      "description": "A public passage-way in the old centre of Amsterdam with enormous 17th-century group portraits of civic guards, plus the world-famous 370-year-old wooden Goliath and David.",
-      "url": "https://www.amsterdamsights.com/events/free-events.html",
-      "venue": "Amsterdam Museum",
-      "dateText": "Daily, 10:00–17:00",
+      "description": "A public passage-way in the old centre of Amsterdam with enormous group portraits of civic guards from the 17th century. Also the world famous 370-year-old wooden Goliath and David can be found in this 'museum street'.",
+      "url": "https://www.amsterdamsights.com/attractions/schuttersgalerij.html",
+      "dateText": "each day from 10:00 to 17:00",
       "isFree": true,
-      "tags": [
-        "museum",
-        "gallery"
-      ],
       "id": "amsterdamsights-manual-3bd25b8e1afd325f",
       "source": "amsterdamsights-manual",
       "sourceName": "AmsterdamSights (curated list)",
       "categories": [
-        "free-museum",
-        "free-entry"
+        "free-entry",
+        "free-museum"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
-      "sourceId": "yoga-oosterpark",
-      "title": "Yoga Class in Oosterpark",
-      "description": "Bring a yoga mat or a towel and show up for an hour of yoga at Oosterpark. Led by qualified yoga instructors in English.",
-      "url": "https://www.amsterdamsights.com/events/free-events.html",
-      "venue": "Oosterpark",
-      "dateText": "Every Sunday at 10:30, May to September",
+      "sourceId": "yoga-class-in-the-park",
+      "title": "Yoga class in the park",
+      "description": "Bring a yoga mat or a towel and show up for an hour of yoga at the beautiful Oosterpark. Led by qualified yoga instructors in English.",
+      "url": "https://balanzs.nl/en/iedereen-in-balanzs/",
+      "dateText": "every Sunday at 10:30 from May to September",
       "isFree": true,
-      "tags": [
-        "outdoor",
-        "park"
-      ],
-      "id": "amsterdamsights-manual-32dbfbdbdb934521",
+      "id": "amsterdamsights-manual-094a151ecde857b3",
       "source": "amsterdamsights-manual",
       "sourceName": "AmsterdamSights (curated list)",
       "categories": [
         "park-square",
         "free-entry"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
-      "sourceId": "nemo-panorama-terrace",
+      "sourceId": "nemo-s-panorama-terrace",
       "title": "NEMO's Panorama Terrace",
-      "description": "A 22m high roof terrace reached by climbing the steps of the building — freely accessible to the public, no need to pay NEMO's entrance fee.",
-      "url": "https://www.amsterdamsights.com/events/free-events.html",
-      "venue": "NEMO Science Museum",
-      "dateText": "Daily during NEMO opening hours, 10:00–17:30",
+      "description": "The NEMO panorama terrace is a 22m high roof and can be reached by climbing up the steps of the building – this is freely accessible to the public so there is no need to pay entrance fee to .",
+      "url": "https://www.amsterdamsights.com/attractions/nemo.html",
+      "dateText": "during NEMO opening hours daily from 10:00 to 17:30",
       "isFree": true,
-      "tags": [
-        "museum",
-        "outdoor"
-      ],
-      "id": "amsterdamsights-manual-a8afdffd8fe082f6",
+      "id": "amsterdamsights-manual-c5126d7e4b7121ba",
       "source": "amsterdamsights-manual",
       "sourceName": "AmsterdamSights (curated list)",
       "categories": [
-        "free-museum",
-        "park-square",
         "free-entry"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "sourceId": "begijnhof",
       "title": "Begijnhof",
-      "description": "An enclosed courtyard with two churches and charming houses dating from the early 14th century.",
-      "url": "https://www.amsterdamsights.com/events/free-events.html",
-      "venue": "Begijnhof",
-      "dateText": "Daily, 9:00–17:00",
+      "description": "An enclosed courtyard with 2 churches and charming houses dating from the early 14th century.",
+      "url": "https://www.amsterdamsights.com/attractions/begijnhof.html",
+      "dateText": "opened each day from 9:00 to 17:00",
       "isFree": true,
-      "tags": [
-        "museum",
-        "historic"
-      ],
       "id": "amsterdamsights-manual-d8a668e0b37bea47",
       "source": "amsterdamsights-manual",
       "sourceName": "AmsterdamSights (curated list)",
       "categories": [
-        "free-museum",
         "free-entry"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
-      "sourceId": "ij-ferry",
+      "sourceId": "cross-the-ij-river-by-ferry",
       "title": "Cross the IJ River by Ferry",
-      "description": "Free ferries across the IJ River with a breathtaking view of the former city border and old docklands.",
-      "url": "https://www.amsterdamsights.com/events/free-events.html",
-      "venue": "IJ River ferries",
-      "dateText": "24 hours a day, various ferry links",
+      "description": "Get onboard of one of the free ferries to cross the IJ River and enjoy the breathtaking view of the former city border and old docklands.",
+      "url": "https://www.amsterdamsights.com/about/ferries.html",
+      "dateText": "24 hours a day, different ferry links",
       "isFree": true,
-      "tags": [
-        "outdoor"
-      ],
-      "id": "amsterdamsights-manual-2fd6ec01bb2c7a23",
+      "id": "amsterdamsights-manual-1df714ffa4095a38",
       "source": "amsterdamsights-manual",
       "sourceName": "AmsterdamSights (curated list)",
       "categories": [
-        "park-square",
         "free-entry"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
-      "sourceId": "free-tour-amsterdam",
+      "sourceId": "free-tour-of-amsterdam",
       "title": "Free Tour of Amsterdam",
-      "description": "A 2½-hour walking tour with an expert guide covering the main sights in the inner city.",
-      "url": "https://www.amsterdamsights.com/events/free-events.html",
-      "venue": "Amsterdam city centre",
-      "dateText": "Daily, 10:00–15:00",
+      "description": "2½-hour walking tour with an expert guide covering the main sights in the inner city.",
+      "url": "https://www.amsterdamsights.com/excursions/freetourofamsterdam.html",
+      "dateText": "every day from 10:00 to 15:00",
       "isFree": true,
-      "tags": [
-        "tour",
-        "outdoor"
-      ],
-      "id": "amsterdamsights-manual-34bbf183e446968a",
+      "id": "amsterdamsights-manual-97be77243b8457a6",
       "source": "amsterdamsights-manual",
       "sourceName": "AmsterdamSights (curated list)",
       "categories": [
-        "park-square",
         "free-entry"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "sourceId": "free-organ-concert",
-      "title": "Free Organ Concert at De Waalse Kerk",
-      "description": "Students of the Conservatory of Amsterdam play the extraordinary Müller organ (built in 1734).",
-      "url": "https://www.amsterdamsights.com/events/free-events.html",
-      "venue": "De Waalse Kerk",
-      "dateText": "Every 2nd Tuesday of the month, 12:00–12:30",
+      "title": "Free Organ Concert",
+      "description": "Students of the Conservatory of Amsterdam play the extraordinary Müller organ (from 1734) in .",
+      "url": "https://www.amsterdamsights.com/attractions/waalsekerk.html#concert",
+      "dateText": "every 2nd Tuesday of the month from 12:00 to 12:30",
       "isFree": true,
-      "tags": [
-        "live music",
-        "classical"
-      ],
       "id": "amsterdamsights-manual-f52e53855d20b82f",
       "source": "amsterdamsights-manual",
       "sourceName": "AmsterdamSights (curated list)",
       "categories": [
-        "jazz-live-music",
         "free-entry"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "sourceId": "friday-night-skate",
       "title": "Friday Night Skate",
-      "description": "A skate tour through the streets of Amsterdam.",
-      "url": "https://www.amsterdamsights.com/events/free-events.html",
-      "venue": "Amsterdam (streets)",
-      "dateText": "Every Friday at 20:15, weather permitting",
+      "description": "Skate tour through the streets of Amsterdam",
+      "url": "https://www.fridaynightskate.com/",
+      "dateText": "each Friday at 20:15 when the streets are dry",
       "isFree": true,
-      "tags": [
-        "outdoor"
-      ],
       "id": "amsterdamsights-manual-cceb2427f8d4d069",
       "source": "amsterdamsights-manual",
       "sourceName": "AmsterdamSights (curated list)",
       "categories": [
-        "park-square",
         "free-entry"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "sourceId": "amsterdam-city-archives",
       "title": "Amsterdam City Archives",
-      "description": "Browse the city's archives, watch old historic footage of Amsterdam, or see personal objects of famous Amsterdammers on display.",
-      "url": "https://www.amsterdamsights.com/events/free-events.html",
-      "venue": "Stadsarchief Amsterdam",
-      "dateText": "Daily except Mondays",
+      "description": "Browse the city archives of the council, or watch old historic movies of Amsterdam, or see personal objects on display of famous Amsterdammers, like Johan Cruijff and Anne Frank. Housed in an impressive building.",
+      "url": "https://www.amsterdamsights.com/museums/stadsarchief.html",
+      "dateText": "closed on Mondays",
       "isFree": true,
-      "tags": [
-        "museum",
-        "history"
-      ],
       "id": "amsterdamsights-manual-f6f916b0a1514456",
       "source": "amsterdamsights-manual",
       "sourceName": "AmsterdamSights (curated list)",
       "categories": [
-        "free-museum",
         "free-entry"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "sourceId": "free-guided-diamond-tour",
       "title": "Free Guided Diamond Tour",
-      "description": "Learn about the 4 C's of diamond valuation and the origin of diamonds, and see craftsmen at work. Tours available in 15+ languages.",
-      "url": "https://www.amsterdamsights.com/events/free-events.html",
-      "venue": "Amsterdam diamond factory",
-      "dateText": "Daily, 9:00–16:30",
+      "description": "Learn about the 4 C's of diamond valuation, the origin of diamonds and see craftsmen at work. Tours available in more than 15 languages.",
+      "url": "https://www.amsterdamsights.com/attractions/diamonds.html",
+      "dateText": "every day from 9:00 to 16:30",
       "isFree": true,
-      "tags": [
-        "tour"
-      ],
       "id": "amsterdamsights-manual-0e664d860aa627ce",
       "source": "amsterdamsights-manual",
       "sourceName": "AmsterdamSights (curated list)",
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "sourceId": "choral-evensong",
-      "title": "Choral Evensong at Saint Nicholas Church",
-      "description": "A traditional Choral Evensong in the tranquil setting of Saint Nicholas Church.",
-      "url": "https://www.amsterdamsights.com/events/free-events.html",
-      "venue": "Saint Nicholas Church",
-      "dateText": "Every Saturday at 17:00, September to June",
+      "title": "Choral Evensong",
+      "description": "Take a break from the bustling city to enjoy a traditional Choral Evensong in the tranquil settings of the beautiful",
+      "url": "https://www.amsterdamsights.com/attractions/stnicolaaskerk.html#evensong",
+      "dateText": "every Saturday at 17:00 from September to June",
       "isFree": true,
-      "tags": [
-        "live music",
-        "choral"
-      ],
       "id": "amsterdamsights-manual-f264763ea9bcf9cb",
       "source": "amsterdamsights-manual",
       "sourceName": "AmsterdamSights (curated list)",
       "categories": [
-        "jazz-live-music",
         "free-entry"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
-      "sourceId": "free-jazz-session-bimhuis",
-      "title": "Free Jazz Session at Bimhuis",
-      "description": "Free admission for musicians and audience alike to a workshop (20:00) and a jam session (22:00) at the café.",
-      "url": "https://www.amsterdamsights.com/events/free-events.html",
-      "venue": "Bimhuis",
-      "dateText": "Every Tuesday, September to June",
+      "sourceId": "free-jazz-session",
+      "title": "Free Jazz Session",
+      "description": "Every Tuesday night, both musicians and audience have free admission to a workshop on the stage (at 20:00) and a session (at 22:00) at the café.",
+      "url": "https://www.amsterdamsights.com/nightlife/bimhuis.html#tuesday-jam",
+      "dateText": "every Tuesday from September to June",
       "isFree": true,
-      "tags": [
-        "jazz",
-        "live music"
-      ],
-      "id": "amsterdamsights-manual-da7381008897a916",
+      "id": "amsterdamsights-manual-7cb78dfb862819cd",
       "source": "amsterdamsights-manual",
       "sourceName": "AmsterdamSights (curated list)",
       "categories": [
         "jazz-live-music",
+        "free-museum",
         "free-entry"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "sourceId": "botanic-garden-zuidas",
-      "title": "Botanic Garden Zuidas",
-      "description": "Cactus plants over 100 years old and a Chinese Penjing Garden, near VU Amsterdam. Noted as temporarily cancelled as of the May 2026 archive snapshot this entry was sourced from — verify it's running again before relying on it.",
-      "url": "https://www.amsterdamsights.com/events/free-events.html",
-      "venue": "Botanic Garden Zuidas",
-      "dateText": "Every workday, 9:00–17:00 (check current status)",
+      "title": "Botanic garden Zuidas",
+      "description": "Watch cactus plants of more than 100 years old, or visit the Chinese Penjing Garden in this small but charming botanical garden near VU Amsterdam.",
+      "url": "https://botanischetuinzuidas.nl/english/",
+      "dateText": "every workday from 9:00 to 17:00",
       "isFree": true,
-      "tags": [
-        "park",
-        "outdoor"
-      ],
       "id": "amsterdamsights-manual-e845a0eaabfdef97",
       "source": "amsterdamsights-manual",
       "sourceName": "AmsterdamSights (curated list)",
       "categories": [
-        "park-square",
         "free-entry"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
-      "sourceId": "musical-treat-lunch-break",
-      "title": "Musical Treat During Lunch Break",
-      "description": "A free lunch concert in the foyer of Dutch National Opera & Ballet.",
-      "url": "https://www.amsterdamsights.com/events/free-events.html",
-      "venue": "Dutch National Opera & Ballet",
-      "dateText": "Tuesdays at 12:30 (doors 12:15), September to May",
+      "sourceId": "musical-treat-during-lunch-break",
+      "title": "Musical Treat during Lunch Break",
+      "description": "Almost every Tuesday at 12:30 you can enjoy a free lunch concert in the foyer of .",
+      "url": "https://www.operaballet.nl/en/doublebill/2019-2020/show/lunch-concerts",
+      "dateText": "on Tuesday at 12:30 (doors open at 12:15) from September to May",
       "isFree": true,
-      "tags": [
-        "live music",
-        "classical"
-      ],
-      "id": "amsterdamsights-manual-6078832e7ec15a90",
+      "id": "amsterdamsights-manual-f5898bbad1e48436",
       "source": "amsterdamsights-manual",
       "sourceName": "AmsterdamSights (curated list)",
       "categories": [
-        "jazz-live-music",
         "free-entry"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "andy-warhol-the-textiles",
+      "title": "Andy Warhol, The Textiles",
+      "description": "Warhol's textiles showed how creativity, fashion and mass production could meet in surprising and convincing ways.",
+      "url": "https://cobra-museum.nl/tentoonstelling/andy-warhol-the-textiles/?lang=en",
+      "venue": "Cobra Museum",
+      "dateText": "24 Apr 2026 - 6 Sep 2026",
+      "endDate": "2026-09-06T00:00:00",
+      "tags": [
+        "exhibition"
+      ],
+      "id": "amsterdamsights-exhibitions-d9b9f00d4f1fe9fd",
+      "source": "amsterdamsights-exhibitions",
+      "sourceName": "AmsterdamSights (curated exhibitions)",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "wish-me-well",
+      "title": "Wish Me Well",
+      "description": "Temporary, seven-metre-high monument defending feminist interests by artist Lara Schnitger.",
+      "url": "https://www.ndsm.nl/en/kunst/wish-me-well",
+      "venue": "NDSM shipyard",
+      "dateText": "14 May 2026 - 6 Sep 2026",
+      "endDate": "2026-09-06T00:00:00",
+      "tags": [
+        "exhibition"
+      ],
+      "id": "amsterdamsights-exhibitions-1478ea8340bfd78b",
+      "source": "amsterdamsights-exhibitions",
+      "sourceName": "AmsterdamSights (curated exhibitions)",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "fragments",
+      "title": "Fragments",
+      "description": "Reflects on how artworks occupy spaces—from public to private, from gallery to home.",
+      "url": "https://merchanthouse.nl/projects/fragments/",
+      "venue": "The Merchant House",
+      "dateText": "29 May 2026 - 10 Sep 2026",
+      "endDate": "2026-09-10T00:00:00",
+      "tags": [
+        "exhibition"
+      ],
+      "id": "amsterdamsights-exhibitions-95d5de57ec53601a",
+      "source": "amsterdamsights-exhibitions",
+      "sourceName": "AmsterdamSights (curated exhibitions)",
+      "categories": [
+        "clubbing-electronic"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "jazz-and-other-curiosa",
+      "title": "Jazz and Other Curiosa",
+      "description": "The 1950s to 1970s are brought to life in a vivid way, captured by photographer Nico van der Stam.",
+      "url": "https://gallerywm.com/WP/jazz-and-other-curiosa-nico-van-der-stam-101-12-06-11-07-2026/",
+      "venue": "Gallery WM",
+      "dateText": "12 Jun 2026 - 12 Sep 2026",
+      "endDate": "2026-09-12T00:00:00",
+      "tags": [
+        "exhibition"
+      ],
+      "id": "amsterdamsights-exhibitions-be8d0e698de97413",
+      "source": "amsterdamsights-exhibitions",
+      "sourceName": "AmsterdamSights (curated exhibitions)",
+      "categories": [
+        "jazz-live-music"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "echoes-of-speed",
+      "title": "Echoes of Speed",
+      "description": "Formula One photographer Vladimir Rys explores the lingering presence of speed through light, motion and perception.",
+      "url": "https://www.rosewoodhotels.com/en/amsterdam/experiences/the-gallery",
+      "venue": "The Gallery",
+      "dateText": "19 Aug 2026 - 15 Sep 2026",
+      "endDate": "2026-09-15T00:00:00",
+      "tags": [
+        "exhibition"
+      ],
+      "id": "amsterdamsights-exhibitions-93bb79e962d69d2f",
+      "source": "amsterdamsights-exhibitions",
+      "sourceName": "AmsterdamSights (curated exhibitions)",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "bright-new-world-imagination-takes-power",
+      "title": "Bright New World. Imagination Takes Power.",
+      "description": "Opens up a dreamlike world in which themes such as nature, technology, religion and spirituality are explored in surprising ways.",
+      "url": "https://www.hetschip.nl/en/exhibition/exhibition-bright-new-world",
+      "venue": "Museum Het Schip",
+      "dateText": "Autumn 2026",
+      "tags": [
+        "exhibition"
+      ],
+      "id": "amsterdamsights-exhibitions-cc0ddc4efc9e6dc8",
+      "source": "amsterdamsights-exhibitions",
+      "sourceName": "AmsterdamSights (curated exhibitions)",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "jazz-years-people-migration-and-music-in-amsterdam-1930-1939",
+      "title": "Jazz Years: People, Migration and Music in Amsterdam, 1930-1939",
+      "description": "Multimedia exhibition on the lively jazz scene in 1930s Amsterdam.",
+      "url": "https://www.amsterdam.nl/stadsarchief/amsterdam-city-archives/exhibitions/jazz-years-people-migration-and-music/",
+      "venue": "Stadsarchief",
+      "dateText": "3 Apr 2026 - 13 Sep 2026",
+      "endDate": "2026-09-13T00:00:00",
+      "tags": [
+        "exhibition"
+      ],
+      "id": "amsterdamsights-exhibitions-cd3f72b592200e05",
+      "source": "amsterdamsights-exhibitions",
+      "sourceName": "AmsterdamSights (curated exhibitions)",
+      "categories": [
+        "jazz-live-music"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "tekenkabinet-xiv",
+      "title": "Tekenkabinet XIV",
+      "description": "Show with more than 100 artists presenting small works on paper. On image La Bohème by Irina Birger.",
+      "url": "https://www.tekenkabinet.nl/",
+      "venue": "Art Singel 100",
+      "dateText": "2 Aug 2026 - 13 Sep 2026",
+      "endDate": "2026-09-13T00:00:00",
+      "tags": [
+        "exhibition"
+      ],
+      "id": "amsterdamsights-exhibitions-833f8db1c9859b72",
+      "source": "amsterdamsights-exhibitions",
+      "sourceName": "AmsterdamSights (curated exhibitions)",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "ulrich-seidl",
+      "title": "Ulrich Seidl",
+      "description": "Major exhibition of works by the Austrian artist and filmmaker who is known for his disruptive look on Western, late-capitalist society.",
+      "url": "https://www.eyefilm.nl/en/exhibitions/expected",
+      "venue": "EYE Film Institute",
+      "dateText": "From 19 Sep 2026",
+      "tags": [
+        "exhibition"
+      ],
+      "id": "amsterdamsights-exhibitions-e935de36289946e6",
+      "source": "amsterdamsights-exhibitions",
+      "sourceName": "AmsterdamSights (curated exhibitions)",
+      "categories": [
+        "film-media"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "world-press-photo-exhibition-2026",
+      "title": "World Press Photo Exhibition 2026",
+      "description": "World's largest and most prestigious annual press photography contest and exhibition.",
+      "url": "https://www.nieuwekerk.nl/en/tentoonstellingen/world-press-photo-exhibition-2026/",
+      "venue": "De Nieuwe Kerk",
+      "dateText": "24 Apr 2026 - 27 Sep 2026",
+      "endDate": "2026-09-27T00:00:00",
+      "tags": [
+        "exhibition"
+      ],
+      "id": "amsterdamsights-exhibitions-34c3449236de7ce6",
+      "source": "amsterdamsights-exhibitions",
+      "sourceName": "AmsterdamSights (curated exhibitions)",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "love-on-the-canals",
+      "title": "Love on the Canals",
+      "description": "30 Years of Canal Parade, part of the official programme of WorldPride 2026.",
+      "url": "https://grachten.museum/en/temporary-exhibition/",
+      "venue": "Grachtenmuseum",
+      "dateText": "3 Jul 2026 - 27 Sep 2026",
+      "endDate": "2026-09-27T00:00:00",
+      "tags": [
+        "exhibition"
+      ],
+      "id": "amsterdamsights-exhibitions-40d62607ad9167e0",
+      "source": "amsterdamsights-exhibitions",
+      "sourceName": "AmsterdamSights (curated exhibitions)",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "kho-liang-ie-mid-century-modernist",
+      "title": "Kho Liang Ie - Mid-Century Modernist",
+      "description": "Famous designs for furniture and interiors from the 1950s to the mid-1970s.",
+      "url": "https://www.stedelijk.nl/en/exhibitions/kho-liang-ie-2",
+      "venue": "Stedelijk Museum",
+      "dateText": "14 May 2026 - 18 Oct 2026",
+      "endDate": "2026-10-18T00:00:00",
+      "tags": [
+        "exhibition"
+      ],
+      "id": "amsterdamsights-exhibitions-2293bcd593544f38",
+      "source": "amsterdamsights-exhibitions",
+      "sourceName": "AmsterdamSights (curated exhibitions)",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "martine-gutierrez-wunderkind",
+      "title": "Martine Gutierrez - Wunderkind",
+      "description": "Emphasising the importance of creativity and expression.",
+      "url": "https://huismarseille.nl/en/exhibitions/martine-gutierrez/",
+      "venue": "Huis Marseille",
+      "dateText": "27 Jun 2026 - 18 Oct 2026",
+      "endDate": "2026-10-18T00:00:00",
+      "tags": [
+        "exhibition"
+      ],
+      "id": "amsterdamsights-exhibitions-f3d56f2c5d51c796",
+      "source": "amsterdamsights-exhibitions",
+      "sourceName": "AmsterdamSights (curated exhibitions)",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "carel-visser-in-the-rijksmuseum-gardens",
+      "title": "Carel Visser in the Rijksmuseum gardens",
+      "description": "Dedicated to Dutch artist Carel Visser (1928–2015) who's best known for his cool, rigorous approach to geometric abstraction.",
+      "url": "https://www.rijksmuseum.nl/en/whats-on/exhibitions/carel-visser",
+      "venue": "Rijksmuseum",
+      "dateText": "5 Jun 2026 - 25 Oct 2026",
+      "endDate": "2026-10-25T00:00:00",
+      "tags": [
+        "exhibition"
+      ],
+      "id": "amsterdamsights-exhibitions-1f8d5976aa489c95",
+      "source": "amsterdamsights-exhibitions",
+      "sourceName": "AmsterdamSights (curated exhibitions)",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "diederik-schneemann-1-1-3",
+      "title": "Diederik Schneemann – 1 + 1 = 3",
+      "description": "Schneemann changes existing items, altering their appearance or use, thereby giving them an extra dimension.",
+      "url": "https://en.museumjan.nl/tentoonstellingen/diederik-schneemann",
+      "venue": "Museum JAN",
+      "dateText": "8 May 2026 - 1 Nov 2026",
+      "endDate": "2026-11-01T00:00:00",
+      "tags": [
+        "exhibition"
+      ],
+      "id": "amsterdamsights-exhibitions-fca07264c60b5a2d",
+      "source": "amsterdamsights-exhibitions",
+      "sourceName": "AmsterdamSights (curated exhibitions)",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "glass-made-in-antiquity",
+      "title": "Glass: Made in Antiquity",
+      "description": "More than 200 glass objects of glass in antiquity.",
+      "url": "https://www.allardpierson.nl/en/calendar/glass-made-in-antiquity",
+      "venue": "Allard Pierson",
+      "dateText": "16 May 2025 - 1 Nov 2026",
+      "endDate": "2026-11-01T00:00:00",
+      "tags": [
+        "exhibition"
+      ],
+      "id": "amsterdamsights-exhibitions-d2caf6c14d369d61",
+      "source": "amsterdamsights-exhibitions",
+      "sourceName": "AmsterdamSights (curated exhibitions)",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "robbie-williams-pride-and-self-prejudice",
+      "title": "Robbie Williams: Pride and Self-Prejudice",
+      "description": "The Popstars’ Art Exhibition at Moco Amsterdam",
+      "url": "https://tidd.ly/4xiXvM7",
+      "venue": "Moco Museum",
+      "dateText": "8 Mar 2024 - 31 Dec 2026",
+      "endDate": "2026-12-31T00:00:00",
+      "tags": [
+        "exhibition"
+      ],
+      "id": "amsterdamsights-exhibitions-0bd9ae6f2d65c9bf",
+      "source": "amsterdamsights-exhibitions",
+      "sourceName": "AmsterdamSights (curated exhibitions)",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "planet-positive-disruption",
+      "title": "Planet Positive Disruption",
+      "description": "The art of Dutch street artist Frankey is defined by a deep respect for the cities he loves.",
+      "url": "https://tidd.ly/4cglR0Y",
+      "venue": "Moco Museum",
+      "dateText": "until 31 July 2027",
+      "tags": [
+        "exhibition"
+      ],
+      "id": "amsterdamsights-exhibitions-6e9f4a824d89a17b",
+      "source": "amsterdamsights-exhibitions",
+      "sourceName": "AmsterdamSights (curated exhibitions)",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "cruyff-a-way-of-thinking",
+      "title": "Cruyff: A Way Of Thinking",
+      "description": "Johan Cruyff proposed a way of thinking about how football could be understood, experienced and imagined.",
+      "url": "https://tidd.ly/4bsuNQI",
+      "venue": "Moco Museum",
+      "dateText": "23 Mar 2026 - 31 Dec 2027",
+      "endDate": "2027-12-31T00:00:00",
+      "tags": [
+        "exhibition"
+      ],
+      "id": "amsterdamsights-exhibitions-31a70e7e3617531a",
+      "source": "amsterdamsights-exhibitions",
+      "sourceName": "AmsterdamSights (curated exhibitions)",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "world-press-photo-exhibition",
+      "title": "World Press Photo Exhibition",
+      "description": "World's largest and most prestigious annual press photography contest and exhibition of award-winning and often shocking photojournalism at De Nieuwe Kerk.",
+      "url": "https://www.nieuwekerk.nl/en/tentoonstellingen/world-press-photo-exhibition-2026/",
+      "dateText": "April 24-September 27, 2026",
+      "endDate": "2026-09-27T00:00:00",
+      "tags": [
+        "september"
+      ],
+      "id": "amsterdamsights-events-2f11dcbdfbd089f3",
+      "source": "amsterdamsights-events",
+      "sourceName": "AmsterdamSights (curated events calendar)",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "vondelpark-open-air-theater",
+      "title": "Vondelpark Open Air Theater",
+      "description": "Free dance, music and cabaret performances in the park's band shell.",
+      "url": "https://www.openluchttheater.nl/",
+      "dateText": "May - September",
+      "tags": [
+        "september"
+      ],
+      "id": "amsterdamsights-events-dcaba7bf537ffab5",
+      "source": "amsterdamsights-events",
+      "sourceName": "AmsterdamSights (curated events calendar)",
+      "categories": [
+        "park-square"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "electric-tram-museum-amsterdam",
+      "title": "Electric Tram Museum Amsterdam",
+      "description": "Go back in time with a ride on a historic tram from Amsterdam, The Hague, Rotterdam, Utrecht, Groningen, Vienna or Prague.",
+      "url": "https://www.amsterdamsights.com/attractions/museumtram.html",
+      "dateText": "May - October",
+      "tags": [
+        "september"
+      ],
+      "id": "amsterdamsights-events-4854758e40180744",
+      "source": "amsterdamsights-events",
+      "sourceName": "AmsterdamSights (curated events calendar)",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "ajax-amsterdam-football-club",
+      "title": "Ajax Amsterdam Football Club",
+      "description": "Spend a Sunday amongst frenzied fans of the famous Ajax Amsterdam football team. Ajax plays in the impressive, modern Johan Cruijff Arena south of the city.",
+      "url": "https://www.amsterdamsights.com/attractions/ajax.html",
+      "dateText": "end August-end April",
+      "tags": [
+        "september"
+      ],
+      "id": "amsterdamsights-events-2aa09e58e0c7a401",
+      "source": "amsterdamsights-events",
+      "sourceName": "AmsterdamSights (curated events calendar)",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "sinterklaasavond",
+      "title": "Sinterklaasavond",
+      "description": "On St. Nicholas Evening, Dutch children place their shoes and boots by the fireplace in hopes that Sinterklaas will fill them with treats. Most Dutch celebrate on this day by exchanging gifts and enjoying family meals.",
+      "url": "https://www.amsterdamsights.com/events/saintnicholas.html#sinterklaasavond",
+      "dateText": "eve of December 5",
+      "tags": [
+        "december"
+      ],
+      "id": "amsterdamsights-events-aa14aac88eef3fdc",
+      "source": "amsterdamsights-events",
+      "sourceName": "AmsterdamSights (curated events calendar)",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "the-music-of-harry-potter-by-mystery-ensemble",
+      "title": "The Music of Harry Potter by Mystery Ensemble",
+      "description": "The enchanting music from the Harry Potter fantasy films in the atmospheric and historical Zuiderkerk.",
+      "url": "https://redevents.world/event/298-the-music-of-harry-potter-by-mystery-ensemble.html?date=2025-12-19%2020:00:00&utm_source=Amsterdamsights&utm_medium=referral&utm_campaign=Potter",
+      "dateText": "December 12, 19-20 2025",
+      "tags": [
+        "december"
+      ],
+      "id": "amsterdamsights-events-60c42040b5237972",
+      "source": "amsterdamsights-events",
+      "sourceName": "AmsterdamSights (curated events calendar)",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "new-year-s-eve",
+      "title": "New Year's Eve",
+      "description": "Admire the fireworks and celebrate Oud en Nieuw (New Year's Eve) with the Amsterdammers. Or visit a NYE party or event in nearly every club, restaurant, bar or hotel.",
+      "url": "https://www.amsterdamsights.com/events/nye.html",
+      "dateText": "December 31",
+      "tags": [
+        "december"
+      ],
+      "id": "amsterdamsights-events-3c9ce0b2b5278c66",
+      "source": "amsterdamsights-events",
+      "sourceName": "AmsterdamSights (curated events calendar)",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "judy-chicago-revelations",
+      "title": "Judy Chicago: Revelations",
+      "description": "Solo exhibition by iconic feminist artist Chicago, exploring themes of gender, power, and social justice.",
+      "url": "https://jck.nl/en/agenda/judy-chicago-revelations",
+      "venue": "Jewish Museum",
+      "dateText": "6 Feb 2026 - 23 Aug 2026",
+      "startDate": "2026-02-06T00:00:00",
+      "endDate": "2026-08-23T00:00:00",
+      "tags": [
+        "exhibition"
+      ],
+      "id": "amsterdamsights-exhibitions-ef85ce7224c03730",
+      "source": "amsterdamsights-exhibitions",
+      "sourceName": "AmsterdamSights (curated exhibitions)",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Naked",
@@ -922,7 +1333,7 @@
         "sex-positive",
         "clubbing-electronic"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Drie werelden, één taal: muziek - Vasile Nedea, Oene van Geel, Niti Ranjan Biswas & special guest",
@@ -937,7 +1348,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "The Rabbits - Large Ensemble",
@@ -952,7 +1363,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Cool Sound + Special Guest",
@@ -965,7 +1376,26 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "amsterdam-fashion-week",
+      "title": "Amsterdam Fashion Week",
+      "description": "Catwalk shows and exhibitions on Dutch and Belgian fashion organised at galleries, museums, cinemas, shops and clubs throughout Amsterdam.",
+      "url": "https://amsterdamfashionweek.nl/",
+      "dateText": "Sep 1-5, 2026",
+      "startDate": "2026-09-01T00:00:00",
+      "endDate": "2026-09-05T00:00:00",
+      "tags": [
+        "september"
+      ],
+      "id": "amsterdamsights-events-d5db295fe6f56d2f",
+      "source": "amsterdamsights-events",
+      "sourceName": "AmsterdamSights (curated events calendar)",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Rock ’n Roll Dansles met Gel",
@@ -978,7 +1408,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "The Last Ship",
@@ -993,7 +1423,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Gypsy swing session, Tessa Spaaij et al.",
@@ -1008,7 +1438,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Jazzcafé!",
@@ -1023,7 +1453,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "The Fours",
@@ -1036,7 +1466,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Machteld Cambridge, Kees van Lier en Elsa Trio",
@@ -1052,7 +1482,7 @@
         "jazz-live-music",
         "free-entry"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Tuesday Jam",
@@ -1067,7 +1497,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Restaurant: Yayang",
@@ -1082,7 +1512,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Lindy Hop Beg/ Level 1 Course",
@@ -1095,7 +1525,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Documentaire vertoning: Playing the Changes - Tracking Darius Brubeck",
@@ -1110,7 +1540,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Muurbloem Jazz Jam Session",
@@ -1126,7 +1556,7 @@
         "jazz-live-music",
         "free-entry"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "The Last Ship",
@@ -1141,7 +1571,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Movie Night – Frames of Jazz",
@@ -1155,7 +1585,7 @@
         "jazz-live-music",
         "film-media"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Jazz | Benjamin Herman",
@@ -1168,7 +1598,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Yoran Vroom",
@@ -1181,7 +1611,45 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "dutch-theatre-festival",
+      "title": "Dutch Theatre Festival",
+      "description": "Presents the best performances of the season, also for a non Dutch-speaking audience",
+      "url": "https://tf.nl/",
+      "dateText": "September 3-13, 2026",
+      "startDate": "2026-09-03T00:00:00",
+      "endDate": "2026-09-13T00:00:00",
+      "tags": [
+        "september"
+      ],
+      "id": "amsterdamsights-events-de0b2c4fb6dafa53",
+      "source": "amsterdamsights-events",
+      "sourceName": "AmsterdamSights (curated events calendar)",
+      "categories": [
+        "park-square"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "amsterdam-fringe-festival",
+      "title": "Amsterdam Fringe Festival",
+      "description": "Theatre and dance by talented new, undiscovered and untamed makers at more than 30 venues across Amsterdam, with 'Language No Problem' program.",
+      "url": "https://amsterdamfringefestival.nl/?lang=en",
+      "dateText": "September 3-13, 2026",
+      "startDate": "2026-09-03T00:00:00",
+      "endDate": "2026-09-13T00:00:00",
+      "tags": [
+        "september"
+      ],
+      "id": "amsterdamsights-events-d5951b9ff330ed50",
+      "source": "amsterdamsights-events",
+      "sourceName": "AmsterdamSights (curated events calendar)",
+      "categories": [
+        "park-square"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "A Very Strong Woman, performance met Maya Felixbrodt",
@@ -1194,7 +1662,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Oktopedians",
@@ -1209,7 +1677,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "The Last Ship",
@@ -1224,7 +1692,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Joanne Robertson + S*an D. Henry-Smith",
@@ -1239,7 +1707,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Jazz Jam Session",
@@ -1254,7 +1722,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Sofiya Astapiuk (Vocal Jazz)",
@@ -1269,7 +1737,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Live jazz with Justin Zitt trio",
@@ -1282,7 +1750,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "KRAK!",
@@ -1295,7 +1763,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "FUNK MEDICATION",
@@ -1308,7 +1776,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "PolyDiner Amsterdam",
@@ -1324,7 +1792,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Daan Herweg",
@@ -1337,7 +1805,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "EXPLORER NIGHT – FREE TASTERS AND FREE PARTY",
@@ -1350,7 +1818,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "New York Jazz meets Jordaan; Steve Nelson (06-49420542)",
@@ -1365,7 +1833,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "The Last Ship",
@@ -1380,7 +1848,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Friday Night Live ft. Linus Eppinger & superdeluxe mystery guest",
@@ -1393,7 +1861,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Jasper Blom & Ben van Gelder – CROSSWORDS",
@@ -1408,7 +1876,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Pearl Bretter Trio",
@@ -1423,7 +1891,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Aviv Noam Quintet",
@@ -1436,7 +1904,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Concertgebouw OPEN - gratis miniconcerten voor iedereen!",
@@ -1452,7 +1920,7 @@
         "jazz-live-music",
         "free-entry"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Impulse Play Plus",
@@ -1467,7 +1935,7 @@
       "categories": [
         "sex-positive"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "The Last Ship",
@@ -1482,7 +1950,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "KZ closed",
@@ -1495,7 +1963,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "T.B.A.",
@@ -1508,7 +1976,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Hidden Jazz Club",
@@ -1521,7 +1989,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "New York Jazz meets Jordaan; Steve Nelson (06-49420542)",
@@ -1536,7 +2004,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Wild Flutes on the Run - Een avond vol composities en improvisaties, voortkomend uit een nog nooit eerder gehoorde samenstelling",
@@ -1551,7 +2019,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Pablo Murgier Quartet",
@@ -1566,7 +2034,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Groove sessions with Jaydian Daniel",
@@ -1579,7 +2047,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Federica Lorusso & Friends",
@@ -1592,7 +2060,25 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "amsterdam-city-swim",
+      "title": "Amsterdam City Swim",
+      "description": "2000 meter swim in the canals of Amsterdam for ALS",
+      "url": "https://www.amsterdamcityswim.nl/",
+      "dateText": "September 6, 2026",
+      "startDate": "2026-09-06T00:00:00",
+      "tags": [
+        "september"
+      ],
+      "id": "amsterdamsights-events-d2d8d72743fc9d9a",
+      "source": "amsterdamsights-events",
+      "sourceName": "AmsterdamSights (curated events calendar)",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Cheese & Jazz",
@@ -1605,7 +2091,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "The Last Ship",
@@ -1620,7 +2106,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Tri Éin Quartet, Keltische muziek Ierland (gitaren, viool, accordeon, whistles)",
@@ -1633,7 +2119,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "L’Orchestre Jean LeJeune",
@@ -1649,7 +2135,7 @@
         "jazz-live-music",
         "free-entry"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Cafe Conrad x JC",
@@ -1662,7 +2148,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Jazz op zondag feat. Lucas Santana",
@@ -1675,7 +2161,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Sandunguera",
@@ -1688,7 +2174,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Double Bill: Jacob Drescher & Floatist",
@@ -1703,7 +2189,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Ruud de Vries Quartet",
@@ -1716,7 +2202,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Cool Sound + Special Guest",
@@ -1729,7 +2215,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Rock ’n Roll Dansles met Gel",
@@ -1742,7 +2228,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "The Last Ship",
@@ -1757,7 +2243,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Corinna & The Cosmopolitans | Is That All There Is? | The Strange Life Of Peggy Lee",
@@ -1772,7 +2258,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Arborescence trio - De geboorte van een nieuw trio",
@@ -1787,7 +2273,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Jazzcafé!",
@@ -1802,7 +2288,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "The Fours",
@@ -1815,7 +2301,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Tuesday Jam",
@@ -1830,7 +2316,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Restaurant: Yayang",
@@ -1845,7 +2331,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "The Last Ship",
@@ -1860,7 +2346,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Ernst Reijseger & Mario Forte & Harmen Fraanje",
@@ -1875,7 +2361,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "kronkelbar w/ wayward fool + dj bandgurl666",
@@ -1890,7 +2376,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Jazz | Timothy Banchet",
@@ -1903,7 +2389,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Jasper Blom Brings",
@@ -1916,7 +2402,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Oktopedians",
@@ -1931,7 +2417,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "The Last Ship",
@@ -1946,7 +2432,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Ernst",
@@ -1961,7 +2447,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Live jazz with 100% Cottone",
@@ -1974,7 +2460,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Jazz Jam Session",
@@ -1989,7 +2475,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Teus Nobel 4 – Child’s Play",
@@ -2004,7 +2490,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "FUNK MEDICATION",
@@ -2017,7 +2503,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Berend van den Berg",
@@ -2030,7 +2516,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Bamboestructuren met muziek en dans",
@@ -2043,7 +2529,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "The Last Ship",
@@ -2058,7 +2544,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Hiromi & Metropole Orkest",
@@ -2073,7 +2559,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Aleph Quintet",
@@ -2088,7 +2574,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Flying Saucer Boys & Bluegrass Jam",
@@ -2103,7 +2589,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Flying Saucers Boys + Jam",
@@ -2118,7 +2604,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Balboa and Shag party",
@@ -2131,7 +2617,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Bandgurl666 presents: Thank You So Much + Birds with Jobs + DJ 666",
@@ -2144,7 +2630,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Steve Altenberg’s Outer Galaxy Ball",
@@ -2157,7 +2643,26 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "open-monumentendag",
+      "title": "Open Monumentendag",
+      "description": "Heritage Open Day - Historical buildings and sites in the Netherlands are open to the public free of charge, organising on-site activities like exhibitions, music and guided tours.",
+      "url": "https://www.openmonumentendag.nl/",
+      "dateText": "September 12-13, 2026",
+      "startDate": "2026-09-12T00:00:00",
+      "endDate": "2026-09-13T00:00:00",
+      "tags": [
+        "september"
+      ],
+      "id": "amsterdamsights-events-af7fa2228bc2e84c",
+      "source": "amsterdamsights-events",
+      "sourceName": "AmsterdamSights (curated events calendar)",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "A New Tattoo",
@@ -2172,7 +2677,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "The Last Ship",
@@ -2187,7 +2692,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "KZ closed",
@@ -2200,7 +2705,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Berend van den Berg",
@@ -2213,7 +2718,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "GEORGE",
@@ -2228,7 +2733,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Groove sessions with Cruz del Sur",
@@ -2241,7 +2746,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Francisco Morales Quintet",
@@ -2254,7 +2759,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "TFCS Quartet",
@@ -2267,7 +2772,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Groove Beest Familieconcert: The Soul of Gospel",
@@ -2282,7 +2787,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "The Last Ship",
@@ -2297,7 +2802,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Bubbling Blue Notes | Bubbling Blue Notes Live Jazz",
@@ -2312,7 +2817,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "L’Orchestre Jean LeJeune",
@@ -2328,7 +2833,7 @@
         "jazz-live-music",
         "free-entry"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "ZO! Talent Choir: The Gospel Session",
@@ -2343,7 +2848,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Jazz op zondag feat. Efraim Trujillo",
@@ -2356,7 +2861,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Jasper Blom et al.",
@@ -2371,7 +2876,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "TryTone presenteert: Tone Series",
@@ -2386,7 +2891,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Rob van de Wouw Quartet",
@@ -2399,7 +2904,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Cool Sound + Special Guest",
@@ -2412,7 +2917,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Rock ’n Roll Dansles met Gel",
@@ -2425,7 +2930,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Minja Mijuskovic Nonet - String Quartet + Jazz Quintet featuring Carolina Gemmell",
@@ -2440,7 +2945,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Escarteen Sisters | Willow Tree",
@@ -2455,7 +2960,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Jazzcafé!",
@@ -2470,7 +2975,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "The Fours",
@@ -2483,7 +2988,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Tuesday Jam",
@@ -2498,7 +3003,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Restaurant: Yayang",
@@ -2513,7 +3018,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Jazz | Benjamin Herman",
@@ -2526,7 +3031,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Yoran Vroom",
@@ -2539,7 +3044,26 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "jordaan-festival",
+      "title": "Jordaan Festival",
+      "description": "Enjoy 3 days of live Amsterdam folk songs and great Dutch artists.",
+      "url": "https://www.jordaanfestival.nl/",
+      "dateText": "September 17-19, 2026 | date to be confirmed",
+      "startDate": "2026-09-17T00:00:00",
+      "endDate": "2026-09-19T00:00:00",
+      "tags": [
+        "september"
+      ],
+      "id": "amsterdamsights-events-1713616d176db6a1",
+      "source": "amsterdamsights-events",
+      "sourceName": "AmsterdamSights (curated events calendar)",
+      "categories": [
+        "park-square"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Sisi & Segvi koken!",
@@ -2554,7 +3078,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Oktopedians",
@@ -2569,7 +3093,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Contra residency: Avishai Darash trio",
@@ -2582,7 +3106,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Jazz at A Lab #10: Alkistis Misouli Sextet",
@@ -2597,7 +3121,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Rodrigo Amado: The Bridge ft. Von Schlippenbach, Håker Flaten & Hemingway",
@@ -2612,7 +3136,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Jazz Jam Session",
@@ -2627,7 +3151,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Café Vol Dichters",
@@ -2642,7 +3166,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "FUNK MEDICATION",
@@ -2655,7 +3179,46 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "nadav-kander-the-edge-of-things",
+      "title": "Nadav Kander - The Edge of Things",
+      "description": "Deep concern with the fragility of human existence, the passage of time, and the quiet intensity of everyday life.",
+      "url": "https://www.foam.org/events/nadav-kander",
+      "venue": "FOAM",
+      "dateText": "18 Sep 2026 - 20 Jan 2027",
+      "startDate": "2026-09-18T00:00:00",
+      "endDate": "2027-01-20T00:00:00",
+      "tags": [
+        "exhibition"
+      ],
+      "id": "amsterdamsights-exhibitions-fc2dc4fbc62b0c09",
+      "source": "amsterdamsights-exhibitions",
+      "sourceName": "AmsterdamSights (curated exhibitions)",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "unseen-photo-fair",
+      "title": "Unseen Photo Fair",
+      "description": "Annual international photography fair and festival highlighting the most recent developments in photography.",
+      "url": "https://unseenamsterdam.com/",
+      "dateText": "September 18-21, 2025",
+      "startDate": "2026-09-18T00:00:00",
+      "endDate": "2026-09-21T00:00:00",
+      "tags": [
+        "september"
+      ],
+      "id": "amsterdamsights-events-4248aaaad359ccbc",
+      "source": "amsterdamsights-events",
+      "sourceName": "AmsterdamSights (curated events calendar)",
+      "categories": [
+        "park-square"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Leo Bouwmeester",
@@ -2668,7 +3231,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Friday Night Live ft. Matěj Bursík & Robert Forejtek Quartet - tenor hang",
@@ -2681,7 +3244,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "WAAN",
@@ -2696,7 +3259,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Kosmosis Bigband",
@@ -2711,7 +3274,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "D!ma Loginov Group",
@@ -2724,7 +3287,26 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "dam-tot-damloop",
+      "title": "Dam tot Damloop",
+      "description": "Large running event from the centre of Amsterdam to the centre of Zaandam over a distance of 10 English Mile with an unique passage through the IJtunnel.",
+      "url": "https://www.damloop.com/",
+      "dateText": "September 19-20, 2026",
+      "startDate": "2026-09-19T00:00:00",
+      "endDate": "2026-09-20T00:00:00",
+      "tags": [
+        "september"
+      ],
+      "id": "amsterdamsights-events-bcb24beb31994895",
+      "source": "amsterdamsights-events",
+      "sourceName": "AmsterdamSights (curated events calendar)",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Clous van Mechelen & Olga de Meij",
@@ -2737,7 +3319,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "T.B.A.",
@@ -2750,7 +3332,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "12fu w/ wracaj bo ciemno (pl) + ok.ko + djalan-djalan + dj steve",
@@ -2765,7 +3347,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Jazz at the Pianola, The New Amsterdam Trio",
@@ -2778,10 +3360,9 @@
       "source": "jazzin",
       "sourceName": "Jazzin' Amsterdam",
       "categories": [
-        "jazz-live-music",
-        "free-museum"
+        "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Tyn Wybenga Brainteaser Orchestra",
@@ -2794,7 +3375,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Peter Bernstein Quartet",
@@ -2809,7 +3390,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Groove sessions with Vanilla Caliente: Bolero Night",
@@ -2822,7 +3403,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Marios Charalampous Quartet",
@@ -2835,7 +3416,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Cheese & Jazz",
@@ -2848,7 +3429,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Concert Duke Ellington Project: Seven For Duke",
@@ -2864,7 +3445,7 @@
         "jazz-live-music",
         "free-entry"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Jazz & Drinks - Diemen800",
@@ -2879,7 +3460,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Amsterdam - Cologne improv connection - Duo Salvoandrea Lucifora / Raoul van der Weide, trio DIG & Ties Mellema",
@@ -2894,7 +3475,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "L’Orchestre Jean LeJeune",
@@ -2910,7 +3491,7 @@
         "jazz-live-music",
         "free-entry"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Jazz op zondag feat. Finn Peters",
@@ -2923,7 +3504,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Giorgia-May",
@@ -2938,7 +3519,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Bria Skonberg",
@@ -2953,7 +3534,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Wouter Kiers Quartet",
@@ -2966,7 +3547,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Cool Sound + Special Guest",
@@ -2979,7 +3560,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Rock ’n Roll Dansles met Gel",
@@ -2992,7 +3573,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Orchestre Partout Lab #20 Martin Fondse X Háshem Kabreet",
@@ -3005,7 +3586,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Witte Gei’t? met Jacob Drescher, Send Me Flowers, Virgil WX en Jana Mila",
@@ -3018,7 +3599,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Jazzcafé!",
@@ -3033,7 +3614,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "The Fours",
@@ -3046,7 +3627,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Tuesday Jam",
@@ -3061,7 +3642,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "VekoDiner van Erik Wildschut",
@@ -3076,7 +3657,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "PolyMannenCirkel 2026-2027",
@@ -3092,7 +3673,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Fancy Dress Party - \"You’re Cordially Invited” album release",
@@ -3107,7 +3688,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Jazz | Timothy Banchet",
@@ -3120,7 +3701,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Wouter Kiers Quartet",
@@ -3133,7 +3714,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Restaurant: Sisi & Sevgi koken",
@@ -3148,7 +3729,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Alien Beauty - Michael Moore & Ziv Taubenfeld: twee houtblazers in een spontane dialoog",
@@ -3163,7 +3744,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Oktopedians",
@@ -3178,7 +3759,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Mahsa Vahdat with Tord Gustavsen",
@@ -3193,7 +3774,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Jazz Jam Session",
@@ -3208,7 +3789,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "\"Duo conversations\" - Federica Lorusso & Pietro Aloi (Jazz / Braziliaans)",
@@ -3223,7 +3804,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "FUNK MEDICATION",
@@ -3236,7 +3817,27 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "experimentation",
+      "title": "Experimentation",
+      "description": "Discover artworks from the Rembrandt House Museum collection make a drawing yourself, right in the middle of the gallery.",
+      "url": "https://www.rembrandthuis.nl/en/exhibition/experimentation-2/",
+      "venue": "Rembrandt House Museum",
+      "dateText": "25 Sep 2026 - 3 Jan 2027",
+      "startDate": "2026-09-25T00:00:00",
+      "endDate": "2027-01-03T00:00:00",
+      "tags": [
+        "exhibition"
+      ],
+      "id": "amsterdamsights-exhibitions-51d2ff7f777a6116",
+      "source": "amsterdamsights-exhibitions",
+      "sourceName": "AmsterdamSights (curated exhibitions)",
+      "categories": [
+        "clubbing-electronic"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Nick van den Bos",
@@ -3249,7 +3850,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Good Golly Miss - James Joyce walked into a bar",
@@ -3264,7 +3865,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Mi Casa",
@@ -3279,7 +3880,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Hidden Jazz Club",
@@ -3294,7 +3895,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Live At Our Place: Kasper Rietkerk + Irt",
@@ -3309,7 +3910,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Jazz at the Pianola, Mehmet Polat Quartet",
@@ -3322,10 +3923,9 @@
       "source": "jazzin",
       "sourceName": "Jazzin' Amsterdam",
       "categories": [
-        "jazz-live-music",
-        "free-museum"
+        "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Friday Night Live ft. Frank Groenendijk",
@@ -3338,7 +3938,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Beatriz",
@@ -3353,7 +3953,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Blues Burner w/ Liquid and Bones – Opening Season",
@@ -3366,7 +3966,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Iman Spaargaren Quintet",
@@ -3379,7 +3979,27 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "ambacht-in-beeld-festival",
+      "title": "Ambacht in Beeld Festival",
+      "description": "Craft in Focus Festival - Crafts, skill and mastery with international film screenings, workshops, lectures, demonstrations, performances and master classes at the NDSM Loods in Amsterdam Noord.",
+      "url": "https://ambachtinbeeldfestival.nl/",
+      "dateText": "September 26-27, 2026",
+      "startDate": "2026-09-26T00:00:00",
+      "endDate": "2026-09-27T00:00:00",
+      "tags": [
+        "september"
+      ],
+      "id": "amsterdamsights-events-ebd3e68cc444f7ce",
+      "source": "amsterdamsights-events",
+      "sourceName": "AmsterdamSights (curated events calendar)",
+      "categories": [
+        "park-square",
+        "film-media"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "kronkel festival",
@@ -3393,7 +4013,7 @@
         "jazz-live-music",
         "park-square"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Shaffy Muziekcafé | The Murakami Sessions",
@@ -3408,7 +4028,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Impromptu Jazz & Funk Open Jam Session",
@@ -3424,7 +4044,7 @@
         "jazz-live-music",
         "free-entry"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Nick van den Bos",
@@ -3437,7 +4057,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Hidden Jazz Club",
@@ -3452,7 +4072,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Juyoung Byun - OURELEMENT",
@@ -3465,7 +4085,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Improvisaties op sax, klarinet, piano, contrabas, kraakdoos en andere objecten",
@@ -3478,7 +4098,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Julie Campiche – Unspoken | Raphael Vanoli Solo",
@@ -3493,7 +4113,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Bop This!",
@@ -3506,7 +4126,25 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "the-best-of-adele",
+      "title": "The Best of Adele",
+      "description": "15 iconic songs performed by strings, piano and silence in a cinematic, instrumental performance by the renowned Mystery Ensemble in the mystical Posthoornkerk.",
+      "url": "https://redevents.world/event/850-the-best-of-adele-by-mystery-ensemble.html?date=2026-09-27+19%3A00%3A00&utm_source=Amsterdamsights&utm_medium=referral&utm_campaign=AmsterdamAdele",
+      "dateText": "September 27, 2026",
+      "startDate": "2026-09-27T00:00:00",
+      "tags": [
+        "september"
+      ],
+      "id": "amsterdamsights-events-70f256bb8bdf9604",
+      "source": "amsterdamsights-events",
+      "sourceName": "AmsterdamSights (curated events calendar)",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "SoWhat Familieconcert - Snip, ritsel en plop",
@@ -3521,7 +4159,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Tettero trio featuring Iman Spaargaren",
@@ -3536,7 +4174,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Trio Jos van Beest met  Joep Grotendorst en Boet Kaaijk--- CELEBRATION Concert",
@@ -3551,7 +4189,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "L’Orchestre Jean LeJeune",
@@ -3567,7 +4205,7 @@
         "jazz-live-music",
         "free-entry"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Jazz op zondag feat. Sam Newbould",
@@ -3580,7 +4218,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Hyphen Dash ft. Diana Sidibé",
@@ -3595,7 +4233,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Blue Temple",
@@ -3608,7 +4246,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Cool Sound + Special Guest",
@@ -3621,7 +4259,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Rock ’n Roll Dansles met Gel",
@@ -3634,7 +4272,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Dutch Jazz Heritage: ode aan Gerry Mulligan",
@@ -3649,7 +4287,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "All Ellington",
@@ -3664,7 +4302,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "The Fours",
@@ -3677,7 +4315,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Tuesday Jam",
@@ -3692,7 +4330,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Restaurant: Yayang",
@@ -3707,7 +4345,7 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Scott Hamilton & Rein de Graaff Trio ft. Philip Catherine",
@@ -3722,7 +4360,46 @@
       "categories": [
         "jazz-live-music"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "afrovibes-festival",
+      "title": "Afrovibes Festival",
+      "description": "Innovative theater and dance performances, music and film from urban cultural hotspots in Africa",
+      "url": "https://www.afrovibes.nl/?lang=en",
+      "dateText": "October 2-12, 2025",
+      "startDate": "2026-10-02T00:00:00",
+      "endDate": "2026-10-12T00:00:00",
+      "tags": [
+        "october"
+      ],
+      "id": "amsterdamsights-events-f85048cdea681bb0",
+      "source": "amsterdamsights-events",
+      "sourceName": "AmsterdamSights (curated events calendar)",
+      "categories": [
+        "park-square",
+        "film-media"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "flamenco-biennale",
+      "title": "Flamenco Biënnale",
+      "description": "An international performing arts festival built around one of Europe’s oldest art forms.",
+      "url": "https://flamencobiennale.nl/en/",
+      "dateText": "October 8-26, 2025",
+      "startDate": "2026-10-08T00:00:00",
+      "endDate": "2026-10-26T00:00:00",
+      "tags": [
+        "october"
+      ],
+      "id": "amsterdamsights-events-47bfdd9adf2439aa",
+      "source": "amsterdamsights-events",
+      "sourceName": "AmsterdamSights (curated events calendar)",
+      "categories": [
+        "park-square"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "PolyDiner Amsterdam",
@@ -3738,7 +4415,27 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "willem-de-kooning-at-work",
+      "title": "Willem de Kooning at work",
+      "description": "Featuring around 120 works, it offers a comprehensive overview of his drawings, alongside selected paintings and sculptures.",
+      "url": "https://www.rijksmuseum.nl/en/whats-on/exhibitions/willem-de-kooning-at-work",
+      "venue": "Rijksmuseum",
+      "dateText": "9 Oct 2026 - 17 Jan 2027",
+      "startDate": "2026-10-09T00:00:00",
+      "endDate": "2027-01-17T00:00:00",
+      "tags": [
+        "exhibition"
+      ],
+      "id": "amsterdamsights-exhibitions-0c3347a0c4e66c1d",
+      "source": "amsterdamsights-exhibitions",
+      "sourceName": "AmsterdamSights (curated exhibitions)",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "International(e) Polyborrel Amsterdam",
@@ -3754,7 +4451,214 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "grachtenrace",
+      "title": "Grachtenrace",
+      "description": "Canal race of longboats across the city centre of Amsterdam.",
+      "url": "https://www.grachtenrace.amsterdam/",
+      "dateText": "October 10, 2026",
+      "startDate": "2026-10-10T00:00:00",
+      "tags": [
+        "october"
+      ],
+      "id": "amsterdamsights-events-a0c1a6c979185b8a",
+      "source": "amsterdamsights-events",
+      "sourceName": "AmsterdamSights (curated events calendar)",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "national-museum-week",
+      "title": "National Museum Week",
+      "description": "More than 500 museums across the country offer free or heavily discounted admission.",
+      "url": "https://www.museum.nl/nl/museumweek",
+      "dateText": "October 10-18, 2026 | date to be confirmed",
+      "startDate": "2026-10-10T00:00:00",
+      "endDate": "2026-10-18T00:00:00",
+      "tags": [
+        "october"
+      ],
+      "id": "amsterdamsights-events-ac17632b62def398",
+      "source": "amsterdamsights-events",
+      "sourceName": "AmsterdamSights (curated events calendar)",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "cinekid-festival",
+      "title": "Cinekid Festival",
+      "description": "Annual Film, Television and New Media Festival for Children from 4-16 years",
+      "url": "https://cinekid.nl/en/festival",
+      "dateText": "October 10-25, 2026",
+      "startDate": "2026-10-10T00:00:00",
+      "endDate": "2026-10-25T00:00:00",
+      "tags": [
+        "october"
+      ],
+      "id": "amsterdamsights-events-674f684754ea3006",
+      "source": "amsterdamsights-events",
+      "sourceName": "AmsterdamSights (curated events calendar)",
+      "categories": [
+        "park-square",
+        "film-media"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "whistler-dandy-and-disruptor",
+      "title": "Whistler. Dandy and Disruptor",
+      "description": "The first retrospective in the Netherlands devoted to this remarkable painter and printmaker, influencer avant la lettre, aesthete and enfant terrible.",
+      "url": "https://www.vangoghmuseum.nl/en/visit/whats-on/exhibitions/whistler",
+      "venue": "Van Gogh Museum",
+      "dateText": "16 Oct 2026 - 10 Jan 2027",
+      "startDate": "2026-10-16T00:00:00",
+      "endDate": "2027-01-10T00:00:00",
+      "tags": [
+        "exhibition"
+      ],
+      "id": "amsterdamsights-exhibitions-c0c9678018d908d7",
+      "source": "amsterdamsights-exhibitions",
+      "sourceName": "AmsterdamSights (curated exhibitions)",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "amsterdam-marathon",
+      "title": "Amsterdam Marathon",
+      "description": "Yearly Amsterdam Marathon on Amsterdam's flat and fast course with start and finish at the Olympic Stadium",
+      "url": "https://www.tcsamsterdammarathon.eu/",
+      "dateText": "October 17-18, 2026",
+      "startDate": "2026-10-17T00:00:00",
+      "endDate": "2026-10-18T00:00:00",
+      "tags": [
+        "october"
+      ],
+      "id": "amsterdamsights-events-5ce858f648d6de66",
+      "source": "amsterdamsights-events",
+      "sourceName": "AmsterdamSights (curated events calendar)",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "the-music-of-the-lord-of-the-rings",
+      "title": "The Music of the Lord of the Rings",
+      "description": "Tribute to Howard Shore by Mystery Ensemble in the atmospheric and historical Zuiderkerk.",
+      "url": "https://redevents.world/event/293-the-music-of-the-lord-of-the-rings-tribute-to-howard-shore-by-mystery-ensemble.html?date=2025-10-19%2016:00:00&utm_source=Amsterdamsights&utm_medium=referral&utm_campaign=LOTR",
+      "dateText": "October 19, 2025",
+      "startDate": "2026-10-19T00:00:00",
+      "tags": [
+        "october"
+      ],
+      "id": "amsterdamsights-events-51f5e114920d3bbc",
+      "source": "amsterdamsights-events",
+      "sourceName": "AmsterdamSights (curated events calendar)",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "amsterdam-dance-event",
+      "title": "Amsterdam Dance Event",
+      "description": "The world's biggest club festival with over 52 venues, 700 acts & djs, all during three nights",
+      "url": "https://www.amsterdam-dance-event.nl/",
+      "dateText": "October 21-25, 2026",
+      "startDate": "2026-10-21T00:00:00",
+      "endDate": "2026-10-25T00:00:00",
+      "tags": [
+        "october"
+      ],
+      "id": "amsterdamsights-events-9258438189f47b58",
+      "source": "amsterdamsights-events",
+      "sourceName": "AmsterdamSights (curated events calendar)",
+      "categories": [
+        "park-square"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "amf-amsterdam",
+      "title": "AMF Amsterdam",
+      "description": "The Johan Cruijff ArenA, filled with 40,000 fans, transforms into the biggest nightclub in the world.",
+      "url": "https://amf-festival.com/",
+      "dateText": "October 25, 2025",
+      "startDate": "2026-10-25T00:00:00",
+      "tags": [
+        "october"
+      ],
+      "id": "amsterdamsights-events-d259f224bac83fe0",
+      "source": "amsterdamsights-events",
+      "sourceName": "AmsterdamSights (curated events calendar)",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "pan-amsterdam",
+      "title": "PAN Amsterdam",
+      "description": "Fair for art, antiques and design, focusing on pieces from the Netherlands, Belgium and Germany from more than 110 exhibitors.",
+      "url": "https://www.pan.nl/en/",
+      "dateText": "November 1-8, 2026",
+      "startDate": "2026-11-01T00:00:00",
+      "endDate": "2026-11-08T00:00:00",
+      "tags": [
+        "november"
+      ],
+      "id": "amsterdamsights-events-799d0b052901b836",
+      "source": "amsterdamsights-events",
+      "sourceName": "AmsterdamSights (curated events calendar)",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "the-amsterdam-storytelling-festival",
+      "title": "The Amsterdam Storytelling Festival",
+      "description": "Filled with exciting stories, heart-breaking music and a little bit of champagne...",
+      "url": "https://storytellingfestival.nl/",
+      "dateText": "November 5-9, 2025",
+      "startDate": "2026-11-05T00:00:00",
+      "endDate": "2026-11-09T00:00:00",
+      "tags": [
+        "november"
+      ],
+      "id": "amsterdamsights-events-326a427ddde06c4c",
+      "source": "amsterdamsights-events",
+      "sourceName": "AmsterdamSights (curated events calendar)",
+      "categories": [
+        "park-square"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "museum-night",
+      "title": "Museum Night",
+      "description": "Over 40 museums and institutions open their doors and organize special events from 7pm until 2am, including DJs, bands, dance performances, food & drinks.",
+      "url": "https://museumnacht.amsterdam/",
+      "dateText": "November 7, 2026",
+      "startDate": "2026-11-07T00:00:00",
+      "tags": [
+        "november"
+      ],
+      "id": "amsterdamsights-events-b48a862faf7a60b2",
+      "source": "amsterdamsights-events",
+      "sourceName": "AmsterdamSights (curated events calendar)",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "PolyDiner Amsterdam",
@@ -3770,7 +4674,287 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "idfa",
+      "title": "IDFA",
+      "description": "Yearly film happening with the best national and international documentaries of high-quality that delve deep and urge to reflect",
+      "url": "https://www.idfa.nl/en/",
+      "dateText": "November 12-22, 2026",
+      "startDate": "2026-11-12T00:00:00",
+      "endDate": "2026-11-22T00:00:00",
+      "tags": [
+        "november"
+      ],
+      "id": "amsterdamsights-events-5745c23b9211ff4a",
+      "source": "amsterdamsights-events",
+      "sourceName": "AmsterdamSights (curated events calendar)",
+      "categories": [
+        "film-media"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "free-open-day-in-the-stedelijk",
+      "title": "Free open day in the Stedelijk",
+      "description": "To celebrate Amsterdam’s 750th anniversary, the Stedelijk Museum presents to the city a free open day.",
+      "url": "https://www.stedelijk.nl/en/events/of-het-stedelijk-trakteert-en",
+      "dateText": "November 15, 2025 | date to be confirmed",
+      "startDate": "2026-11-15T00:00:00",
+      "tags": [
+        "november"
+      ],
+      "id": "amsterdamsights-events-902ace3c6a9a3fc3",
+      "source": "amsterdamsights-events",
+      "sourceName": "AmsterdamSights (curated events calendar)",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "sinterklaas-arrival-parade",
+      "title": "Sinterklaas Arrival & Parade",
+      "description": "Sinterklaas, or St. Nicholas, arrives from Spain on his boat in Amsterdam's harbour, from where he rides his white horse through town as his helpers throw cookies and candies to children and onlookers along the route.",
+      "url": "https://www.amsterdamsights.com/events/saintnicholas.html",
+      "dateText": "November 16, 2025",
+      "startDate": "2026-11-16T00:00:00",
+      "tags": [
+        "november"
+      ],
+      "id": "amsterdamsights-events-f5f9b60aae66e773",
+      "source": "amsterdamsights-events",
+      "sourceName": "AmsterdamSights (curated events calendar)",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "tribute-to-ludovico-einaudi",
+      "title": "Tribute to Ludovico Einaudi",
+      "description": "Neoclassical concert by Mystery Ensemble in the atmospheric and historical Zuiderkerk.",
+      "url": "https://redevents.world/event/296-tribute-to-ludovico-einaudi-by-mystery-ensemble.html?date=2025-11-16%2016:00:00&utm_source=Amsterdamsights&utm_medium=referral&utm_campaign=Einaudi",
+      "dateText": "November 16, 2025",
+      "startDate": "2026-11-16T00:00:00",
+      "tags": [
+        "november"
+      ],
+      "id": "amsterdamsights-events-489c43560cc37b37",
+      "source": "amsterdamsights-events",
+      "sourceName": "AmsterdamSights (curated events calendar)",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "amsterdam-art-week",
+      "title": "Amsterdam Art Week",
+      "description": "Celebration of contemporary art and culture with exhibitions, art fairs, gallery openings, performances, artist talks, and special events throughout the city.",
+      "url": "https://amsterdamart.com/en/",
+      "dateText": "November 18-22, 2026",
+      "startDate": "2026-11-18T00:00:00",
+      "endDate": "2026-11-22T00:00:00",
+      "tags": [
+        "november"
+      ],
+      "id": "amsterdamsights-events-05bfc1d877770380",
+      "source": "amsterdamsights-events",
+      "sourceName": "AmsterdamSights (curated events calendar)",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "g10-festival",
+      "title": "G10 Festival",
+      "description": "Conference centered around philosophy and art at the iconic Zuiderkerk.",
+      "url": "https://www.g10vandeeconomie.nl/",
+      "dateText": "November 21-23, 2025",
+      "startDate": "2026-11-21T00:00:00",
+      "endDate": "2026-11-23T00:00:00",
+      "tags": [
+        "november"
+      ],
+      "id": "amsterdamsights-events-32aefb5791db8d51",
+      "source": "amsterdamsights-events",
+      "sourceName": "AmsterdamSights (curated events calendar)",
+      "categories": [
+        "park-square"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "affordable-art-fair-amsterdam",
+      "title": "Affordable Art Fair Amsterdam",
+      "description": "Viewing and buying art pieces for prices less than € 5,000",
+      "url": "https://affordableartfair.com/fairs/amsterdam",
+      "dateText": "November 25-29, 2026",
+      "startDate": "2026-11-25T00:00:00",
+      "endDate": "2026-11-29T00:00:00",
+      "tags": [
+        "november"
+      ],
+      "id": "amsterdamsights-events-068e00e2dcb70306",
+      "source": "amsterdamsights-events",
+      "sourceName": "AmsterdamSights (curated events calendar)",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "amsterdam-light-festival",
+      "title": "Amsterdam Light Festival",
+      "description": "Walk or sail alongside light sculptures created by leading artists, beautifully illuminated buildings, bridges and boats and surprising light projections on buildings.",
+      "url": "https://www.amsterdamsights.com/events/amsterdam-light-festival.html",
+      "dateText": "November 27, 2025 - January 18, 2026",
+      "startDate": "2026-11-27T00:00:00",
+      "endDate": "2027-01-18T00:00:00",
+      "tags": [
+        "november"
+      ],
+      "id": "amsterdamsights-events-ce11e5650e3fc2e4",
+      "source": "amsterdamsights-events",
+      "sourceName": "AmsterdamSights (curated events calendar)",
+      "categories": [
+        "park-square"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "the-spirit-of-amsterdam",
+      "title": "The Spirit of Amsterdam",
+      "description": "More than 35+ of Amsterdam's most beautiful, sometimes hidden, locations transform into theater, dance floor, quiet room, movie house, or dinner venue.",
+      "url": "https://thespirit.amsterdam/",
+      "dateText": "November 28-30, 2025",
+      "startDate": "2026-11-28T00:00:00",
+      "endDate": "2026-11-30T00:00:00",
+      "tags": [
+        "november"
+      ],
+      "id": "amsterdamsights-events-457ebafcb2a51370",
+      "source": "amsterdamsights-events",
+      "sourceName": "AmsterdamSights (curated events calendar)",
+      "categories": [
+        "clubbing-electronic"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "the-world-of-john-williams",
+      "title": "The World of John Williams",
+      "description": "Film music concert by La Chapelle Sauvage in the mysterious atmosphere of the Keizersgracht Church.",
+      "url": "https://redevents.world/event/403-the-world-of-john-williams-by-la-chapelle-sauvage.html?date=2025-11-30%2016:00:00&utm_source=Amsterdamsights&utm_medium=referral&utm_campaign=Williams",
+      "dateText": "November 30, 2025",
+      "startDate": "2026-11-30T00:00:00",
+      "tags": [
+        "november"
+      ],
+      "id": "amsterdamsights-events-8c0daee9f6a2ba81",
+      "source": "amsterdamsights-events",
+      "sourceName": "AmsterdamSights (curated events calendar)",
+      "categories": [
+        "film-media"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "hayao-miyazaki-s-dreams",
+      "title": "Hayao Miyazaki's Dreams",
+      "description": "Neoclassical concert by Mystery Ensemble in the atmospheric and historical Zuiderkerk.",
+      "url": "https://redevents.world/event/297-hayao-miyazaki-s-dreams-by-mystery-ensemble.html?date=2025-12-07%2016:00:00&utm_source=Amsterdamsights&utm_medium=referral&utm_campaign=Miyazaki",
+      "dateText": "December 7, 2025",
+      "startDate": "2026-12-07T00:00:00",
+      "tags": [
+        "december"
+      ],
+      "id": "amsterdamsights-events-4b908891c3fd1162",
+      "source": "amsterdamsights-events",
+      "sourceName": "AmsterdamSights (curated events calendar)",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "the-music-of-the-lord-of-the-rings",
+      "title": "The Music of the Lord of the Rings",
+      "description": "Tribute to Howard Shore by La Chapelle Sauvage in the mysterious atmosphere of the Keizersgracht Church.",
+      "url": "https://redevents.world/event/448-the-music-of-the-lord-of-the-rings-tribute-to-howard-shore-by-la-chapelle-sauvage.html?date=2025-12-12%2020:00:00&utm_source=Amsterdamsights&utm_medium=referral&utm_campaign=LOTR",
+      "dateText": "December 12, 2025",
+      "startDate": "2026-12-12T00:00:00",
+      "tags": [
+        "december"
+      ],
+      "id": "amsterdamsights-events-51f5e114920d3bbc",
+      "source": "amsterdamsights-events",
+      "sourceName": "AmsterdamSights (curated events calendar)",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "the-nutcracker-and-the-mouse-king",
+      "title": "The Nutcracker and the Mouse King",
+      "description": "A magical fairy-tale world with music from Tchaikovsky by the Dutch National Ballet.",
+      "url": "https://www.operaballet.nl/en/dutch-national-ballet/2024-2025/nutcracker-and-mouse-king",
+      "dateText": "December 12, 2025 - January 2, 2026",
+      "startDate": "2026-12-12T00:00:00",
+      "endDate": "2027-01-02T00:00:00",
+      "tags": [
+        "december"
+      ],
+      "id": "amsterdamsights-events-01acf5f88aee5425",
+      "source": "amsterdamsights-events",
+      "sourceName": "AmsterdamSights (curated events calendar)",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "het-amsterdamse-winterparadijs",
+      "title": "Het Amsterdamse Winterparadijs",
+      "description": "The Ultimate Winter Experience with an indoor and outdoor skating rink, toboggan (sledding), cross-country skiing, snowball fight, cinema, curling, Ferris wheel, carousel, Christmas market, theatre, après-ski, and more.",
+      "url": "https://hetamsterdamsewinterparadijs.nl/",
+      "dateText": "December 13, 2025 - January 3, 2026",
+      "startDate": "2026-12-13T00:00:00",
+      "endDate": "2027-01-03T00:00:00",
+      "tags": [
+        "december"
+      ],
+      "id": "amsterdamsights-events-727b502a888f8c80",
+      "source": "amsterdamsights-events",
+      "sourceName": "AmsterdamSights (curated events calendar)",
+      "categories": [
+        "park-square",
+        "film-media"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "world-christmas-circus",
+      "title": "World Christmas Circus",
+      "description": "Traditional circus show in the famous Royal Theatre Carré, originally designed as a circus theatre, with acrobats, clowns and spectacular horse acts with dazzling jumps and somersaults on horseback.",
+      "url": "https://carre.nl/en/show/worldchristmascircus-2526",
+      "dateText": "December 17, 2025 - January 4, 2026",
+      "startDate": "2026-12-17T00:00:00",
+      "endDate": "2027-01-04T00:00:00",
+      "tags": [
+        "december"
+      ],
+      "id": "amsterdamsights-events-72f3861b288b7188",
+      "source": "amsterdamsights-events",
+      "sourceName": "AmsterdamSights (curated events calendar)",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     },
     {
       "title": "Poly Kerstdiner Amsterdam",
@@ -3786,7 +4970,63 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-08-31T18:19:18.401Z"
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "holiday-on-ice",
+      "title": "Holiday on Ice",
+      "description": "World-famous live-entertainment ice show, known for its spectacular figure skating, vibrant, eye-catching costumes, and special lighting and video effects.",
+      "url": "https://holidayonice.com/",
+      "dateText": "December 25-28, 2025",
+      "startDate": "2026-12-25T00:00:00",
+      "endDate": "2026-12-28T00:00:00",
+      "tags": [
+        "december"
+      ],
+      "id": "amsterdamsights-events-a0657e8cf87653da",
+      "source": "amsterdamsights-events",
+      "sourceName": "AmsterdamSights (curated events calendar)",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "chopin-champagne",
+      "title": "Chopin & Champagne",
+      "description": "Enjoy the masterpieces of Frédéric Chopin with pianist Anastasia Kenner—Kozhushko at the Vondelkerk.",
+      "url": "https://redevents.world/event/430-chopin-champagne.html?date=2025-12-27%2020:00:00&utm_source=Amsterdamsights&utm_medium=referral&utm_campaign=Chopin",
+      "dateText": "December 27, 2025",
+      "startDate": "2026-12-27T00:00:00",
+      "tags": [
+        "december"
+      ],
+      "id": "amsterdamsights-events-e3ad55226281c638",
+      "source": "amsterdamsights-events",
+      "sourceName": "AmsterdamSights (curated events calendar)",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
+    },
+    {
+      "sourceId": "amsterdam-sculpture-biennial-artzuid",
+      "title": "Amsterdam Sculpture Biennial Artzuid",
+      "description": "Outdoor art exhibition with more than 60 figurative sculptures and spatial installation art",
+      "url": "https://artzuid.nl/en/biennale/",
+      "dateText": "May 15-September 19, 2027",
+      "startDate": "2027-05-15T00:00:00",
+      "endDate": "2027-09-19T00:00:00",
+      "tags": [
+        "september"
+      ],
+      "id": "amsterdamsights-events-302a2afd8362c2dd",
+      "source": "amsterdamsights-events",
+      "sourceName": "AmsterdamSights (curated events calendar)",
+      "categories": [
+        "park-square"
+      ],
+      "scrapedAt": "2026-08-31T22:17:11.626Z"
     }
   ]
 }
