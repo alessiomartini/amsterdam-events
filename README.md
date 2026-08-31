@@ -16,7 +16,8 @@ from several source websites into one filterable static site.
 | Eventbrite | official Events API, `location.address=Amsterdam` | ❌ excluded — API confirms `/events/search/` no longer exists for third-party tokens | (keyword-based) |
 | Resident Advisor — Amsterdam | https://ra.co/events/nl/amsterdam | ❌ excluded — real CAPTCHA (DataDome) | Clubbing / electronic |
 | Resident Advisor — promoter 117681 | https://ra.co/promoters/117681/events | ❌ excluded — real CAPTCHA (DataDome) | Clubbing / electronic |
-| AmsterdamSights free events | https://www.amsterdamsights.com/events/free-events.html | ❌ excluded — Cloudflare blocks it outright | (keyword-based) |
+| AmsterdamSights free events | https://www.amsterdamsights.com/events/free-events.html | ❌ excluded from automated scraping — Cloudflare blocks it outright | (keyword-based) |
+| AmsterdamSights (curated recurring activities) | https://www.amsterdamsights.com/events/free-events.html | ✅ manually curated — hand-transcribed, not scraped, see note below | (keyword-based, `isFree` always `true`) |
 | I amsterdam (official tourism board) | https://www.iamsterdam.com/en/whats-on/calendar | ✅ working — replacement for AmsterdamSights | (keyword-based, `isFree` from a "free" tag) |
 
 Every event also gets keyword-based categories on top of the source default
@@ -169,6 +170,23 @@ equivalent found yet — if there's a specific venue or promoter behind
 `ra.co/promoters/117681`, that's the concrete thing to go find a
 replacement source for (their own site, or wherever else they list their
 own nights), rather than a generic RA substitute.
+
+**AmsterdamSights' "Free Events" page is also covered by a manually
+curated source, `src/scrapers/amsterdamsights-manual.ts`, alongside the
+iamsterdam.com replacement above.** Checking its actual content (not just
+its bot protection) showed it isn't a dated event calendar at all — it's a
+small, evergreen list of standing free activities around the city (a free
+cross-IJ ferry, weekly park yoga, a recurring free jazz session, museum
+gardens open to the public, and so on) that barely changes over time. That
+makes it a bad fit for iamsterdam.com's dated-calendar format but a
+reasonable fit for hand-curation instead of scraping: the list was read
+once, legitimately, via a public Wayback Machine snapshot
+(`web.archive.org`, not the live protected site) and transcribed directly
+into that file as a hardcoded array of 19 events. It is **not**
+auto-updated by any scraper or CI job — if it goes stale, re-check the
+source page (or a fresh archive snapshot) and edit the file by hand. The
+file's own doc comment records when it was last verified against which
+snapshot.
 
 If a working scraper stops finding events (a source redesigned its site),
 re-run the same debug-fetch workflow against `main` to get fresh HTML and

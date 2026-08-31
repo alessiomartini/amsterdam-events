@@ -117,17 +117,18 @@ function groupByDay(events) {
   const sorted = [...events].sort((a, b) => (a.startDate ?? "9999").localeCompare(b.startDate ?? "9999"));
   const map = new Map();
   for (const event of sorted) {
-    const label = dayLabel(event.startDate);
+    const label = dayLabel(event);
     if (!map.has(label)) map.set(label, []);
     map.get(label).push(event);
   }
   return map;
 }
 
-function dayLabel(startDate) {
-  if (!startDate) return "Date TBC";
+function dayLabel(event) {
+  const startDate = event.startDate;
+  if (!startDate) return event.dateText ? "Ongoing / Recurring" : "Date TBC";
   const date = new Date(startDate);
-  if (Number.isNaN(date.getTime())) return "Date TBC";
+  if (Number.isNaN(date.getTime())) return event.dateText ? "Ongoing / Recurring" : "Date TBC";
 
   const today = new Date();
   today.setHours(0, 0, 0, 0);
@@ -158,13 +159,14 @@ function renderCard(event) {
   title.textContent = event.title;
   top.appendChild(title);
 
-  if (event.startDate) {
+  if (event.startDate || event.dateText) {
     const time = document.createElement("span");
     time.className = "card-time";
-    const date = new Date(event.startDate);
-    time.textContent = Number.isNaN(date.getTime())
-      ? event.dateText ?? ""
-      : date.toLocaleTimeString(undefined, { hour: "2-digit", minute: "2-digit" });
+    const date = event.startDate ? new Date(event.startDate) : null;
+    time.textContent =
+      date && !Number.isNaN(date.getTime())
+        ? date.toLocaleTimeString(undefined, { hour: "2-digit", minute: "2-digit" })
+        : event.dateText ?? "";
     top.appendChild(time);
   }
   a.appendChild(top);
