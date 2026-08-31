@@ -3,6 +3,9 @@ name: Debug fetch (dump raw HTML)
 on:
   workflow_dispatch: {}
 
+permissions:
+  contents: write
+
 jobs:
   fetch:
     runs-on: ubuntu-latest
@@ -14,8 +17,10 @@ jobs:
           cache: "npm"
       - run: npm ci
       - run: npx tsx scripts/debug-fetch.ts
-      - uses: actions/upload-artifact@v4
-        with:
-          name: debug-html
-          path: debug-html
-          retention-days: 3
+      - name: Commit raw HTML to this branch
+        run: |
+          git config user.name "amsterdam-events-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -f debug-html
+          git commit -m "debug: raw HTML snapshot" --allow-empty
+          git push
