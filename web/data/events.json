@@ -1,5 +1,205 @@
 {
-  "generatedAt": null,
-  "count": 0,
-  "events": []
+  "generatedAt": "2026-08-31T16:22:57.501Z",
+  "count": 18,
+  "events": [
+    {
+      "title": "Yoga --  All Levels All Welcome",
+      "url": "https://radar.squat.net/en/event/amsterdam/nieuwland/2026-08-31/yoga-all-levels-all-welcome",
+      "id": "radar-squat-54d1b02a1740d4ec",
+      "source": "radar-squat",
+      "sourceName": "Radar (squat.net)",
+      "categories": [
+        "demonstration"
+      ],
+      "scrapedAt": "2026-08-31T16:22:46.108Z"
+    },
+    {
+      "title": "Chaos Kitchen Voku for MiGreat",
+      "url": "https://radar.squat.net/en/event/amsterdam/joes-garage/2026-08-31/chaos-kitchen-voku-migreat",
+      "id": "radar-squat-9e60910b9725a0b9",
+      "source": "radar-squat",
+      "sourceName": "Radar (squat.net)",
+      "categories": [
+        "demonstration"
+      ],
+      "scrapedAt": "2026-08-31T16:22:46.108Z"
+    },
+    {
+      "title": "BPW Woonspreekuur",
+      "url": "https://radar.squat.net/en/event/amsterdam/bpw-amsterdam/2026-08-31/bpw-woonspreekuur",
+      "id": "radar-squat-64f154d475217539",
+      "source": "radar-squat",
+      "sourceName": "Radar (squat.net)",
+      "categories": [
+        "demonstration"
+      ],
+      "scrapedAt": "2026-08-31T16:22:46.108Z"
+    },
+    {
+      "title": "Het Vrije Taalcafé",
+      "url": "https://radar.squat.net/en/event/amsterdam/huis-vrederiks-begane-grond/2026-08-31/het-vrije-taalcafe",
+      "id": "radar-squat-37c3dbc202e52c8f",
+      "source": "radar-squat",
+      "sourceName": "Radar (squat.net)",
+      "categories": [
+        "demonstration"
+      ],
+      "scrapedAt": "2026-08-31T16:22:46.108Z"
+    },
+    {
+      "title": "Last Summer",
+      "url": "https://radar.squat.net/en/event/amsterdam/cinemanita/2026-08-31/last-summer",
+      "id": "radar-squat-152f61eb813cb1ff",
+      "source": "radar-squat",
+      "sourceName": "Radar (squat.net)",
+      "categories": [
+        "demonstration"
+      ],
+      "scrapedAt": "2026-08-31T16:22:46.108Z"
+    },
+    {
+      "title": "KABRA | Herbal treatment & massage",
+      "url": "https://radar.squat.net/en/event/amsterdam/nieuwland/2026-09-01/kabra-herbal-treatment-massage",
+      "id": "radar-squat-35f2f2f0184b6ce2",
+      "source": "radar-squat",
+      "sourceName": "Radar (squat.net)",
+      "categories": [
+        "demonstration"
+      ],
+      "scrapedAt": "2026-08-31T16:22:46.108Z"
+    },
+    {
+      "title": "Yoga -- Special Class (chronic issues, injuries, etc.)",
+      "url": "https://radar.squat.net/en/event/amsterdam/nieuwland/2026-09-01/yoga-special-class-chronic-issues-injuries-etc",
+      "id": "radar-squat-6ed200b3186c01b4",
+      "source": "radar-squat",
+      "sourceName": "Radar (squat.net)",
+      "categories": [
+        "demonstration"
+      ],
+      "scrapedAt": "2026-08-31T16:22:46.108Z"
+    },
+    {
+      "title": "ABC Community  Bike Repair",
+      "url": "https://radar.squat.net/en/event/amsterdam/vrankrijk/2026-09-01/abc-community-bike-repair",
+      "id": "radar-squat-18a3b3c3398c13c3",
+      "source": "radar-squat",
+      "sourceName": "Radar (squat.net)",
+      "categories": [
+        "demonstration"
+      ],
+      "scrapedAt": "2026-08-31T16:22:46.108Z"
+    },
+    {
+      "title": "Justice for Minab: Film screening of \"Minab 168\"  + Panel Discussion",
+      "url": "https://radar.squat.net/en/event/amsterdam/nieuwland/2026-09-01/justice-minab-film-screening-minab-168-panel-discussion",
+      "id": "radar-squat-c2b1bb12b1bda8e8",
+      "source": "radar-squat",
+      "sourceName": "Radar (squat.net)",
+      "categories": [
+        "demonstration",
+        "film-media"
+      ],
+      "scrapedAt": "2026-08-31T16:22:46.108Z"
+    },
+    {
+      "title": "Kraakspreekuur Oost",
+      "url": "https://radar.squat.net/en/event/amsterdam/joes-garage/2026-09-01/kraakspreekuur-oost",
+      "id": "radar-squat-81d6cb6d30387e16",
+      "source": "radar-squat",
+      "sourceName": "Radar (squat.net)",
+      "categories": [
+        "demonstration"
+      ],
+      "scrapedAt": "2026-08-31T16:22:46.108Z"
+    },
+    {
+      "title": "[SOLD OUT] DEAD MOON NIGHT w/ TOODY COLE & HER BAND (US) + JENNY DON'T & THE SPURS (US) + DJ BONE",
+      "url": "https://radar.squat.net/en/event/amsterdam/occii/2026-09-01/sold-out-dead-moon-night-w-toody-cole-her-band-us-jenny-dont-spurs",
+      "id": "radar-squat-05930d49993c5d0d",
+      "source": "radar-squat",
+      "sourceName": "Radar (squat.net)",
+      "categories": [
+        "demonstration"
+      ],
+      "scrapedAt": "2026-08-31T16:22:46.108Z"
+    },
+    {
+      "title": "Lunch at Café Gilde",
+      "url": "https://radar.squat.net/en/event/amsterdam/cafe-gilde/2026-09-02/lunch-cafe-gilde",
+      "id": "radar-squat-f7ce8c1b0c81342d",
+      "source": "radar-squat",
+      "sourceName": "Radar (squat.net)",
+      "categories": [
+        "demonstration"
+      ],
+      "scrapedAt": "2026-08-31T16:22:46.108Z"
+    },
+    {
+      "title": "Vlaggen voor Palestina - Noord",
+      "url": "https://radar.squat.net/en/node/547939",
+      "id": "radar-squat-57cd550d43d2bda3",
+      "source": "radar-squat",
+      "sourceName": "Radar (squat.net)",
+      "categories": [
+        "demonstration"
+      ],
+      "scrapedAt": "2026-08-31T16:22:46.108Z"
+    },
+    {
+      "title": "Joe's Salon",
+      "url": "https://radar.squat.net/en/event/amsterdam/joes-garage/2026-09-02/joes-salon",
+      "id": "radar-squat-8da07b8dd6aa0ea0",
+      "source": "radar-squat",
+      "sourceName": "Radar (squat.net)",
+      "categories": [
+        "demonstration"
+      ],
+      "scrapedAt": "2026-08-31T16:22:46.108Z"
+    },
+    {
+      "title": "Vlaggen voor Palestina - West",
+      "url": "https://radar.squat.net/en/event/amsterdam/vlaggen-voor-palestina/2026-09-02/vlaggen-voor-palestina-west",
+      "id": "radar-squat-5d832fa0c4587962",
+      "source": "radar-squat",
+      "sourceName": "Radar (squat.net)",
+      "categories": [
+        "demonstration"
+      ],
+      "scrapedAt": "2026-08-31T16:22:46.108Z"
+    },
+    {
+      "title": "Early Wednesday @ MKZ",
+      "url": "https://radar.squat.net/en/event/amsterdam/mkz/2026-09-02/early-wednesday-mkz",
+      "id": "radar-squat-91f153a9d55edb0d",
+      "source": "radar-squat",
+      "sourceName": "Radar (squat.net)",
+      "categories": [
+        "demonstration"
+      ],
+      "scrapedAt": "2026-08-31T16:22:46.108Z"
+    },
+    {
+      "title": "KRAZY HEAVY BAG WORKOUT",
+      "url": "https://radar.squat.net/en/node/570752",
+      "id": "radar-squat-3eb1ecff9e9d1bbf",
+      "source": "radar-squat",
+      "sourceName": "Radar (squat.net)",
+      "categories": [
+        "demonstration"
+      ],
+      "scrapedAt": "2026-08-31T16:22:46.108Z"
+    },
+    {
+      "title": "Open drumming practice evening - RoR Amsterdam",
+      "url": "https://radar.squat.net/en/event/amsterdam/rhythms-resistance-amsterdam/2026-09-02/open-drumming-practice-evening-ror-amsterdam",
+      "id": "radar-squat-2190543ade1857e0",
+      "source": "radar-squat",
+      "sourceName": "Radar (squat.net)",
+      "categories": [
+        "demonstration"
+      ],
+      "scrapedAt": "2026-08-31T16:22:46.108Z"
+    }
+  ]
 }
