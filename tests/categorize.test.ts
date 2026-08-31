@@ -27,6 +27,22 @@ describe("categorize", () => {
     expect(cats).toContain("free-entry");
   });
 
+  it("does not tag a paid exhibition as free-museum", () => {
+    const cats = categorize(
+      "amsterdamsights-exhibitions",
+      event({ title: "Judy Chicago: Revelations", description: "Solo exhibition at the Jewish Museum" }),
+    );
+    expect(cats).not.toContain("free-museum");
+  });
+
+  it("tags a free museum-related event as free-museum", () => {
+    const cats = categorize(
+      "amsterdamsights-manual",
+      event({ title: "NEMO's Panorama Terrace", venue: "NEMO Science Museum", isFree: true }),
+    );
+    expect(cats).toContain("free-museum");
+  });
+
   it("detects demonstrations", () => {
     const cats = categorize("radar-squat", event({ title: "Solidarity demonstration at Dam" }));
     expect(cats).toContain("demonstration");

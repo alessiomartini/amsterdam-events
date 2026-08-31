@@ -1,0 +1,583 @@
+[
+  {
+    "sourceId": "amsterdam-fashion-week",
+    "title": "Amsterdam Fashion Week",
+    "description": "Catwalk shows and exhibitions on Dutch and Belgian fashion organised at galleries, museums, cinemas, shops and clubs throughout Amsterdam.",
+    "url": "https://amsterdamfashionweek.nl/",
+    "dateText": "Sep 1-5, 2026",
+    "startDate": "2026-09-01T00:00:00",
+    "endDate": "2026-09-05T00:00:00",
+    "tags": [
+      "september"
+    ]
+  },
+  {
+    "sourceId": "amsterdam-city-swim",
+    "title": "Amsterdam City Swim",
+    "description": "2000 meter swim in the canals of Amsterdam for ALS",
+    "url": "https://www.amsterdamcityswim.nl/",
+    "dateText": "September 6, 2026",
+    "startDate": "2026-09-06T00:00:00",
+    "tags": [
+      "september"
+    ]
+  },
+  {
+    "sourceId": "open-monumentendag",
+    "title": "Open Monumentendag",
+    "description": "Heritage Open Day - Historical buildings and sites in the Netherlands are open to the public free of charge, organising on-site activities like exhibitions, music and guided tours.",
+    "url": "https://www.openmonumentendag.nl/",
+    "dateText": "September 12-13, 2026",
+    "startDate": "2026-09-12T00:00:00",
+    "endDate": "2026-09-13T00:00:00",
+    "tags": [
+      "september"
+    ]
+  },
+  {
+    "sourceId": "jordaan-festival",
+    "title": "Jordaan Festival",
+    "description": "Enjoy 3 days of live Amsterdam folk songs and great Dutch artists.",
+    "url": "https://www.jordaanfestival.nl/",
+    "dateText": "September 17-19, 2026 | date to be confirmed",
+    "startDate": "2026-09-17T00:00:00",
+    "endDate": "2026-09-19T00:00:00",
+    "tags": [
+      "september"
+    ]
+  },
+  {
+    "sourceId": "amsterdam-sculpture-biennial-artzuid",
+    "title": "Amsterdam Sculpture Biennial Artzuid",
+    "description": "Outdoor art exhibition with more than 60 figurative sculptures and spatial installation art",
+    "url": "https://artzuid.nl/en/biennale/",
+    "dateText": "May 15-September 19, 2027",
+    "startDate": "2027-05-15T00:00:00",
+    "endDate": "2027-09-19T00:00:00",
+    "tags": [
+      "september"
+    ]
+  },
+  {
+    "sourceId": "dutch-theatre-festival",
+    "title": "Dutch Theatre Festival",
+    "description": "Presents the best performances of the season, also for a non Dutch-speaking audience",
+    "url": "https://tf.nl/",
+    "dateText": "September 3-13, 2026",
+    "startDate": "2026-09-03T00:00:00",
+    "endDate": "2026-09-13T00:00:00",
+    "tags": [
+      "september"
+    ]
+  },
+  {
+    "sourceId": "amsterdam-fringe-festival",
+    "title": "Amsterdam Fringe Festival",
+    "description": "Theatre and dance by talented new, undiscovered and untamed makers at more than 30 venues across Amsterdam, with 'Language No Problem' program.",
+    "url": "https://amsterdamfringefestival.nl/?lang=en",
+    "dateText": "September 3-13, 2026",
+    "startDate": "2026-09-03T00:00:00",
+    "endDate": "2026-09-13T00:00:00",
+    "tags": [
+      "september"
+    ]
+  },
+  {
+    "sourceId": "dam-tot-damloop",
+    "title": "Dam tot Damloop",
+    "description": "Large running event from the centre of Amsterdam to the centre of Zaandam over a distance of 10 English Mile with an unique passage through the IJtunnel.",
+    "url": "https://www.damloop.com/",
+    "dateText": "September 19-20, 2026",
+    "startDate": "2026-09-19T00:00:00",
+    "endDate": "2026-09-20T00:00:00",
+    "tags": [
+      "september"
+    ]
+  },
+  {
+    "sourceId": "unseen-photo-fair",
+    "title": "Unseen Photo Fair",
+    "description": "Annual international photography fair and festival highlighting the most recent developments in photography.",
+    "url": "https://unseenamsterdam.com/",
+    "dateText": "September 18-21, 2025",
+    "startDate": "2026-09-18T00:00:00",
+    "endDate": "2026-09-21T00:00:00",
+    "tags": [
+      "september"
+    ]
+  },
+  {
+    "sourceId": "kronkel-festival",
+    "title": "Kronkel Festival",
+    "description": "An alternative, multi-venue, one day festival in Amsterdam celebrating the underground!",
+    "url": "https://amsterdamalternative.nl/agenda/22204/kronkel-2026",
+    "dateText": "September 26, 2026",
+    "startDate": "2026-09-26T00:00:00",
+    "tags": [
+      "september"
+    ]
+  },
+  {
+    "sourceId": "ambacht-in-beeld-festival",
+    "title": "Ambacht in Beeld Festival",
+    "description": "Craft in Focus Festival - Crafts, skill and mastery with international film screenings, workshops, lectures, demonstrations, performances and master classes at the NDSM Loods in Amsterdam Noord.",
+    "url": "https://ambachtinbeeldfestival.nl/",
+    "dateText": "September 26-27, 2026",
+    "startDate": "2026-09-26T00:00:00",
+    "endDate": "2026-09-27T00:00:00",
+    "tags": [
+      "september"
+    ]
+  },
+  {
+    "sourceId": "the-best-of-adele",
+    "title": "The Best of Adele",
+    "description": "15 iconic songs performed by strings, piano and silence in a cinematic, instrumental performance by the renowned Mystery Ensemble in the mystical Posthoornkerk.",
+    "url": "https://redevents.world/event/850-the-best-of-adele-by-mystery-ensemble.html?date=2026-09-27+19%3A00%3A00&utm_source=Amsterdamsights&utm_medium=referral&utm_campaign=AmsterdamAdele",
+    "dateText": "September 27, 2026",
+    "startDate": "2026-09-27T00:00:00",
+    "tags": [
+      "september"
+    ]
+  },
+  {
+    "sourceId": "world-press-photo-exhibition",
+    "title": "World Press Photo Exhibition",
+    "description": "World's largest and most prestigious annual press photography contest and exhibition of award-winning and often shocking photojournalism at De Nieuwe Kerk.",
+    "url": "https://www.nieuwekerk.nl/en/tentoonstellingen/world-press-photo-exhibition-2026/",
+    "dateText": "April 24-September 27, 2026",
+    "endDate": "2026-09-27T00:00:00",
+    "tags": [
+      "september"
+    ]
+  },
+  {
+    "sourceId": "vondelpark-open-air-theater",
+    "title": "Vondelpark Open Air Theater",
+    "description": "Free dance, music and cabaret performances in the park's band shell.",
+    "url": "https://www.openluchttheater.nl/",
+    "dateText": "May - September",
+    "tags": [
+      "september"
+    ]
+  },
+  {
+    "sourceId": "electric-tram-museum-amsterdam",
+    "title": "Electric Tram Museum Amsterdam",
+    "description": "Go back in time with a ride on a historic tram from Amsterdam, The Hague, Rotterdam, Utrecht, Groningen, Vienna or Prague.",
+    "url": "https://www.amsterdamsights.com/attractions/museumtram.html",
+    "dateText": "May - October",
+    "tags": [
+      "september"
+    ]
+  },
+  {
+    "sourceId": "ajax-amsterdam-football-club",
+    "title": "Ajax Amsterdam Football Club",
+    "description": "Spend a Sunday amongst frenzied fans of the famous Ajax Amsterdam football team. Ajax plays in the impressive, modern Johan Cruijff Arena south of the city.",
+    "url": "https://www.amsterdamsights.com/attractions/ajax.html",
+    "dateText": "end August-end April",
+    "tags": [
+      "september"
+    ]
+  },
+  {
+    "sourceId": "grachtenrace",
+    "title": "Grachtenrace",
+    "description": "Canal race of longboats across the city centre of Amsterdam.",
+    "url": "https://www.grachtenrace.amsterdam/",
+    "dateText": "October 10, 2026",
+    "startDate": "2026-10-10T00:00:00",
+    "tags": [
+      "october"
+    ]
+  },
+  {
+    "sourceId": "afrovibes-festival",
+    "title": "Afrovibes Festival",
+    "description": "Innovative theater and dance performances, music and film from urban cultural hotspots in Africa",
+    "url": "https://www.afrovibes.nl/?lang=en",
+    "dateText": "October 2-12, 2025",
+    "startDate": "2026-10-02T00:00:00",
+    "endDate": "2026-10-12T00:00:00",
+    "tags": [
+      "october"
+    ]
+  },
+  {
+    "sourceId": "national-museum-week",
+    "title": "National Museum Week",
+    "description": "More than 500 museums across the country offer free or heavily discounted admission.",
+    "url": "https://www.museum.nl/nl/museumweek",
+    "dateText": "October 10-18, 2026 | date to be confirmed",
+    "startDate": "2026-10-10T00:00:00",
+    "endDate": "2026-10-18T00:00:00",
+    "tags": [
+      "october"
+    ]
+  },
+  {
+    "sourceId": "amsterdam-marathon",
+    "title": "Amsterdam Marathon",
+    "description": "Yearly Amsterdam Marathon on Amsterdam's flat and fast course with start and finish at the Olympic Stadium",
+    "url": "https://www.tcsamsterdammarathon.eu/",
+    "dateText": "October 17-18, 2026",
+    "startDate": "2026-10-17T00:00:00",
+    "endDate": "2026-10-18T00:00:00",
+    "tags": [
+      "october"
+    ]
+  },
+  {
+    "sourceId": "the-music-of-the-lord-of-the-rings",
+    "title": "The Music of the Lord of the Rings",
+    "description": "Tribute to Howard Shore by Mystery Ensemble in the atmospheric and historical Zuiderkerk.",
+    "url": "https://redevents.world/event/293-the-music-of-the-lord-of-the-rings-tribute-to-howard-shore-by-mystery-ensemble.html?date=2025-10-19%2016:00:00&utm_source=Amsterdamsights&utm_medium=referral&utm_campaign=LOTR",
+    "dateText": "October 19, 2025",
+    "startDate": "2026-10-19T00:00:00",
+    "tags": [
+      "october"
+    ]
+  },
+  {
+    "sourceId": "cinekid-festival",
+    "title": "Cinekid Festival",
+    "description": "Annual Film, Television and New Media Festival for Children from 4-16 years",
+    "url": "https://cinekid.nl/en/festival",
+    "dateText": "October 10-25, 2026",
+    "startDate": "2026-10-10T00:00:00",
+    "endDate": "2026-10-25T00:00:00",
+    "tags": [
+      "october"
+    ]
+  },
+  {
+    "sourceId": "amf-amsterdam",
+    "title": "AMF Amsterdam",
+    "description": "The Johan Cruijff ArenA, filled with 40,000 fans, transforms into the biggest nightclub in the world.",
+    "url": "https://amf-festival.com/",
+    "dateText": "October 25, 2025",
+    "startDate": "2026-10-25T00:00:00",
+    "tags": [
+      "october"
+    ]
+  },
+  {
+    "sourceId": "flamenco-biennale",
+    "title": "Flamenco Biënnale",
+    "description": "An international performing arts festival built around one of Europe’s oldest art forms.",
+    "url": "https://flamencobiennale.nl/en/",
+    "dateText": "October 8-26, 2025",
+    "startDate": "2026-10-08T00:00:00",
+    "endDate": "2026-10-26T00:00:00",
+    "tags": [
+      "october"
+    ]
+  },
+  {
+    "sourceId": "amsterdam-dance-event",
+    "title": "Amsterdam Dance Event",
+    "description": "The world's biggest club festival with over 52 venues, 700 acts & djs, all during three nights",
+    "url": "https://www.amsterdam-dance-event.nl/",
+    "dateText": "October 21-25, 2026",
+    "startDate": "2026-10-21T00:00:00",
+    "endDate": "2026-10-25T00:00:00",
+    "tags": [
+      "october"
+    ]
+  },
+  {
+    "sourceId": "ajax-amsterdam-football-club",
+    "title": "Ajax Amsterdam Football Club",
+    "description": "Spend a Sunday amongst frenzied fans of the famous Ajax Amsterdam football team. Ajax plays in the impressive, modern Johan Cruijff Arena south of the city.",
+    "url": "https://www.amsterdamsights.com/attractions/ajax.html",
+    "dateText": "end August-end April",
+    "tags": [
+      "october"
+    ]
+  },
+  {
+    "sourceId": "pan-amsterdam",
+    "title": "PAN Amsterdam",
+    "description": "Fair for art, antiques and design, focusing on pieces from the Netherlands, Belgium and Germany from more than 110 exhibitors.",
+    "url": "https://www.pan.nl/en/",
+    "dateText": "November 1-8, 2026",
+    "startDate": "2026-11-01T00:00:00",
+    "endDate": "2026-11-08T00:00:00",
+    "tags": [
+      "november"
+    ]
+  },
+  {
+    "sourceId": "museum-night",
+    "title": "Museum Night",
+    "description": "Over 40 museums and institutions open their doors and organize special events from 7pm until 2am, including DJs, bands, dance performances, food & drinks.",
+    "url": "https://museumnacht.amsterdam/",
+    "dateText": "November 7, 2026",
+    "startDate": "2026-11-07T00:00:00",
+    "tags": [
+      "november"
+    ]
+  },
+  {
+    "sourceId": "the-amsterdam-storytelling-festival",
+    "title": "The Amsterdam Storytelling Festival",
+    "description": "Filled with exciting stories, heart-breaking music and a little bit of champagne...",
+    "url": "https://storytellingfestival.nl/",
+    "dateText": "November 5-9, 2025",
+    "startDate": "2026-11-05T00:00:00",
+    "endDate": "2026-11-09T00:00:00",
+    "tags": [
+      "november"
+    ]
+  },
+  {
+    "sourceId": "idfa",
+    "title": "IDFA",
+    "description": "Yearly film happening with the best national and international documentaries of high-quality that delve deep and urge to reflect",
+    "url": "https://www.idfa.nl/en/",
+    "dateText": "November 12-22, 2026",
+    "startDate": "2026-11-12T00:00:00",
+    "endDate": "2026-11-22T00:00:00",
+    "tags": [
+      "november"
+    ]
+  },
+  {
+    "sourceId": "free-open-day-in-the-stedelijk",
+    "title": "Free open day in the Stedelijk",
+    "description": "To celebrate Amsterdam’s 750th anniversary, the Stedelijk Museum presents to the city a free open day.",
+    "url": "https://www.stedelijk.nl/en/events/of-het-stedelijk-trakteert-en",
+    "dateText": "November 15, 2025 | date to be confirmed",
+    "startDate": "2026-11-15T00:00:00",
+    "tags": [
+      "november"
+    ]
+  },
+  {
+    "sourceId": "sinterklaas-arrival-parade",
+    "title": "Sinterklaas Arrival & Parade",
+    "description": "Sinterklaas, or St. Nicholas, arrives from Spain on his boat in Amsterdam's harbour, from where he rides his white horse through town as his helpers throw cookies and candies to children and onlookers along the route.",
+    "url": "https://www.amsterdamsights.com/events/saintnicholas.html",
+    "dateText": "November 16, 2025",
+    "startDate": "2026-11-16T00:00:00",
+    "tags": [
+      "november"
+    ]
+  },
+  {
+    "sourceId": "tribute-to-ludovico-einaudi",
+    "title": "Tribute to Ludovico Einaudi",
+    "description": "Neoclassical concert by Mystery Ensemble in the atmospheric and historical Zuiderkerk.",
+    "url": "https://redevents.world/event/296-tribute-to-ludovico-einaudi-by-mystery-ensemble.html?date=2025-11-16%2016:00:00&utm_source=Amsterdamsights&utm_medium=referral&utm_campaign=Einaudi",
+    "dateText": "November 16, 2025",
+    "startDate": "2026-11-16T00:00:00",
+    "tags": [
+      "november"
+    ]
+  },
+  {
+    "sourceId": "amsterdam-art-week",
+    "title": "Amsterdam Art Week",
+    "description": "Celebration of contemporary art and culture with exhibitions, art fairs, gallery openings, performances, artist talks, and special events throughout the city.",
+    "url": "https://amsterdamart.com/en/",
+    "dateText": "November 18-22, 2026",
+    "startDate": "2026-11-18T00:00:00",
+    "endDate": "2026-11-22T00:00:00",
+    "tags": [
+      "november"
+    ]
+  },
+  {
+    "sourceId": "g10-festival",
+    "title": "G10 Festival",
+    "description": "Conference centered around philosophy and art at the iconic Zuiderkerk.",
+    "url": "https://www.g10vandeeconomie.nl/",
+    "dateText": "November 21-23, 2025",
+    "startDate": "2026-11-21T00:00:00",
+    "endDate": "2026-11-23T00:00:00",
+    "tags": [
+      "november"
+    ]
+  },
+  {
+    "sourceId": "affordable-art-fair-amsterdam",
+    "title": "Affordable Art Fair Amsterdam",
+    "description": "Viewing and buying art pieces for prices less than € 5,000",
+    "url": "https://affordableartfair.com/fairs/amsterdam",
+    "dateText": "November 25-29, 2026",
+    "startDate": "2026-11-25T00:00:00",
+    "endDate": "2026-11-29T00:00:00",
+    "tags": [
+      "november"
+    ]
+  },
+  {
+    "sourceId": "the-world-of-john-williams",
+    "title": "The World of John Williams",
+    "description": "Film music concert by La Chapelle Sauvage in the mysterious atmosphere of the Keizersgracht Church.",
+    "url": "https://redevents.world/event/403-the-world-of-john-williams-by-la-chapelle-sauvage.html?date=2025-11-30%2016:00:00&utm_source=Amsterdamsights&utm_medium=referral&utm_campaign=Williams",
+    "dateText": "November 30, 2025",
+    "startDate": "2026-11-30T00:00:00",
+    "tags": [
+      "november"
+    ]
+  },
+  {
+    "sourceId": "the-spirit-of-amsterdam",
+    "title": "The Spirit of Amsterdam",
+    "description": "More than 35+ of Amsterdam's most beautiful, sometimes hidden, locations transform into theater, dance floor, quiet room, movie house, or dinner venue.",
+    "url": "https://thespirit.amsterdam/",
+    "dateText": "November 28-30, 2025",
+    "startDate": "2026-11-28T00:00:00",
+    "endDate": "2026-11-30T00:00:00",
+    "tags": [
+      "november"
+    ]
+  },
+  {
+    "sourceId": "amsterdam-light-festival",
+    "title": "Amsterdam Light Festival",
+    "description": "Walk or sail alongside light sculptures created by leading artists, beautifully illuminated buildings, bridges and boats and surprising light projections on buildings.",
+    "url": "https://www.amsterdamsights.com/events/amsterdam-light-festival.html",
+    "dateText": "November 27, 2025 - January 18, 2026",
+    "startDate": "2026-11-27T00:00:00",
+    "endDate": "2027-01-18T00:00:00",
+    "tags": [
+      "november"
+    ]
+  },
+  {
+    "sourceId": "ajax-amsterdam-football-club",
+    "title": "Ajax Amsterdam Football Club",
+    "description": "Spend a Sunday amongst frenzied fans of the famous Ajax Amsterdam football team. Ajax plays in the impressive, modern Johan Cruijff Arena south of the city.",
+    "url": "https://www.amsterdamsights.com/attractions/ajax.html",
+    "dateText": "end August-end April",
+    "tags": [
+      "november"
+    ]
+  },
+  {
+    "sourceId": "sinterklaasavond",
+    "title": "Sinterklaasavond",
+    "description": "On St. Nicholas Evening, Dutch children place their shoes and boots by the fireplace in hopes that Sinterklaas will fill them with treats. Most Dutch celebrate on this day by exchanging gifts and enjoying family meals.",
+    "url": "https://www.amsterdamsights.com/events/saintnicholas.html#sinterklaasavond",
+    "dateText": "eve of December 5",
+    "tags": [
+      "december"
+    ]
+  },
+  {
+    "sourceId": "hayao-miyazaki-s-dreams",
+    "title": "Hayao Miyazaki's Dreams",
+    "description": "Neoclassical concert by Mystery Ensemble in the atmospheric and historical Zuiderkerk.",
+    "url": "https://redevents.world/event/297-hayao-miyazaki-s-dreams-by-mystery-ensemble.html?date=2025-12-07%2016:00:00&utm_source=Amsterdamsights&utm_medium=referral&utm_campaign=Miyazaki",
+    "dateText": "December 7, 2025",
+    "startDate": "2026-12-07T00:00:00",
+    "tags": [
+      "december"
+    ]
+  },
+  {
+    "sourceId": "the-music-of-the-lord-of-the-rings",
+    "title": "The Music of the Lord of the Rings",
+    "description": "Tribute to Howard Shore by La Chapelle Sauvage in the mysterious atmosphere of the Keizersgracht Church.",
+    "url": "https://redevents.world/event/448-the-music-of-the-lord-of-the-rings-tribute-to-howard-shore-by-la-chapelle-sauvage.html?date=2025-12-12%2020:00:00&utm_source=Amsterdamsights&utm_medium=referral&utm_campaign=LOTR",
+    "dateText": "December 12, 2025",
+    "startDate": "2026-12-12T00:00:00",
+    "tags": [
+      "december"
+    ]
+  },
+  {
+    "sourceId": "the-music-of-harry-potter-by-mystery-ensemble",
+    "title": "The Music of Harry Potter by Mystery Ensemble",
+    "description": "The enchanting music from the Harry Potter fantasy films in the atmospheric and historical Zuiderkerk.",
+    "url": "https://redevents.world/event/298-the-music-of-harry-potter-by-mystery-ensemble.html?date=2025-12-19%2020:00:00&utm_source=Amsterdamsights&utm_medium=referral&utm_campaign=Potter",
+    "dateText": "December 12, 19-20 2025",
+    "tags": [
+      "december"
+    ]
+  },
+  {
+    "sourceId": "chopin-champagne",
+    "title": "Chopin & Champagne",
+    "description": "Enjoy the masterpieces of Frédéric Chopin with pianist Anastasia Kenner—Kozhushko at the Vondelkerk.",
+    "url": "https://redevents.world/event/430-chopin-champagne.html?date=2025-12-27%2020:00:00&utm_source=Amsterdamsights&utm_medium=referral&utm_campaign=Chopin",
+    "dateText": "December 27, 2025",
+    "startDate": "2026-12-27T00:00:00",
+    "tags": [
+      "december"
+    ]
+  },
+  {
+    "sourceId": "amsterdam-light-festival",
+    "title": "Amsterdam Light Festival",
+    "description": "Walk or sail alongside light sculptures created by leading artists, beautifully illuminated buildings, bridges and boats and surprising light projections on buildings.",
+    "url": "https://www.amsterdamsights.com/events/amsterdam-light-festival.html",
+    "dateText": "November 27, 2025 - January 18, 2026",
+    "startDate": "2026-11-27T00:00:00",
+    "endDate": "2027-01-18T00:00:00",
+    "tags": [
+      "december"
+    ]
+  },
+  {
+    "sourceId": "het-amsterdamse-winterparadijs",
+    "title": "Het Amsterdamse Winterparadijs",
+    "description": "The Ultimate Winter Experience with an indoor and outdoor skating rink, toboggan (sledding), cross-country skiing, snowball fight, cinema, curling, Ferris wheel, carousel, Christmas market, theatre, après-ski, and more.",
+    "url": "https://hetamsterdamsewinterparadijs.nl/",
+    "dateText": "December 13, 2025 - January 3, 2026",
+    "startDate": "2026-12-13T00:00:00",
+    "endDate": "2027-01-03T00:00:00",
+    "tags": [
+      "december"
+    ]
+  },
+  {
+    "sourceId": "the-nutcracker-and-the-mouse-king",
+    "title": "The Nutcracker and the Mouse King",
+    "description": "A magical fairy-tale world with music from Tchaikovsky by the Dutch National Ballet.",
+    "url": "https://www.operaballet.nl/en/dutch-national-ballet/2024-2025/nutcracker-and-mouse-king",
+    "dateText": "December 12, 2025 - January 2, 2026",
+    "startDate": "2026-12-12T00:00:00",
+    "endDate": "2027-01-02T00:00:00",
+    "tags": [
+      "december"
+    ]
+  },
+  {
+    "sourceId": "world-christmas-circus",
+    "title": "World Christmas Circus",
+    "description": "Traditional circus show in the famous Royal Theatre Carré, originally designed as a circus theatre, with acrobats, clowns and spectacular horse acts with dazzling jumps and somersaults on horseback.",
+    "url": "https://carre.nl/en/show/worldchristmascircus-2526",
+    "dateText": "December 17, 2025 - January 4, 2026",
+    "startDate": "2026-12-17T00:00:00",
+    "endDate": "2027-01-04T00:00:00",
+    "tags": [
+      "december"
+    ]
+  },
+  {
+    "sourceId": "holiday-on-ice",
+    "title": "Holiday on Ice",
+    "description": "World-famous live-entertainment ice show, known for its spectacular figure skating, vibrant, eye-catching costumes, and special lighting and video effects.",
+    "url": "https://holidayonice.com/",
+    "dateText": "December 25-28, 2025",
+    "startDate": "2026-12-25T00:00:00",
+    "endDate": "2026-12-28T00:00:00",
+    "tags": [
+      "december"
+    ]
+  },
+  {
+    "sourceId": "new-year-s-eve",
+    "title": "New Year's Eve",
+    "description": "Admire the fireworks and celebrate Oud en Nieuw (New Year's Eve) with the Amsterdammers. Or visit a NYE party or event in nearly every club, restaurant, bar or hotel.",
+    "url": "https://www.amsterdamsights.com/events/nye.html",
+    "dateText": "December 31",
+    "tags": [
+      "december"
+    ]
+  }
+]

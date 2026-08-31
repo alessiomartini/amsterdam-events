@@ -31,8 +31,12 @@ const RULES: Rule[] = [
     keywords: /\b(techno|house|dj set|club night|rave|electronic music|drum ?&? ?bass|dnb)\b/i,
   },
   {
+    // Deliberately doesn't match bare "museum"/"gallery"/"exhibition" —
+    // those alone don't mean free (see amsterdamsights-exhibitions, which
+    // lists paid museum shows). Only an explicit free-entry signal, or a
+    // museum/gallery keyword combined with event.isFree below, counts.
     category: "free-museum",
-    keywords: /\b(museum|gallery|expositie|exhibition|free entry|gratis toegang|museumnacht)\b/i,
+    keywords: /\b(free entry|free admission|free museum|gratis toegang|museumnacht)\b/i,
   },
   {
     category: "demonstration",
@@ -68,7 +72,10 @@ export function categorize(source: SourceId, event: RawEvent): Category[] {
     if (rule.keywords.test(haystack)) categories.add(rule.category);
   }
 
-  if (event.isFree) categories.add("free-entry");
+  if (event.isFree) {
+    categories.add("free-entry");
+    if (/\b(museum|gallery|expositie|exhibition)\b/i.test(haystack)) categories.add("free-museum");
+  }
 
   if (categories.size === 0) categories.add("other");
   return [...categories];

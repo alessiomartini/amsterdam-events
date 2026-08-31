@@ -16,8 +16,10 @@ from several source websites into one filterable static site.
 | Eventbrite | official Events API, `location.address=Amsterdam` | ❌ excluded — API confirms `/events/search/` no longer exists for third-party tokens | (keyword-based) |
 | Resident Advisor — Amsterdam | https://ra.co/events/nl/amsterdam | ❌ excluded — real CAPTCHA (DataDome) | Clubbing / electronic |
 | Resident Advisor — promoter 117681 | https://ra.co/promoters/117681/events | ❌ excluded — real CAPTCHA (DataDome) | Clubbing / electronic |
-| AmsterdamSights free events | https://www.amsterdamsights.com/events/free-events.html | ❌ excluded from automated scraping — Cloudflare blocks it outright | (keyword-based) |
-| AmsterdamSights (curated recurring activities) | https://www.amsterdamsights.com/events/free-events.html | ✅ manually curated — hand-transcribed, not scraped, see note below | (keyword-based, `isFree` always `true`) |
+| AmsterdamSights (any page) | https://www.amsterdamsights.com/events/ | ❌ excluded from automated scraping — Cloudflare blocks it outright | — |
+| AmsterdamSights (curated recurring activities) | https://www.amsterdamsights.com/events/free-events.html | ✅ manually curated — transcribed from a page save, not scraped, see note below | (keyword-based, `isFree` always `true`) |
+| AmsterdamSights (curated exhibitions) | https://www.amsterdamsights.com/events/exhibitions.html | ✅ manually curated — transcribed from a page save, not scraped, see note below | (keyword-based) |
+| AmsterdamSights (curated events calendar) | https://www.amsterdamsights.com/events/{september,october,november,december}.html | ✅ manually curated — transcribed from page saves, not scraped, see note below | (keyword-based) |
 | I amsterdam (official tourism board) | https://www.iamsterdam.com/en/whats-on/calendar | ✅ working — replacement for AmsterdamSights | (keyword-based, `isFree` from a "free" tag) |
 
 Every event also gets keyword-based categories on top of the source default
@@ -171,22 +173,59 @@ equivalent found yet — if there's a specific venue or promoter behind
 replacement source for (their own site, or wherever else they list their
 own nights), rather than a generic RA substitute.
 
-**AmsterdamSights' "Free Events" page is also covered by a manually
-curated source, `src/scrapers/amsterdamsights-manual.ts`, alongside the
-iamsterdam.com replacement above.** Checking its actual content (not just
-its bot protection) showed it isn't a dated event calendar at all — it's a
-small, evergreen list of standing free activities around the city (a free
-cross-IJ ferry, weekly park yoga, a recurring free jazz session, museum
-gardens open to the public, and so on) that barely changes over time. That
-makes it a bad fit for iamsterdam.com's dated-calendar format but a
-reasonable fit for hand-curation instead of scraping: the list was read
-once, legitimately, via a public Wayback Machine snapshot
-(`web.archive.org`, not the live protected site) and transcribed directly
-into that file as a hardcoded array of 19 events. It is **not**
-auto-updated by any scraper or CI job — if it goes stale, re-check the
-source page (or a fresh archive snapshot) and edit the file by hand. The
-file's own doc comment records when it was last verified against which
-snapshot.
+**AmsterdamSights itself is also covered, in full, by three manually
+curated sources** (`amsterdamsights-manual`, `amsterdamsights-exhibitions`,
+`amsterdamsights-events`), alongside the iamsterdam.com replacement above.
+The site is still never scraped live — instead, the user opened its three
+event pages (free events, exhibitions, and the September–December monthly
+calendars) in a real browser, saved the resulting HTML locally, and handed
+those saved files over. A one-off local script
+(`src/data/amsterdamsights-*.json` + the three
+`src/scrapers/amsterdamsights-*.ts` wrappers that just return that JSON)
+parsed the saved markup — no network request involved, nothing to bypass.
+This supersedes an earlier, smaller version of this idea that hand-typed 19
+events read off a Wayback Machine snapshot of just the free-events page;
+that approach is now replaced by parsing the user's own page saves, which
+cover more of the site and are more complete/accurate than manual
+transcription.
+
+The three sources split along the site's own content types:
+
+- **`amsterdamsights-manual`** — the "Free Events" page: a small, evergreen
+  list of standing free activities (a free cross-IJ ferry, weekly park
+  yoga, a recurring free jazz session, museum gardens open to the public,
+  ...). No real dates, `isFree` is always `true`.
+- **`amsterdamsights-exhibitions`** — current/upcoming museum and gallery
+  shows, most with a real start/end date. Exhibitions aren't free by
+  default (the old keyword rule tagging anything mentioning "museum" or
+  "exhibition" as free-museum was wrong for these — see the
+  `src/lib/categorize.ts` fix below), and one where the exhibition had
+  already opened before the parse's reference date but runs past it is
+  treated as **currently ongoing** (dropped `startDate`, kept `endDate`)
+  instead of getting sorted to the very top under a stale past date.
+- **`amsterdamsights-events`** — the September–December "Events by Month"
+  calendars: festivals, fairs, concerts, sports fixtures, one-off and
+  annual happenings. Many are annual events the site lists with *last
+  year's* specific date on the page for their upcoming occurrence (e.g.
+  "September 18-21, 2025" shown on the September page ahead of that
+  September) — the parse step rolls those forward by whole years so they
+  land on their real next occurrence instead of showing as already past.
+  A few entries only ever had vague text ("end August-end April", "eve of
+  December 5") and keep their `dateText` with no computed `startDate`.
+  Only September through December are covered — the months the user
+  provided; there's no data for the rest of the year.
+
+None of this is auto-updated by any scraper or CI job — if it goes stale,
+save fresh copies of the pages and re-run the parse. Each scraper file's
+own doc comment records when it was last refreshed.
+
+**`src/lib/categorize.ts`'s `free-museum` rule was narrowed while adding
+this data.** It used to fire on any bare "museum"/"gallery"/"exhibition"
+keyword, which was fine while every source mentioning a museum happened to
+also be free, but the new exhibitions source is full of paid museum shows
+that keyword would have mislabeled as free. The rule now requires an
+explicit free-entry phrase, or a museum/gallery/exhibition keyword
+combined with `event.isFree` being true.
 
 If a working scraper stops finding events (a source redesigned its site),
 re-run the same debug-fetch workflow against `main` to get fresh HTML and

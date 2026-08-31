@@ -1,0 +1,154 @@
+[
+  {
+    "sourceId": "flamingos-and-spoonbills",
+    "title": "Flamingos and spoonbills",
+    "description": "Sneak a peek at the pink flamingos and white spoonbills at Artisplein, a freely accessible square next to the entrance to the zoo.",
+    "url": "https://www.amsterdamsights.com/attractions/artis.html",
+    "dateText": "Always accessible",
+    "isFree": true
+  },
+  {
+    "sourceId": "melkweg-expo",
+    "title": "Melkweg Expo",
+    "description": "Visit an exhibition of innovative contemporary photography in a casual way. Free entrance via MILK café.",
+    "url": "https://www.amsterdamsights.com/nightlife/melkweg.html#expo",
+    "dateText": "from Tuesday to Sunday from 11:00 to 23:00",
+    "isFree": true
+  },
+  {
+    "sourceId": "rijksmuseum-gardens",
+    "title": "Rijksmuseum Gardens",
+    "description": "The Rijksmuseum's gardens are a veritable oasis in which to peacefully enjoy nature at its most beautiful.",
+    "url": "https://www.rijksmuseum.nl/en/visit/inside-the-museum/rijksmuseum-gardens",
+    "dateText": "daily from 9:00 to 18:00",
+    "isFree": true
+  },
+  {
+    "sourceId": "lunchtime-concerts",
+    "title": "Lunchtime Concerts",
+    "description": "Free lunch concerts in the beautiful Main Hall of The Concertgebouw.",
+    "url": "https://www.amsterdamsights.com/nightlife/concertgebouw.html#lunchconcert",
+    "dateText": "usually on Wednesdays at 12:30",
+    "isFree": true
+  },
+  {
+    "sourceId": "vondelpark-open-air-theater",
+    "title": "Vondelpark Open Air Theater",
+    "description": "Free dance, music and cabaret performances in the park's band shell.",
+    "url": "https://www.openluchttheater.nl/",
+    "dateText": "every weekend from May to September",
+    "isFree": true
+  },
+  {
+    "sourceId": "civic-guards-gallery",
+    "title": "Civic Guards Gallery",
+    "description": "A public passage-way in the old centre of Amsterdam with enormous group portraits of civic guards from the 17th century. Also the world famous 370-year-old wooden Goliath and David can be found in this 'museum street'.",
+    "url": "https://www.amsterdamsights.com/attractions/schuttersgalerij.html",
+    "dateText": "each day from 10:00 to 17:00",
+    "isFree": true
+  },
+  {
+    "sourceId": "yoga-class-in-the-park",
+    "title": "Yoga class in the park",
+    "description": "Bring a yoga mat or a towel and show up for an hour of yoga at the beautiful Oosterpark. Led by qualified yoga instructors in English.",
+    "url": "https://balanzs.nl/en/iedereen-in-balanzs/",
+    "dateText": "every Sunday at 10:30 from May to September",
+    "isFree": true
+  },
+  {
+    "sourceId": "nemo-s-panorama-terrace",
+    "title": "NEMO's Panorama Terrace",
+    "description": "The NEMO panorama terrace is a 22m high roof and can be reached by climbing up the steps of the building – this is freely accessible to the public so there is no need to pay entrance fee to .",
+    "url": "https://www.amsterdamsights.com/attractions/nemo.html",
+    "dateText": "during NEMO opening hours daily from 10:00 to 17:30",
+    "isFree": true
+  },
+  {
+    "sourceId": "begijnhof",
+    "title": "Begijnhof",
+    "description": "An enclosed courtyard with 2 churches and charming houses dating from the early 14th century.",
+    "url": "https://www.amsterdamsights.com/attractions/begijnhof.html",
+    "dateText": "opened each day from 9:00 to 17:00",
+    "isFree": true
+  },
+  {
+    "sourceId": "cross-the-ij-river-by-ferry",
+    "title": "Cross the IJ River by Ferry",
+    "description": "Get onboard of one of the free ferries to cross the IJ River and enjoy the breathtaking view of the former city border and old docklands.",
+    "url": "https://www.amsterdamsights.com/about/ferries.html",
+    "dateText": "24 hours a day, different ferry links",
+    "isFree": true
+  },
+  {
+    "sourceId": "free-tour-of-amsterdam",
+    "title": "Free Tour of Amsterdam",
+    "description": "2½-hour walking tour with an expert guide covering the main sights in the inner city.",
+    "url": "https://www.amsterdamsights.com/excursions/freetourofamsterdam.html",
+    "dateText": "every day from 10:00 to 15:00",
+    "isFree": true
+  },
+  {
+    "sourceId": "free-organ-concert",
+    "title": "Free Organ Concert",
+    "description": "Students of the Conservatory of Amsterdam play the extraordinary Müller organ (from 1734) in .",
+    "url": "https://www.amsterdamsights.com/attractions/waalsekerk.html#concert",
+    "dateText": "every 2nd Tuesday of the month from 12:00 to 12:30",
+    "isFree": true
+  },
+  {
+    "sourceId": "friday-night-skate",
+    "title": "Friday Night Skate",
+    "description": "Skate tour through the streets of Amsterdam",
+    "url": "https://www.fridaynightskate.com/",
+    "dateText": "each Friday at 20:15 when the streets are dry",
+    "isFree": true
+  },
+  {
+    "sourceId": "amsterdam-city-archives",
+    "title": "Amsterdam City Archives",
+    "description": "Browse the city archives of the council, or watch old historic movies of Amsterdam, or see personal objects on display of famous Amsterdammers, like Johan Cruijff and Anne Frank. Housed in an impressive building.",
+    "url": "https://www.amsterdamsights.com/museums/stadsarchief.html",
+    "dateText": "closed on Mondays",
+    "isFree": true
+  },
+  {
+    "sourceId": "free-guided-diamond-tour",
+    "title": "Free Guided Diamond Tour",
+    "description": "Learn about the 4 C's of diamond valuation, the origin of diamonds and see craftsmen at work. Tours available in more than 15 languages.",
+    "url": "https://www.amsterdamsights.com/attractions/diamonds.html",
+    "dateText": "every day from 9:00 to 16:30",
+    "isFree": true
+  },
+  {
+    "sourceId": "choral-evensong",
+    "title": "Choral Evensong",
+    "description": "Take a break from the bustling city to enjoy a traditional Choral Evensong in the tranquil settings of the beautiful",
+    "url": "https://www.amsterdamsights.com/attractions/stnicolaaskerk.html#evensong",
+    "dateText": "every Saturday at 17:00 from September to June",
+    "isFree": true
+  },
+  {
+    "sourceId": "free-jazz-session",
+    "title": "Free Jazz Session",
+    "description": "Every Tuesday night, both musicians and audience have free admission to a workshop on the stage (at 20:00) and a session (at 22:00) at the café.",
+    "url": "https://www.amsterdamsights.com/nightlife/bimhuis.html#tuesday-jam",
+    "dateText": "every Tuesday from September to June",
+    "isFree": true
+  },
+  {
+    "sourceId": "botanic-garden-zuidas",
+    "title": "Botanic garden Zuidas",
+    "description": "Watch cactus plants of more than 100 years old, or visit the Chinese Penjing Garden in this small but charming botanical garden near VU Amsterdam.",
+    "url": "https://botanischetuinzuidas.nl/english/",
+    "dateText": "every workday from 9:00 to 17:00",
+    "isFree": true
+  },
+  {
+    "sourceId": "musical-treat-during-lunch-break",
+    "title": "Musical Treat during Lunch Break",
+    "description": "Almost every Tuesday at 12:30 you can enjoy a free lunch concert in the foyer of .",
+    "url": "https://www.operaballet.nl/en/doublebill/2019-2020/show/lunch-concerts",
+    "dateText": "on Tuesday at 12:30 (doors open at 12:15) from September to May",
+    "isFree": true
+  }
+]
