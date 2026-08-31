@@ -10,6 +10,10 @@
   --chip-bg: #f0efe9;
   --chip-active-bg: #1a1a1a;
   --chip-active-text: #ffffff;
+  --free-bg: #e3f3e6;
+  --free-text: #1f7a3d;
+  --price-bg: #f0efe9;
+  --price-text: #4a4740;
   --font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
 }
 
@@ -25,6 +29,10 @@
     --chip-bg: #2a2932;
     --chip-active-bg: #f2f0eb;
     --chip-active-text: #16151a;
+    --free-bg: #1c3324;
+    --free-text: #7ad999;
+    --price-bg: #2a2932;
+    --price-text: #cbc8c2;
   }
 }
 
@@ -176,10 +184,45 @@ main {
   white-space: nowrap;
 }
 
+.card-meta-row {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 0.4rem 0 0;
+}
+
 .card-meta {
-  margin: 0.3rem 0 0;
   font-size: 0.88rem;
   color: var(--text-muted);
+}
+
+.price-badge {
+  font-size: 0.72rem;
+  font-weight: 600;
+  padding: 0.15rem 0.55rem;
+  border-radius: 999px;
+  white-space: nowrap;
+}
+
+.price-badge.free {
+  background: var(--free-bg);
+  color: var(--free-text);
+}
+
+.price-badge.paid {
+  background: var(--price-bg);
+  color: var(--price-text);
+}
+
+.card-description {
+  margin: 0.4rem 0 0;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 
 .card-tags {

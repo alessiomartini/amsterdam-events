@@ -171,12 +171,28 @@ function renderCard(event) {
   }
   a.appendChild(top);
 
-  const metaParts = [event.venue, event.price ?? (event.isFree ? "Free" : null)].filter(Boolean);
-  if (metaParts.length) {
-    const meta = document.createElement("p");
-    meta.className = "card-meta";
-    meta.textContent = metaParts.join(" · ");
-    a.appendChild(meta);
+  const priceBadge = renderPriceBadge(event);
+  const metaParts = [event.venue, event.address && event.address !== event.venue ? event.address : null].filter(
+    Boolean,
+  );
+  if (priceBadge || metaParts.length) {
+    const metaRow = document.createElement("div");
+    metaRow.className = "card-meta-row";
+    if (priceBadge) metaRow.appendChild(priceBadge);
+    if (metaParts.length) {
+      const meta = document.createElement("span");
+      meta.className = "card-meta";
+      meta.textContent = metaParts.join(" · ");
+      metaRow.appendChild(meta);
+    }
+    a.appendChild(metaRow);
+  }
+
+  if (event.description) {
+    const desc = document.createElement("p");
+    desc.className = "card-description";
+    desc.textContent = event.description;
+    a.appendChild(desc);
   }
 
   const tags = document.createElement("div");
@@ -194,6 +210,28 @@ function renderCard(event) {
   a.appendChild(tags);
 
   return a;
+}
+
+/** A green "Free" pill when we know the event is free, or a price pill when we know it isn't. Nothing when we don't know either way. */
+function renderPriceBadge(event) {
+  const badge = document.createElement("span");
+  if (event.isFree) {
+    badge.className = "price-badge free";
+    badge.textContent = "Free";
+    return badge;
+  }
+  if (event.price && !/^free$/i.test(event.price)) {
+    badge.className = "price-badge paid";
+    badge.textContent = formatPrice(event.price);
+    return badge;
+  }
+  return null;
+}
+
+/** Some sources give a bare number ("18") with no currency; assume EUR (all sources are Amsterdam-based) and add the symbol. */
+function formatPrice(price) {
+  const trimmed = price.trim();
+  return /^\d+([.,]\d+)?$/.test(trimmed) ? `€${trimmed}` : trimmed;
 }
 
 init();
