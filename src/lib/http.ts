@@ -1,5 +1,10 @@
+// A generic "bot" UA gets flat-out rejected (403/405) by ra.co and
+// Eventbrite's bot protection — verified against real responses from CI.
+// A realistic desktop-browser UA + Accept-Language at least gets past the
+// simplest WAF rules, though sites behind a JS challenge (e.g. Cloudflare)
+// will still block a plain HTTP fetch regardless of headers.
 const USER_AGENT =
-  "Mozilla/5.0 (compatible; amsterdam-events-bot/0.1; +https://github.com/)";
+  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36";
 
 export interface FetchTextOptions {
   headers?: Record<string, string>;
@@ -31,6 +36,7 @@ export async function fetchText(
         headers: {
           "User-Agent": USER_AGENT,
           Accept: "text/html,application/json,application/xml;q=0.9,*/*;q=0.8",
+          "Accept-Language": "en-US,en;q=0.9,nl;q=0.8",
           ...headers,
         },
         signal: controller.signal,

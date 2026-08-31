@@ -11,11 +11,12 @@ describe("categorize", () => {
     expect(categorize("jazzin", event({ title: "Anything" }))).toContain("jazz-live-music");
     expect(categorize("playpartners", event({ title: "Anything" }))).toContain("sex-positive");
     expect(categorize("ra-amsterdam", event({ title: "Anything" }))).toContain("clubbing-electronic");
+    expect(categorize("knit", event({ title: "Anything" }))).toContain("sex-positive");
   });
 
   it("matches keyword rules in title and description", () => {
     const cats = categorize(
-      "knit",
+      "radar-squat",
       event({ title: "Free museum night", description: "Gratis toegang tot het Stedelijk" }),
     );
     expect(cats).toContain("free-museum");
@@ -32,7 +33,7 @@ describe("categorize", () => {
   });
 
   it("falls back to other when nothing matches", () => {
-    const cats = categorize("knit", event({ title: "Untitled thing", description: "" }));
+    const cats = categorize("radar-squat", event({ title: "Untitled thing", description: "" }));
     expect(cats).toEqual(["other"]);
   });
 });

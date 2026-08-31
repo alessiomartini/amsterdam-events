@@ -8,6 +8,10 @@ const SOURCE_DEFAULTS: Partial<Record<SourceId, Category[]>> = {
   // data showed tagging everything "demonstration" was wrong. Let the
   // keyword rules below decide instead of defaulting the whole source.
   playpartners: ["sex-positive"],
+  // KNIT's own JSON-LD Organization data describes itself as "a
+  // community-led, sex positive event series ... House to techno" —
+  // verified against real markup.
+  knit: ["sex-positive", "clubbing-electronic"],
   "ra-amsterdam": ["clubbing-electronic"],
   "ra-promoter": ["clubbing-electronic"],
 };
