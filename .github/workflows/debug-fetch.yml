@@ -16,6 +16,7 @@ jobs:
           node-version: 20
           cache: "npm"
       - run: npm ci
+      - run: npx playwright install --with-deps chromium
       - run: npx tsx scripts/debug-fetch.ts
       - name: Commit raw HTML to this branch
         run: |
