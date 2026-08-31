@@ -3,7 +3,10 @@ import type { Category, RawEvent, SourceId } from "../types.js";
 /** Default categories to apply for every event from a given source, before keyword rules run. */
 const SOURCE_DEFAULTS: Partial<Record<SourceId, Category[]>> = {
   jazzin: ["jazz-live-music"],
-  "radar-squat": ["demonstration"],
+  // radar.squat.net hosts a broad mix (yoga, communal meals, film nights,
+  // gigs, workshops, and occasional actual demonstrations) — real scrape
+  // data showed tagging everything "demonstration" was wrong. Let the
+  // keyword rules below decide instead of defaulting the whole source.
   playpartners: ["sex-positive"],
   "ra-amsterdam": ["clubbing-electronic"],
   "ra-promoter": ["clubbing-electronic"],
