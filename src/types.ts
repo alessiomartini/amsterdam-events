@@ -47,7 +47,8 @@ export type SourceId =
   | "playpartners"
   | "eventbrite"
   | "ra-amsterdam"
-  | "ra-promoter";
+  | "ra-promoter"
+  | "iamsterdam";
 
 export interface ScrapeResult {
   source: SourceId;

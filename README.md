@@ -17,6 +17,7 @@ from several source websites into one filterable static site.
 | Resident Advisor — Amsterdam | https://ra.co/events/nl/amsterdam | ❌ excluded — real CAPTCHA (DataDome) | Clubbing / electronic |
 | Resident Advisor — promoter 117681 | https://ra.co/promoters/117681/events | ❌ excluded — real CAPTCHA (DataDome) | Clubbing / electronic |
 | AmsterdamSights free events | https://www.amsterdamsights.com/events/free-events.html | ❌ excluded — Cloudflare blocks it outright | (keyword-based) |
+| I amsterdam (official tourism board) | https://www.iamsterdam.com/en/whats-on/calendar | ✅ working — replacement for AmsterdamSights | (keyword-based, `isFree` from a "free" tag) |
 
 Every event also gets keyword-based categories on top of the source default
 (see `src/lib/categorize.ts`), so a jazz gig on Eventbrite still lands under
@@ -67,7 +68,7 @@ HTML for a set of source URLs and commits it to a throwaway branch, which was
 then read back through the GitHub API (which isn't blocked) to find the real
 markup and write correct selectors against it — instead of guessing.
 
-That's how the five working scrapers above were verified, and how the
+That's how the six working scrapers above were verified, and how the
 exclusions below were diagnosed precisely instead of guessed at.
 Each working scraper uses the most robust strategy available for its
 platform:
@@ -145,6 +146,29 @@ behavior is consistent with Cloudflare actively refusing automated/headless
 traffic rather than a lightweight check passable by "act like a real
 browser." Same boundary as RA: not something this project tries to force
 past.
+
+**AmsterdamSights and RA.co are replaced/covered by alternative sources
+where a legitimate one exists, never by forcing past their protection.**
+When asked to include them anyway, the approach was: (1) check whether
+either publishes a real RSS/iCal feed — a handful of conventional feed
+URLs were tried live in CI and none exist (all 404, or still hit the same
+block, confirming there's no publisher-intended syndication endpoint being
+missed); (2) look for a *different* site that legitimately carries
+similar events. For AmsterdamSights (general "free things to do in
+Amsterdam"), that turned out to be **iamsterdam.com**, the city's own
+official tourism board site — verified to have zero bot protection, and
+its `/whats-on/calendar` page server-renders full event cards (title,
+venue, date text, and a tag list that includes a literal `free` token) in
+the initial HTML, no separate API call needed (confirmed by capturing the
+page's actual network requests in a real browser — legitimate here since
+there's nothing to bypass, the site is fully open; it's just how the
+data's shape was found). That scraper is `src/scrapers/iamsterdam.ts`; for
+now it covers only the first page of the calendar, not further pagination.
+RA.co's specific promoter/club-night content has no publicly-documented
+equivalent found yet — if there's a specific venue or promoter behind
+`ra.co/promoters/117681`, that's the concrete thing to go find a
+replacement source for (their own site, or wherever else they list their
+own nights), rather than a generic RA substitute.
 
 If a working scraper stops finding events (a source redesigned its site),
 re-run the same debug-fetch workflow against `main` to get fresh HTML and
