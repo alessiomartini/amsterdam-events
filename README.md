@@ -10,12 +10,12 @@ from several source websites into one filterable static site.
 | --- | --- | --- | --- |
 | Jazzin' Amsterdam | https://jazzin.amsterdam/ | ✅ working | Jazz & live music |
 | Radar (squat.net) | https://radar.squat.net/en/events/city/Amsterdam | ✅ working | (keyword-based) |
-| Pluk de Liefde | https://www.plukdeliefde.nl/agenda/ | ⚠️ intermittent (HTTP 403, likely bot-protection triggered by the realistic browser UA or GitHub Actions' shared IP range) | (keyword-based) |
+| Pluk de Liefde | https://www.plukdeliefde.nl/agenda/ | ✅ working, filtered to Amsterdam | (keyword-based) |
 | Knit Amsterdam | https://knit.amsterdam/events | ✅ working | Sex-positive, clubbing |
 | Play Partners | https://www.playpartners.nl/events | ✅ working, filtered to Amsterdam | Sex-positive |
-| Eventbrite | search URLs in `src/scrapers/eventbrite.ts` | ⚠️ blocked (HTTP 405, bot protection) | (keyword-based) |
-| Resident Advisor — Amsterdam | https://ra.co/events/nl/amsterdam | ⚠️ blocked (HTTP 403, bot protection) | Clubbing / electronic |
-| Resident Advisor — promoter 117681 | https://ra.co/promoters/117681/events | ⚠️ blocked (HTTP 403, bot protection) | Clubbing / electronic |
+| Eventbrite | search URLs in `src/scrapers/eventbrite.ts` | ❌ excluded — real CAPTCHA (AWS WAF "Human Verification") | (keyword-based) |
+| Resident Advisor — Amsterdam | https://ra.co/events/nl/amsterdam | ❌ excluded — real CAPTCHA (DataDome) | Clubbing / electronic |
+| Resident Advisor — promoter 117681 | https://ra.co/promoters/117681/events | ❌ excluded — real CAPTCHA (DataDome) | Clubbing / electronic |
 
 Every event also gets keyword-based categories on top of the source default
 (see `src/lib/categorize.ts`), so a jazz gig on Eventbrite still lands under
@@ -66,8 +66,10 @@ HTML for a set of source URLs and commits it to a throwaway branch, which was
 then read back through the GitHub API (which isn't blocked) to find the real
 markup and write correct selectors against it — instead of guessing.
 
-That's how the six working scrapers above were verified. Each uses the most
-robust strategy available for its platform:
+That's how the five working scrapers above were verified, and how the two
+bot-protection blocks below were diagnosed precisely instead of guessed at.
+Each working scraper uses the most robust strategy available for its
+platform:
 
 1. **A known public API**, where confidently identified — none of the
    current sources turned out to have one; the original guess that
@@ -89,22 +91,33 @@ robust strategy available for its platform:
    (WordPress "Content Views" plugin, `.pt-cv-content-item` with Dutch-
    language date custom fields).
 
-**Eventbrite and Resident Advisor (both RA scrapers) are blocked by bot
-protection** — a plain HTTP fetch gets HTTP 405 / 403 even with a realistic
-browser User-Agent and `Accept-Language` header (see `src/lib/http.ts`).
-Both would need a real headless browser (e.g. Playwright) to get past a JS
-challenge, which wasn't added here to keep the CI pipeline lightweight —
-this is a known gap, not a silent failure: `npm run scrape`'s summary output
-and the scrapers' own `console.warn` calls call it out every run.
+**Pluk de Liefde's HTTP 403 was a User-Agent problem, now fixed.** A
+side-by-side CI test showed the generic self-identifying bot UA
+(`fetchText`'s default) getting a clean 200, while a realistic desktop-Chrome
+UA got flatly rejected — the opposite of the usual assumption. Its WAF most
+likely flags that specific "fake browser" UA string precisely because real
+Chrome would also send matching `sec-ch-ua` client-hints headers alongside
+it, which a plain `fetch()` doesn't; an honestly-labeled bot UA doesn't trip
+that rule. `src/lib/http.ts` was reverted to the honest UA.
 
-**Pluk de Liefde is intermittently blocked (HTTP 403)** too — it returned a
-normal 200 when fetched once for debugging, but 403 on the very next real
-scrape run with the same code. This looks like bot-protection that's either
-sensitive to request volume/rate (GitHub Actions runners share IP ranges
-with many other users, which commonly trips WAFs) or reacts to the specific
-realistic-Chrome User-Agent string. If it keeps failing, try a distinct
-User-Agent for just this source, or add a delay/retry-with-backoff before
-it in `src/scrapers/index.ts`.
+**Eventbrite and Resident Advisor (both RA scrapers) are excluded on
+purpose — they sit behind real, interactive bot-verification, not just a
+header check.** Rendering both in a real headless Chromium (Playwright)
+confirmed this precisely instead of guessing:
+
+- `ra.co` returns a **DataDome CAPTCHA** iframe (`geo.captcha-delivery.com`).
+- Eventbrite returns an **AWS WAF "Human Verification"** challenge page.
+
+Both are designed to stop exactly this kind of automated access. Getting
+past either would mean automating a CAPTCHA solve, which this project
+deliberately does not do — it's a step past "resilient scraping" into
+circumventing a site's security controls, likely in violation of its Terms
+of Service. That's a hard boundary, not a missing feature: `npm run
+scrape`'s summary output and each scraper's own `console.warn` call this out
+clearly every run rather than failing silently. If Eventbrite coverage
+matters, the compliant path is its official Events API (a free developer
+API key from an Eventbrite account) rather than scraping around its WAF; RA
+has no equivalent official API for this use case.
 
 If a working scraper stops finding events (a source redesigned its site),
 re-run the same debug-fetch workflow against `main` to get fresh HTML and
@@ -119,7 +132,7 @@ pipeline (types, categorization, dedup, frontend) needs to change.
 - **Add/adjust categories**: edit `CATEGORIES` in `src/types.ts` and the
   rules in `src/lib/categorize.ts` (source defaults + keyword regexes), and
   add a label in `web/app.js`'s `CATEGORY_LABELS`.
-- **More Eventbrite searches**: add more search-result URLs to
-  `SEARCH_URLS` in `src/scrapers/eventbrite.ts` (e.g. free live-music
-  events, free outdoor events) — won't help until the bot-protection issue
-  above is solved, though.
+- **Eventbrite via its official API**: if you get a developer API key,
+  replace `src/scrapers/eventbrite.ts`'s scraping logic with calls to
+  Eventbrite's Events API instead — that's the supported way to get its
+  data and sidesteps the WAF entirely.

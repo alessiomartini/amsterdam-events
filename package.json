@@ -13,8 +13,7 @@
   },
   "dependencies": {
     "cheerio": "^1.0.0",
-    "ical.js": "^2.1.0",
-    "playwright": "^1.48.0"
+    "ical.js": "^2.1.0"
   },
   "devDependencies": {
     "@types/node": "^22.10.2",

@@ -1,10 +1,11 @@
-// A generic "bot" UA gets flat-out rejected (403/405) by ra.co and
-// Eventbrite's bot protection — verified against real responses from CI.
-// A realistic desktop-browser UA + Accept-Language at least gets past the
-// simplest WAF rules, though sites behind a JS challenge (e.g. Cloudflare)
-// will still block a plain HTTP fetch regardless of headers.
+// Counterintuitively, a generic self-identifying "bot" UA works better
+// than a realistic desktop-Chrome UA for plukdeliefde.nl — verified
+// against real responses from CI: the Chrome UA got a flat HTTP 403 while
+// this one gets 200. Likely its WAF flags a common "fake browser" UA
+// string that lacks the client-hints headers a real Chrome would send
+// alongside it, whereas an honest bot UA doesn't trip that specific rule.
 const USER_AGENT =
-  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36";
+  "Mozilla/5.0 (compatible; amsterdam-events-bot/0.1; +https://github.com/)";
 
 export interface FetchTextOptions {
   headers?: Record<string, string>;
