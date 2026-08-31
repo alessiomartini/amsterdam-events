@@ -16,6 +16,7 @@ from several source websites into one filterable static site.
 | Eventbrite | official Events API, `location.address=Amsterdam` | ⏸️ needs `EVENTBRITE_API_TOKEN` (see below) | (keyword-based) |
 | Resident Advisor — Amsterdam | https://ra.co/events/nl/amsterdam | ❌ excluded — real CAPTCHA (DataDome) | Clubbing / electronic |
 | Resident Advisor — promoter 117681 | https://ra.co/promoters/117681/events | ❌ excluded — real CAPTCHA (DataDome) | Clubbing / electronic |
+| AmsterdamSights free events | https://www.amsterdamsights.com/events/free-events.html | ❌ excluded — Cloudflare blocks it outright | (keyword-based) |
 
 Every event also gets keyword-based categories on top of the source default
 (see `src/lib/categorize.ts`), so a jazz gig on Eventbrite still lands under
@@ -137,6 +138,17 @@ reasons of their own; if a valid token still gets an error back, the API's
 own error message is logged verbatim (`[eventbrite] API error: ...`) so
 it's clear whether it's an auth problem or an access restriction on
 Eventbrite's side rather than a bug here.
+
+**AmsterdamSights is also excluded — Cloudflare blocks it outright, not
+just a quick automated check.** A plain fetch gets Cloudflare's "Just a
+moment..." interstitial (HTTP 403); unlike a trivial JS challenge that a
+real browser resolves in a couple of seconds without any human involved,
+rendering the page in headless Chromium never even finished loading —
+`page.goto()` timed out after 30s waiting for the network to go idle. That
+behavior is consistent with Cloudflare actively refusing automated/headless
+traffic rather than a lightweight check passable by "act like a real
+browser." Same boundary as RA: not something this project tries to force
+past.
 
 If a working scraper stops finding events (a source redesigned its site),
 re-run the same debug-fetch workflow against `main` to get fresh HTML and
