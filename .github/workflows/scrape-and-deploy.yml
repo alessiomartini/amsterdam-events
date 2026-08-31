@@ -39,6 +39,8 @@ jobs:
       - run: npm run typecheck
 
       - name: Scrape sources
+        env:
+          EVENTBRITE_API_TOKEN: ${{ secrets.EVENTBRITE_API_TOKEN }}
         run: npm run scrape
 
       - name: Build static site

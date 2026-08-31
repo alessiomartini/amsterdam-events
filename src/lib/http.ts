@@ -43,13 +43,21 @@ export async function fetchText(
         signal: controller.signal,
       });
       if (!res.ok) {
-        throw new Error(`HTTP ${res.status} ${res.statusText} for ${url}`);
+        const bodyText = await res.text().catch(() => "");
+        const snippet = bodyText.slice(0, 300);
+        throw new Error(
+          `HTTP ${res.status} ${res.statusText} for ${url}${snippet ? ` — ${snippet}` : ""}`,
+        );
       }
       return await res.text();
     } catch (err) {
       lastError = err;
-      if (attempt < retries) {
+      const status = /^HTTP (\d{3})/.exec((err as Error).message)?.[1];
+      const isClientError = status && Number(status) >= 400 && Number(status) < 500;
+      if (attempt < retries && !isClientError) {
         await sleep(500 * 2 ** attempt);
+      } else if (isClientError) {
+        break;
       }
     } finally {
       clearTimeout(timeout);

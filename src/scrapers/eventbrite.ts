@@ -1,30 +1,113 @@
-import { fetchText } from "../lib/http.js";
-import { extractJsonLdEvents } from "../lib/jsonld.js";
+import { fetchJson } from "../lib/http.js";
 import type { RawEvent, ScrapeResult } from "../types.js";
 
-// One search URL per Eventbrite category/interest we care about. Add more
-// https://www.eventbrite.com/d/netherlands--amsterdam/... search URLs here
-// to widen coverage (e.g. free music, free outdoor events).
-const SEARCH_URLS = [
-  "https://www.eventbrite.com/d/netherlands--amsterdam/free--film-and-media--events/",
-];
+const API_BASE = "https://www.eventbriteapi.com/v3/events/search/";
+const MAX_PAGES = 5;
 
+interface EventbriteVenue {
+  name?: string;
+  address?: {
+    address_1?: string;
+    city?: string;
+    localized_address_display?: string;
+  };
+}
+
+interface EventbriteEvent {
+  id: string;
+  name?: { text?: string };
+  summary?: string;
+  description?: { text?: string };
+  url: string;
+  start?: { utc?: string; local?: string };
+  end?: { utc?: string; local?: string };
+  is_free?: boolean;
+  logo?: { url?: string };
+  venue?: EventbriteVenue;
+}
+
+interface EventbriteSearchResponse {
+  events?: EventbriteEvent[];
+  pagination?: { has_more_items?: boolean; continuation?: string };
+  error?: string;
+  error_description?: string;
+}
+
+/**
+ * Uses Eventbrite's official Events API instead of scraping search-result
+ * pages — the compliant path, since eventbrite.com itself sits behind an
+ * AWS WAF "Human Verification" challenge (see README). Requires a Personal
+ * OAuth Token from https://www.eventbrite.com/platform/api-keys, supplied
+ * via the EVENTBRITE_API_TOKEN environment variable (a GitHub Actions
+ * secret in CI). Without a token, this scraper is skipped, not failed.
+ *
+ * Note: Eventbrite has restricted public event-search access for
+ * third-party API keys in the past (some tokens get a 404/"not authorized"
+ * on this endpoint even when valid) — if that happens here, the error
+ * message from the API is logged as-is so it's clear whether it's an auth
+ * problem or a genuine access restriction.
+ */
 export async function scrape(): Promise<ScrapeResult> {
-  const events: RawEvent[] = [];
-  for (const url of SEARCH_URLS) {
-    try {
-      const html = await fetchText(url);
-      const found = extractJsonLdEvents(html, url);
-      if (found.length === 0) {
-        console.warn(
-          `[eventbrite] No JSON-LD Event data found on ${url}. Eventbrite search ` +
-            `pages may need a bespoke scraper — inspect the live HTML.`,
-        );
-      }
-      events.push(...found);
-    } catch (err) {
-      console.warn(`[eventbrite] Failed to fetch ${url}: ${(err as Error).message}`);
-    }
+  const token = process.env.EVENTBRITE_API_TOKEN;
+  if (!token) {
+    console.warn(
+      "[eventbrite] EVENTBRITE_API_TOKEN not set — skipping. See README for how to get one.",
+    );
+    return { source: "eventbrite", sourceName: "Eventbrite", events: [] };
   }
+
+  const events: RawEvent[] = [];
+  let continuation: string | undefined;
+
+  for (let page = 0; page < MAX_PAGES; page++) {
+    const url = new URL(API_BASE);
+    url.searchParams.set("location.address", "Amsterdam, Netherlands");
+    url.searchParams.set("location.within", "15km");
+    url.searchParams.set("expand", "venue");
+    url.searchParams.set("sort_by", "date");
+    if (continuation) url.searchParams.set("continuation", continuation);
+
+    let data: EventbriteSearchResponse;
+    try {
+      data = await fetchJson<EventbriteSearchResponse>(url.toString(), {
+        headers: { Authorization: `Bearer ${token}` },
+      });
+    } catch (err) {
+      console.warn(`[eventbrite] API request failed: ${(err as Error).message}`);
+      break;
+    }
+
+    if (data.error) {
+      console.warn(`[eventbrite] API error: ${data.error} — ${data.error_description ?? ""}`);
+      break;
+    }
+
+    events.push(...(data.events ?? []).map(toRawEvent));
+
+    if (!data.pagination?.has_more_items || !data.pagination.continuation) break;
+    continuation = data.pagination.continuation;
+  }
+
+  if (events.length === 0) {
+    console.warn("[eventbrite] API returned zero events.");
+  }
+
   return { source: "eventbrite", sourceName: "Eventbrite", events };
+}
+
+export function toRawEvent(event: EventbriteEvent): RawEvent {
+  const address = event.venue?.address;
+  return {
+    sourceId: event.id,
+    title: event.name?.text ?? "Untitled event",
+    description: event.description?.text ?? event.summary,
+    url: event.url,
+    imageUrl: event.logo?.url,
+    venue: event.venue?.name,
+    address: address?.localized_address_display ?? address?.address_1 ?? address?.city,
+    startDate: event.start?.local ?? event.start?.utc,
+    endDate: event.end?.local ?? event.end?.utc,
+    isFree: event.is_free,
+    price: event.is_free ? "Free" : undefined,
+  };
 }

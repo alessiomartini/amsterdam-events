@@ -13,7 +13,7 @@ from several source websites into one filterable static site.
 | Pluk de Liefde | https://www.plukdeliefde.nl/agenda/ | ✅ working, filtered to Amsterdam | (keyword-based) |
 | Knit Amsterdam | https://knit.amsterdam/events | ✅ working | Sex-positive, clubbing |
 | Play Partners | https://www.playpartners.nl/events | ✅ working, filtered to Amsterdam | Sex-positive |
-| Eventbrite | search URLs in `src/scrapers/eventbrite.ts` | ❌ excluded — real CAPTCHA (AWS WAF "Human Verification") | (keyword-based) |
+| Eventbrite | official Events API, `location.address=Amsterdam` | ⏸️ needs `EVENTBRITE_API_TOKEN` (see below) | (keyword-based) |
 | Resident Advisor — Amsterdam | https://ra.co/events/nl/amsterdam | ❌ excluded — real CAPTCHA (DataDome) | Clubbing / electronic |
 | Resident Advisor — promoter 117681 | https://ra.co/promoters/117681/events | ❌ excluded — real CAPTCHA (DataDome) | Clubbing / electronic |
 
@@ -100,24 +100,43 @@ Chrome would also send matching `sec-ch-ua` client-hints headers alongside
 it, which a plain `fetch()` doesn't; an honestly-labeled bot UA doesn't trip
 that rule. `src/lib/http.ts` was reverted to the honest UA.
 
-**Eventbrite and Resident Advisor (both RA scrapers) are excluded on
-purpose — they sit behind real, interactive bot-verification, not just a
-header check.** Rendering both in a real headless Chromium (Playwright)
-confirmed this precisely instead of guessing:
+**Resident Advisor (both RA scrapers) is excluded on purpose — it sits
+behind real, interactive bot-verification, not just a header check.**
+Rendering it in a real headless Chromium (Playwright) confirmed this
+precisely instead of guessing: `ra.co` returns a **DataDome CAPTCHA**
+iframe (`geo.captcha-delivery.com`). That's designed to stop exactly this
+kind of automated access. Getting past it would mean automating a CAPTCHA
+solve, which this project deliberately does not do — it's a step past
+"resilient scraping" into circumventing a site's security controls, likely
+in violation of its Terms of Service. RA has no official API for this use
+case, so it stays excluded; `npm run scrape`'s summary output and its own
+`console.warn` call this out clearly every run rather than failing
+silently.
 
-- `ra.co` returns a **DataDome CAPTCHA** iframe (`geo.captcha-delivery.com`).
-- Eventbrite returns an **AWS WAF "Human Verification"** challenge page.
+**Eventbrite uses its official Events API instead of scraping the
+website** — eventbrite.com itself has the same kind of WAF challenge
+(AWS WAF "Human Verification"), confirmed the same way, but unlike RA it
+offers a legitimate API for exactly this. `src/scrapers/eventbrite.ts`
+calls `GET /v3/events/search/` with `location.address=Amsterdam,
+Netherlands` and `location.within=15km`, paginating up to 5 pages.
 
-Both are designed to stop exactly this kind of automated access. Getting
-past either would mean automating a CAPTCHA solve, which this project
-deliberately does not do — it's a step past "resilient scraping" into
-circumventing a site's security controls, likely in violation of its Terms
-of Service. That's a hard boundary, not a missing feature: `npm run
-scrape`'s summary output and each scraper's own `console.warn` call this out
-clearly every run rather than failing silently. If Eventbrite coverage
-matters, the compliant path is its official Events API (a free developer
-API key from an Eventbrite account) rather than scraping around its WAF; RA
-has no equivalent official API for this use case.
+To enable it:
+
+1. Log into Eventbrite, go to
+   [eventbrite.com/platform/api-keys](https://www.eventbrite.com/platform/api-keys),
+   and copy your **Personal OAuth Token** (no app review needed for this).
+2. In the GitHub repo: **Settings → Secrets and variables → Actions → New
+   repository secret**, name it `EVENTBRITE_API_TOKEN`, paste the token.
+3. Re-run the workflow (push, or **Actions → Scrape events and deploy
+   site → Run workflow**).
+
+Without that secret set, the scraper logs a warning and is skipped — it
+never breaks the rest of the pipeline. Note Eventbrite has, at various
+points, restricted third-party access to `/events/search/` for anti-scraping
+reasons of their own; if a valid token still gets an error back, the API's
+own error message is logged verbatim (`[eventbrite] API error: ...`) so
+it's clear whether it's an auth problem or an access restriction on
+Eventbrite's side rather than a bug here.
 
 If a working scraper stops finding events (a source redesigned its site),
 re-run the same debug-fetch workflow against `main` to get fresh HTML and
@@ -132,7 +151,5 @@ pipeline (types, categorization, dedup, frontend) needs to change.
 - **Add/adjust categories**: edit `CATEGORIES` in `src/types.ts` and the
   rules in `src/lib/categorize.ts` (source defaults + keyword regexes), and
   add a label in `web/app.js`'s `CATEGORY_LABELS`.
-- **Eventbrite via its official API**: if you get a developer API key,
-  replace `src/scrapers/eventbrite.ts`'s scraping logic with calls to
-  Eventbrite's Events API instead — that's the supported way to get its
-  data and sidesteps the WAF entirely.
+- **Enable Eventbrite**: add the `EVENTBRITE_API_TOKEN` repo secret — see
+  above.
