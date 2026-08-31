@@ -13,7 +13,7 @@ from several source websites into one filterable static site.
 | Pluk de Liefde | https://www.plukdeliefde.nl/agenda/ | ✅ working, filtered to Amsterdam | (keyword-based) |
 | Knit Amsterdam | https://knit.amsterdam/events | ✅ working | Sex-positive, clubbing |
 | Play Partners | https://www.playpartners.nl/events | ✅ working, filtered to Amsterdam | Sex-positive |
-| Eventbrite | official Events API, `location.address=Amsterdam` | ⏸️ needs `EVENTBRITE_API_TOKEN` (see below) | (keyword-based) |
+| Eventbrite | official Events API, `location.address=Amsterdam` | ❌ excluded — API confirms `/events/search/` no longer exists for third-party tokens | (keyword-based) |
 | Resident Advisor — Amsterdam | https://ra.co/events/nl/amsterdam | ❌ excluded — real CAPTCHA (DataDome) | Clubbing / electronic |
 | Resident Advisor — promoter 117681 | https://ra.co/promoters/117681/events | ❌ excluded — real CAPTCHA (DataDome) | Clubbing / electronic |
 | AmsterdamSights free events | https://www.amsterdamsights.com/events/free-events.html | ❌ excluded — Cloudflare blocks it outright | (keyword-based) |
@@ -67,8 +67,8 @@ HTML for a set of source URLs and commits it to a throwaway branch, which was
 then read back through the GitHub API (which isn't blocked) to find the real
 markup and write correct selectors against it — instead of guessing.
 
-That's how the five working scrapers above were verified, and how the two
-bot-protection blocks below were diagnosed precisely instead of guessed at.
+That's how the five working scrapers above were verified, and how the
+exclusions below were diagnosed precisely instead of guessed at.
 Each working scraper uses the most robust strategy available for its
 platform:
 
@@ -114,30 +114,26 @@ case, so it stays excluded; `npm run scrape`'s summary output and its own
 `console.warn` call this out clearly every run rather than failing
 silently.
 
-**Eventbrite uses its official Events API instead of scraping the
+**Eventbrite tried its official Events API instead of scraping the
 website** — eventbrite.com itself has the same kind of WAF challenge
-(AWS WAF "Human Verification"), confirmed the same way, but unlike RA it
-offers a legitimate API for exactly this. `src/scrapers/eventbrite.ts`
-calls `GET /v3/events/search/` with `location.address=Amsterdam,
-Netherlands` and `location.within=15km`, paginating up to 5 pages.
+(AWS WAF "Human Verification"), confirmed the same way, and unlike RA it
+does offer a public API. But it doesn't actually work for this: with a
+real Personal OAuth Token wired up as `EVENTBRITE_API_TOKEN` and tested
+live in CI, `GET /v3/events/search/` returns
 
-To enable it:
+```
+404 NOT_FOUND — "The path you requested does not exist."
+```
 
-1. Log into Eventbrite, go to
-   [eventbrite.com/platform/api-keys](https://www.eventbrite.com/platform/api-keys),
-   and copy your **Personal OAuth Token** (no app review needed for this).
-2. In the GitHub repo: **Settings → Secrets and variables → Actions → New
-   repository secret**, name it `EVENTBRITE_API_TOKEN`, paste the token.
-3. Re-run the workflow (push, or **Actions → Scrape events and deploy
-   site → Run workflow**).
-
-Without that secret set, the scraper logs a warning and is skipped — it
-never breaks the rest of the pipeline. Note Eventbrite has, at various
-points, restricted third-party access to `/events/search/` for anti-scraping
-reasons of their own; if a valid token still gets an error back, the API's
-own error message is logged verbatim (`[eventbrite] API error: ...`) so
-it's clear whether it's an auth problem or an access restriction on
-Eventbrite's side rather than a bug here.
+not an auth error. This matches Eventbrite's own, long-standing policy
+change: they killed public event-search access for third-party API keys
+around 2020, specifically to stop this kind of aggregation. The only
+event-listing endpoint a personal token still reaches is
+`/v3/organizations/{id}/events/` — events *you* organize, not other
+people's public listings — which isn't useful here. `src/scrapers/eventbrite.ts`
+is left in place (it's correct, tested code, and Eventbrite's policy could
+in principle change) but there's no `EVENTBRITE_API_TOKEN` configured, so
+it's skipped every run rather than hit a dead endpoint on a schedule.
 
 **AmsterdamSights is also excluded — Cloudflare blocks it outright, not
 just a quick automated check.** A plain fetch gets Cloudflare's "Just a
@@ -163,5 +159,3 @@ pipeline (types, categorization, dedup, frontend) needs to change.
 - **Add/adjust categories**: edit `CATEGORIES` in `src/types.ts` and the
   rules in `src/lib/categorize.ts` (source defaults + keyword regexes), and
   add a label in `web/app.js`'s `CATEGORY_LABELS`.
-- **Enable Eventbrite**: add the `EVENTBRITE_API_TOKEN` repo secret — see
-  above.

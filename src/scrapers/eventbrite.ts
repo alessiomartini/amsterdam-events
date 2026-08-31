@@ -41,11 +41,13 @@ interface EventbriteSearchResponse {
  * via the EVENTBRITE_API_TOKEN environment variable (a GitHub Actions
  * secret in CI). Without a token, this scraper is skipped, not failed.
  *
- * Note: Eventbrite has restricted public event-search access for
- * third-party API keys in the past (some tokens get a 404/"not authorized"
- * on this endpoint even when valid) — if that happens here, the error
- * message from the API is logged as-is so it's clear whether it's an auth
- * problem or a genuine access restriction.
+ * CONFIRMED (tested live in CI with a real personal token): this endpoint
+ * returns 404 NOT_FOUND — "The path you requested does not exist." —
+ * Eventbrite disabled public /events/search/ access for third-party keys
+ * around 2020, specifically to stop aggregation like this. No
+ * EVENTBRITE_API_TOKEN secret is configured, so this stays a documented
+ * no-op rather than hitting a dead endpoint on a schedule; kept in place
+ * in case Eventbrite's policy ever changes.
  */
 export async function scrape(): Promise<ScrapeResult> {
   const token = process.env.EVENTBRITE_API_TOKEN;
