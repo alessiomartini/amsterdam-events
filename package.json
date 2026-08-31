@@ -1,0 +1,27 @@
+{
+  "name": "amsterdam-events",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Aggregates events happening in Amsterdam (jazz, live music, free museum entry, demonstrations, park/square events, sex-positive parties, ...) from multiple source websites into one filterable site.",
+  "scripts": {
+    "scrape": "tsx src/scrape.ts",
+    "build": "tsx src/build-site.ts",
+    "dev": "npm run scrape && npm run build && npx serve web -l 8080",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "ical.js": "^2.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2",
+    "vitest": "^2.1.8"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

@@ -1,0 +1,77 @@
+name: Scrape events and deploy site
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    # Every 6 hours.
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    outputs:
+      data-changed: ${{ steps.diff.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # Needed so we can push the refreshed data/events.json back.
+          persist-credentials: true
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: "npm"
+
+      - run: npm ci
+
+      - run: npm test
+      - run: npm run typecheck
+
+      - name: Scrape sources
+        run: npm run scrape
+
+      - name: Build static site
+        run: npm run build
+
+      - id: diff
+        name: Check for data changes
+        run: |
+          if git diff --quiet -- data/events.json web/data/events.json; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit refreshed data
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          git config user.name "amsterdam-events-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/events.json web/data/events.json
+          git commit -m "chore: refresh scraped events"
+          git push
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: web
+
+  deploy:
+    needs: scrape
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Amsterdam Events</title>
+  <meta name="description" content="Aggregated jazz, live music, free museum entry, demonstrations, park &amp; square events, and sex-positive parties happening in Amsterdam." />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <h1>Amsterdam Events</h1>
+    <p class="tagline">Jazz &amp; live music, free museums, demos, park &amp; square events, sex-positive parties — aggregated from a bunch of Amsterdam sites, in one place.</p>
+    <p class="updated" id="updated"></p>
+  </header>
+
+  <main>
+    <div class="controls">
+      <input id="search" type="search" placeholder="Search title, venue, description…" aria-label="Search events" />
+      <div id="filters" class="filters" role="group" aria-label="Filter by category"></div>
+      <label class="free-toggle">
+        <input type="checkbox" id="free-only" />
+        Free only
+      </label>
+    </div>
+
+    <p id="count" class="count"></p>
+    <div id="groups"></div>
+    <p id="empty" class="empty" hidden>No events match your filters right now.</p>
+  </main>
+
+  <footer class="site-footer">
+    <p>
+      Sources: Jazzin' Amsterdam · Radar (squat.net) · Pluk de Liefde · Knit Amsterdam ·
+      Play Partners · Eventbrite · Resident Advisor. Data refreshes periodically —
+      always check the source link before heading out.
+    </p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
