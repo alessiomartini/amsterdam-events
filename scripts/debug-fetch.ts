@@ -1,21 +1,13 @@
 import { mkdir, writeFile } from "node:fs/promises";
 import { fetchText } from "../src/lib/http.js";
 
-// One-off diagnostic: check whether ra.co / amsterdamsights.com publish a
-// legitimate RSS/iCal feed (a publicly offered syndication endpoint is a
-// different thing entirely from scraping around a WAF/CAPTCHA — if a site
-// publishes one, it's meant to be consumed programmatically).
+// One-off diagnostic: candidate replacement sources for content that's
+// blocked at the original site (ra.co, amsterdamsights.com) — checking
+// whether an unrelated site that covers similar events is actually
+// scrapable, before writing a scraper against it.
 const TARGETS: Record<string, string> = {
-  "ra-rss-1": "https://ra.co/xml/events.xml",
-  "ra-rss-2": "https://ra.co/rss",
-  "ra-rss-3": "https://ra.co/rss/events",
-  "ra-rss-4": "https://ra.co/events/nl/amsterdam.rss",
-  "ra-rss-5": "https://ra.co/rss/promoter/117681",
-  "ra-ical-1": "https://ra.co/promoters/117681/events.ics",
-  "sights-rss-1": "https://www.amsterdamsights.com/rss.xml",
-  "sights-rss-2": "https://www.amsterdamsights.com/feed",
-  "sights-rss-3": "https://www.amsterdamsights.com/events/rss.xml",
-  "sights-rss-4": "https://www.amsterdamsights.com/rss/free-events.xml",
+  iamsterdam: "https://www.iamsterdam.com/en/whats-on",
+  "iamsterdam-events": "https://www.iamsterdam.com/en/see-and-do/whats-on/events",
 };
 
 async function main() {
