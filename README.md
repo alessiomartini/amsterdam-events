@@ -10,7 +10,7 @@ from several source websites into one filterable static site.
 | --- | --- | --- | --- |
 | Jazzin' Amsterdam | https://jazzin.amsterdam/ | ✅ working | Jazz & live music |
 | Radar (squat.net) | https://radar.squat.net/en/events/city/Amsterdam | ✅ working | (keyword-based) |
-| Pluk de Liefde | https://www.plukdeliefde.nl/agenda/ | ✅ working, filtered to Amsterdam | (keyword-based) |
+| Pluk de Liefde | https://www.plukdeliefde.nl/agenda/ | ⚠️ intermittent (HTTP 403, likely bot-protection triggered by the realistic browser UA or GitHub Actions' shared IP range) | (keyword-based) |
 | Knit Amsterdam | https://knit.amsterdam/events | ✅ working | Sex-positive, clubbing |
 | Play Partners | https://www.playpartners.nl/events | ✅ working, filtered to Amsterdam | Sex-positive |
 | Eventbrite | search URLs in `src/scrapers/eventbrite.ts` | ⚠️ blocked (HTTP 405, bot protection) | (keyword-based) |
@@ -96,6 +96,15 @@ Both would need a real headless browser (e.g. Playwright) to get past a JS
 challenge, which wasn't added here to keep the CI pipeline lightweight —
 this is a known gap, not a silent failure: `npm run scrape`'s summary output
 and the scrapers' own `console.warn` calls call it out every run.
+
+**Pluk de Liefde is intermittently blocked (HTTP 403)** too — it returned a
+normal 200 when fetched once for debugging, but 403 on the very next real
+scrape run with the same code. This looks like bot-protection that's either
+sensitive to request volume/rate (GitHub Actions runners share IP ranges
+with many other users, which commonly trips WAFs) or reacts to the specific
+realistic-Chrome User-Agent string. If it keeps failing, try a distinct
+User-Agent for just this source, or add a delay/retry-with-backoff before
+it in `src/scrapers/index.ts`.
 
 If a working scraper stops finding events (a source redesigned its site),
 re-run the same debug-fetch workflow against `main` to get fresh HTML and
