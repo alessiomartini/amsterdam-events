@@ -1,0 +1,21 @@
+name: Debug fetch (dump raw HTML)
+
+on:
+  workflow_dispatch: {}
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: "npm"
+      - run: npm ci
+      - run: npx tsx scripts/debug-fetch.ts
+      - uses: actions/upload-artifact@v4
+        with:
+          name: debug-html
+          path: debug-html
+          retention-days: 3
