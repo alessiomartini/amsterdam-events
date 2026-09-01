@@ -13,9 +13,12 @@ const TARGETS: Record<string, string> = {
   radar: "https://radar.squat.net/en/events/city/Amsterdam",
   iamsterdam: "https://www.iamsterdam.com/en/whats-on/calendar",
   mezrab: "https://mezrab.nl/",
-  mezrabWww: "https://www.mezrab.nl/",
-  skekCargo: "https://skekamsterdam.cargo.site/",
   plantagedok: "https://plantagedok.nl/events/",
+  offbeatSkek: "https://offbeat.amsterdam/place/100/'Skek",
+  offbeatHome: "https://offbeat.amsterdam/",
+  bimhuis: "https://www.bimhuis.nl/en/calendar",
+  concertgebouw: "https://www.concertgebouw.nl/en/concerts-and-tickets",
+  operaballet: "https://www.operaballet.nl/en/program/25",
 };
 
 async function main() {
