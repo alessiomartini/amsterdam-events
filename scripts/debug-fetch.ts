@@ -13,8 +13,8 @@ const TARGETS: Record<string, string> = {
   radar: "https://radar.squat.net/en/events/city/Amsterdam",
   iamsterdam: "https://www.iamsterdam.com/en/whats-on/calendar",
   mezrab: "https://mezrab.nl/",
-  skekNl: "https://skek.nl/agenda",
-  skekAmsterdamNl: "https://skekamsterdam.nl/agenda",
+  mezrabWww: "https://www.mezrab.nl/",
+  skekCargo: "https://skekamsterdam.cargo.site/",
   plantagedok: "https://plantagedok.nl/events/",
 };
 
