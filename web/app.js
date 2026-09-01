@@ -116,6 +116,7 @@ function render() {
 }
 
 function matchesFilters(event) {
+  if (isPastEvent(event)) return false;
   if (state.freeOnly && !event.isFree && !event.categories.includes("free-entry")) {
     return false;
   }
@@ -131,6 +132,26 @@ function matchesFilters(event) {
     if (!haystack.includes(state.query)) return false;
   }
   return true;
+}
+
+/**
+ * An event counts as past once its last known day (endDate if the source
+ * gave one, otherwise startDate) is before today — an ongoing multi-day
+ * exhibition with an endDate in the future stays visible even if it opened
+ * a while ago. Events with no real date at all (only dateText, or nothing)
+ * can't be past by definition, so they're always kept.
+ */
+function isPastEvent(event) {
+  const dateStr = event.endDate || event.startDate;
+  if (!dateStr) return false;
+  const date = new Date(dateStr);
+  if (Number.isNaN(date.getTime())) return false;
+
+  const today = new Date();
+  today.setHours(0, 0, 0, 0);
+  const eventDay = new Date(date);
+  eventDay.setHours(0, 0, 0, 0);
+  return eventDay < today;
 }
 
 function groupByWeek(events) {
