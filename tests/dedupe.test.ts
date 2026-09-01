@@ -41,6 +41,37 @@ describe("dedupe", () => {
     expect(deduped[0].categories).toContain("clubbing-electronic");
   });
 
+  it("fills in missing fields and prefers proper-cased titles when merging", () => {
+    const result1: ScrapeResult = {
+      source: "jazzin",
+      sourceName: "Jazzin",
+      events: [
+        { title: "kronkel festival", url: "https://occii.org/e/1", startDate: "2026-09-26T14:00:00", venue: "OCCII" },
+      ],
+    };
+    const result2: ScrapeResult = {
+      source: "amsterdamsights-events",
+      sourceName: "AmsterdamSights",
+      events: [
+        {
+          title: "Kronkel Festival",
+          url: "https://amsterdamalternative.nl/e/1",
+          startDate: "2026-09-26T00:00:00",
+          description: "An alternative, multi-venue, one day festival in Amsterdam celebrating the underground!",
+        },
+      ],
+    };
+
+    const scrapedAt = new Date().toISOString();
+    const events = [...toEvents(result1, scrapedAt), ...toEvents(result2, scrapedAt)];
+    const deduped = dedupe(events);
+
+    expect(deduped).toHaveLength(1);
+    expect(deduped[0].title).toBe("Kronkel Festival");
+    expect(deduped[0].venue).toBe("OCCII");
+    expect(deduped[0].description).toContain("underground");
+  });
+
   it("keeps distinct events on different days", () => {
     const result: ScrapeResult = {
       source: "jazzin",
