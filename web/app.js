@@ -70,6 +70,11 @@ async function init() {
   render();
 }
 
+// Events with no real date (only free text, or nothing at all) don't belong
+// to any calendar week — they get their own flat group instead of a
+// week heading with a single, redundantly-named day underneath it.
+const UNDATED_WEEK_LABELS = new Set(["Ongoing / Recurring", "Date TBC"]);
+
 function render() {
   const groupsEl = document.getElementById("groups");
   const emptyEl = document.getElementById("empty");
@@ -81,17 +86,32 @@ function render() {
   emptyEl.hidden = filtered.length > 0;
   if (filtered.length === 0) return;
 
-  const groups = groupByDay(filtered);
-  for (const [label, events] of groups) {
-    const section = document.createElement("section");
-    section.className = "day-group";
-    const heading = document.createElement("h2");
-    heading.textContent = label;
-    section.appendChild(heading);
-    for (const event of events) {
-      section.appendChild(renderCard(event));
+  const weeks = groupByWeek(filtered);
+  for (const [weekLbl, weekEvents] of weeks) {
+    const weekSection = document.createElement("section");
+    weekSection.className = "week-group";
+    const weekHeading = document.createElement("h2");
+    weekHeading.textContent = weekLbl;
+    weekSection.appendChild(weekHeading);
+
+    if (UNDATED_WEEK_LABELS.has(weekLbl)) {
+      const cards = document.createElement("div");
+      cards.className = "day-group";
+      for (const event of weekEvents) cards.appendChild(renderCard(event));
+      weekSection.appendChild(cards);
+    } else {
+      for (const [dayLbl, dayEvents] of groupByDay(weekEvents)) {
+        const daySection = document.createElement("div");
+        daySection.className = "day-group";
+        const dayHeading = document.createElement("h3");
+        dayHeading.textContent = dayLbl;
+        daySection.appendChild(dayHeading);
+        for (const event of dayEvents) daySection.appendChild(renderCard(event));
+        weekSection.appendChild(daySection);
+      }
     }
-    groupsEl.appendChild(section);
+
+    groupsEl.appendChild(weekSection);
   }
 }
 
@@ -111,6 +131,51 @@ function matchesFilters(event) {
     if (!haystack.includes(state.query)) return false;
   }
   return true;
+}
+
+function groupByWeek(events) {
+  const sorted = [...events].sort((a, b) => (a.startDate ?? "9999").localeCompare(b.startDate ?? "9999"));
+  const map = new Map();
+  for (const event of sorted) {
+    const label = weekLabel(event);
+    if (!map.has(label)) map.set(label, []);
+    map.get(label).push(event);
+  }
+  return map;
+}
+
+/** Monday-anchored start of the week containing `date` (matches NL convention), at local midnight. */
+function startOfWeek(date) {
+  const d = new Date(date);
+  d.setHours(0, 0, 0, 0);
+  const day = d.getDay();
+  const mondayOffset = day === 0 ? -6 : 1 - day;
+  d.setDate(d.getDate() + mondayOffset);
+  return d;
+}
+
+function weekLabel(event) {
+  const startDate = event.startDate;
+  if (!startDate) return event.dateText ? "Ongoing / Recurring" : "Date TBC";
+  const date = new Date(startDate);
+  if (Number.isNaN(date.getTime())) return event.dateText ? "Ongoing / Recurring" : "Date TBC";
+
+  const thisWeekStart = startOfWeek(new Date());
+  const eventWeekStart = startOfWeek(date);
+  const diffWeeks = Math.round((eventWeekStart - thisWeekStart) / (7 * 86400000));
+
+  if (diffWeeks === 0) return "This week";
+  if (diffWeeks === 1) return "Next week";
+
+  const weekEnd = new Date(eventWeekStart);
+  weekEnd.setDate(weekEnd.getDate() + 6);
+  const range = `${dayMonth(eventWeekStart)} – ${dayMonth(weekEnd)}`;
+  return diffWeeks < 0 ? `Week of ${range} (past)` : `Week of ${range}`;
+}
+
+/** "D MMM" — built by hand rather than via toLocaleDateString options so day/month order is fixed regardless of locale. */
+function dayMonth(date) {
+  return `${date.getDate()} ${date.toLocaleDateString(undefined, { month: "short" })}`;
 }
 
 function groupByDay(events) {
