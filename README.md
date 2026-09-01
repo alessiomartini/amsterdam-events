@@ -9,7 +9,7 @@ from several source websites into one filterable static site.
 | Source | URL | Status | Category default |
 | --- | --- | --- | --- |
 | Jazzin' Amsterdam | https://jazzin.amsterdam/ | ✅ working | Jazz & live music |
-| Radar (squat.net) | https://radar.squat.net/en/events/city/Amsterdam | ✅ working | (keyword-based) |
+| Radar (squat.net) | https://radar.squat.net/en/events/city/Amsterdam | ✅ working, occasionally intermittent 403s (self-resolving, same pattern as Pluk de Liefde's earlier issue) | (keyword-based) |
 | Pluk de Liefde | https://www.plukdeliefde.nl/agenda/ | ✅ working, filtered to Amsterdam | (keyword-based) |
 | Knit Amsterdam | https://knit.amsterdam/events | ✅ working | Sex-positive, clubbing |
 | Play Partners | https://www.playpartners.nl/events | ✅ working, filtered to Amsterdam | Sex-positive |

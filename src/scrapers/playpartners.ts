@@ -14,6 +14,11 @@ const PAGE_URL = "https://www.playpartners.nl/events";
  * Events aren't Amsterdam-only (real data included Utrecht venues), so we
  * filter to venues that mention Amsterdam. An event with no address text
  * is kept rather than dropped, since we can't tell either way.
+ *
+ * Squarespace's Events collection also lists past events on the same page
+ * (marked `eventlist-event--past`, vs `eventlist-event--upcoming`) — those
+ * are skipped explicitly rather than relying on the Amsterdam-venue filter
+ * to incidentally exclude them.
  */
 export async function scrape(): Promise<ScrapeResult> {
   const html = await fetchText(PAGE_URL);
@@ -33,6 +38,8 @@ function parseEventlist(html: string): RawEvent[] {
 
   $("article.eventlist-event").each((_, el) => {
     const article = $(el);
+    if (article.hasClass("eventlist-event--past")) return;
+
     const titleLink = article.find(".eventlist-title-link").first();
     const title = titleLink.text().trim();
     const href = titleLink.attr("href");
