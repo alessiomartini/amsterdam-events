@@ -21,7 +21,7 @@ from several source websites into one filterable static site.
 | AmsterdamSights (curated exhibitions) | https://www.amsterdamsights.com/events/exhibitions.html | ✅ manually curated — transcribed from a page save, not scraped, see note below | (keyword-based) |
 | AmsterdamSights (curated events calendar) | https://www.amsterdamsights.com/events/{september,october,november,december}.html | ✅ manually curated — transcribed from page saves, not scraped, see note below | (keyword-based) |
 | I amsterdam (official tourism board) | https://www.iamsterdam.com/en/whats-on/calendar | ✅ working — replacement for AmsterdamSights | (keyword-based, `isFree` from a "free" tag) |
-| Mezrab | https://mezrab.nl/ | ✅ working | (keyword-based) |
+| Mezrab | https://mezrab.nl/ | ✅ working, occasionally intermittent connection failures from CI (same self-resolving pattern as Radar/Pluk de Liefde) | (keyword-based) |
 | Plantage Dok | https://plantagedok.nl/events/ | ✅ working | (keyword-based) |
 | Takland | (no dedicated site) | ✅ already covered — its events are posted on radar.squat.net, which is already scraped | (keyword-based) |
 | 'Skek | https://skekamsterdam.cargo.site/ | ❌ excluded — client-rendered Cargo site, no server-rendered event data to scrape (not bot protection, just an SPA architecture) | — |
