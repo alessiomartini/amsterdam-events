@@ -18,7 +18,7 @@ const TARGETS: Record<string, string> = {
   offbeatHome: "https://offbeat.amsterdam/",
   bimhuis: "https://www.bimhuis.nl/en/calendar",
   concertgebouw: "https://www.concertgebouw.nl/en/concerts-and-tickets",
-  operaballet: "https://www.operaballet.nl/en/program/25",
+  operaballet: "https://www.operaballet.nl/en/program",
 };
 
 async function main() {
