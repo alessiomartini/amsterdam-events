@@ -12,6 +12,10 @@ const TARGETS: Record<string, string> = {
   plukdeliefde: "https://www.plukdeliefde.nl/agenda/",
   radar: "https://radar.squat.net/en/events/city/Amsterdam",
   iamsterdam: "https://www.iamsterdam.com/en/whats-on/calendar",
+  mezrab: "https://mezrab.nl/",
+  skekNl: "https://skek.nl/agenda",
+  skekAmsterdamNl: "https://skekamsterdam.nl/agenda",
+  plantagedok: "https://plantagedok.nl/events/",
 };
 
 async function main() {
