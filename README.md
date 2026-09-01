@@ -24,7 +24,10 @@ from several source websites into one filterable static site.
 | Mezrab | https://mezrab.nl/ | ✅ working, occasionally intermittent connection failures from CI (same self-resolving pattern as Radar/Pluk de Liefde) | (keyword-based) |
 | Plantage Dok | https://plantagedok.nl/events/ | ✅ working | (keyword-based) |
 | Takland | (no dedicated site) | ✅ already covered — its events are posted on radar.squat.net, which is already scraped | (keyword-based) |
-| 'Skek | https://skekamsterdam.cargo.site/ | ❌ excluded — client-rendered Cargo site, no server-rendered event data to scrape (not bot protection, just an SPA architecture) | — |
+| Bimhuis | https://www.bimhuis.nl/en/calendar | ✅ working | Jazz & live music |
+| Het Concertgebouw | https://www.concertgebouw.nl/en/concerts-and-tickets | ✅ working | Jazz & live music |
+| Dutch National Opera & Ballet | https://www.operaballet.nl/en/program | ✅ working | Jazz & live music |
+| 'Skek | https://offbeat.amsterdam/place/100/'Skek (its own site, skekamsterdam.cargo.site, is still unscrapable — see note below) | ✅ working, via a third-party aggregator | (keyword-based) |
 
 Every event also gets keyword-based categories on top of the source default
 (see `src/lib/categorize.ts`), so a jazz gig on Eventbrite still lands under
@@ -258,14 +261,61 @@ instead of assumed to all work the same way:
   themselves posted on radar.squat.net under its own venue page, so
   they're already covered by the existing `radar-squat` scraper whenever
   it has something listed.
-- **'Skek** (skekamsterdam.cargo.site) is excluded — checked, and its
-  agenda isn't server-rendered: Cargo ships the page as a client-side app
-  and only inlines content for whichever page happens to be "active" in
-  the fetched snapshot (the homepage's fetch had the Agenda page's own
-  content empty, `"content":""`, with sub-pages that only load via JS
-  navigation). That's an SPA architecture question, not bot protection —
-  but the outcome is the same as everything else this project won't route
-  around: no live snapshot means no scraper.
+- **'Skek** (skekamsterdam.cargo.site) itself is still unscrapable — Cargo
+  ships the page as a client-side app and only inlines content for
+  whichever page happens to be "active" in the fetched snapshot (the
+  homepage's fetch had the Agenda page's own content empty, `"content":""`,
+  with sub-pages that only load via JS navigation). That's an SPA
+  architecture question, not bot protection — but the outcome is the same
+  as everything else this project won't route around: no live snapshot
+  means no scraper *for that domain*. See below for how it's covered
+  anyway.
+
+**Bimhuis, Concertgebouw, Dutch National Opera & Ballet, and 'Skek (via a
+third-party aggregator) were added on request**, each checked live via
+debug-fetch rather than assumed to work the same way:
+
+- **Bimhuis** (`src/scrapers/bimhuis.ts`) — the Netherlands' main jazz
+  venue. Its site is a Next.js app that streams the calendar via React
+  Suspense: the initial HTML response contains several empty skeleton
+  copies of each `<li class="agenda-tile-overview__item">` alongside one
+  real, already-resolved copy sitting further down the same response in a
+  `<div hidden id="S:N">` block. That's still genuine server-rendered
+  markup in the plain HTTP response — no JS execution needed, just easy to
+  mistake for an empty skeleton if you stop at the first match. The
+  scraper filters to items with a non-empty title and dedupes by URL.
+- **Het Concertgebouw** (`src/scrapers/concertgebouw.ts`) — the classical
+  concert hall. A Nuxt app that server-renders its listing as real DOM
+  (`<article data-component="CardEventAndSeries">`); the same data also
+  gets embedded a second time in a `window.__NUXT__ = ...` hydration
+  payload for the client, but that's a minified bundler-internal
+  serialization format (not JSON), not worth parsing when the plain HTML
+  already has it in normal tags. Cancelled concerts render the same card
+  with a "Cancelled" status label instead of a price — the scraper skips
+  those rather than list an event that isn't actually happening.
+- **Dutch National Opera & Ballet** (`src/scrapers/operaballet.ts`) — a
+  Drupal site rendering `<article class="programCard">` cards. Its
+  `/en/program/25` URL turned out to be pre-filtered to Ballet only (`25`
+  is that category's internal filter id, discovered from the page's own
+  category-link hrefs); the unfiltered `/en/program` page returns the
+  mixed Opera/Ballet listing actually used. Each card describes a full run
+  of performances, not one dated instance — sometimes two disjoint runs in
+  one string ("15 October – 8 November 2026, 11 – 24 April 2027" for a
+  show revived later in the season) — too free-form to reliably parse into
+  `startDate`/`endDate`, so like `iamsterdam.ts` it keeps the raw text as
+  `dateText` only. The listing also repeats the exact same show/link
+  occasionally; deduped by URL.
+- **'Skek**, resolved without touching skekamsterdam.cargo.site at all:
+  offbeat.amsterdam is a third-party Amsterdam events aggregator that
+  maintains a per-venue page for 'Skek
+  (`https://offbeat.amsterdam/place/100/'Skek`) with real schema.org
+  `Event` JSON-LD — no bot protection, verified live. `src/scrapers/skek.ts`
+  is just `fetchText` + `extractJsonLdEvents`, same as Plantage Dok. Its
+  `offers`/`description` fields are consistently empty on this page, so
+  `price`/`description` end up unset for every event — that's the source
+  data, not a parsing gap. Caveat: this page reflects whenever offbeat's
+  own crawler last visited 'Skek's cargo.site agenda, so its events can
+  lag behind what's actually posted there.
 
 If a working scraper stops finding events (a source redesigned its site),
 re-run the same debug-fetch workflow against `main` to get fresh HTML and

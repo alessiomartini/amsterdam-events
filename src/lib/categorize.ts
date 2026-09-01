@@ -14,6 +14,12 @@ const SOURCE_DEFAULTS: Partial<Record<SourceId, Category[]>> = {
   knit: ["sex-positive", "clubbing-electronic"],
   "ra-amsterdam": ["clubbing-electronic"],
   "ra-promoter": ["clubbing-electronic"],
+  // Dedicated concert halls — every listing is a live music performance
+  // (jazz/improvised at Bimhuis, classical/orchestral at Concertgebouw),
+  // same single-purpose-venue reasoning as jazzin above.
+  bimhuis: ["jazz-live-music"],
+  concertgebouw: ["jazz-live-music"],
+  operaballet: ["jazz-live-music"],
 };
 
 interface Rule {
