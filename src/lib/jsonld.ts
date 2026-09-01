@@ -54,7 +54,7 @@ function nodeToEvent(
     (typeof type === "string" && type.endsWith("Event"));
   if (!isEvent) return undefined;
 
-  const title = str(node.name);
+  const title = cleanText(str(node.name));
   if (!title) return undefined;
 
   const url = str(node.url) || pageUrl;
@@ -80,7 +80,7 @@ function nodeToEvent(
 
   return {
     title,
-    description: str(node.description),
+    description: cleanText(str(node.description), { stripTags: true }),
     url,
     imageUrl,
     venue,
@@ -105,4 +105,40 @@ function formatOffer(offer: Record<string, unknown>): string | undefined {
 function str(v: unknown): string | undefined {
   if (typeof v === "string" && v.trim()) return v.trim();
   return undefined;
+}
+
+const HTML_ENTITIES: Record<string, string> = {
+  amp: "&",
+  lt: "<",
+  gt: ">",
+  quot: '"',
+  apos: "'",
+  nbsp: " ",
+};
+
+/** Decodes &#8211;-style numeric entities and &amp;-style named ones. */
+function decodeEntities(text: string): string {
+  return text.replace(/&(#\d+|#x[\da-f]+|[a-z]+);/gi, (match, code: string) => {
+    if (code[0] === "#") {
+      const codePoint = code[1]?.toLowerCase() === "x" ? parseInt(code.slice(2), 16) : parseInt(code.slice(1), 10);
+      return Number.isNaN(codePoint) ? match : String.fromCodePoint(codePoint);
+    }
+    return HTML_ENTITIES[code.toLowerCase()] ?? match;
+  });
+}
+
+/**
+ * Some sites (WordPress especially) embed HTML-formatted, entity-escaped
+ * text in their JSON-LD ("&lt;p&gt;Text&lt;/p&gt;", "&#8211;" dashes) —
+ * and some double-escape newlines as the literal two characters "\n"
+ * rather than a real line break. Decode entities, unescape those literal
+ * backslash sequences, optionally strip HTML tags, and collapse whitespace
+ * so it reads as plain text instead of literal markup on the card.
+ */
+function cleanText(text: string | undefined, options: { stripTags?: boolean } = {}): string | undefined {
+  if (!text) return undefined;
+  let cleaned = decodeEntities(text).replace(/\\[nrt]/g, " ");
+  if (options.stripTags) cleaned = cleaned.replace(/<[^>]+>/g, " ");
+  cleaned = cleaned.replace(/\s+/g, " ").trim();
+  return cleaned || undefined;
 }

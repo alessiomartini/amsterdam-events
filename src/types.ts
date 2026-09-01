@@ -51,7 +51,9 @@ export type SourceId =
   | "iamsterdam"
   | "amsterdamsights-manual"
   | "amsterdamsights-exhibitions"
-  | "amsterdamsights-events";
+  | "amsterdamsights-events"
+  | "plantagedok"
+  | "mezrab";
 
 export interface ScrapeResult {
   source: SourceId;

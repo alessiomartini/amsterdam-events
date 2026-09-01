@@ -21,6 +21,10 @@ from several source websites into one filterable static site.
 | AmsterdamSights (curated exhibitions) | https://www.amsterdamsights.com/events/exhibitions.html | ✅ manually curated — transcribed from a page save, not scraped, see note below | (keyword-based) |
 | AmsterdamSights (curated events calendar) | https://www.amsterdamsights.com/events/{september,october,november,december}.html | ✅ manually curated — transcribed from page saves, not scraped, see note below | (keyword-based) |
 | I amsterdam (official tourism board) | https://www.iamsterdam.com/en/whats-on/calendar | ✅ working — replacement for AmsterdamSights | (keyword-based, `isFree` from a "free" tag) |
+| Mezrab | https://mezrab.nl/ | ✅ working | (keyword-based) |
+| Plantage Dok | https://plantagedok.nl/events/ | ✅ working | (keyword-based) |
+| Takland | (no dedicated site) | ✅ already covered — its events are posted on radar.squat.net, which is already scraped | (keyword-based) |
+| 'Skek | https://skekamsterdam.cargo.site/ | ❌ excluded — client-rendered Cargo site, no server-rendered event data to scrape (not bot protection, just an SPA architecture) | — |
 
 Every event also gets keyword-based categories on top of the source default
 (see `src/lib/categorize.ts`), so a jazz gig on Eventbrite still lands under
@@ -226,6 +230,42 @@ also be free, but the new exhibitions source is full of paid museum shows
 that keyword would have mislabeled as free. The rule now requires an
 explicit free-entry phrase, or a museum/gallery/exhibition keyword
 combined with `event.isFree` being true.
+
+**Mezrab, Plantage Dok, Takland and 'Skek were added on request** — four
+small Amsterdam venues/spaces, checked one at a time via debug-fetch
+instead of assumed to all work the same way:
+
+- **Mezrab** (`src/scrapers/mezrab.ts`) — a storytelling/music/comedy venue
+  that server-renders its own upcoming-events widget (a WordPress "Events
+  Manager" table) right on the homepage, no bot protection. Its date cells
+  ("Tue 1.09 | 20:00") have no year, so the scraper infers the current
+  year and rolls forward if that would land in the past. The widget
+  happens to render its list twice in the page (desktop/mobile sections);
+  the existing title+day dedup in `src/lib/dedupe.ts` collapses those
+  automatically, nothing source-specific needed.
+- **Plantage Dok** (`src/scrapers/plantagedok.ts`) — a self-managed
+  community/cultural space (WordPress + The Events Calendar plugin) that
+  server-renders a clean schema.org Event JSON-LD array; the scraper is
+  just `fetchText` + `extractJsonLdEvents`, nothing custom to write.
+  Finding its real JSON-LD (a bare array, not wrapped in `@graph`) is also
+  what motivated `src/lib/jsonld.ts`'s new `cleanText()` step: its
+  WordPress plugin embeds descriptions as entity-escaped HTML
+  ("&lt;p&gt;...&lt;/p&gt;") with some literal double-escaped `\n`
+  sequences, and titles with numeric entities ("DansDok &#8211; lekker
+  dansen") — both are now decoded/stripped for every JSON-LD source, not
+  just this one.
+- **Takland** needed no new scraper at all — it's a squat whose events are
+  themselves posted on radar.squat.net under its own venue page, so
+  they're already covered by the existing `radar-squat` scraper whenever
+  it has something listed.
+- **'Skek** (skekamsterdam.cargo.site) is excluded — checked, and its
+  agenda isn't server-rendered: Cargo ships the page as a client-side app
+  and only inlines content for whichever page happens to be "active" in
+  the fetched snapshot (the homepage's fetch had the Agenda page's own
+  content empty, `"content":""`, with sub-pages that only load via JS
+  navigation). That's an SPA architecture question, not bot protection —
+  but the outcome is the same as everything else this project won't route
+  around: no live snapshot means no scraper.
 
 If a working scraper stops finding events (a source redesigned its site),
 re-run the same debug-fetch workflow against `main` to get fresh HTML and

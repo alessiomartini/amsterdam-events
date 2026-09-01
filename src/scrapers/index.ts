@@ -11,6 +11,8 @@ import { scrape as scrapeIAmsterdam } from "./iamsterdam.js";
 import { scrape as scrapeAmsterdamSightsManual } from "./amsterdamsights-manual.js";
 import { scrape as scrapeAmsterdamSightsExhibitions } from "./amsterdamsights-exhibitions.js";
 import { scrape as scrapeAmsterdamSightsEvents } from "./amsterdamsights-events.js";
+import { scrape as scrapePlantageDok } from "./plantagedok.js";
+import { scrape as scrapeMezrab } from "./mezrab.js";
 
 export const SCRAPERS: Record<SourceId, () => Promise<ScrapeResult>> = {
   jazzin: scrapeJazzin,
@@ -25,6 +27,8 @@ export const SCRAPERS: Record<SourceId, () => Promise<ScrapeResult>> = {
   "amsterdamsights-manual": scrapeAmsterdamSightsManual,
   "amsterdamsights-exhibitions": scrapeAmsterdamSightsExhibitions,
   "amsterdamsights-events": scrapeAmsterdamSightsEvents,
+  plantagedok: scrapePlantageDok,
+  mezrab: scrapeMezrab,
 };
 
 /** Runs every scraper, isolating failures so one broken source doesn't kill the run. */

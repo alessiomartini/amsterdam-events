@@ -58,6 +58,34 @@ describe("extractJsonLdEvents", () => {
     expect(extractJsonLdEvents(html, PAGE_URL)).toHaveLength(0);
   });
 
+  it("decodes and strips HTML from entity-escaped descriptions", () => {
+    const html = `<script type="application/ld+json">
+      {
+        "@type": "Event",
+        "name": "Dok Night",
+        "description": "&lt;p&gt;Every Thursday there&#8217;s a Vegan Dinner &amp; a show.&lt;/p&gt;\\n"
+      }
+    </script>`;
+    const events = extractJsonLdEvents(html, PAGE_URL);
+    expect(events[0].description).toBe("Every Thursday there’s a Vegan Dinner & a show.");
+  });
+
+  it("decodes entities in the title too", () => {
+    const html = `<script type="application/ld+json">
+      {"@type": "Event", "name": "DansDok &#8211; lekker dansen"}
+    </script>`;
+    const events = extractJsonLdEvents(html, PAGE_URL);
+    expect(events[0].title).toBe("DansDok – lekker dansen");
+  });
+
+  it("unescapes literal backslash-n left over from double-escaped source content", () => {
+    const html = `<script type="application/ld+json">
+      {"@type": "Event", "name": "Dok Night", "description": "Line one\\\\nLine two"}
+    </script>`;
+    const events = extractJsonLdEvents(html, PAGE_URL);
+    expect(events[0].description).toBe("Line one Line two");
+  });
+
   it("falls back to the page URL when no url field is present", () => {
     const html = `<script type="application/ld+json">
       {"@type": "Event", "name": "Mystery Gig"}
