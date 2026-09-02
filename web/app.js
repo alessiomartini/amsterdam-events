@@ -1,5 +1,8 @@
 const CATEGORY_LABELS = {
-  "jazz-live-music": "Jazz & live music",
+  jazz: "Jazz",
+  classical: "Classical",
+  "opera-ballet": "Opera & ballet",
+  "live-music": "Live music",
   "clubbing-electronic": "Clubbing / electronic",
   "free-museum": "Free museum entry",
   demonstration: "Demonstrations",

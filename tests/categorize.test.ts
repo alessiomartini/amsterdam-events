@@ -8,10 +8,27 @@ function event(overrides: Partial<RawEvent>): RawEvent {
 
 describe("categorize", () => {
   it("applies source defaults", () => {
-    expect(categorize("jazzin", event({ title: "Anything" }))).toContain("jazz-live-music");
+    expect(categorize("jazzin", event({ title: "Anything" }))).toContain("live-music");
     expect(categorize("playpartners", event({ title: "Anything" }))).toContain("sex-positive");
     expect(categorize("ra-amsterdam", event({ title: "Anything" }))).toContain("clubbing-electronic");
     expect(categorize("knit", event({ title: "Anything" }))).toContain("sex-positive");
+    expect(categorize("bimhuis", event({ title: "Anything" }))).toContain("jazz");
+    expect(categorize("concertgebouw", event({ title: "Anything" }))).toContain("classical");
+    expect(categorize("operaballet", event({ title: "Anything" }))).toContain("opera-ballet");
+  });
+
+  it("splits jazz, classical, opera/ballet, and general live music into separate categories", () => {
+    expect(categorize("eventbrite", event({ title: "Free Jazz Jam" }))).toContain("jazz");
+    expect(categorize("eventbrite", event({ title: "Beethoven Symphony No. 5" }))).toContain("classical");
+    expect(categorize("eventbrite", event({ title: "Swan Lake ballet" }))).toContain("opera-ballet");
+    expect(categorize("eventbrite", event({ title: "Open mic night" }))).toContain("live-music");
+  });
+
+  it("does not tag a jazz gig as classical or vice versa", () => {
+    const jazz = categorize("eventbrite", event({ title: "Jazz Jam Session" }));
+    expect(jazz).not.toContain("classical");
+    const classical = categorize("eventbrite", event({ title: "Chamber music recital" }));
+    expect(classical).not.toContain("jazz");
   });
 
   it("matches keyword rules in title and description", () => {

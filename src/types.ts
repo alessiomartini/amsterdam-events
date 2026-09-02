@@ -1,5 +1,8 @@
 export const CATEGORIES = [
-  "jazz-live-music",
+  "jazz",
+  "classical",
+  "opera-ballet",
+  "live-music",
   "clubbing-electronic",
   "free-museum",
   "demonstration",

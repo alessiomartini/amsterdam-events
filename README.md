@@ -1,14 +1,15 @@
 # Amsterdam Events
 
-Aggregates events happening in Amsterdam — jazz & live music, free museum
-entry, demonstrations, park/square events, sex-positive parties, clubbing —
-from several source websites into one filterable static site.
+Aggregates events happening in Amsterdam — jazz, classical, opera & ballet,
+live music, free museum entry, demonstrations, park/square events,
+sex-positive parties, clubbing — from several source websites into one
+filterable static site.
 
 ## Sources
 
 | Source | URL | Status | Category default |
 | --- | --- | --- | --- |
-| Jazzin' Amsterdam | https://jazzin.amsterdam/ | ✅ working | Jazz & live music |
+| Jazzin' Amsterdam | https://jazzin.amsterdam/ | ✅ working | Live music (+ jazz keyword) |
 | Radar (squat.net) | https://radar.squat.net/en/events/city/Amsterdam | ✅ working, occasionally intermittent 403s (self-resolving, same pattern as Pluk de Liefde's earlier issue) | (keyword-based) |
 | Pluk de Liefde | https://www.plukdeliefde.nl/agenda/ | ✅ working, filtered to Amsterdam | (keyword-based) |
 | Knit Amsterdam | https://knit.amsterdam/events | ✅ working | Sex-positive, clubbing |
@@ -24,9 +25,9 @@ from several source websites into one filterable static site.
 | Mezrab | https://mezrab.nl/ | ✅ working, occasionally intermittent connection failures from CI (same self-resolving pattern as Radar/Pluk de Liefde) | (keyword-based) |
 | Plantage Dok | https://plantagedok.nl/events/ | ✅ working | (keyword-based) |
 | Takland | (no dedicated site) | ✅ already covered — its events are posted on radar.squat.net, which is already scraped | (keyword-based) |
-| Bimhuis | https://www.bimhuis.nl/en/calendar | ✅ working | Jazz & live music |
-| Het Concertgebouw | https://www.concertgebouw.nl/en/concerts-and-tickets | ✅ working | Jazz & live music |
-| Dutch National Opera & Ballet | https://www.operaballet.nl/en/program | ✅ working | Jazz & live music |
+| Bimhuis | https://www.bimhuis.nl/en/calendar | ✅ working | Jazz |
+| Het Concertgebouw | https://www.concertgebouw.nl/en/concerts-and-tickets | ✅ working | Classical |
+| Dutch National Opera & Ballet | https://www.operaballet.nl/en/program | ✅ working | Opera & ballet |
 | 'Skek | https://offbeat.amsterdam/place/100/'Skek (its own site, skekamsterdam.cargo.site, is still unscrapable — see note below) | ✅ working, via a third-party aggregator | (keyword-based) |
 | SPUI25 | https://offbeat.amsterdam/place/47/SPUI25 (its own site, spui25.nl, is Cloudflare-protected — see note below) | ✅ working, via the same third-party aggregator as 'Skek | (keyword-based, `isFree` from JSON-LD when present) |
 | UvA String Theory Seminars | Google Calendar `.ics` feed (`esk71dgb63h0pdum12cnovpisk@group.calendar.google.com`) | ✅ working | `isFree: true` |
@@ -34,7 +35,11 @@ from several source websites into one filterable static site.
 
 Every event also gets keyword-based categories on top of the source default
 (see `src/lib/categorize.ts`), so a jazz gig on Eventbrite still lands under
-"Jazz & live music", a free museum night gets tagged "Free entry", etc.
+"Jazz", a free museum night gets tagged "Free entry", etc. Jazz, classical,
+opera/ballet, and general live music are separate categories rather than one
+umbrella — split from an original single "Jazz & live music" category once
+Bimhuis, Concertgebouw, and Opera & Ballet made it clear they needed
+distinguishing (see `CATEGORIES` in `src/types.ts`).
 
 Pluk de Liefde and Play Partners both list events across the Netherlands, not
 just Amsterdam — their scrapers filter to entries whose venue text mentions

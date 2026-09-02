@@ -2,7 +2,13 @@ import type { Category, RawEvent, SourceId } from "../types.js";
 
 /** Default categories to apply for every event from a given source, before keyword rules run. */
 const SOURCE_DEFAULTS: Partial<Record<SourceId, Category[]>> = {
-  jazzin: ["jazz-live-music"],
+  // Real scrape data shows jazzin.amsterdam is broader than pure jazz
+  // (funk nights, a Lindy Hop class, a West End musical at Carré, jazz
+  // documentaries) even though the site brands itself around jazz — so
+  // it defaults to the general live-music bucket, same reasoning as
+  // radar-squat below, and the "jazz" keyword rule picks up the (most)
+  // gigs that actually say so.
+  jazzin: ["live-music"],
   // radar.squat.net hosts a broad mix (yoga, communal meals, film nights,
   // gigs, workshops, and occasional actual demonstrations) — real scrape
   // data showed tagging everything "demonstration" was wrong. Let the
@@ -14,12 +20,12 @@ const SOURCE_DEFAULTS: Partial<Record<SourceId, Category[]>> = {
   knit: ["sex-positive", "clubbing-electronic"],
   "ra-amsterdam": ["clubbing-electronic"],
   "ra-promoter": ["clubbing-electronic"],
-  // Dedicated concert halls — every listing is a live music performance
-  // (jazz/improvised at Bimhuis, classical/orchestral at Concertgebouw),
-  // same single-purpose-venue reasoning as jazzin above.
-  bimhuis: ["jazz-live-music"],
-  concertgebouw: ["jazz-live-music"],
-  operaballet: ["jazz-live-music"],
+  // Dedicated single-genre venues/companies — real scrape data confirms
+  // each is overwhelmingly one thing (Bimhuis: jazz/improvised music,
+  // Concertgebouw: classical/orchestral, Opera & Ballet: opera and dance).
+  bimhuis: ["jazz"],
+  concertgebouw: ["classical"],
+  operaballet: ["opera-ballet"],
 };
 
 interface Rule {
@@ -29,8 +35,26 @@ interface Rule {
 
 const RULES: Rule[] = [
   {
-    category: "jazz-live-music",
-    keywords: /\b(jazz|live music|live band|open mic|jam session|singer[- ]songwriter|acoustic set|blues night)\b/i,
+    category: "jazz",
+    keywords: /\bjazz\b/i,
+  },
+  {
+    category: "classical",
+    keywords: /\b(classical|orchestra|orchestral|philharmonic|symphony|symphonic|chamber music|concerto|sonata|requiem)\b/i,
+  },
+  {
+    // Deliberately its own category rather than folded into "classical" —
+    // ballet is dance, not a music genre, and this also catches an opera
+    // or ballet mentioned on a source that isn't operaballet.nl itself.
+    category: "opera-ballet",
+    keywords: /\b(opera|ballet)\b/i,
+  },
+  {
+    // Catch-all for live music that isn't specifically jazz/classical/
+    // opera/ballet — blues, funk, singer-songwriter sets, open mics,
+    // generic gigs.
+    category: "live-music",
+    keywords: /\b(live music|live band|open mic|jam session|singer[- ]songwriter|acoustic set|blues night|funk)\b/i,
   },
   {
     category: "clubbing-electronic",
