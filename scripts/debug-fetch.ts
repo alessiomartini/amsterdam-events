@@ -19,6 +19,9 @@ const TARGETS: Record<string, string> = {
   bimhuis: "https://www.bimhuis.nl/en/calendar",
   concertgebouw: "https://www.concertgebouw.nl/en/concerts-and-tickets",
   operaballet: "https://www.operaballet.nl/en/program",
+  diepSeminars: "https://ias.uva.nl/news-and-events/series-at-ias/diep-seminar-series.html",
+  stringSeminarInfo: "https://iop.uva.nl/content/research-groups/strings/seminars/information.html",
+  spui25: "https://www.spui25.nl/agenda/language/en",
 };
 
 async function main() {
