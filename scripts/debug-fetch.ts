@@ -22,6 +22,9 @@ const TARGETS: Record<string, string> = {
   diepSeminars: "https://ias.uva.nl/news-and-events/series-at-ias/diep-seminar-series.html",
   stringSeminarInfo: "https://iop.uva.nl/content/research-groups/strings/seminars/information.html",
   spui25: "https://www.spui25.nl/agenda/language/en",
+  iasEvents: "https://ias.uva.nl/news-and-events/events/events.html",
+  stringGoogleCal: "https://iop.uva.nl/content/research-groups/strings/seminars/google-calendar/index.html",
+  offbeatSpui25: "https://offbeat.amsterdam/place/47/SPUI25",
 };
 
 async function main() {
