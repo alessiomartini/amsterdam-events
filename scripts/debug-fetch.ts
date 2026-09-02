@@ -25,6 +25,10 @@ const TARGETS: Record<string, string> = {
   iasEvents: "https://ias.uva.nl/news-and-events/events/events.html",
   stringGoogleCal: "https://iop.uva.nl/content/research-groups/strings/seminars/google-calendar/index.html",
   offbeatSpui25: "https://offbeat.amsterdam/place/47/SPUI25",
+  iasEventsApi:
+    "https://www.uva.nl/_restapi/list-json?uuid=e6cb65c6-83be-4a0b-babf-0cc79dfeee3e&mount=8a72ec52-758d-4a9c-9b30-d9d413d81759",
+  stringSeminarIcs:
+    "https://calendar.google.com/calendar/ical/esk71dgb63h0pdum12cnovpisk%40group.calendar.google.com/public/basic.ics",
 };
 
 async function main() {
