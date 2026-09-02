@@ -28,6 +28,9 @@ from several source websites into one filterable static site.
 | Het Concertgebouw | https://www.concertgebouw.nl/en/concerts-and-tickets | ✅ working | Jazz & live music |
 | Dutch National Opera & Ballet | https://www.operaballet.nl/en/program | ✅ working | Jazz & live music |
 | 'Skek | https://offbeat.amsterdam/place/100/'Skek (its own site, skekamsterdam.cargo.site, is still unscrapable — see note below) | ✅ working, via a third-party aggregator | (keyword-based) |
+| SPUI25 | https://offbeat.amsterdam/place/47/SPUI25 (its own site, spui25.nl, is Cloudflare-protected — see note below) | ✅ working, via the same third-party aggregator as 'Skek | (keyword-based, `isFree` from JSON-LD when present) |
+| UvA String Theory Seminars | Google Calendar `.ics` feed (`esk71dgb63h0pdum12cnovpisk@group.calendar.google.com`) | ✅ working | `isFree: true` |
+| DIEP Seminars (IAS, UvA) | mailing list (`diepseminars@list.uva.nl`) | ✅ manually curated from the mailing list, not scraped, see note below | `isFree: true` |
 
 Every event also gets keyword-based categories on top of the source default
 (see `src/lib/categorize.ts`), so a jazz gig on Eventbrite still lands under
@@ -316,6 +319,50 @@ debug-fetch rather than assumed to work the same way:
   data, not a parsing gap. Caveat: this page reflects whenever offbeat's
   own crawler last visited 'Skek's cargo.site agenda, so its events can
   lag behind what's actually posted there.
+
+**SPUI25, UvA String Theory Seminars, and DIEP Seminars were added on
+request** — two of them (String Theory, DIEP) currently reach the user only
+by email, so the first step for each was checking whether a real public
+source exists before assuming email was the only option:
+
+- **SPUI25** (`src/scrapers/spui25.ts`) — Amsterdam's academic-cultural
+  platform (250-300 free public talks/debates a year). spui25.nl itself is
+  behind Cloudflare (HTTP 403, "Just a moment..." challenge — verified
+  live, same block as amsterdamsights.com), so like 'Skek this uses
+  offbeat.amsterdam's per-venue page instead (place id 47, found in its
+  homepage listing) — same `fetchText` + `extractJsonLdEvents` shape.
+- **UvA String Theory Seminars** (`src/scrapers/string-seminar.ts`) — the
+  group emails weekly seminar announcements to `stringseminar@list.uva.nl`,
+  but its own seminars-info page (`iop.uva.nl/.../seminars/information.html`)
+  names the actual source it schedules from: a public Google Calendar
+  ("Amsterdam Seminars"). Any calendar embeddable that way publishes a
+  standard public `.ics` feed at a predictable URL — found and fetched live,
+  no auth needed. Parsed with `ical.js` (already an unused project
+  dependency, no need to hand-roll iCalendar parsing). The calendar goes
+  back to 2019 and mixes in one-off personal bookings ("Meeting Ben
+  Freivogel", "Conversation with iPraktijk Leah") among the real weekly
+  talks, so the scraper drops anything matching that pattern and anything
+  more than a day in the past. It has no location on any entry checked, so
+  venue/address fall back to the department's own building rather than
+  guessing a specific room (multiple mailing list emails mention the actual
+  room changing week to week).
+- **DIEP Seminars** (`src/scrapers/diep-seminars.ts`) — checked for the
+  same kind of live source first: DIEP's own "seminar series" page on
+  ias.uva.nl turned out to be a static blurb linking to the IAS's general
+  events page, which itself loads from a real JSON API
+  (`www.uva.nl/_restapi/list-json?...`, found via its widget's
+  `data-urlJSON` attribute) — a good find, but confirmed live that this
+  feed only carries larger one-off IAS events, not the individual weekly
+  DIEP talks. No live public source exists for those, so — same pattern as
+  the `amsterdamsights-*` sources — `src/data/diep-seminars.json` is
+  transcribed by hand from the mailing list's own "Upcoming sessions" list
+  and wrapped by a scraper that just returns it. The regular slot
+  (Thursdays 11:00, IAS second floor library, Oude Turfmarkt 147) held
+  consistently across every past per-talk announcement checked, so future
+  weeks not yet individually announced keep that as the listed time with a
+  "time to be confirmed" note in `dateText` rather than asserting it
+  outright. Not auto-updated — refresh by hand from the mailing list when
+  it goes stale, same as the AmsterdamSights data.
 
 If a working scraper stops finding events (a source redesigned its site),
 re-run the same debug-fetch workflow against `main` to get fresh HTML and

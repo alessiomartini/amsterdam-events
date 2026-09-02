@@ -57,7 +57,10 @@ export type SourceId =
   | "bimhuis"
   | "concertgebouw"
   | "skek"
-  | "operaballet";
+  | "operaballet"
+  | "spui25"
+  | "string-seminar"
+  | "diep-seminars";
 
 export interface ScrapeResult {
   source: SourceId;
