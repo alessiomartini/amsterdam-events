@@ -1,50 +1,17 @@
 {
-  "generatedAt": "2026-09-04T16:05:14.275Z",
-  "count": 460,
+  "generatedAt": "2026-09-04T20:35:57.677Z",
+  "count": 401,
   "events": [
     {
-      "title": "Yoga -- Level 2 & 3 (for Iyengar Yoga practitioners)",
-      "url": "https://radar.squat.net/en/event/amsterdam/nieuwland/2026-09-04/yoga-level-2-3-iyengar-yoga-practitioners",
-      "id": "radar-squat-111647416c94083d",
+      "title": "MKZ Eetcafé: Damomess",
+      "url": "https://radar.squat.net/en/node/594993",
+      "id": "radar-squat-fb2ffd83767ac208",
       "source": "radar-squat",
       "sourceName": "Radar (squat.net)",
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "Yoga ⊙",
-      "url": "https://radar.squat.net/en/event/amsterdam/nieuwland/2026-09-04/yoga",
-      "id": "radar-squat-48e0dc98325672cb",
-      "source": "radar-squat",
-      "sourceName": "Radar (squat.net)",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "Lunch at Café Gilde",
-      "url": "https://radar.squat.net/en/event/amsterdam/cafe-gilde/2026-09-04/lunch-cafe-gilde",
-      "id": "radar-squat-8f1d516db45014e1",
-      "source": "radar-squat",
-      "sourceName": "Radar (squat.net)",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "Infocafe Bollox",
-      "url": "https://radar.squat.net/en/event/amsterdam/bollox/2026-09-04/infocafe-bollox",
-      "id": "radar-squat-e6268e86744009d7",
-      "source": "radar-squat",
-      "sourceName": "Radar (squat.net)",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Dinner at Café Gilde",
@@ -55,7 +22,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "🎬 MOONS OF CAVIA | Greek Film Festival presents: A tale of a different city",
@@ -67,7 +34,7 @@
         "park-square",
         "film-media"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "LAG social evening",
@@ -78,7 +45,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "MKZ Eetcafé",
@@ -89,7 +56,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Snacks and Beats for Ceuta",
@@ -100,7 +67,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "🏳️‍🌈 🔥 Queer Latin Dance Night!",
@@ -111,7 +78,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Live Experimental / Noise / Harsh Fun / Electronics / Synthesis",
@@ -122,7 +89,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Aman molli: Practice of east Mediterranean Music",
@@ -133,7 +100,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Friday Punk Night",
@@ -144,7 +111,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Vibez Recordings presents: Expansions",
@@ -155,7 +122,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "KABRA | Acupuncture & Cupping",
@@ -166,7 +133,18 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
+    },
+    {
+      "title": "Lunch at Café Gilde",
+      "url": "https://radar.squat.net/en/event/amsterdam/cafe-gilde/2026-09-05/lunch-cafe-gilde",
+      "id": "radar-squat-198d0b3808cf1b1f",
+      "source": "radar-squat",
+      "sourceName": "Radar (squat.net)",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Anti militarist theekransje",
@@ -177,7 +155,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Vlaggen voor Palestina - Noord",
@@ -188,7 +166,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Give away shop",
@@ -199,7 +177,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Anarchistische Bibliotheek Amsterdam / Anarchist Library Amsterdam",
@@ -210,7 +188,29 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
+    },
+    {
+      "title": "Binnenpret­feest",
+      "url": "https://radar.squat.net/en/event/amsterdam/lag/2026-09-05/binnenpretfeest",
+      "id": "radar-squat-ed27dca1d0238fa1",
+      "source": "radar-squat",
+      "sourceName": "Radar (squat.net)",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
+    },
+    {
+      "title": "Wekelijkse flitsacties tegen sloop en verkoop sociale huurwoningen (2026)",
+      "url": "https://radar.squat.net/en/node/582576",
+      "id": "radar-squat-9557435d2bbc2c18",
+      "source": "radar-squat",
+      "sourceName": "Radar (squat.net)",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Drawing in the Open Studio",
@@ -234,7 +234,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Museum Market",
@@ -265,7 +265,7 @@
       "categories": [
         "park-square"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Glass, made in antiquity",
@@ -288,7 +288,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Welcome at AMAZE by ID&T: Immersive Audiovisuele Experience",
@@ -310,7 +310,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Bottomless Brunch",
@@ -332,7 +332,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Pink Dance's dance",
@@ -357,7 +357,7 @@
       "categories": [
         "park-square"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Exhibition: the ESSENCE",
@@ -380,7 +380,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Onno Theelen's Strange Creatures",
@@ -401,7 +401,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Exhibition Worn in the Rijksmuseum",
@@ -424,7 +424,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Lunchtime organ concerts at Waterlooplein",
@@ -447,7 +447,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Tekenwandeling",
@@ -470,7 +470,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Amsterdam Origami Club",
@@ -493,7 +493,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Discover Oosterdok: interactive walk in Amsterdam",
@@ -516,7 +516,7 @@
         "park-square",
         "free-entry"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "flamingos-and-spoonbills",
@@ -532,7 +532,7 @@
         "park-square",
         "free-entry"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "melkweg-expo",
@@ -548,7 +548,7 @@
         "free-entry",
         "free-museum"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "rijksmuseum-gardens",
@@ -563,7 +563,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "lunchtime-concerts",
@@ -578,7 +578,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "vondelpark-open-air-theater",
@@ -594,7 +594,7 @@
         "park-square",
         "free-entry"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "civic-guards-gallery",
@@ -610,7 +610,7 @@
         "free-entry",
         "free-museum"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "yoga-class-in-the-park",
@@ -626,7 +626,7 @@
         "park-square",
         "free-entry"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "nemo-s-panorama-terrace",
@@ -641,7 +641,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "begijnhof",
@@ -656,7 +656,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "cross-the-ij-river-by-ferry",
@@ -671,7 +671,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "free-tour-of-amsterdam",
@@ -686,7 +686,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "free-organ-concert",
@@ -701,7 +701,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "friday-night-skate",
@@ -716,7 +716,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "amsterdam-city-archives",
@@ -731,7 +731,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "free-guided-diamond-tour",
@@ -746,7 +746,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "choral-evensong",
@@ -761,7 +761,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "free-jazz-session",
@@ -778,7 +778,7 @@
         "free-museum",
         "free-entry"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "botanic-garden-zuidas",
@@ -793,7 +793,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "musical-treat-during-lunch-break",
@@ -808,7 +808,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "andy-warhol-the-textiles",
@@ -827,7 +827,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "wish-me-well",
@@ -846,7 +846,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "fragments",
@@ -865,7 +865,7 @@
       "categories": [
         "clubbing-electronic"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "jazz-and-other-curiosa",
@@ -884,7 +884,7 @@
       "categories": [
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "echoes-of-speed",
@@ -903,7 +903,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "bright-new-world-imagination-takes-power",
@@ -921,7 +921,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "jazz-years-people-migration-and-music-in-amsterdam-1930-1939",
@@ -940,7 +940,7 @@
       "categories": [
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "tekenkabinet-xiv",
@@ -959,7 +959,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "ulrich-seidl",
@@ -977,7 +977,7 @@
       "categories": [
         "film-media"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "world-press-photo-exhibition-2026",
@@ -996,7 +996,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "love-on-the-canals",
@@ -1015,7 +1015,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "kho-liang-ie-mid-century-modernist",
@@ -1034,7 +1034,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "martine-gutierrez-wunderkind",
@@ -1053,7 +1053,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "carel-visser-in-the-rijksmuseum-gardens",
@@ -1072,7 +1072,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "diederik-schneemann-1-1-3",
@@ -1091,7 +1091,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "glass-made-in-antiquity",
@@ -1110,7 +1110,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "robbie-williams-pride-and-self-prejudice",
@@ -1129,7 +1129,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "planet-positive-disruption",
@@ -1147,7 +1147,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "cruyff-a-way-of-thinking",
@@ -1166,7 +1166,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "world-press-photo-exhibition",
@@ -1184,7 +1184,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "vondelpark-open-air-theater",
@@ -1201,7 +1201,7 @@
       "categories": [
         "park-square"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "electric-tram-museum-amsterdam",
@@ -1218,7 +1218,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "ajax-amsterdam-football-club",
@@ -1235,7 +1235,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "sinterklaasavond",
@@ -1252,7 +1252,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "the-music-of-harry-potter-by-mystery-ensemble",
@@ -1269,7 +1269,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "new-year-s-eve",
@@ -1286,7 +1286,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Pagliacci / Cavalleria rusticana",
@@ -1300,7 +1300,7 @@
       "categories": [
         "opera-ballet"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Legacies",
@@ -1314,7 +1314,7 @@
       "categories": [
         "opera-ballet"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "PREVIEW: Everything Moist Seems Alive",
@@ -1328,7 +1328,7 @@
       "categories": [
         "opera-ballet"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Helstone in Het Pand der Goden",
@@ -1343,7 +1343,7 @@
         "opera-ballet",
         "classical"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Cherry Town",
@@ -1357,7 +1357,7 @@
       "categories": [
         "opera-ballet"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Lennox",
@@ -1371,7 +1371,7 @@
       "categories": [
         "opera-ballet"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Swan Lake",
@@ -1385,7 +1385,7 @@
       "categories": [
         "opera-ballet"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Swan Lake Remixed for ADE",
@@ -1401,7 +1401,7 @@
         "clubbing-electronic",
         "park-square"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Johannes-Passion",
@@ -1415,7 +1415,7 @@
       "categories": [
         "opera-ballet"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "DIEP Seminar: speaker TBA",
@@ -1431,7 +1431,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "judy-chicago-revelations",
@@ -1451,7 +1451,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Platform Power",
@@ -1466,7 +1466,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "De eik en de lariks. Een avond over de Russische bossen met Sophie Pinkham",
@@ -1481,7 +1481,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "REVEAL PARTY",
@@ -1496,7 +1496,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Nederlands-Duitse cultuurdialogen: Dilan Yurdakul & Fatih Akın",
@@ -1511,7 +1511,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "DE WALLEN FESTIVAL",
@@ -1526,7 +1526,7 @@
       "categories": [
         "park-square"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "DE WALLEN FESTIVAL: JAZZ",
@@ -1542,7 +1542,7 @@
         "jazz",
         "park-square"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "100 jaar leven en werk van J.J. Voskuil",
@@ -1557,7 +1557,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "The Future of Global Digital Cultures",
@@ -1572,7 +1572,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Feminist Solidarity and Resistance in a More-than-Human World",
@@ -1587,7 +1587,7 @@
       "categories": [
         "demonstration"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "QUEER BANDS",
@@ -1602,7 +1602,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "DJ TIL 2 AM (T.B.A.)",
@@ -1617,7 +1617,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "FLINTA DJ LINEUP (T.B.A)",
@@ -1632,7 +1632,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "T.B.A",
@@ -1647,7 +1647,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "GREASY GURLZ",
@@ -1662,7 +1662,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "T.B.A",
@@ -1677,7 +1677,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Naked",
@@ -1691,7 +1691,7 @@
         "sex-positive",
         "clubbing-electronic"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "amsterdam-fashion-week",
@@ -1710,7 +1710,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "AI, Infrastructures and Sustainability",
@@ -1725,7 +1725,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "dutch-theatre-festival",
@@ -1744,7 +1744,7 @@
       "categories": [
         "park-square"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "amsterdam-fringe-festival",
@@ -1763,7 +1763,7 @@
       "categories": [
         "park-square"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "DIEP: season kickoff — informal get-together",
@@ -1779,7 +1779,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Een impuls voor zorgvernieuwing: van evidence-based inzicht naar actie",
@@ -1794,7 +1794,7 @@
       "categories": [
         "demonstration"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Dok Night Seizoens Opening",
@@ -1808,7 +1808,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "A Brief History of Environmental Humour",
@@ -1823,7 +1823,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "PolyDiner Amsterdam",
@@ -1839,7 +1839,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Daan Herweg",
@@ -1852,7 +1852,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "EXPLORER NIGHT – FREE TASTERS AND FREE PARTY",
@@ -1865,21 +1865,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "Mezrab Friday Night Storytelling",
-      "url": "https://mezrab.nl/events/mezrab-friday-night-storytelling-2-2026-07-03-2026-07-10-2026-07-17-2026-07-24-2026-07-31-2026-08-07-2026-08-14-2026-08-21-2026-08-28-2026-09-04/",
-      "venue": "Mezrab",
-      "startDate": "2026-09-04T20:00:00",
-      "dateText": "Fri 4.09 | 20:00",
-      "id": "mezrab-771342be96b6e629",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "New York Jazz meets Jordaan; Steve Nelson (06-49420542)",
@@ -1895,7 +1881,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "The Last Ship",
@@ -1910,7 +1896,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Friday Night Live ft. Linus Eppinger & special guest",
@@ -1923,21 +1909,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "Amsterdam Fringe Festival: A Beautiful Cockroach",
-      "url": "https://mezrab.nl/events/amsterdam-fringe-festival-a-beautiful-cockroach-2/",
-      "venue": "The Other Mezrab",
-      "startDate": "2026-09-04T20:15:00",
-      "dateText": "Fri 4.09 | 20:15",
-      "id": "mezrab-54aaa2710fd2a2b3",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "park-square"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Jasper Blom & Ben van Gelder – CROSSWORDS",
@@ -1954,7 +1926,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Pearl Bretter Trio",
@@ -1969,7 +1941,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Aviv Noam Quintet",
@@ -1983,7 +1955,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Concertgebouw OPEN",
@@ -1996,7 +1968,7 @@
       "categories": [
         "classical"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Concertgebouw OPEN - gratis miniconcerten voor iedereen!",
@@ -2012,7 +1984,7 @@
         "live-music",
         "free-entry"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Impulse Play Plus",
@@ -2027,7 +1999,7 @@
       "categories": [
         "sex-positive"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "The Last Ship",
@@ -2042,21 +2014,23 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
-      "title": "Amsterdam Fringe Festival: A Beautiful Cockroach",
-      "url": "https://mezrab.nl/events/amsterdam-fringe-festival-a-beautiful-cockroach-3/",
-      "venue": "The Other Mezrab",
-      "startDate": "2026-09-05T16:00:00",
-      "dateText": "Sat 5.09 | 16:00",
-      "id": "mezrab-20b789d0269d300a",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
+      "title": "Simon Rigter 4 met Timothy Banchet, Cas Jiskoot en Ben Schröder",
+      "url": "http://www.crea.nl/cafe/?lang=en",
+      "startDate": "2026-09-05T16:30:00.000+02:00",
+      "venue": "Crea café",
+      "price": "Free",
+      "isFree": true,
+      "id": "jazzin-34056224fb31be46",
+      "source": "jazzin",
+      "sourceName": "Jazzin' Amsterdam",
       "categories": [
-        "park-square"
+        "live-music",
+        "free-entry"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "KZ closed",
@@ -2069,7 +2043,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Christian Doepke & Jacko Schoonderwoerd",
@@ -2085,7 +2059,7 @@
         "live-music",
         "free-entry"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Christian Doepke",
@@ -2098,21 +2072,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "The Original Mezrab Comedy Night",
-      "url": "https://mezrab.nl/events/the-original-mezrab-comedy-night-28/",
-      "venue": "Mezrab",
-      "startDate": "2026-09-05T20:00:00",
-      "dateText": "Sat 5.09 | 20:00",
-      "id": "mezrab-129fd8f6db0e0489",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Hidden Jazz Club",
@@ -2126,7 +2086,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "New York Jazz meets Jordaan; Steve Nelson (06-49420542)",
@@ -2142,7 +2102,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Wild Flutes on the Run - Een avond vol composities en improvisaties, voortkomend uit een nog nooit eerder gehoorde samenstelling",
@@ -2157,7 +2117,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Pablo Murgier Quartet",
@@ -2174,7 +2134,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Groove sessions with Jaydian Daniel",
@@ -2187,7 +2147,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Federica Lorusso & Friends",
@@ -2201,7 +2161,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "amsterdam-city-swim",
@@ -2219,7 +2179,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Noa Wildschut in Saint-Saëns’ Violin Concerto No. 3 & Andrew Grams conducts Carmen",
@@ -2233,7 +2193,7 @@
       "categories": [
         "classical"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Cheese & Jazz",
@@ -2247,7 +2207,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "The Last Ship",
@@ -2262,7 +2222,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Tri Éin Quartet, Keltische muziek Ierland (gitaren, viool, accordeon, whistles)",
@@ -2275,7 +2235,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "L’Orchestre Jean LeJeune",
@@ -2291,7 +2251,7 @@
         "live-music",
         "free-entry"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Cafe Conrad x JC",
@@ -2304,21 +2264,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "Amsterdam Fringe Festival: This Is Not A Freakshow",
-      "url": "https://mezrab.nl/events/amsterdam-fringe-festival-this-is-not-a-freakshow-2/",
-      "venue": "Mezrab",
-      "startDate": "2026-09-06T16:15:00",
-      "dateText": "Sun 6.09 | 16:15",
-      "id": "mezrab-d02585afdbeb3de6",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "park-square"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Jazz op zondag feat. Lucas Santana",
@@ -2332,7 +2278,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Sandunguera",
@@ -2345,7 +2291,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Better Days Ahead",
@@ -2360,7 +2306,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Alice Leggett Quartet",
@@ -2373,7 +2319,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Double Bill: Jacob Drescher & Floatist",
@@ -2388,7 +2334,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Ruud de Vries Quartet",
@@ -2402,7 +2348,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Pittsburgh Symphony Orchestra: Dvořák's Symphony No. 9",
@@ -2416,21 +2362,7 @@
       "categories": [
         "classical"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "Amsterdam Fringe Festival: This Is Not A Freakshow",
-      "url": "https://mezrab.nl/events/amsterdam-fringe-festival-this-is-not-a-freakshow-3/",
-      "venue": "Mezrab",
-      "startDate": "2026-09-07T19:00:00",
-      "dateText": "Mon 7.09 | 19:00",
-      "id": "mezrab-b9c9cccaef4c2468",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "park-square"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Cool Sound + Special Guest",
@@ -2444,7 +2376,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "CE62155B-C85D-4206-93D8-BDAC7099DC25",
@@ -2461,7 +2393,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Rock ’n Roll Dansles met Gel",
@@ -2474,21 +2406,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "Mysterious Tuesday Night",
-      "url": "https://mezrab.nl/events/off-the-page-2-2026-09-08/",
-      "venue": "Mezrab",
-      "startDate": "2026-09-08T20:00:00",
-      "dateText": "Tue 8.09 | 20:00",
-      "id": "mezrab-a6defc078a11e087",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "The Last Ship",
@@ -2503,7 +2421,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Corinna & The Cosmopolitans | Is That All There Is? | The Strange Life Of Peggy Lee",
@@ -2518,7 +2436,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Arborescence trio - De geboorte van een nieuw trio",
@@ -2533,7 +2451,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Jazzcafé!",
@@ -2548,7 +2466,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Elsa's trio met Luz Van Raalte (zang) en Thomas Lammen (trombone)",
@@ -2564,7 +2482,7 @@
         "live-music",
         "free-entry"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "The Fours",
@@ -2578,7 +2496,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Tuesday Jam",
@@ -2595,7 +2513,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Free Lunchtime Concert: Klassiek op het Amstelveld",
@@ -2608,7 +2526,7 @@
       "categories": [
         "classical"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Restaurant: Yayang",
@@ -2623,21 +2541,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "Open Stage Storytelling Night",
-      "url": "https://mezrab.nl/events/open-stage-storytelling-night-2-2025-12-24-2026-07-01-2026-07-08-2026-07-15-2026-07-22-2026-07-29-2026-08-05-2026-08-12-2026-08-19-2026-08-26-2026-09-02-2026-09-09/",
-      "venue": "Mezrab",
-      "startDate": "2026-09-09T20:00:00",
-      "dateText": "Wed 9.09 | 20:00",
-      "id": "mezrab-a16faf57f09e6e8a",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "The Last Ship",
@@ -2652,7 +2556,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Ernst Reijseger & Mario Forte & Harmen Fraanje",
@@ -2667,7 +2571,24 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
+    },
+    {
+      "title": "Muurbloem Jazz Jam Session",
+      "url": "https://www.cafedemuurbloem.nl/#live",
+      "startDate": "2026-09-09T20:00:00.000+02:00",
+      "venue": "Café de Muurbloem",
+      "price": "Free",
+      "isFree": true,
+      "id": "jazzin-c9c765410b4211a5",
+      "source": "jazzin",
+      "sourceName": "Jazzin' Amsterdam",
+      "categories": [
+        "live-music",
+        "jazz",
+        "free-entry"
+      ],
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "kronkelbar w/ wayward fool + dj bandgurl666",
@@ -2682,7 +2603,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Jazz | Timothy Banchet",
@@ -2696,7 +2617,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Jasper Blom Brings",
@@ -2710,7 +2631,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Dok Night",
@@ -2728,7 +2649,7 @@
         "live-music",
         "film-media"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "DIEP Seminar: PK Mohanty",
@@ -2745,12 +2666,12 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "​​Over de grens: identiteit, cultuur en de postnationale verbeelding​",
       "url": "https://spui25.nl/programma/over-de-grens-identiteit-cultuur-en-de-postnationale-verbeelding",
-      "imageUrl": "https://offbeat.amsterdam/media/b853f7a054d20e040ad8aa17af8adb15.jpg",
+      "imageUrl": "https://offbeat.amsterdam/media/4f01c256dee3436a6af74064aad75500.jpg",
       "venue": "SPUI25",
       "address": "Spui 25-27, 1012 WX Amsterdam",
       "startDate": "2026-09-10T17:00:00.000+02:00",
@@ -2760,7 +2681,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Sisi & Segvi koken!",
@@ -2775,21 +2696,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "Amsterdam Fringe Festival: Pulling the Trigger",
-      "url": "https://mezrab.nl/events/amsterdam-fringe-festival-pulling-the-trigger/",
-      "venue": "Mezrab",
-      "startDate": "2026-09-10T19:00:00",
-      "dateText": "Thu 10.09 | 19:00",
-      "id": "mezrab-acae9a4222f56b77",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "park-square"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Jazz Thursdays w/ Jochem Braat, Yoràn Vroom & Simon Osuna",
@@ -2805,7 +2712,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Oktopedians",
@@ -2820,7 +2727,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "The Last Ship",
@@ -2835,7 +2742,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Ernst",
@@ -2850,7 +2757,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Live jazz with Mauro Cottone quartet",
@@ -2864,7 +2771,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Jazz Jam Session",
@@ -2880,7 +2787,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Teus Nobel 4 – Child’s Play",
@@ -2898,7 +2805,7 @@
         "jazz",
         "film-media"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "FUNK MEDICATION",
@@ -2912,7 +2819,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Berend van den Berg",
@@ -2925,21 +2832,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "Mezrab Friday Night Storytelling",
-      "url": "https://mezrab.nl/events/mezrab-friday-night-storytelling-2-2026-07-03-2026-07-10-2026-07-17-2026-07-24-2026-07-31-2026-08-07-2026-08-14-2026-08-21-2026-08-28-2026-09-04-2026-09-11/",
-      "venue": "Mezrab",
-      "startDate": "2026-09-11T20:00:00",
-      "dateText": "Fri 11.09 | 20:00",
-      "id": "mezrab-8ff18e00bfa8c559",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Bamboestructuren met muziek en dans",
@@ -2952,7 +2845,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "The Last Ship",
@@ -2967,7 +2860,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Friday Night Live ft. Robert Koemans",
@@ -2980,7 +2873,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Hiromi & Metropole Orkest",
@@ -2996,7 +2889,7 @@
         "live-music",
         "classical"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Aleph Quintet",
@@ -3013,7 +2906,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Flying Saucer Boys & Bluegrass Jam",
@@ -3028,7 +2921,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Balboa and Shag party",
@@ -3041,7 +2934,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Bandgurl666 presents: Thank You So Much + Birds with Jobs + DJ 666",
@@ -3054,7 +2947,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Steve Altenberg’s Outer Galaxy Ball",
@@ -3068,7 +2961,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "open-monumentendag",
@@ -3087,7 +2980,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Korngold's opera Die tote Stadt rediscovered",
@@ -3102,7 +2995,7 @@
         "classical",
         "opera-ballet"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "A New Tattoo",
@@ -3117,7 +3010,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "The Last Ship",
@@ -3132,7 +3025,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "KZ closed",
@@ -3145,21 +3038,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "Amsterdam Fringe Festival: Pulling the Trigger",
-      "url": "https://mezrab.nl/events/amsterdam-fringe-festival-pulling-the-trigger-4/",
-      "venue": "Mezrab",
-      "startDate": "2026-09-12T19:00:00",
-      "dateText": "Sat 12.09 | 19:00",
-      "id": "mezrab-2702cd42bdc848f6",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "park-square"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Berend van den Berg",
@@ -3172,7 +3051,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "DansDok – lekker dansen",
@@ -3188,7 +3067,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "GEORGE",
@@ -3205,7 +3084,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Groove sessions with Cruz del Sur",
@@ -3218,7 +3097,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Francisco Morales Quintet",
@@ -3232,7 +3111,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Aidan Mikdad plays Chopin's Sonata No. 3 and Beethoven's Waldstein",
@@ -3246,7 +3125,7 @@
       "categories": [
         "classical"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "TFCS Quartet",
@@ -3260,7 +3139,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Groove Beest: The Soul of Gospel",
@@ -3275,7 +3154,7 @@
         "jazz",
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Groove Beest Familieconcert: The Soul of Gospel",
@@ -3290,7 +3169,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "The Last Ship",
@@ -3305,7 +3184,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Bubbling Blue Notes | Bubbling Blue Notes Live Jazz",
@@ -3321,7 +3200,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "L’Orchestre Jean LeJeune",
@@ -3337,7 +3216,7 @@
         "live-music",
         "free-entry"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Duo Daan Herweg en Willem de Beer",
@@ -3353,7 +3232,7 @@
         "live-music",
         "free-entry"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "ZO! Talent Choir: The Gospel Session",
@@ -3370,7 +3249,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Jazz op zondag feat. Efraim Trujillo",
@@ -3384,7 +3263,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Not yet programmed",
@@ -3399,7 +3278,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Jasper Blom et al.",
@@ -3414,7 +3293,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "NAKS Kaseko Loco - 30 years - presented by From Southeast with Love",
@@ -3428,7 +3307,7 @@
       "categories": [
         "classical"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "jazz & poetry night with Harold Habers  (guitar) & Mireille Buldeo Rai (vocals)",
@@ -3444,21 +3323,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "The MezJam",
-      "url": "https://mezrab.nl/events/the-mezjam-2026-07-12-2026-08-09-2026-09-13/",
-      "venue": "Mezrab",
-      "startDate": "2026-09-13T20:00:00",
-      "dateText": "Sun 13.09 | 20:00",
-      "id": "mezrab-b6490ae2f43cbcd7",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "TryTone presenteert: Tone Series",
@@ -3473,7 +3338,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Rob van de Wouw Quartet",
@@ -3487,12 +3352,12 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Zittingscultuur in civiele zaken",
       "url": "https://spui25.nl/programma/zittingscultuur-in-civiele-zaken",
-      "imageUrl": "https://offbeat.amsterdam/media/c01ffb1a63f917c510edfe08fdc7ce00.jpg",
+      "imageUrl": "https://offbeat.amsterdam/media/5452c5a175877a3d3bbd42b07b5a17e6.jpg",
       "venue": "SPUI25",
       "address": "Spui 25-27, 1012 WX Amsterdam",
       "startDate": "2026-09-14T17:00:00.000+02:00",
@@ -3502,7 +3367,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Mahler Academy Orchestra: Mahler's Symphony No. 9",
@@ -3516,21 +3381,7 @@
       "categories": [
         "classical"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "Persian language storytelling night",
-      "url": "https://mezrab.nl/events/persian-language-storytelling-night-9/",
-      "venue": "Mezrab",
-      "startDate": "2026-09-14T19:30:00",
-      "dateText": "Mon 14.09 | 19:30",
-      "id": "mezrab-5536208808a3fd6e",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "SOLO MIGUEL FRANCISCO /percussie, objecten & TRIO BJÖRK NÍELSDÓTTIR /stem LAURA POLENCE /stem KRISTJÁN MARTINSSON /piano, fluit",
@@ -3543,7 +3394,23 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
+    },
+    {
+      "title": "Aviv Maya~Eran Har-Even~Tijs Klaassen~Pedro Mendes",
+      "url": "https://stonescafeleidse.nl/",
+      "startDate": "2026-09-14T20:00:00.000+02:00",
+      "venue": "Stones Cafe Leidseplein",
+      "price": "Free",
+      "isFree": true,
+      "id": "jazzin-c9f07d80ab1714d1",
+      "source": "jazzin",
+      "sourceName": "Jazzin' Amsterdam",
+      "categories": [
+        "live-music",
+        "free-entry"
+      ],
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Cool Sound + Special Guest",
@@ -3557,7 +3424,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "13881EE0-991B-4871-9EBB-513C51164F83",
@@ -3574,7 +3441,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Fairuz Our Muse, featuring Amsterdam Sinfonietta, Nai Barghouti & Wasim Arslan",
@@ -3588,7 +3455,7 @@
       "categories": [
         "classical"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "MCA Concertgebouw Debut: Beethoven's Symphonies 5 & 6",
@@ -3602,7 +3469,7 @@
       "categories": [
         "classical"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Rock ’n Roll Dansles met Gel",
@@ -3615,21 +3482,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "Samizdat: Stories from the Underground",
-      "url": "https://mezrab.nl/events/samizdat-stories-from-the-underground-2-2026-09-15/",
-      "venue": "Mezrab",
-      "startDate": "2026-09-15T20:00:00",
-      "dateText": "Tue 15.09 | 20:00",
-      "id": "mezrab-a97f0320d3ad4e05",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Minja Mijuskovic Nonet - String Quartet + Jazz Quintet featuring Carolina Gemmell",
@@ -3645,7 +3498,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Escarteen Sisters | Willow Tree",
@@ -3660,7 +3513,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Jazzcafé!",
@@ -3675,7 +3528,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "The Fours",
@@ -3689,7 +3542,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Tuesday Jam",
@@ -3706,7 +3559,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Free Lunchtime Concert: Muze van Zuid",
@@ -3719,7 +3572,7 @@
       "categories": [
         "classical"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Restaurant: Yayang",
@@ -3734,7 +3587,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Concertgebouw Orchestra & Klaus Mäkelä: Berlioz's Symphonie Fantastique",
@@ -3748,26 +3601,29 @@
       "categories": [
         "classical"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
-      "title": "Open Stage Storytelling Night",
-      "url": "https://mezrab.nl/events/open-stage-storytelling-night-2-2025-12-24-2026-07-01-2026-07-08-2026-07-15-2026-07-22-2026-07-29-2026-08-05-2026-08-12-2026-08-19-2026-08-26-2026-09-02-2026-09-09-2026-09-16/",
-      "venue": "Mezrab",
-      "startDate": "2026-09-16T20:00:00",
-      "dateText": "Wed 16.09 | 20:00",
-      "id": "mezrab-88b4e284162338ec",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
+      "title": "Muurbloem Jazz Jam Session",
+      "url": "https://www.cafedemuurbloem.nl/#live",
+      "startDate": "2026-09-16T20:00:00.000+02:00",
+      "venue": "Café de Muurbloem",
+      "price": "Free",
+      "isFree": true,
+      "id": "jazzin-07696c86cb0d0a02",
+      "source": "jazzin",
+      "sourceName": "Jazzin' Amsterdam",
       "categories": [
-        "other"
+        "live-music",
+        "jazz",
+        "free-entry"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Zin en onzin van generaties",
       "url": "https://spui25.nl/programma/zin-en-onzin-van-generaties",
-      "imageUrl": "https://offbeat.amsterdam/media/41f3b9aaf125df4dacd5c1913fde18fb.jpg",
+      "imageUrl": "https://offbeat.amsterdam/media/5c41cff647d16c52f94f56b4a1b2526c.jpg",
       "venue": "SPUI25",
       "address": "Spui 25-27, 1012 WX Amsterdam",
       "startDate": "2026-09-16T20:00:00.000+02:00",
@@ -3777,7 +3633,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Jazz | Benjamin Herman",
@@ -3791,7 +3647,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Yoran Vroom",
@@ -3805,7 +3661,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "jordaan-festival",
@@ -3824,7 +3680,7 @@
       "categories": [
         "park-square"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "DIEP Seminar: Constantino Tsallis",
@@ -3841,12 +3697,12 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Das amerikanische Beben",
       "url": "https://spui25.nl/programma/das-amerikanische-beben",
-      "imageUrl": "https://offbeat.amsterdam/media/0bfcebbd66d6c67f0288a16b1a34e1b3.jpg",
+      "imageUrl": "https://offbeat.amsterdam/media/706d1bada6daf99feb7ade60d1658235.jpg",
       "venue": "SPUI25",
       "address": "Spui 25-27, 1012 WX Amsterdam",
       "startDate": "2026-09-17T17:00:00.000+02:00",
@@ -3856,7 +3712,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Sisi & Segvi koken!",
@@ -3871,7 +3727,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Dok Night – SYMBIOPSYCHOTAXICINEMA Presented by Jeffrey Babcock",
@@ -3888,7 +3744,7 @@
         "live-music",
         "film-media"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Concertgebouw Orchestra & Klaus Mäkelä: Berlioz's Symphonie Fantastique",
@@ -3902,21 +3758,7 @@
       "categories": [
         "classical"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "Giveh ★ One last summer night ★ آخرین شب تابستان",
-      "url": "https://mezrab.nl/events/giveh-one-last-summer-night/",
-      "venue": "Mezrab",
-      "startDate": "2026-09-17T19:30:00",
-      "dateText": "Thu 17.09 | 19:30",
-      "id": "mezrab-2b2cda8aa55eecab",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Jazz Thursdays w/ Amsterdam Jazz Trio",
@@ -3932,7 +3774,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Oktopedians",
@@ -3947,7 +3789,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Contra residency: Avishai Darash trio",
@@ -3960,12 +3802,12 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Herodotus en de patronen van de geschiedenis",
       "url": "https://spui25.nl/programma/herodotus-en-de-patronen-van-de-geschiedenis",
-      "imageUrl": "https://offbeat.amsterdam/media/cfde8bb428fbab1fa3c56d2b15d5f03b.jpg",
+      "imageUrl": "https://offbeat.amsterdam/media/b56596dce76510eafc8b668d7fc5bcd4.jpg",
       "venue": "SPUI25",
       "address": "Spui 25-27, 1012 WX Amsterdam",
       "startDate": "2026-09-17T20:00:00.000+02:00",
@@ -3975,7 +3817,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Jazz at A Lab #10: Alkistis Misouli Sextet",
@@ -3991,7 +3833,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Rodrigo Amado: The Bridge ft. Von Schlippenbach, Håker Flaten & Hemingway",
@@ -4008,7 +3850,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Jazz Jam Session",
@@ -4024,7 +3866,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Café Vol Dichters",
@@ -4039,7 +3881,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "FUNK MEDICATION",
@@ -4053,7 +3895,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "nadav-kander-the-edge-of-things",
@@ -4073,7 +3915,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "unseen-photo-fair",
@@ -4092,7 +3934,7 @@
       "categories": [
         "park-square"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Leo Bouwmeester",
@@ -4105,21 +3947,21 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
-      "title": "Mezrab Friday Night Storytelling",
-      "url": "https://mezrab.nl/events/mezrab-friday-night-storytelling-2-2026-07-03-2026-07-10-2026-07-17-2026-07-24-2026-07-31-2026-08-07-2026-08-14-2026-08-21-2026-08-28-2026-09-04-2026-09-11-2026-09-18/",
-      "venue": "Mezrab",
-      "startDate": "2026-09-18T20:00:00",
-      "dateText": "Fri 18.09 | 20:00",
-      "id": "mezrab-51c23a8659f18ca1",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
+      "title": "Concertgebouw Orchestra & Klaus Mäkelä: Berlioz's Symphonie Fantastique",
+      "url": "https://www.concertgebouw.nl/en/concerts/45875193-concertgebouw-orchestra-klaus-makela-berliozs-symphonie-fantastique",
+      "venue": "Concertgebouw – Main Hall",
+      "startDate": "2026-09-18T18:15:00.000Z",
+      "price": "From €29.00",
+      "id": "concertgebouw-05251e43dad74189",
+      "source": "concertgebouw",
+      "sourceName": "Het Concertgebouw",
       "categories": [
-        "other"
+        "classical"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Friday Night Live ft. Matěj Bursík & Robert Forejtek Quartet - tenor hang",
@@ -4132,12 +3974,12 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Roots, Ancestors, DNA: What are we looking for?",
       "url": "https://spui25.nl/programma/roots-ancestors-dna-what-are-we-looking-for",
-      "imageUrl": "https://offbeat.amsterdam/media/c923bec1797a0e1f4ec07f542d3521b4.jpg",
+      "imageUrl": "https://offbeat.amsterdam/media/da0e10d1e76ec939a544ea3f4213448b.jpg",
       "venue": "SPUI25",
       "address": "Spui 25-27, 1012 WX Amsterdam",
       "startDate": "2026-09-18T20:00:00.000+02:00",
@@ -4147,12 +3989,12 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Een avond met Douglas Stuart over zijn nieuwste roman ‘John, zoon van John’",
       "url": "https://spui25.nl/programma/een-avond-met-douglas-stuart-over-zijn-nieuwste-roman-john-zoon-van-john",
-      "imageUrl": "https://offbeat.amsterdam/media/415fa37a768048c9098911261f933fc9.jpg",
+      "imageUrl": "https://offbeat.amsterdam/media/93e8463be16476bf2f5a4aa6a96b0ed1.jpg",
       "venue": "SPUI25",
       "address": "Spui 25-27, 1012 WX Amsterdam",
       "startDate": "2026-09-18T20:00:00.000+02:00",
@@ -4162,7 +4004,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "WAAN",
@@ -4179,7 +4021,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Theo Naishtat Trio",
@@ -4194,7 +4036,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Kosmosis Bigband",
@@ -4209,7 +4051,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "D!ma Loginov Group",
@@ -4223,7 +4065,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "dam-tot-damloop",
@@ -4242,7 +4084,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Clous van Mechelen & Olga de Meij",
@@ -4255,7 +4097,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "T.B.A.",
@@ -4268,21 +4110,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "The ALT Mezrab Comedy Night",
-      "url": "https://mezrab.nl/events/the-alt-mezrab-comedy-night-28/",
-      "venue": "Mezrab",
-      "startDate": "2026-09-19T20:00:00",
-      "dateText": "Sat 19.09 | 20:00",
-      "id": "mezrab-5f1700c7ab2b7d80",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "12fu w/ wracaj bo ciemno (pl) + ok.ko + djalan-djalan + dj steve",
@@ -4297,7 +4125,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Jazz at the Pianola, The New Amsterdam Trio",
@@ -4313,7 +4141,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Tyn Wybenga Brainteaser Orchestra",
@@ -4327,7 +4155,7 @@
         "live-music",
         "classical"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Peter Bernstein Quartet",
@@ -4344,7 +4172,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Groove sessions with Vanilla Caliente: Bolero Night",
@@ -4357,7 +4185,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Marios Charalampous Quartet",
@@ -4371,7 +4199,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Cheese & Jazz",
@@ -4385,21 +4213,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "Balfolk Social in de Mezrab Save the Date",
-      "url": "https://mezrab.nl/events/balfolk-social-in-de-mezrab-save-the-date/",
-      "venue": "Mezrab",
-      "startDate": "2026-09-20T14:15:00",
-      "dateText": "Sun 20.09 | 14:15",
-      "id": "mezrab-2f9e4f74e08779aa",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Concert Duke Ellington Project: Seven For Duke",
@@ -4415,7 +4229,7 @@
         "live-music",
         "free-entry"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Jazz & Drinks - Diemen800",
@@ -4431,7 +4245,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Amsterdam - Cologne improv connection - Duo Salvoandrea Lucifora / Raoul van der Weide, trio DIG & Ties Mellema",
@@ -4446,7 +4260,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "L’Orchestre Jean LeJeune",
@@ -4462,7 +4276,7 @@
         "live-music",
         "free-entry"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "DUO ROUTE SOLEIL",
@@ -4477,7 +4291,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Jazz op zondag feat. Finn Peters",
@@ -4491,7 +4305,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Giorgia-May",
@@ -4506,7 +4320,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Bria Skonberg",
@@ -4523,7 +4337,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Wouter Kiers Quartet",
@@ -4537,7 +4351,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Cool Sound + Special Guest",
@@ -4551,7 +4365,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "2D819938-6C32-4F57-8A7C-EB1D07F23FFC",
@@ -4568,12 +4382,12 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Van pettenverkoper tot persbaron: M.S. Vaz Dias",
       "url": "https://spui25.nl/programma/van-pettenverkoper-tot-persbaron-m-s-vaz-dias",
-      "imageUrl": "https://offbeat.amsterdam/media/4476d09f5f036a84a4759fc427825376.jpg",
+      "imageUrl": "https://offbeat.amsterdam/media/96b4519db31d7bb969fd0743ae001188.jpg",
       "venue": "SPUI25",
       "address": "Spui 25-27, 1012 WX Amsterdam",
       "startDate": "2026-09-22T17:00:00.000+02:00",
@@ -4583,7 +4397,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Rock ’n Roll Dansles met Gel",
@@ -4596,21 +4410,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "Pearls on a String",
-      "url": "https://mezrab.nl/events/pearls-on-a-string-2026-02-24-2026-07-28-2026-08-25-2026-09-22/",
-      "venue": "Mezrab",
-      "startDate": "2026-09-22T20:00:00",
-      "dateText": "Tue 22.09 | 20:00",
-      "id": "mezrab-7954e3914fd0f682",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Orchestre Partout Lab #20 Martin Fondse X Háshem Kabreet",
@@ -4625,12 +4425,12 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Cultuurgeschiedenis en de politieke actualiteit van het nationalisme",
       "url": "https://spui25.nl/programma/cultuurgeschiedenis-en-de-politieke-actualiteit-van-het-nationalisme",
-      "imageUrl": "https://offbeat.amsterdam/media/fb0167c5328bc54739e8582691bfe211.jpg",
+      "imageUrl": "https://offbeat.amsterdam/media/ed1dbcfcf823e1d8d12318b77dc172ea.jpg",
       "venue": "SPUI25",
       "address": "Spui 25-27, 1012 WX Amsterdam",
       "startDate": "2026-09-22T20:00:00.000+02:00",
@@ -4640,7 +4440,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Witte Gei’t? met Jacob Drescher, Send Me Flowers, Virgil WX en Jana Mila",
@@ -4653,7 +4453,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Jazzcafé!",
@@ -4668,7 +4468,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Elsa's trio met Yvonne Weijers (zang ) en Reinier Voet (gitaar)",
@@ -4684,7 +4484,7 @@
         "live-music",
         "free-entry"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "The Fours",
@@ -4698,7 +4498,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Tuesday Jam",
@@ -4715,7 +4515,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "VekoDiner van Erik Wildschut",
@@ -4730,7 +4530,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "PolyMannenCirkel 2026-2027",
@@ -4746,7 +4546,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Fancy Dress Party - \"You’re Cordially Invited” album release",
@@ -4761,21 +4561,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "Open Stage Storytelling Night",
-      "url": "https://mezrab.nl/events/open-stage-storytelling-night-2-2025-12-24-2026-07-01-2026-07-08-2026-07-15-2026-07-22-2026-07-29-2026-08-05-2026-08-12-2026-08-19-2026-08-26-2026-09-02-2026-09-09-2026-09-16-2026-09-23/",
-      "venue": "Mezrab",
-      "startDate": "2026-09-23T20:00:00",
-      "dateText": "Wed 23.09 | 20:00",
-      "id": "mezrab-6f0893d64affb823",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Jazz | Timothy Banchet",
@@ -4789,7 +4575,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Wouter Kiers Quartet",
@@ -4803,7 +4589,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "DIEP Seminar: Deb Panja",
@@ -4820,7 +4606,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Restaurant: Sisi & Sevgi koken",
@@ -4835,7 +4621,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Dok Night – Benefit Dinner olijfoogst in de West Bank by Het Laatste Avondmaal",
@@ -4852,7 +4638,7 @@
         "live-music",
         "film-media"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Alien Beauty - Michael Moore & Ziv Taubenfeld: twee houtblazers in een spontane dialoog",
@@ -4867,7 +4653,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Jazz Thursdays w/ Erik Verwey Invites: Sam Newbould",
@@ -4883,7 +4669,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Oktopedians",
@@ -4898,21 +4684,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "Albaidar Duo ★ Arabic Folk ★ Magic Carpet Sessions ♫",
-      "url": "https://mezrab.nl/events/albaidar-duo-concert/",
-      "venue": "Mezrab",
-      "startDate": "2026-09-24T20:30:00",
-      "dateText": "Thu 24.09 | 20:30",
-      "id": "mezrab-19121b7f69c4ba54",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Mahsa Vahdat with Tord Gustavsen",
@@ -4929,7 +4701,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Jazz Jam Session",
@@ -4945,7 +4717,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "\"Duo conversations\" - Federica Lorusso & Pietro Aloi (Jazz / Braziliaans)",
@@ -4961,7 +4733,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Dinner concert: Koen Verlaan sings Frank Sinatra",
@@ -4974,7 +4746,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "FUNK MEDICATION",
@@ -4988,7 +4760,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "experimentation",
@@ -5008,7 +4780,7 @@
       "categories": [
         "clubbing-electronic"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Nick van den Bos",
@@ -5021,7 +4793,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Good Golly Miss - James Joyce walked into a bar",
@@ -5036,7 +4808,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Mi Casa",
@@ -5051,21 +4823,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "Mezrab Friday Night Storytelling",
-      "url": "https://mezrab.nl/events/mezrab-friday-night-storytelling-2-2026-07-03-2026-07-10-2026-07-17-2026-07-24-2026-07-31-2026-08-07-2026-08-14-2026-08-21-2026-08-28-2026-09-04-2026-09-11-2026-09-18-2026-09-25/",
-      "venue": "Mezrab",
-      "startDate": "2026-09-25T20:00:00",
-      "dateText": "Fri 25.09 | 20:00",
-      "id": "mezrab-f264b4c11f290206",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Hidden Jazz Club",
@@ -5081,7 +4839,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Jazz at the Pianola, Mehmet Polat Quartet",
@@ -5097,7 +4855,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Friday Night Live ft. Frank Groenendijk",
@@ -5110,7 +4868,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Beatriz",
@@ -5127,7 +4885,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "TUUKKA DUNKEL QUARTET",
@@ -5142,7 +4900,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Blues Burner w/ Liquid and Bones – Opening Season",
@@ -5155,7 +4913,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Iman Spaargaren Quintet",
@@ -5169,7 +4927,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "ambacht-in-beeld-festival",
@@ -5189,7 +4947,7 @@
         "park-square",
         "film-media"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Kronkel Festival",
@@ -5204,7 +4962,7 @@
         "live-music",
         "park-square"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Shaffy Muziekcafé | The Murakami Sessions",
@@ -5219,7 +4977,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Impromptu Jazz & Funk Open Jam Session",
@@ -5236,7 +4994,7 @@
         "jazz",
         "free-entry"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Nick van den Bos",
@@ -5249,7 +5007,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Hidden Jazz Club",
@@ -5265,7 +5023,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Juyoung Byun - OURELEMENT",
@@ -5278,7 +5036,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Improvisaties op sax, klarinet, piano, contrabas, kraakdoos en andere objecten",
@@ -5291,7 +5049,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Julie Campiche – Unspoken | Raphael Vanoli Solo",
@@ -5308,7 +5066,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Trio Del Ferro/Teepe/Altenberg - The Latin Jazz Dream",
@@ -5324,21 +5082,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "Rebetiko Glenti ★ Rebetiko Against - Yvonne Melissa - Alexandra Charalampidou ♫",
-      "url": "https://mezrab.nl/events/rebetiko-glenti/",
-      "venue": "Mezrab",
-      "startDate": "2026-09-26T21:15:00",
-      "dateText": "Sat 26.09 | 21:15",
-      "id": "mezrab-60c78e9b0878f141",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Bop This!",
@@ -5352,7 +5096,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "the-best-of-adele",
@@ -5370,7 +5114,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "SoWhat Familieconcert - Snip, ritsel en plop",
@@ -5385,7 +5129,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Tettero trio featuring Iman Spaargaren",
@@ -5400,7 +5144,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Trio Jos van Beest met  Joep Grotendorst en Boet Kaaijk--- CELEBRATION Concert",
@@ -5415,7 +5159,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "L’Orchestre Jean LeJeune",
@@ -5431,7 +5175,7 @@
         "live-music",
         "free-entry"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Jazz op zondag feat. Sam Newbould",
@@ -5445,7 +5189,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Annette Vogel",
@@ -5460,7 +5204,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Hyphen Dash ft. Diana Sidibé",
@@ -5477,7 +5221,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Blue Temple",
@@ -5491,21 +5235,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "Mezrab Comedy Open Mic",
-      "url": "https://mezrab.nl/events/mezrab-comedy-open-mic-2-2026-09-28/",
-      "venue": "Mezrab",
-      "startDate": "2026-09-28T20:00:00",
-      "dateText": "Mon 28.09 | 20:00",
-      "id": "mezrab-0eb015870c3da024",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "live-music"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Cool Sound + Special Guest",
@@ -5519,7 +5249,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "7F97F543-F6CF-4127-8228-E9B5DB36C4C2",
@@ -5536,7 +5266,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Rock ’n Roll Dansles met Gel",
@@ -5549,21 +5279,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "Welcome to the Playground",
-      "url": "https://mezrab.nl/events/welcome-to-the-playground-2026-09-29/",
-      "venue": "Mezrab",
-      "startDate": "2026-09-29T20:00:00",
-      "dateText": "Tue 29.09 | 20:00",
-      "id": "mezrab-3b11773642a83a2a",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Dutch Jazz Heritage: ode aan Gerry Mulligan",
@@ -5579,7 +5295,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "All Ellington",
@@ -5594,7 +5310,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Elsa's trio met Nicoline Snaas (zang) en Michael Anderson (sax)",
@@ -5610,7 +5326,7 @@
         "live-music",
         "free-entry"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "The Fours",
@@ -5624,7 +5340,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Tuesday Jam",
@@ -5641,7 +5357,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Restaurant: Yayang",
@@ -5656,21 +5372,24 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
-      "title": "Open Stage Storytelling Night",
-      "url": "https://mezrab.nl/events/open-stage-storytelling-night-2-2025-12-24-2026-07-01-2026-07-08-2026-07-15-2026-07-22-2026-07-29-2026-08-05-2026-08-12-2026-08-19-2026-08-26-2026-09-02-2026-09-09-2026-09-16-2026-09-23-2026-09-30/",
-      "venue": "Mezrab",
-      "startDate": "2026-09-30T20:00:00",
-      "dateText": "Wed 30.09 | 20:00",
-      "id": "mezrab-ba76ff8975aa3ca3",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
+      "title": "Muurbloem Jazz Jam Session",
+      "url": "https://www.cafedemuurbloem.nl/#live",
+      "startDate": "2026-09-30T20:00:00.000+02:00",
+      "venue": "Café de Muurbloem",
+      "price": "Free",
+      "isFree": true,
+      "id": "jazzin-d80354b1ae4398ac",
+      "source": "jazzin",
+      "sourceName": "Jazzin' Amsterdam",
       "categories": [
-        "other"
+        "live-music",
+        "jazz",
+        "free-entry"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Scott Hamilton & Rein de Graaff Trio ft. Philip Catherine",
@@ -5685,7 +5404,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Jazz",
@@ -5699,7 +5418,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Eran Har Even",
@@ -5713,7 +5432,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Jazz in /K, Felix Schlarmann et al.",
@@ -5729,7 +5448,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Dok Night",
@@ -5746,80 +5465,7 @@
         "live-music",
         "film-media"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "Oh La La!",
-      "url": "https://denieuweanita.nl/agenda/oh-la-la-3/",
-      "startDate": "2026-10-01T20:00:00.000+02:00",
-      "venue": "De Nieuwe Anita",
-      "id": "jazzin-58ff0235eecf7cac",
-      "source": "jazzin",
-      "sourceName": "Jazzin' Amsterdam",
-      "categories": [
-        "live-music"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "Frank Rosaly met Jeff Parker, Rob Frye & Ibelisse Guardia Ferragutti",
-      "url": "https://www.bimhuis.nl/agenda/frank-rosaly-met-rob-mazurek-jeff-parker-ibelisse-guardia-ferragutti/",
-      "startDate": "2026-10-01T20:30:00.000+02:00",
-      "venue": "Bimhuis",
-      "price": "18",
-      "isFree": false,
-      "id": "jazzin-4d63ccee33378d9d",
-      "source": "jazzin",
-      "sourceName": "Jazzin' Amsterdam",
-      "categories": [
-        "live-music"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "Jazz Jam Session",
-      "url": "https://www.cafedepianist.nl/agenda-live-muziek/",
-      "startDate": "2026-10-01T20:30:00.000+02:00",
-      "venue": "Café de Pianist",
-      "price": "free",
-      "isFree": false,
-      "id": "jazzin-7785ac000416fc1f",
-      "source": "jazzin",
-      "sourceName": "Jazzin' Amsterdam",
-      "categories": [
-        "live-music",
-        "jazz"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "Natalia Passos (Folk / Jazz)",
-      "url": "https://rooderemise.nl/activiteiten/#:~:text=Concert%3A%20Natalia%20Passos%20%28Folk%20/%20Jazz%29",
-      "startDate": "2026-10-01T20:30:00.000+02:00",
-      "venue": "De Roode Remise",
-      "price": "free",
-      "isFree": false,
-      "id": "jazzin-8650177dca939ffb",
-      "source": "jazzin",
-      "sourceName": "Jazzin' Amsterdam",
-      "categories": [
-        "live-music",
-        "jazz"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "Judith Nijland",
-      "url": "https://dekhl.nl/podium/#events",
-      "startDate": "2026-10-01T20:30:00.000+02:00",
-      "venue": "De KHL",
-      "id": "jazzin-b60a63f7fadac2e2",
-      "source": "jazzin",
-      "sourceName": "Jazzin' Amsterdam",
-      "categories": [
-        "live-music"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "afrovibes-festival",
@@ -5839,49 +5485,7 @@
         "park-square",
         "film-media"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "Mezrab Friday Night Storytelling",
-      "url": "https://mezrab.nl/events/mezrab-friday-night-storytelling-2-2026-07-03-2026-07-10-2026-07-17-2026-07-24-2026-07-31-2026-08-07-2026-08-14-2026-08-21-2026-08-28-2026-09-04-2026-09-11-2026-09-18-2026-09-25-2026-10-02/",
-      "venue": "Mezrab",
-      "startDate": "2026-10-02T20:00:00",
-      "dateText": "Fri 2.10 | 20:00",
-      "id": "mezrab-05b2ed6af7f5a3e4",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "The Original Mezrab Comedy Night",
-      "url": "https://mezrab.nl/events/the-original-mezrab-comedy-night-29/",
-      "venue": "Mezrab",
-      "startDate": "2026-10-03T20:00:00",
-      "dateText": "Sat 3.10 | 20:00",
-      "id": "mezrab-59bced872df8fac5",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "Tell, then show! – our storytelling jam",
-      "url": "https://mezrab.nl/events/tell-then-show-our-storytelling-jam-5/",
-      "venue": "Mezrab",
-      "startDate": "2026-10-04T20:00:00",
-      "dateText": "Sun 4.10 | 20:00",
-      "id": "mezrab-d3a7618cf003f9a4",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "C69D8095-BC38-4A9E-9384-17F851365AA8",
@@ -5898,35 +5502,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "Mythos. Ancient tales from all around the world.",
-      "url": "https://mezrab.nl/events/mythos-ancient-tales-from-all-around-the-world-2026-07-07-2026-08-04-2026-09-01-2026-10-06/",
-      "venue": "Mezrab",
-      "startDate": "2026-10-06T20:00:00",
-      "dateText": "Tue 6.10 | 20:00",
-      "id": "mezrab-e587f876e51f34b2",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "Open Stage Storytelling Night",
-      "url": "https://mezrab.nl/events/open-stage-storytelling-night-2-2025-12-24-2026-07-01-2026-07-08-2026-07-15-2026-07-22-2026-07-29-2026-08-05-2026-08-12-2026-08-19-2026-08-26-2026-09-02-2026-09-09-2026-09-16-2026-09-23-30-2026-10-07/",
-      "venue": "Mezrab",
-      "startDate": "2026-10-07T20:00:00",
-      "dateText": "Wed 7.10 | 20:00",
-      "id": "mezrab-8c1d458e1348ede5",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "flamenco-biennale",
@@ -5945,7 +5521,7 @@
       "categories": [
         "park-square"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "DIEP Seminar: Eric De Giuli",
@@ -5962,7 +5538,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "PolyDiner Amsterdam",
@@ -5978,7 +5554,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "willem-de-kooning-at-work",
@@ -5998,21 +5574,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "Mezrab Friday Night Storytelling",
-      "url": "https://mezrab.nl/events/mezrab-friday-night-storytelling-2-2026-07-03-2026-07-10-2026-07-17-2026-07-24-2026-07-31-2026-08-07-2026-08-14-2026-08-21-2026-08-28-2026-09-04-2026-09-11-2026-09-18-2026-09-25-2026-10-02-2026-10-09/",
-      "venue": "Mezrab",
-      "startDate": "2026-10-09T20:00:00",
-      "dateText": "Fri 9.10 | 20:00",
-      "id": "mezrab-8dc36b6c5aa98d51",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "International(e) Polyborrel Amsterdam",
@@ -6028,7 +5590,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "grachtenrace",
@@ -6046,7 +5608,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "national-museum-week",
@@ -6065,7 +5627,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "cinekid-festival",
@@ -6085,49 +5647,7 @@
         "park-square",
         "film-media"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "The MezJam",
-      "url": "https://mezrab.nl/events/the-mezjam-2026-07-12-2026-08-09-2026-09-13-2026-10-11/",
-      "venue": "Mezrab",
-      "startDate": "2026-10-11T20:00:00",
-      "dateText": "Sun 11.10 | 20:00",
-      "id": "mezrab-7a5959736a3ef852",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "Off the Page",
-      "url": "https://mezrab.nl/events/off-the-page-2-2026-10-13/",
-      "venue": "Mezrab",
-      "startDate": "2026-10-13T20:00:00",
-      "dateText": "Tue 13.10 | 20:00",
-      "id": "mezrab-8e9ad76dd78bfb14",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "Open Stage Storytelling Night",
-      "url": "https://mezrab.nl/events/open-stage-storytelling-night-2-2025-12-24-2026-07-01-2026-07-08-2026-07-15-2026-07-22-2026-07-29-2026-08-05-2026-08-12-2026-08-19-2026-08-26-2026-09-02-2026-09-09-2026-09-16-2026-09-23-07-2026-10-14/",
-      "venue": "Mezrab",
-      "startDate": "2026-10-14T20:00:00",
-      "dateText": "Wed 14.10 | 20:00",
-      "id": "mezrab-23dd4796508fb849",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "whistler-dandy-and-disruptor",
@@ -6147,21 +5667,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "Mezrab Friday Night Storytelling",
-      "url": "https://mezrab.nl/events/mezrab-friday-night-storytelling-2-2026-07-03-2026-07-10-2026-07-17-2026-07-24-2026-07-31-2026-08-07-2026-08-14-2026-08-21-2026-08-28-2026-09-04-2026-09-11-2026-09-18-2026-09-25-2026-10-09-2026-10-16/",
-      "venue": "Mezrab",
-      "startDate": "2026-10-16T20:00:00",
-      "dateText": "Fri 16.10 | 20:00",
-      "id": "mezrab-ee2ffcbcf6c70c56",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "amsterdam-marathon",
@@ -6180,21 +5686,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "The ALT Mezrab Comedy Night",
-      "url": "https://mezrab.nl/events/the-alt-mezrab-comedy-night-29/",
-      "venue": "Mezrab",
-      "startDate": "2026-10-17T20:00:00",
-      "dateText": "Sat 17.10 | 20:00",
-      "id": "mezrab-e3556565656f6478",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "the-music-of-the-lord-of-the-rings",
@@ -6212,7 +5704,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "250A5E2A-52C1-4649-858E-4FCB3F461101",
@@ -6229,21 +5721,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "Samizdat: Stories from the Underground",
-      "url": "https://mezrab.nl/events/samizdat-stories-from-the-underground-2-2026-10-20/",
-      "venue": "Mezrab",
-      "startDate": "2026-10-20T20:00:00",
-      "dateText": "Tue 20.10 | 20:00",
-      "id": "mezrab-6dcda0f6f981c0af",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "amsterdam-dance-event",
@@ -6262,35 +5740,7 @@
       "categories": [
         "park-square"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "Open Stage Storytelling Night",
-      "url": "https://mezrab.nl/events/open-stage-storytelling-night-2-2025-12-24-2026-07-01-2026-07-08-2026-07-15-2026-07-22-2026-07-29-2026-08-05-2026-08-12-2026-08-19-2026-08-26-2026-09-02-2026-09-09-2026-09-16-2026-09-23-14-2026-10-21/",
-      "venue": "Mezrab",
-      "startDate": "2026-10-21T20:00:00",
-      "dateText": "Wed 21.10 | 20:00",
-      "id": "mezrab-9146ce17e21be060",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "Mezrab Friday Night Storytelling",
-      "url": "https://mezrab.nl/events/mezrab-friday-night-storytelling-2-2026-07-03-2026-07-10-2026-07-17-2026-07-24-2026-07-31-2026-08-07-2026-08-14-2026-08-21-2026-08-28-2026-09-04-2026-09-11-2026-09-18-2026-09-25-2026-10-16-2026-10-23/",
-      "venue": "Mezrab",
-      "startDate": "2026-10-23T20:00:00",
-      "dateText": "Fri 23.10 | 20:00",
-      "id": "mezrab-2a7e5664fd04ccbf",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "amf-amsterdam",
@@ -6308,35 +5758,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "Orchestre Partout Jam",
-      "url": "https://mezrab.nl/events/orchestre-partout-jam/",
-      "venue": "Mezrab",
-      "startDate": "2026-10-25T20:00:00",
-      "dateText": "Sun 25.10 | 20:00",
-      "id": "mezrab-e1bf5ca7ce5f762c",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "Mezrab Comedy Open Mic",
-      "url": "https://mezrab.nl/events/mezrab-comedy-open-mic-2-2026-09-28-2026-10-26/",
-      "venue": "Mezrab",
-      "startDate": "2026-10-26T20:00:00",
-      "dateText": "Mon 26.10 | 20:00",
-      "id": "mezrab-4b2ccbe42d987678",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "live-music"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "C0ED5FBB-46B4-4D1B-8A2F-81F50570AB43",
@@ -6353,49 +5775,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "Pearls on a String",
-      "url": "https://mezrab.nl/events/pearls-on-a-string-2026-02-24-2026-07-28-2026-08-25-2026-09-22-2026-10-27/",
-      "venue": "Mezrab",
-      "startDate": "2026-10-27T20:00:00",
-      "dateText": "Tue 27.10 | 20:00",
-      "id": "mezrab-8cd955f42a266707",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "Open Stage Storytelling Night",
-      "url": "https://mezrab.nl/events/open-stage-storytelling-night-2-2025-12-24-2026-07-01-2026-07-08-2026-07-15-2026-07-22-2026-07-29-2026-08-05-2026-08-12-2026-08-19-2026-08-26-2026-09-02-2026-09-09-2026-09-16-2026-09-23-21-2026-10-28/",
-      "venue": "Mezrab",
-      "startDate": "2026-10-28T20:00:00",
-      "dateText": "Wed 28.10 | 20:00",
-      "id": "mezrab-75544d73d797628d",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "Mezrab Friday Night Storytelling",
-      "url": "https://mezrab.nl/events/mezrab-friday-night-storytelling-2-2026-07-03-2026-07-10-2026-07-17-2026-07-24-2026-07-31-2026-08-07-2026-08-14-2026-08-21-2026-08-28-2026-09-04-2026-09-11-2026-09-18-2026-09-25-2026-10-23-2026-10-30/",
-      "venue": "Mezrab",
-      "startDate": "2026-10-30T20:00:00",
-      "dateText": "Fri 30.10 | 20:00",
-      "id": "mezrab-c7660f41a2ded40f",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "pan-amsterdam",
@@ -6414,7 +5794,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "E72257A1-F6C8-4BF4-B574-C837DAFEB03B",
@@ -6431,35 +5811,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "Mythos. Ancient tales from all around the world.",
-      "url": "https://mezrab.nl/events/mythos-ancient-tales-from-all-around-the-world-2026-07-07-2026-08-04-2026-09-01-2026-10-06-2026-11-03/",
-      "venue": "Mezrab",
-      "startDate": "2026-11-03T20:00:00",
-      "dateText": "Tue 3.11 | 20:00",
-      "id": "mezrab-1a3e6fd4f4b8b2c0",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "Open Stage Storytelling Night",
-      "url": "https://mezrab.nl/events/open-stage-storytelling-night-2-2025-12-24-2026-07-01-2026-07-08-2026-07-15-2026-07-22-2026-07-29-2026-08-05-2026-08-12-2026-08-19-2026-08-26-2026-09-02-2026-09-09-2026-09-16-2026-09-23-28-2026-11-04/",
-      "venue": "Mezrab",
-      "startDate": "2026-11-04T20:00:00",
-      "dateText": "Wed 4.11 | 20:00",
-      "id": "mezrab-19fa5def5f668294",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "the-amsterdam-storytelling-festival",
@@ -6478,35 +5830,7 @@
       "categories": [
         "park-square"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "Parviz + Helmar ★ Persian indie-funk ♫",
-      "url": "https://mezrab.nl/events/parviz/",
-      "venue": "Mezrab",
-      "startDate": "2026-11-05T20:30:00",
-      "dateText": "Thu 5.11 | 20:30",
-      "id": "mezrab-66a7eb4083beba5e",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "live-music"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "Mezrab Friday Night Storytelling",
-      "url": "https://mezrab.nl/events/mezrab-friday-night-storytelling-2-2026-07-03-2026-07-10-2026-07-17-2026-07-24-2026-07-31-2026-08-07-2026-08-14-2026-08-21-2026-08-28-2026-09-04-2026-09-11-2026-09-18-2026-09-25-2026-10-30-2026-11-06/",
-      "venue": "Mezrab",
-      "startDate": "2026-11-06T20:00:00",
-      "dateText": "Fri 6.11 | 20:00",
-      "id": "mezrab-bb637225242b3360",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "museum-night",
@@ -6524,21 +5848,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "The Original Mezrab Comedy Night",
-      "url": "https://mezrab.nl/events/the-original-mezrab-comedy-night-30/",
-      "venue": "Mezrab",
-      "startDate": "2026-11-07T20:00:00",
-      "dateText": "Sat 7.11 | 20:00",
-      "id": "mezrab-bade92dd3879af04",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "PolyDiner Amsterdam",
@@ -6554,7 +5864,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "C70BAD06-1B61-41B2-9849-393B9870AD9F",
@@ -6571,35 +5881,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "Off the Page",
-      "url": "https://mezrab.nl/events/off-the-page-2-2026-11-10/",
-      "venue": "Mezrab",
-      "startDate": "2026-11-10T20:00:00",
-      "dateText": "Tue 10.11 | 20:00",
-      "id": "mezrab-f67c099e32198edd",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "Open Stage Storytelling Night",
-      "url": "https://mezrab.nl/events/open-stage-storytelling-night-2-2025-12-24-2026-07-01-2026-07-08-2026-07-15-2026-07-22-2026-07-29-2026-08-05-2026-08-12-2026-08-19-2026-08-26-2026-09-02-2026-09-09-2026-09-16-2026-09-23-04-2026-11-11/",
-      "venue": "Mezrab",
-      "startDate": "2026-11-11T20:00:00",
-      "dateText": "Wed 11.11 | 20:00",
-      "id": "mezrab-3fa458af47d92158",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "idfa",
@@ -6618,21 +5900,7 @@
       "categories": [
         "film-media"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "Mezrab Friday Night Storytelling",
-      "url": "https://mezrab.nl/events/mezrab-friday-night-storytelling-2-2026-07-03-2026-07-10-2026-07-17-2026-07-24-2026-07-31-2026-08-07-2026-08-14-2026-08-21-2026-08-28-2026-09-04-2026-09-11-2026-09-18-2026-09-25-2026-10-06-2026-11-13/",
-      "venue": "Mezrab",
-      "startDate": "2026-11-13T20:00:00",
-      "dateText": "Fri 13.11 | 20:00",
-      "id": "mezrab-4044c1f43aeb80e1",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "free-open-day-in-the-stedelijk",
@@ -6650,7 +5918,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "sinterklaas-arrival-parade",
@@ -6668,7 +5936,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "tribute-to-ludovico-einaudi",
@@ -6686,7 +5954,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "A8E7838C-2668-4E69-B3BE-2239DD6C295E",
@@ -6703,21 +5971,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "Samizdat: Stories from the Underground",
-      "url": "https://mezrab.nl/events/samizdat-stories-from-the-underground-2-2026-11-17/",
-      "venue": "Mezrab",
-      "startDate": "2026-11-17T20:00:00",
-      "dateText": "Tue 17.11 | 20:00",
-      "id": "mezrab-92d201935a4b70b7",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "amsterdam-art-week",
@@ -6736,21 +5990,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "Open Stage Storytelling Night",
-      "url": "https://mezrab.nl/events/open-stage-storytelling-night-2-2025-12-24-2026-07-01-2026-07-08-2026-07-15-2026-07-22-2026-07-29-2026-08-05-2026-08-12-2026-08-19-2026-08-26-2026-09-02-2026-09-09-2026-09-16-2026-09-23-11-2026-11-18/",
-      "venue": "Mezrab",
-      "startDate": "2026-11-18T20:00:00",
-      "dateText": "Wed 18.11 | 20:00",
-      "id": "mezrab-da39e640e5ccb6c5",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "g10-festival",
@@ -6769,21 +6009,7 @@
       "categories": [
         "park-square"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "The ALT Mezrab Comedy Night",
-      "url": "https://mezrab.nl/events/the-alt-mezrab-comedy-night-30/",
-      "venue": "Mezrab",
-      "startDate": "2026-11-21T20:00:00",
-      "dateText": "Sat 21.11 | 20:00",
-      "id": "mezrab-d8894c207ff810d5",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "5690B152-91A3-4E38-8532-6B36250B2202",
@@ -6800,21 +6026,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "Pearls on a String",
-      "url": "https://mezrab.nl/events/pearls-on-a-string-2026-02-24-2026-07-28-2026-08-25-2026-09-22-2026-10-27-2026-11-24/",
-      "venue": "Mezrab",
-      "startDate": "2026-11-24T20:00:00",
-      "dateText": "Tue 24.11 | 20:00",
-      "id": "mezrab-7bd68381ef895a32",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "affordable-art-fair-amsterdam",
@@ -6833,21 +6045,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "Open Stage Storytelling Night",
-      "url": "https://mezrab.nl/events/open-stage-storytelling-night-2-2025-12-24-2026-07-01-2026-07-08-2026-07-15-2026-07-22-2026-07-29-2026-08-05-2026-08-12-2026-08-19-2026-08-26-2026-09-02-2026-09-09-2026-09-16-2026-09-23-18-2026-11-25/",
-      "venue": "Mezrab",
-      "startDate": "2026-11-25T20:00:00",
-      "dateText": "Wed 25.11 | 20:00",
-      "id": "mezrab-e5f2eac5b7d22a94",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "amsterdam-light-festival",
@@ -6866,7 +6064,7 @@
       "categories": [
         "park-square"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "the-spirit-of-amsterdam",
@@ -6885,7 +6083,7 @@
       "categories": [
         "clubbing-electronic"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "the-world-of-john-williams",
@@ -6903,7 +6101,7 @@
       "categories": [
         "film-media"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "41639297-DC8A-4FFD-97CD-4CF14129646F",
@@ -6920,21 +6118,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
-    },
-    {
-      "title": "The Original Mezrab Comedy Night",
-      "url": "https://mezrab.nl/events/the-original-mezrab-comedy-night-31/",
-      "venue": "Mezrab",
-      "startDate": "2026-12-05T20:00:00",
-      "dateText": "Sat 5.12 | 20:00",
-      "id": "mezrab-0a918737aebe36e3",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "hayao-miyazaki-s-dreams",
@@ -6952,7 +6136,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "1D0DE59B-F60A-4751-87B4-B169CAD210AF",
@@ -6969,7 +6153,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "the-music-of-the-lord-of-the-rings",
@@ -6987,7 +6171,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "the-nutcracker-and-the-mouse-king",
@@ -7006,7 +6190,7 @@
       "categories": [
         "opera-ballet"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "het-amsterdamse-winterparadijs",
@@ -7026,7 +6210,7 @@
         "park-square",
         "film-media"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "world-christmas-circus",
@@ -7045,7 +6229,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "title": "Poly Kerstdiner Amsterdam",
@@ -7061,7 +6245,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "holiday-on-ice",
@@ -7080,7 +6264,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "chopin-champagne",
@@ -7098,7 +6282,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "1F78973A-9C8A-47E8-9CFE-878E90732E47",
@@ -7115,7 +6299,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     },
     {
       "sourceId": "amsterdam-sculpture-biennial-artzuid",
@@ -7134,7 +6318,7 @@
       "categories": [
         "park-square"
       ],
-      "scrapedAt": "2026-09-04T16:04:53.509Z"
+      "scrapedAt": "2026-09-04T20:35:09.270Z"
     }
   ]
 }
