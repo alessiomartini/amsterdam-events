@@ -10,7 +10,7 @@ filterable static site.
 | Source | URL | Status | Category default |
 | --- | --- | --- | --- |
 | Jazzin' Amsterdam | https://jazzin.amsterdam/ | ✅ working | Live music (+ jazz keyword) |
-| Radar (squat.net) | https://radar.squat.net/en/events/city/Amsterdam | ✅ working, occasionally intermittent 403s (self-resolving, same pattern as Pluk de Liefde's earlier issue) | (keyword-based) |
+| Radar (squat.net) | https://radar.squat.net/en/events/city/Amsterdam | ✅ working, paginated up to 15 pages (~300 events); occasionally intermittent 403s (self-resolving, same pattern as Pluk de Liefde's earlier issue) | (keyword-based) |
 | Pluk de Liefde | https://www.plukdeliefde.nl/agenda/ | ✅ working, filtered to Amsterdam | (keyword-based) |
 | Knit Amsterdam | https://knit.amsterdam/events | ✅ working | Sex-positive, clubbing |
 | Play Partners | https://www.playpartners.nl/events | ✅ working, filtered to Amsterdam | Sex-positive |
@@ -105,7 +105,8 @@ platform:
    `itemscope`/`itemtype`/`itemprop` attributes instead of JSON-LD. This is
    how `jazzin.amsterdam` server-renders its gig table.
 4. **Site-specific markup**, once inspected: `radar.squat.net` (Drupal
-   views-row / JSON-LD), `knit.amsterdam` (`a.event-row` with a
+   schema.org RDFa, `article` with `property="schema:startDate"` etc. —
+   see below), `knit.amsterdam` (`a.event-row` with a
    `"sat 29 august 26"`-style date), `playpartners.nl` (Squarespace's
    built-in Events collection, `article.eventlist-event`), `plukdeliefde.nl`
    (WordPress "Content Views" plugin, `.pt-cv-content-item` with Dutch-
@@ -368,6 +369,33 @@ source exists before assuming email was the only option:
   "time to be confirmed" note in `dateText` rather than asserting it
   outright. Not auto-updated — refresh by hand from the mailing list when
   it goes stale, same as the AmsterdamSights data.
+
+**Radar (squat.net) was only ever scraping its first page of results —
+found and fixed after the user flagged that the real site had far more
+events than what showed up here.** GitHub Actions was intermittently
+timing out at `npm ci` when this was checked, so the user saved the live
+page's first 3 batches directly from their browser (as `.mht` files, the
+same kind of real-copy verification already used for AmsterdamSights) for
+inspection instead. That surfaced two things:
+
+1. The listing paginates with a "Load more" link that's a plain URL
+   (`?page=1`, `?page=2`, ...), not JS-only — but `radar-squat.ts` never
+   followed it, so every run only ever saw the first 20 events. The 3
+   saved pages confirmed each batch of 20 is distinct with zero overlap.
+   The scraper now follows the pager up to 15 pages (~300 events,
+   stopping early if a page comes back with fewer than 20 — the last
+   page) rather than being exhaustive.
+2. The old fallback selector (`.views-row`, guessed and "unverified
+   against the live site" per its own comment) never actually matched
+   anything — turns out there's no JSON-LD either (checked: zero
+   `application/ld+json` blocks across all 3 saved pages). The real
+   markup is schema.org RDFa directly on each `article` element
+   (`property="schema:startDate"` etc. with a machine-readable `content`
+   attribute) — reliable, and richer than what was there before: real
+   start/end times, structured venue name + street address, and a
+   category tag list (`bar/cafe`, `music/concert`, `action/protest/camp`,
+   ...) now populates `RawEvent.tags`, feeding into the existing
+   keyword-based categorization like any other source's tags.
 
 If a working scraper stops finding events (a source redesigned its site),
 re-run the same debug-fetch workflow against `main` to get fresh HTML and
