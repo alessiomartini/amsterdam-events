@@ -13,7 +13,8 @@
   },
   "dependencies": {
     "cheerio": "^1.0.0",
-    "ical.js": "^2.1.0"
+    "ical.js": "^2.1.0",
+    "leaflet": "^1.9.4"
   },
   "devDependencies": {
     "@types/node": "^22.10.2",
