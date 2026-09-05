@@ -1,0 +1,31 @@
+[
+  {
+    "venue": "Bimhuis",
+    "lat": 52.3779694,
+    "lon": 4.9128862
+  },
+  {
+    "venue": "Concertgebouw",
+    "lat": 52.3561982,
+    "lon": 4.8790448
+  },
+  {
+    "venue": "OT301",
+    "address": "Overtoom 301, Amsterdam",
+    "lat": 52.3601403,
+    "lon": 4.8656923
+  },
+  {
+    "address": "Buikslotermeerplein, Amsterdam",
+    "lat": 52.4019931,
+    "lon": 4.9323589
+  },
+  {
+    "venue": "Dutch National Opera & Ballet – Main Stage",
+    "lat": 52.3674313,
+    "lon": 4.9012206
+  },
+  {
+    "venue": "totally-fake-venue-that-does-not-exist-xyz123"
+  }
+]
