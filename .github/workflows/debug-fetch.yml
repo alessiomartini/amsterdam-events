@@ -16,7 +16,7 @@ jobs:
           node-version: 20
           cache: "npm"
       - run: npm ci
-      - run: npx tsx scripts/debug-fetch.ts
+      - run: npx tsx scripts/debug-geocode.ts
       - name: Commit raw HTML to this branch
         run: |
           git config user.name "amsterdam-events-bot"
