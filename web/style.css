@@ -122,12 +122,70 @@ main {
   border-color: var(--chip-active-bg);
 }
 
+.secondary-controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1rem;
+}
+
 .free-toggle {
   display: flex;
   align-items: center;
   gap: 0.4rem;
   font-size: 0.9rem;
   color: var(--text-muted);
+}
+
+.view-toggle {
+  display: inline-flex;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 2px;
+  gap: 2px;
+}
+
+.view-btn {
+  border: none;
+  background: transparent;
+  color: var(--text-muted);
+  border-radius: 999px;
+  padding: 0.3rem 0.85rem;
+  font-size: 0.85rem;
+  cursor: pointer;
+}
+
+.view-btn[aria-pressed="true"] {
+  background: var(--chip-active-bg);
+  color: var(--chip-active-text);
+}
+
+.day-filter {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+
+.day-filter input[type="date"] {
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--surface);
+  color: var(--text);
+  padding: 0.3rem 0.5rem;
+  font-size: 0.85rem;
+  font-family: inherit;
+}
+
+.text-btn {
+  border: none;
+  background: transparent;
+  color: var(--accent);
+  font-size: 0.82rem;
+  cursor: pointer;
+  padding: 0;
+  text-decoration: underline;
 }
 
 .count {
@@ -260,6 +318,76 @@ main {
   color: var(--text-muted);
   padding: 2rem 0;
   text-align: center;
+}
+
+#map {
+  height: 70vh;
+  min-height: 420px;
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  margin-bottom: 1rem;
+}
+
+#map[hidden] {
+  display: none;
+}
+
+/* Leaflet renders its own light-background tiles/controls regardless of
+   the page theme, so the popup shell needs an explicit light-ish surface
+   rather than inheriting var(--surface) (which goes dark in dark mode and
+   would clash with the map underneath it). */
+.leaflet-popup-content-wrapper,
+.leaflet-popup-tip {
+  background: #ffffff;
+  color: #1a1a1a;
+}
+
+.map-popup {
+  max-width: 260px;
+}
+
+.map-popup h3 {
+  margin: 0 0 0.5rem;
+  font-size: 0.95rem;
+}
+
+.map-popup-list {
+  max-height: 220px;
+  overflow-y: auto;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.map-popup-list li {
+  padding: 0.4rem 0;
+  border-top: 1px solid #e4e1db;
+}
+
+.map-popup-list li:first-child {
+  border-top: none;
+}
+
+.map-popup-list a {
+  color: #c1440e;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 0.85rem;
+}
+
+.map-popup-list a:hover {
+  text-decoration: underline;
+}
+
+.map-popup-time {
+  display: block;
+  font-size: 0.75rem;
+  color: #656565;
+}
+
+.map-popup-empty {
+  font-size: 0.82rem;
+  color: #656565;
 }
 
 .site-footer {

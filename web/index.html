@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Amsterdam Events</title>
   <meta name="description" content="Aggregated jazz, classical, opera &amp; ballet, live music, free museum entry, demonstrations, park &amp; square events, and sex-positive parties happening in Amsterdam." />
+  <link rel="stylesheet" href="vendor/leaflet/leaflet.css" />
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
@@ -18,14 +19,26 @@
     <div class="controls">
       <input id="search" type="search" placeholder="Search title, venue, description…" aria-label="Search events" />
       <div id="filters" class="filters" role="group" aria-label="Filter by category"></div>
-      <label class="free-toggle">
-        <input type="checkbox" id="free-only" />
-        Free only
-      </label>
+      <div class="secondary-controls">
+        <label class="free-toggle">
+          <input type="checkbox" id="free-only" />
+          Free only
+        </label>
+        <div class="view-toggle" role="group" aria-label="View">
+          <button type="button" id="view-list-btn" class="view-btn" aria-pressed="true">List</button>
+          <button type="button" id="view-map-btn" class="view-btn" aria-pressed="false">Map</button>
+        </div>
+        <label class="day-filter" id="map-day-row" hidden>
+          Day
+          <input type="date" id="map-day" />
+          <button type="button" id="map-day-clear" class="text-btn">All upcoming</button>
+        </label>
+      </div>
     </div>
 
     <p id="count" class="count"></p>
     <div id="groups"></div>
+    <div id="map"></div>
     <p id="empty" class="empty" hidden>No events match your filters right now.</p>
   </main>
 
@@ -37,6 +50,7 @@
     </p>
   </footer>
 
+  <script src="vendor/leaflet/leaflet.js"></script>
   <script src="app.js"></script>
 </body>
 </html>

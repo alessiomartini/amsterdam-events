@@ -40,6 +40,9 @@ export interface Event extends RawEvent {
   sourceName: string;
   categories: Category[];
   scrapedAt: string;
+  /** Geocoded from venue/address (see src/lib/geocode.ts) — absent if geocoding hasn't found a match. */
+  lat?: number;
+  lon?: number;
 }
 
 export type SourceId =

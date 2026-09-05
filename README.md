@@ -49,12 +49,15 @@ Amsterdam.
 
 1. **Scrape** (`npm run scrape`) — runs every scraper in `src/scrapers/`,
    normalizes results into a common `Event` shape, deduplicates across
-   sources (same normalized title + day), and writes `data/events.json`.
+   sources (same normalized title + day), geocodes each event's venue/address
+   (see [Map view](#map-view) below), and writes `data/events.json`.
 2. **Build** (`npm run build`) — copies `data/events.json` into
-   `web/data/events.json` so `web/` is a fully self-contained static site.
+   `web/data/events.json` and vendors the Leaflet map library from
+   `node_modules` into `web/vendor/leaflet/`, so `web/` is a fully
+   self-contained static site (no CDN dependency at runtime either).
 3. **Serve** — `web/index.html` + `web/app.js` fetch `data/events.json`
-   client-side and render a searchable, filterable, date-grouped list. No
-   backend needed.
+   client-side and render a searchable, filterable, date-grouped list (or a
+   map, see below). No backend needed.
 
 A GitHub Actions workflow (`.github/workflows/scrape-and-deploy.yml`) runs
 the scrape+build every 6 hours, commits the refreshed data, and deploys
@@ -72,6 +75,54 @@ npm run dev      # scrape + build + serve web/ on http://localhost:8080
 Run `npm test` for the unit tests (JSON-LD/microdata parsing, categorization,
 dedup — the parts that don't depend on live network access) and
 `npm run typecheck` for TypeScript.
+
+## Map view
+
+The **Map** toggle (next to **List**, in the controls) plots events on an
+interactive map of Amsterdam instead of a chronological list — one marker
+per venue, clicking it opens a popup listing that venue's events (title,
+day/time, a link out to the source). All the same filters (category, free
+only, search) apply to the map too, plus a **Day** picker specific to it:
+leave it empty to see every upcoming event at each venue, or pick a date to
+narrow every venue's popup down to just that day.
+
+How it's built:
+
+- **Geocoding** (`src/lib/geocode.ts`) — each event's `venue`/`address` text
+  is looked up via [Nominatim](https://nominatim.openstreetmap.org)
+  (OpenStreetMap's free geocoder, no API key) during `npm run scrape`, and
+  the resulting lat/lon is attached directly to the event. Results are
+  cached in `src/data/venue-coords.json`, committed to the repo alongside
+  `data/events.json` — a given venue is only ever geocoded once, which is
+  both a lot faster on every run after the first and what Nominatim's
+  [usage policy](https://operations.osmfoundation.org/policies/nominatim/)
+  (max 1 request/second, don't re-request what you already have) actually
+  asks for. A venue Nominatim can't resolve is cached as a known miss too,
+  so it isn't retried every run — that event just won't have a marker.
+  Concertgebouw's and Opera & Ballet's venue strings include a room suffix
+  ("Concertgebouw – Main Hall") that Nominatim has no chance of resolving as
+  written; only the part before " – " is used for geocoding (and as the
+  cache key, so every room in a building shares one lookup and one pin) —
+  the full "Building – Room" string is still what's shown on the event card
+  itself, untouched.
+- **Rendering** (`web/app.js` + [Leaflet](https://leafletjs.com)) — Leaflet
+  is a real npm dependency; `npm run build` copies its built JS/CSS/marker
+  images from `node_modules/leaflet/dist` into `web/vendor/leaflet/`
+  (gitignored — regenerated on every build, including in CI right before
+  deploy) so the map library ships with the site instead of depending on a
+  CDN at runtime, same "self-contained static site" reasoning as copying
+  `data/events.json` into `web/`. The actual map tile images still come
+  from OpenStreetMap's tile server at view time (that part can't be
+  vendored — it's the whole point of a pannable map), which is normal,
+  expected, and within OSM's tile usage policy for a small site like this.
+  Markers are grouped by rounded lat/lon rather than by venue string, so
+  Concertgebouw's different rooms still collapse into a single pin.
+
+Not implemented (fine for now, worth knowing): marker clustering (a very
+dense area could show overlapping pins at low zoom — didn't seem worth a
+second vendored library yet) and per-event markers (it's one marker per
+venue, not one per event — a busy multi-event-a-day venue just gets a
+longer popup list).
 
 ## How the scrapers were built and verified
 

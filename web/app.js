@@ -13,11 +13,16 @@ const CATEGORY_LABELS = {
   other: "Other",
 };
 
+const AMSTERDAM_CENTER = [52.3676, 4.9041];
+
 const state = {
   events: [],
   activeCategories: new Set(),
   freeOnly: false,
   query: "",
+  view: "list",
+  /** "" = all upcoming, else a "YYYY-MM-DD" day to narrow the map to. */
+  mapDay: "",
 };
 
 async function init() {
@@ -55,6 +60,36 @@ async function init() {
     render();
   });
 
+  const viewListBtn = document.getElementById("view-list-btn");
+  const viewMapBtn = document.getElementById("view-map-btn");
+  const mapDayRow = document.getElementById("map-day-row");
+  const mapDayInput = document.getElementById("map-day");
+  const mapDayClear = document.getElementById("map-day-clear");
+  mapDayInput.min = eventDayKey({ startDate: new Date().toISOString() });
+
+  function setView(view) {
+    if (state.view === view) return;
+    state.view = view;
+    viewListBtn.setAttribute("aria-pressed", String(view === "list"));
+    viewMapBtn.setAttribute("aria-pressed", String(view === "map"));
+    mapDayRow.hidden = view !== "map";
+    render();
+  }
+
+  viewListBtn.addEventListener("click", () => setView("list"));
+  viewMapBtn.addEventListener("click", () => setView("map"));
+
+  mapDayInput.addEventListener("change", () => {
+    state.mapDay = mapDayInput.value;
+    render();
+  });
+
+  mapDayClear.addEventListener("click", () => {
+    mapDayInput.value = "";
+    state.mapDay = "";
+    render();
+  });
+
   try {
     const res = await fetch("data/events.json", { cache: "no-store" });
     const data = await res.json();
@@ -79,12 +114,23 @@ async function init() {
 const UNDATED_WEEK_LABELS = new Set(["Ongoing / Recurring", "Date TBC"]);
 
 function render() {
+  const filtered = state.events.filter(matchesFilters);
+  if (state.view === "map") {
+    renderMapView(filtered);
+  } else {
+    renderListView(filtered);
+  }
+}
+
+function renderListView(filtered) {
   const groupsEl = document.getElementById("groups");
+  const mapEl = document.getElementById("map");
   const emptyEl = document.getElementById("empty");
   const countEl = document.getElementById("count");
+  groupsEl.hidden = false;
+  mapEl.hidden = true;
   groupsEl.innerHTML = "";
 
-  const filtered = state.events.filter(matchesFilters);
   countEl.textContent = `${filtered.length} event${filtered.length === 1 ? "" : "s"}`;
   emptyEl.hidden = filtered.length > 0;
   if (filtered.length === 0) return;
@@ -116,6 +162,132 @@ function render() {
 
     groupsEl.appendChild(weekSection);
   }
+}
+
+let leafletMap;
+let markerLayer;
+
+/** Created lazily (only once the user actually opens Map view) and reused after that. */
+function ensureMap() {
+  if (leafletMap) return leafletMap;
+
+  // Leaflet's default marker icon is normally auto-detected from the CSS
+  // file's own URL, which doesn't work reliably once bundled/vendored
+  // like this — point it at the vendored images explicitly instead.
+  delete L.Icon.Default.prototype._getIconUrl;
+  L.Icon.Default.mergeOptions({
+    iconRetinaUrl: "vendor/leaflet/images/marker-icon-2x.png",
+    iconUrl: "vendor/leaflet/images/marker-icon.png",
+    shadowUrl: "vendor/leaflet/images/marker-shadow.png",
+  });
+
+  leafletMap = L.map("map").setView(AMSTERDAM_CENTER, 13);
+  L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    maxZoom: 19,
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+  }).addTo(leafletMap);
+  markerLayer = L.layerGroup().addTo(leafletMap);
+  return leafletMap;
+}
+
+function renderMapView(filtered) {
+  const groupsEl = document.getElementById("groups");
+  const mapEl = document.getElementById("map");
+  const emptyEl = document.getElementById("empty");
+  const countEl = document.getElementById("count");
+  groupsEl.hidden = true;
+  mapEl.hidden = false;
+
+  const dayEvents = state.mapDay ? filtered.filter((event) => eventDayKey(event) === state.mapDay) : filtered;
+  const located = dayEvents.filter((event) => typeof event.lat === "number" && typeof event.lon === "number");
+
+  countEl.textContent = state.mapDay
+    ? `${located.length} of ${dayEvents.length} event${dayEvents.length === 1 ? "" : "s"} on this day mapped`
+    : `${located.length} of ${dayEvents.length} upcoming event${dayEvents.length === 1 ? "" : "s"} mapped`;
+  emptyEl.hidden = dayEvents.length > 0;
+
+  const map = ensureMap();
+  map.invalidateSize();
+  markerLayer.clearLayers();
+
+  const byLocation = new Map();
+  for (const event of located) {
+    const key = `${event.lat.toFixed(4)},${event.lon.toFixed(4)}`;
+    if (!byLocation.has(key)) byLocation.set(key, { lat: event.lat, lon: event.lon, events: [] });
+    byLocation.get(key).events.push(event);
+  }
+
+  for (const { lat, lon, events } of byLocation.values()) {
+    const marker = L.marker([lat, lon]);
+    marker.bindPopup(() => buildPopupContent(events));
+    marker.addTo(markerLayer);
+  }
+
+  if (byLocation.size > 0) {
+    const bounds = L.latLngBounds([...byLocation.values()].map((v) => [v.lat, v.lon]));
+    map.fitBounds(bounds, { maxZoom: 15, padding: [24, 24] });
+  }
+}
+
+/** "YYYY-MM-DD" in the browser's local time, matching the <input type="date"> value format — undefined if there's no real date to key by. */
+function eventDayKey(event) {
+  if (!event.startDate) return undefined;
+  const date = new Date(event.startDate);
+  if (Number.isNaN(date.getTime())) return undefined;
+  const year = date.getFullYear();
+  const month = String(date.getMonth() + 1).padStart(2, "0");
+  const day = String(date.getDate()).padStart(2, "0");
+  return `${year}-${month}-${day}`;
+}
+
+/** The building name a venue marker groups under — "Concertgebouw – Main Hall" reads as just "Concertgebouw" in the popup heading, same room-stripping the geocoder itself uses to pick one pin per building. */
+function baseVenueName(event) {
+  if (event.venue) return event.venue.split(" – ")[0].trim();
+  return event.address || "Location";
+}
+
+function buildPopupContent(events) {
+  const container = document.createElement("div");
+  container.className = "map-popup";
+
+  const heading = document.createElement("h3");
+  heading.textContent = baseVenueName(events[0]);
+  container.appendChild(heading);
+
+  const sorted = [...events].sort((a, b) => (a.startDate ?? "9999").localeCompare(b.startDate ?? "9999"));
+  const list = document.createElement("ul");
+  list.className = "map-popup-list";
+  for (const event of sorted) {
+    const li = document.createElement("li");
+
+    const link = document.createElement("a");
+    link.href = event.url;
+    link.target = "_blank";
+    link.rel = "noopener noreferrer";
+    link.textContent = event.title;
+    li.appendChild(link);
+
+    const time = document.createElement("span");
+    time.className = "map-popup-time";
+    time.textContent = formatPopupTime(event);
+    li.appendChild(time);
+
+    list.appendChild(li);
+  }
+  container.appendChild(list);
+  return container;
+}
+
+function formatPopupTime(event) {
+  if (event.startDate) {
+    const date = new Date(event.startDate);
+    if (!Number.isNaN(date.getTime())) {
+      const day = date.toLocaleDateString(undefined, { weekday: "short", day: "numeric", month: "short" });
+      const time = date.toLocaleTimeString(undefined, { hour: "2-digit", minute: "2-digit" });
+      return `${day} · ${time}`;
+    }
+  }
+  return event.dateText || "Date TBC";
 }
 
 function matchesFilters(event) {
