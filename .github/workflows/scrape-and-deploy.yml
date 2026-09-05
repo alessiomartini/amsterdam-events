@@ -49,7 +49,7 @@ jobs:
       - id: diff
         name: Check for data changes
         run: |
-          if git diff --quiet -- data/events.json web/data/events.json; then
+          if git diff --quiet -- data/events.json web/data/events.json src/data/venue-coords.json; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
           else
             echo "changed=true" >> "$GITHUB_OUTPUT"
@@ -60,7 +60,7 @@ jobs:
         run: |
           git config user.name "amsterdam-events-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/events.json web/data/events.json
+          git add data/events.json web/data/events.json src/data/venue-coords.json
           git commit -m "chore: refresh scraped events"
           git push
 

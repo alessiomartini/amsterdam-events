@@ -1,5 +1,6 @@
 import { runAllScrapers } from "./scrapers/index.js";
 import { dedupe, toEvents } from "./lib/dedupe.js";
+import { geocodeEvents } from "./lib/geocode.js";
 import { writeEvents } from "./lib/store.js";
 
 const OUT_PATH = new URL("../data/events.json", import.meta.url).pathname;
@@ -11,6 +12,8 @@ async function main() {
 
   const allEvents = results.flatMap((r) => toEvents(r, scrapedAt));
   const deduped = dedupe(allEvents);
+
+  await geocodeEvents(deduped);
 
   await writeEvents(OUT_PATH, deduped);
 
