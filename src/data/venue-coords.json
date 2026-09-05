@@ -1,1 +1,355 @@
-{}
+{
+  "'Skek": null,
+  "A Lab": {
+    "lat": 52.3841398,
+    "lon": 4.9029914
+  },
+  "ADM Noord/Het Groene Veld": null,
+  "Allard Pierson": {
+    "lat": 52.3688053,
+    "lon": 4.8930549
+  },
+  "AMAZE by ID&T: Immersive Audiovisual Experience": null,
+  "Amsterdam": {
+    "lat": 52.3730796,
+    "lon": 4.8924534
+  },
+  "Art Singel 100": {
+    "lat": 52.3672993,
+    "lon": 4.8905683
+  },
+  "Bimhuis": {
+    "lat": 52.3779694,
+    "lon": 4.9128862
+  },
+  "Boekhandel van Noord": {
+    "lat": 52.3989436,
+    "lon": 4.9366003
+  },
+  "Budapest": null,
+  "Buikslotermeerplein, Amsterdam": {
+    "lat": 52.4019931,
+    "lon": 4.9323589
+  },
+  "Café Bert": {
+    "lat": 52.3639551,
+    "lon": 4.9384292
+  },
+  "Cafe Conrad": null,
+  "Café de Engelbewaarder": {
+    "lat": 52.3702265,
+    "lon": 4.8984411
+  },
+  "Café de Muurbloem": {
+    "lat": 52.3742031,
+    "lon": 4.8776939
+  },
+  "Café de Pianist": {
+    "lat": 52.3834476,
+    "lon": 4.8723709
+  },
+  "Café Gilde": {
+    "lat": 52.3598893,
+    "lon": 4.8658609
+  },
+  "Café Parisius": null,
+  "Café Quelle": {
+    "lat": 52.3618546,
+    "lon": 4.8647467
+  },
+  "Café Zilt": {
+    "lat": 52.3752016,
+    "lon": 4.9011422
+  },
+  "Carré": {
+    "lat": 52.3623349,
+    "lon": 4.9039264
+  },
+  "CC Amstel": {
+    "lat": 52.3533479,
+    "lon": 4.9063152
+  },
+  "Cobra Museum": null,
+  "Concertgebouw": {
+    "lat": 52.3561982,
+    "lon": 4.8790448
+  },
+  "Contra": {
+    "lat": 40.7199157,
+    "lon": -73.9891737
+  },
+  "Crea café": {
+    "lat": 52.3633105,
+    "lon": 4.9131125
+  },
+  "Culture Park Westergas": null,
+  "Cut Throat": {
+    "lat": 52.3612541,
+    "lon": 4.8647593
+  },
+  "De Boule de Boule": null,
+  "De Duif": {
+    "lat": 52.3612779,
+    "lon": 4.8967933
+  },
+  "De KHL": {
+    "lat": 52.3740065,
+    "lon": 4.9363092
+  },
+  "De Nieuwe Anita": {
+    "lat": 52.374158,
+    "lon": 4.8726931
+  },
+  "De Nieuwe Kerk": {
+    "lat": 52.3644876,
+    "lon": 4.9075933
+  },
+  "De Roode Bioscoop": null,
+  "De Roode Remise": null,
+  "De Verdieping (bij Kaboem)": null,
+  "Diverse locaties / Various locations": null,
+  "Dokhuis": null,
+  "Dokhuis Galerie": null,
+  "Dutch National Opera & Ballet": {
+    "lat": 52.3674313,
+    "lon": 4.9012206
+  },
+  "Eindhoven & Amsterdam": {
+    "lat": 51.459004,
+    "lon": 5.4826105
+  },
+  "Elsa's Café": {
+    "lat": 52.3531732,
+    "lon": 4.9318944
+  },
+  "EYE Film Institute": null,
+  "FC Kraak": null,
+  "Felix Meritis": {
+    "lat": 52.3699902,
+    "lon": 4.884254
+  },
+  "Filmhuis Cavia": null,
+  "FOAM": {
+    "lat": 52.3639884,
+    "lon": 4.8932631
+  },
+  "Fossil Free Culture NL": null,
+  "Gallery WM": null,
+  "Grachtenmuseum": null,
+  "Greene Room": null,
+  "Het Concertgebouw": {
+    "lat": 52.3556688,
+    "lon": 4.8796756
+  },
+  "Het Molenpad": {
+    "lat": 52.3671973,
+    "lon": 4.8828153
+  },
+  "Het Open Huis": null,
+  "Huis de Pinto": {
+    "lat": 52.370111,
+    "lon": 4.9009202
+  },
+  "Huis Marseille": {
+    "lat": 52.3676412,
+    "lon": 4.8848369
+  },
+  "Huis Vrederiks": null,
+  "Infokafee Bollox": null,
+  "Institute for Advanced Study (IAS), University of Amsterdam": null,
+  "Institute of Physics, University of Amsterdam": null,
+  "Jan van Galenstraat A10 snelweg, Amsterdam": null,
+  "Jazz Café Alto": {
+    "lat": 52.3635112,
+    "lon": 4.8845183
+  },
+  "Jazzcafé Nieuwe Meer Aalsmeer": null,
+  "Jewish Museum": {
+    "lat": 52.3671491,
+    "lon": 4.9037833
+  },
+  "Joe's Garage": null,
+  "Kaasbar Amsterdam": {
+    "lat": 52.3572813,
+    "lon": 4.8905634
+  },
+  "Kompaszaal": {
+    "lat": 52.3772351,
+    "lon": 4.9400694
+  },
+  "Kraaienplein, Amsterdam": {
+    "lat": 52.3862166,
+    "lon": 4.9149811
+  },
+  "Labyrinth Cocktail & Poetry Bar & delicious food": null,
+  "LAG": null,
+  "Laurierstraat 72": {
+    "lat": 52.3723138,
+    "lon": 4.8811439
+  },
+  "MARIONETTEN THEATRE": null,
+  "Melkweg": {
+    "lat": 52.3647777,
+    "lon": 4.8810734
+  },
+  "Mezrab": {
+    "lat": 52.3760018,
+    "lon": 4.9275854
+  },
+  "MKZ": null,
+  "Moco Museum": {
+    "lat": 52.3587165,
+    "lon": 4.8819619
+  },
+  "Molli Chaoot": null,
+  "Mozes en Aäronkerk": {
+    "lat": 52.368262,
+    "lon": 4.9031963
+  },
+  "Museum Het Schip": {
+    "lat": 52.3904885,
+    "lon": 4.8737264
+  },
+  "Museum JAN": {
+    "lat": 52.360094,
+    "lon": 4.882086
+  },
+  "Museumplein": {
+    "lat": 52.3572706,
+    "lon": 4.8815398
+  },
+  "NDSM shipyard": null,
+  "NieuwLand": null,
+  "OCCII": {
+    "lat": 52.354338,
+    "lon": 4.8553367
+  },
+  "Op de brug": null,
+  "OT301": {
+    "lat": 52.3601403,
+    "lon": 4.8656923
+  },
+  "Parknest": null,
+  "Pianola Museum": {
+    "lat": 52.378619,
+    "lon": 4.8836352
+  },
+  "Plofhuis7 (Weesp)": null,
+  "Podium Genieten": {
+    "lat": 52.3566349,
+    "lon": 4.931038
+  },
+  "Posthoornkerk": {
+    "lat": 52.3812772,
+    "lon": 4.8906092
+  },
+  "Rapenburg 51, Amsterdam": {
+    "lat": 52.3716806,
+    "lon": 4.9090084
+  },
+  "Rembrandt House Museum": {
+    "lat": 52.3693692,
+    "lon": 4.9012497
+  },
+  "Rijksmuseum": {
+    "lat": 52.3598431,
+    "lon": 4.8850395
+  },
+  "Salon de IJzerstaven": {
+    "lat": 52.3842727,
+    "lon": 4.8887335
+  },
+  "Schuilkerk De Hoop": null,
+  "Sociëteit de Kring": null,
+  "Sociëteit Ramses Shaffy Huis": null,
+  "Splendor": {
+    "lat": 52.3698193,
+    "lon": 4.9030343
+  },
+  "SPUI25": null,
+  "Spuistraat 5, Amsterdam": {
+    "lat": 52.3769262,
+    "lon": 4.894338
+  },
+  "Stadsarchief": {
+    "lat": 52.36456,
+    "lon": 4.8923905
+  },
+  "Stadshout Paviljoen, Amstelpark": {
+    "lat": 52.3283491,
+    "lon": 4.8945835
+  },
+  "Stedelijk Museum": {
+    "lat": 52.3579003,
+    "lon": 4.8798598
+  },
+  "Stones Cafe Leidseplein": null,
+  "STRAAT Museum": {
+    "lat": 52.4019462,
+    "lon": 4.8938542
+  },
+  "Studio /K": {
+    "lat": 52.3651443,
+    "lon": 4.9359029
+  },
+  "Technologia Incognita": {
+    "lat": 52.34557,
+    "lon": 4.8264646
+  },
+  "The Gallery": {
+    "lat": 52.369659,
+    "lon": 4.87083
+  },
+  "The Merchant House": {
+    "lat": 52.3716809,
+    "lon": 4.8866696
+  },
+  "The Purmerends Museum": null,
+  "Theater De Dillewijn (Ankeveen)": null,
+  "Theater De Richel": {
+    "lat": 52.3711377,
+    "lon": 4.8900858
+  },
+  "Theater Mascini": {
+    "lat": 52.3755725,
+    "lon": 4.9007878
+  },
+  "Theater Vrijburcht": {
+    "lat": 52.3610913,
+    "lon": 4.9755155
+  },
+  "Tolhuistuin": {
+    "lat": 52.3837067,
+    "lon": 4.9049297
+  },
+  "Torpedo Theater": {
+    "lat": 52.3713859,
+    "lon": 4.8946432
+  },
+  "Van Gogh Museum": {
+    "lat": 52.3583673,
+    "lon": 4.88109
+  },
+  "Van Houtenkerk": {
+    "lat": 52.3060606,
+    "lon": 5.0435003
+  },
+  "Van Puffelen": {
+    "lat": 52.3716857,
+    "lon": 4.8832208
+  },
+  "Volkshotel": {
+    "lat": 52.3537525,
+    "lon": 4.9117913
+  },
+  "Vondelbunker": null,
+  "Vrankrijk": {
+    "lat": 52.3716913,
+    "lon": 4.8892221
+  },
+  "Zaal 100": {
+    "lat": 52.3830202,
+    "lon": 4.8780599
+  },
+  "ZO Jazz Stage": null
+}
