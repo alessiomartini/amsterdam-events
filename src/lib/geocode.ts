@@ -74,13 +74,30 @@ export async function geocodeEvents(events: Event[]): Promise<void> {
 }
 
 export function locationKey(event: Event): string | undefined {
-  return event.venue?.trim() || event.address?.trim() || undefined;
+  const venue = baseVenueName(event.venue);
+  return venue || event.address?.trim() || undefined;
 }
 
 export function geocodeQuery(event: Event): string {
-  const parts = [event.venue?.trim(), event.address?.trim()].filter((p): p is string => Boolean(p));
+  const parts = [baseVenueName(event.venue), event.address?.trim()].filter((p): p is string => Boolean(p));
   const query = parts.join(", ");
   return /amsterdam/i.test(query) ? query : `${query}, Amsterdam`;
+}
+
+/**
+ * Concertgebouw and Opera & Ballet's venue strings are "Building – Room"
+ * (e.g. "Concertgebouw – Main Hall", "Dutch National Opera & Ballet –
+ * Main Stage") — real room names Nominatim has no chance of resolving,
+ * and which would otherwise fragment the cache into one (mostly failing)
+ * entry per room instead of one per building. A city map only needs
+ * building-level precision anyway, so only the part before " – " is used
+ * for geocoding; the full "Building – Room" string is still what's shown
+ * on the event card, untouched.
+ */
+function baseVenueName(venue: string | undefined): string | undefined {
+  const trimmed = venue?.trim();
+  if (!trimmed) return undefined;
+  return trimmed.split(" – ")[0].trim() || undefined;
 }
 
 async function geocodeOne(query: string): Promise<Coords | null> {

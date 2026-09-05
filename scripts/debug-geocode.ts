@@ -1,4 +1,4 @@
-import { writeFile } from "node:fs/promises";
+import { mkdir, writeFile } from "node:fs/promises";
 import { geocodeEvents } from "../src/lib/geocode.js";
 import type { Event } from "../src/types.js";
 
@@ -19,6 +19,7 @@ const sample: Event[] = [
 async function main() {
   await geocodeEvents(sample);
   const outDir = new URL("../debug-html/", import.meta.url).pathname;
+  await mkdir(outDir, { recursive: true });
   const results = sample.map((e) => ({ venue: e.venue, address: e.address, lat: e.lat, lon: e.lon }));
   console.log(JSON.stringify(results, null, 2));
   await writeFile(`${outDir}geocode-result.json`, JSON.stringify(results, null, 2), "utf8");

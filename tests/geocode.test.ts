@@ -35,6 +35,13 @@ describe("locationKey", () => {
       "Overtoom 301, Amsterdam",
     );
   });
+
+  it("strips a room suffix so every room in a building shares one cache entry", () => {
+    expect(locationKey(event({ venue: "Concertgebouw – Main Hall" }))).toBe("Concertgebouw");
+    expect(locationKey(event({ venue: "Dutch National Opera & Ballet – Main Stage" }))).toBe(
+      "Dutch National Opera & Ballet",
+    );
+  });
 });
 
 describe("geocodeQuery", () => {
@@ -52,5 +59,9 @@ describe("geocodeQuery", () => {
     expect(geocodeQuery(event({ address: "Buikslotermeerplein, Amsterdam" }))).toBe(
       "Buikslotermeerplein, Amsterdam",
     );
+  });
+
+  it("queries with just the building name, not the room", () => {
+    expect(geocodeQuery(event({ venue: "Concertgebouw – Main Hall" }))).toBe("Concertgebouw, Amsterdam");
   });
 });
