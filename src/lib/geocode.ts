@@ -9,6 +9,19 @@ const NOMINATIM_URL = "https://nominatim.openstreetmap.org/search";
 const USER_AGENT = "amsterdam-events-bot/0.1 (+https://github.com/) geocoding-for-static-site";
 const RATE_LIMIT_MS = 1100;
 
+// Amsterdam municipality bounding box (OSM relation 271110: south, north,
+// west, east), passed as a hard viewbox filter. Without it, a short/generic
+// venue name with no address (e.g. "Contra") can match a same-named place
+// anywhere in the world — this happened for real: "Contra, Amsterdam"
+// matched a restaurant in Brooklyn, NY instead of the Amsterdam pub-bar near
+// the UvA campus.
+const AMSTERDAM_VIEWBOX = {
+  west: 4.7287589,
+  north: 52.4310098,
+  east: 5.079143,
+  south: 52.2781239,
+};
+
 type Coords = { lat: number; lon: number };
 type CoordsCache = Record<string, Coords | null>;
 
@@ -78,8 +91,24 @@ export function locationKey(event: Event): string | undefined {
   return venue || event.address?.trim() || undefined;
 }
 
+/**
+ * Venues whose bare name is too generic/ambiguous for Nominatim to place
+ * correctly, even bounded to Amsterdam — confirmed live: "Contra, Amsterdam"
+ * returns zero results within the Amsterdam viewbox (OSM has no POI indexed
+ * under that name here), while unbounded it matches an unrelated same-named
+ * restaurant in Brooklyn, NY. Addresses below are verified real addresses,
+ * used in place of the venue name for the Nominatim query.
+ */
+const VENUE_ADDRESS_OVERRIDES: Record<string, string> = {
+  Contra: "Oudezijds Achterburgwal 235, Amsterdam",
+};
+
 export function geocodeQuery(event: Event): string {
-  const parts = [baseVenueName(event.venue), event.address?.trim()].filter((p): p is string => Boolean(p));
+  const venue = baseVenueName(event.venue);
+  const override = venue ? VENUE_ADDRESS_OVERRIDES[venue] : undefined;
+  if (override) return override;
+
+  const parts = [venue, event.address?.trim()].filter((p): p is string => Boolean(p));
   const query = parts.join(", ");
   return /amsterdam/i.test(query) ? query : `${query}, Amsterdam`;
 }
@@ -105,6 +134,11 @@ async function geocodeOne(query: string): Promise<Coords | null> {
   url.searchParams.set("q", query);
   url.searchParams.set("format", "json");
   url.searchParams.set("limit", "1");
+  url.searchParams.set(
+    "viewbox",
+    `${AMSTERDAM_VIEWBOX.west},${AMSTERDAM_VIEWBOX.north},${AMSTERDAM_VIEWBOX.east},${AMSTERDAM_VIEWBOX.south}`,
+  );
+  url.searchParams.set("bounded", "1");
 
   const res = await fetch(url, { headers: { "User-Agent": USER_AGENT } });
   if (!res.ok) throw new Error(`HTTP ${res.status} ${res.statusText}`);

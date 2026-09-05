@@ -64,4 +64,11 @@ describe("geocodeQuery", () => {
   it("queries with just the building name, not the room", () => {
     expect(geocodeQuery(event({ venue: "Concertgebouw – Main Hall" }))).toBe("Concertgebouw, Amsterdam");
   });
+
+  it("uses a verified address override for venues too generic for Nominatim to place correctly", () => {
+    // "Contra, Amsterdam" matches an unrelated same-named restaurant in
+    // Brooklyn, NY on Nominatim — even bounded to Amsterdam it finds nothing,
+    // since OSM has no POI indexed under that name here.
+    expect(geocodeQuery(event({ venue: "Contra" }))).toBe("Oudezijds Achterburgwal 235, Amsterdam");
+  });
 });
