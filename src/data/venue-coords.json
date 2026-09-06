@@ -1,5 +1,6 @@
 {
   "'Skek": null,
+  "'t Zonnehuis": null,
   "A Lab": {
     "lat": 52.3841398,
     "lon": 4.9029914
@@ -88,6 +89,10 @@
     "lon": 4.8647593
   },
   "De Boule de Boule": null,
+  "De Ceuvel": {
+    "lat": 52.393151,
+    "lon": 4.9107584
+  },
   "De Duif": {
     "lat": 52.3612779,
     "lon": 4.8967933
