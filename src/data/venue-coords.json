@@ -106,6 +106,7 @@
     "lat": 52.3612779,
     "lon": 4.8967933
   },
+  "De Hoek": null,
   "De KHL": {
     "lat": 52.3740065,
     "lon": 4.9363092
@@ -124,6 +125,7 @@
   "Diverse locaties / Various locations": null,
   "Dokhuis": null,
   "Dokhuis Galerie": null,
+  "Dokzaal": null,
   "Dutch National Opera & Ballet": {
     "lat": 52.3674313,
     "lon": 4.9012206
@@ -198,6 +200,10 @@
     "lat": 52.3723138,
     "lon": 4.8811439
   },
+  "Manhattan Lounge Bar": {
+    "lat": 52.3356057,
+    "lon": 4.8747611
+  },
   "MARIONETTEN THEATRE": null,
   "Melkweg": {
     "lat": 52.3647777,
@@ -207,6 +213,7 @@
     "lat": 52.3760018,
     "lon": 4.9275854
   },
+  "Mime Fabriek": null,
   "MKZ": null,
   "Moco Museum": {
     "lat": 52.3587165,
@@ -249,6 +256,10 @@
   "Podium Genieten": {
     "lat": 52.3566349,
     "lon": 4.931038
+  },
+  "Pompstation": {
+    "lat": 52.3357741,
+    "lon": 4.8561652
   },
   "Posthoornkerk": {
     "lat": 52.3812772,
