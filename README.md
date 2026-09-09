@@ -86,6 +86,16 @@ only, search) apply to the map too, plus a **Day** picker specific to it:
 leave it empty to see every upcoming event at each venue, or pick a date to
 narrow every venue's popup down to just that day.
 
+Every event — in the list and in map popups — also has a **+ Calendar**
+button that opens Google Calendar's "quick add" page in a new tab, prefilled
+with the event's title, time, venue and a link back to the source (Google's
+own `calendar.google.com/calendar/render?action=TEMPLATE` deep link, the
+same one Google's own "Add to Calendar" buttons use — no sign-in or API
+access from this site). Events with only a free-text date (no real
+`startDate`) don't get the button, since there's no time to build a
+calendar entry from. When a source doesn't give an end time, the event
+defaults to a 2-hour slot.
+
 How it's built:
 
 - **Geocoding** (`src/lib/geocode.ts`) — each event's `venue`/`address` text

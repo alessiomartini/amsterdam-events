@@ -266,6 +266,24 @@ main {
   color: var(--text-muted);
 }
 
+.calendar-btn {
+  margin-left: auto;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text-muted);
+  border-radius: 999px;
+  padding: 0.15rem 0.6rem;
+  font-size: 0.72rem;
+  font-family: inherit;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.calendar-btn:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
 .price-badge {
   font-size: 0.72rem;
   font-weight: 600;
@@ -383,6 +401,24 @@ main {
   display: block;
   font-size: 0.75rem;
   color: #656565;
+}
+
+.map-popup-cal-btn {
+  display: inline-block;
+  margin-top: 0.3rem;
+  border: 1px solid #e4e1db;
+  background: #ffffff;
+  color: #656565;
+  border-radius: 999px;
+  padding: 0.1rem 0.5rem;
+  font-size: 0.7rem;
+  font-family: inherit;
+  cursor: pointer;
+}
+
+.map-popup-cal-btn:hover {
+  border-color: #c1440e;
+  color: #c1440e;
 }
 
 .map-popup-empty {

@@ -272,6 +272,9 @@ function buildPopupContent(events) {
     time.textContent = formatPopupTime(event);
     li.appendChild(time);
 
+    const calendarBtn = renderCalendarButton(event, "map-popup-cal-btn");
+    if (calendarBtn) li.appendChild(calendarBtn);
+
     list.appendChild(li);
   }
   container.appendChild(list);
@@ -405,6 +408,60 @@ function dayLabel(event) {
   return date.toLocaleDateString(undefined, { weekday: "short", day: "numeric", month: "long" });
 }
 
+/**
+ * A small button that opens Google Calendar's "quick add" page prefilled
+ * with the event, in a new tab — no Google sign-in or API access from this
+ * site, just the same https://calendar.google.com/calendar/render?action=TEMPLATE
+ * deep link Google's own "Add to Calendar" buttons use. Returns null when
+ * the event has no usable start time to build a calendar entry from (e.g.
+ * "Ongoing / Recurring" events with only free-text dates).
+ */
+function renderCalendarButton(event, className) {
+  const url = googleCalendarUrl(event);
+  if (!url) return null;
+
+  const btn = document.createElement("button");
+  btn.type = "button";
+  btn.className = className;
+  btn.textContent = "+ Calendar";
+  btn.title = "Add to Google Calendar";
+  btn.setAttribute("aria-label", "Add to Google Calendar");
+  // Cards (and popup list items) are themselves links to the event page —
+  // stop the click from also triggering that navigation.
+  btn.addEventListener("click", (e) => {
+    e.preventDefault();
+    e.stopPropagation();
+    window.open(url, "_blank", "noopener,noreferrer");
+  });
+  return btn;
+}
+
+function googleCalendarUrl(event) {
+  const start = event.startDate ? new Date(event.startDate) : null;
+  if (!start || Number.isNaN(start.getTime())) return null;
+
+  const end = event.endDate ? new Date(event.endDate) : null;
+  // Most sources only give a start time; default to a 2-hour slot, a
+  // reasonable stand-in for a concert/talk/screening-length event.
+  const validEnd = end && !Number.isNaN(end.getTime()) && end > start ? end : new Date(start.getTime() + 2 * 3600000);
+
+  const params = new URLSearchParams({
+    action: "TEMPLATE",
+    text: event.title,
+    dates: `${formatGCalDate(start)}/${formatGCalDate(validEnd)}`,
+    details: [event.description, event.url].filter(Boolean).join("\n\n"),
+  });
+  const location = [event.venue, event.address].filter(Boolean).join(", ");
+  if (location) params.set("location", location);
+
+  return `https://calendar.google.com/calendar/render?${params.toString()}`;
+}
+
+/** UTC "YYYYMMDDTHHMMSSZ", the format Google Calendar's render URL expects. */
+function formatGCalDate(date) {
+  return `${date.toISOString().replace(/[-:]/g, "").split(".")[0]}Z`;
+}
+
 function renderCard(event) {
   const a = document.createElement("a");
   a.className = "card";
@@ -436,7 +493,8 @@ function renderCard(event) {
   const metaParts = [event.venue, event.address && event.address !== event.venue ? event.address : null].filter(
     Boolean,
   );
-  if (priceBadge || metaParts.length) {
+  const calendarBtn = renderCalendarButton(event, "calendar-btn");
+  if (priceBadge || metaParts.length || calendarBtn) {
     const metaRow = document.createElement("div");
     metaRow.className = "card-meta-row";
     if (priceBadge) metaRow.appendChild(priceBadge);
@@ -446,6 +504,7 @@ function renderCard(event) {
       meta.textContent = metaParts.join(" · ");
       metaRow.appendChild(meta);
     }
+    if (calendarBtn) metaRow.appendChild(calendarBtn);
     a.appendChild(metaRow);
   }
 
