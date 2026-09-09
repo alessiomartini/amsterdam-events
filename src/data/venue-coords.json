@@ -59,6 +59,10 @@
     "lat": 52.3598893,
     "lon": 4.8658609
   },
+  "Café Insulinde": {
+    "lat": 52.3642265,
+    "lon": 4.9351331
+  },
   "Café Langereis": {
     "lat": 52.3661289,
     "lon": 4.9001341
@@ -160,6 +164,7 @@
     "lon": 4.8828153
   },
   "Het Open Huis": null,
+  "Het Ramses Shaffy Huis": null,
   "Huis de Pinto": {
     "lat": 52.370111,
     "lon": 4.9009202
