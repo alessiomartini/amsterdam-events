@@ -1,6 +1,10 @@
 {
   "'Skek": null,
   "'t Zonnehuis": null,
+  "A Beautiful Mess": {
+    "lat": 52.37579,
+    "lon": 4.9100473
+  },
   "A Lab": {
     "lat": 52.3841398,
     "lon": 4.9029914
@@ -94,6 +98,10 @@
     "lon": 4.8950558
   },
   "Crea café": {
+    "lat": 52.3633105,
+    "lon": 4.9131125
+  },
+  "CREA Café": {
     "lat": 52.3633105,
     "lon": 4.9131125
   },
@@ -291,6 +299,7 @@
     "lon": 4.8887335
   },
   "Schuilkerk De Hoop": null,
+  "Singer Laren": null,
   "Sociëteit de Kring": null,
   "Sociëteit Ramses Shaffy Huis": null,
   "Splendor": {
@@ -381,6 +390,7 @@
     "lat": 52.3716913,
     "lon": 4.8892221
   },
+  "Walhalla Brouwerij & Proeflokaal": null,
   "Zaal 100": {
     "lat": 52.3830202,
     "lon": 4.8780599
