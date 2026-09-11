@@ -97,6 +97,10 @@
     "lat": 52.3691458,
     "lon": 4.8950558
   },
+  "CREA": {
+    "lat": 52.3632009,
+    "lon": 4.912678
+  },
   "Crea café": {
     "lat": 52.3633105,
     "lon": 4.9131125
@@ -111,6 +115,7 @@
     "lon": 4.8647593
   },
   "De Boule de Boule": null,
+  "De Boule De Boule": null,
   "De Ceuvel": {
     "lat": 52.393151,
     "lon": 4.9107584
@@ -164,6 +169,7 @@
   "Gallery WM": null,
   "Grachtenmuseum": null,
   "Greene Room": null,
+  "Groot Bijlmerplein": null,
   "Het Concertgebouw": {
     "lat": 52.3556688,
     "lon": 4.8796756
@@ -253,6 +259,18 @@
   },
   "NDSM shipyard": null,
   "NieuwLand": null,
+  "OBA • Bijlmerplein": {
+    "lat": 52.3153892,
+    "lon": 4.9535813
+  },
+  "OBA Bijlmerplein": {
+    "lat": 52.3153892,
+    "lon": 4.9535813
+  },
+  "OBA Oosterdok": {
+    "lat": 52.3762463,
+    "lon": 4.9081983
+  },
   "OCCII": {
     "lat": 52.354338,
     "lon": 4.8553367
@@ -302,6 +320,7 @@
   "Singer Laren": null,
   "Sociëteit de Kring": null,
   "Sociëteit Ramses Shaffy Huis": null,
+  "Spare Key": null,
   "Splendor": {
     "lat": 52.3698193,
     "lon": 4.9030343
@@ -395,5 +414,7 @@
     "lat": 52.3830202,
     "lon": 4.8780599
   },
-  "ZO Jazz Stage": null
+  "ZO Jazz Stage": null,
+  "ZOJazz Stage": null,
+  "ZOJazz Stage • Horeca & foyer": null
 }
