@@ -115,6 +115,7 @@
   },
   "Creacafé": null,
   "Culture Park Westergas": null,
+  "Cultureel Café Bacchus": null,
   "Cut Throat": {
     "lat": 52.3612541,
     "lon": 4.8647593
@@ -273,6 +274,10 @@
     "lat": 52.3153892,
     "lon": 4.9535813
   },
+  "OBA Javaplein": {
+    "lat": 52.3641781,
+    "lon": 4.93883
+  },
   "OBA Oosterdok": {
     "lat": 52.3762463,
     "lon": 4.9081983
@@ -374,6 +379,7 @@
   "The Purmerends Museum": null,
   "Theater De Dillewijn (Ankeveen)": null,
   "Theater de Griffioen": null,
+  "Theater de Omval": null,
   "Theater De Richel": {
     "lat": 52.3711377,
     "lon": 4.8900858
