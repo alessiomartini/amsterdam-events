@@ -82,6 +82,10 @@
     "lat": 52.3618546,
     "lon": 4.8647467
   },
+  "Café Vlaming": {
+    "lat": 52.364986,
+    "lon": 4.9258735
+  },
   "Café Zilt": {
     "lat": 52.3752016,
     "lon": 4.9011422
@@ -147,6 +151,10 @@
   },
   "De Roode Bioscoop": null,
   "De Roode Remise": null,
+  "De Thomas": {
+    "lat": 52.3730477,
+    "lon": 4.8122352
+  },
   "De Trut": null,
   "De Verdieping (bij Kaboem)": null,
   "Diverse locaties / Various locations": null,
@@ -250,6 +258,10 @@
     "lon": 4.8819619
   },
   "Molli Chaoot": null,
+  "Morlang": {
+    "lat": 52.366342,
+    "lon": 4.8863797
+  },
   "Mozes en Aäronkerk": {
     "lat": 52.368262,
     "lon": 4.9031963
