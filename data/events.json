@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-18T04:06:06.221Z",
-  "count": 436,
+  "generatedAt": "2026-09-18T10:56:36.582Z",
+  "count": 387,
   "events": [
     {
       "title": "Drawing in the Open Studio",
@@ -24,7 +24,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3583673,
       "lon": 4.88109
     },
@@ -49,7 +49,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3688053,
       "lon": 4.8930549
     },
@@ -73,7 +73,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "Bottomless Brunch",
@@ -95,7 +95,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3612541,
       "lon": 4.8647593
     },
@@ -122,7 +122,7 @@
       "categories": [
         "park-square"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "Exhibition: the ESSENCE",
@@ -145,7 +145,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.4019462,
       "lon": 4.8938542
     },
@@ -168,7 +168,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "Exhibition Worn in the Rijksmuseum",
@@ -191,7 +191,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3598431,
       "lon": 4.8850395
     },
@@ -216,7 +216,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.368262,
       "lon": 4.9031963
     },
@@ -241,7 +241,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3989436,
       "lon": 4.9366003
     },
@@ -266,7 +266,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3533479,
       "lon": 4.9063152
     },
@@ -291,7 +291,7 @@
         "park-square",
         "free-entry"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "Lunchconcerten in de Westerkerk",
@@ -316,7 +316,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3745473,
       "lon": 4.8839863
     },
@@ -334,7 +334,7 @@
         "park-square",
         "free-entry"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "melkweg-expo",
@@ -350,7 +350,7 @@
         "free-entry",
         "free-museum"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "rijksmuseum-gardens",
@@ -365,7 +365,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "lunchtime-concerts",
@@ -380,7 +380,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "vondelpark-open-air-theater",
@@ -396,7 +396,7 @@
         "park-square",
         "free-entry"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "civic-guards-gallery",
@@ -412,7 +412,7 @@
         "free-entry",
         "free-museum"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "yoga-class-in-the-park",
@@ -428,7 +428,7 @@
         "park-square",
         "free-entry"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "nemo-s-panorama-terrace",
@@ -443,7 +443,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "begijnhof",
@@ -458,7 +458,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "cross-the-ij-river-by-ferry",
@@ -473,7 +473,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "free-tour-of-amsterdam",
@@ -488,7 +488,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "free-organ-concert",
@@ -503,7 +503,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "friday-night-skate",
@@ -518,7 +518,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "amsterdam-city-archives",
@@ -533,7 +533,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "free-guided-diamond-tour",
@@ -548,7 +548,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "choral-evensong",
@@ -563,7 +563,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "free-jazz-session",
@@ -580,7 +580,7 @@
         "free-museum",
         "free-entry"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "botanic-garden-zuidas",
@@ -595,7 +595,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "musical-treat-during-lunch-break",
@@ -610,7 +610,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "andy-warhol-the-textiles",
@@ -629,7 +629,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "wish-me-well",
@@ -648,7 +648,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "fragments",
@@ -667,7 +667,7 @@
       "categories": [
         "clubbing-electronic"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3716809,
       "lon": 4.8866696
     },
@@ -688,7 +688,7 @@
       "categories": [
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "echoes-of-speed",
@@ -707,7 +707,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.369659,
       "lon": 4.87083
     },
@@ -727,7 +727,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3904885,
       "lon": 4.8737264
     },
@@ -748,7 +748,7 @@
       "categories": [
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.36456,
       "lon": 4.8923905
     },
@@ -769,7 +769,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3672993,
       "lon": 4.8905683
     },
@@ -789,7 +789,7 @@
       "categories": [
         "film-media"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "world-press-photo-exhibition-2026",
@@ -808,7 +808,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3644876,
       "lon": 4.9075933
     },
@@ -829,7 +829,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "kho-liang-ie-mid-century-modernist",
@@ -848,7 +848,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3579003,
       "lon": 4.8798598
     },
@@ -869,7 +869,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3676412,
       "lon": 4.8848369
     },
@@ -890,7 +890,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3598431,
       "lon": 4.8850395
     },
@@ -911,7 +911,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.360094,
       "lon": 4.882086
     },
@@ -932,7 +932,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3688053,
       "lon": 4.8930549
     },
@@ -953,7 +953,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3587165,
       "lon": 4.8819619
     },
@@ -973,7 +973,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3587165,
       "lon": 4.8819619
     },
@@ -994,7 +994,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3587165,
       "lon": 4.8819619
     },
@@ -1014,7 +1014,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "vondelpark-open-air-theater",
@@ -1031,7 +1031,7 @@
       "categories": [
         "park-square"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "electric-tram-museum-amsterdam",
@@ -1048,7 +1048,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "ajax-amsterdam-football-club",
@@ -1065,7 +1065,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "sinterklaasavond",
@@ -1082,7 +1082,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "the-music-of-harry-potter-by-mystery-ensemble",
@@ -1099,7 +1099,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "new-year-s-eve",
@@ -1116,7 +1116,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "Helstone in Het Pand der Goden",
@@ -1131,7 +1131,7 @@
         "opera-ballet",
         "classical"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3674313,
       "lon": 4.9012206
     },
@@ -1147,7 +1147,7 @@
       "categories": [
         "opera-ballet"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3674313,
       "lon": 4.9012206
     },
@@ -1163,7 +1163,7 @@
       "categories": [
         "opera-ballet"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3674313,
       "lon": 4.9012206
     },
@@ -1179,7 +1179,7 @@
       "categories": [
         "opera-ballet"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3674313,
       "lon": 4.9012206
     },
@@ -1195,7 +1195,7 @@
       "categories": [
         "opera-ballet"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3674313,
       "lon": 4.9012206
     },
@@ -1211,7 +1211,7 @@
       "categories": [
         "opera-ballet"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3674313,
       "lon": 4.9012206
     },
@@ -1227,7 +1227,7 @@
       "categories": [
         "opera-ballet"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3674313,
       "lon": 4.9012206
     },
@@ -1245,7 +1245,7 @@
         "clubbing-electronic",
         "park-square"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "Johannes-Passion",
@@ -1259,7 +1259,7 @@
       "categories": [
         "opera-ballet"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3674313,
       "lon": 4.9012206
     },
@@ -1277,7 +1277,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "judy-chicago-revelations",
@@ -1297,7 +1297,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3671491,
       "lon": 4.9037833
     },
@@ -1314,7 +1314,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "DE WALLEN FESTIVAL",
@@ -1329,7 +1329,7 @@
       "categories": [
         "park-square"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "DE WALLEN FESTIVAL: JAZZ",
@@ -1345,7 +1345,22 @@
         "jazz",
         "park-square"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
+    },
+    {
+      "title": "Feminist Solidarity and Resistance in a More-than-Human World",
+      "url": "https://spui25.nl/programma/feminist-solidarity-and-resistance-in-a-more-than-human-world",
+      "imageUrl": "https://offbeat.amsterdam/media/dac6521352f95385eda40951f713c770.jpg",
+      "venue": "SPUI25",
+      "address": "Spui 25-27, 1012 WX Amsterdam",
+      "startDate": "2026-07-02T17:00:00.000+02:00",
+      "id": "spui25-5ad7e91256f20a57",
+      "source": "spui25",
+      "sourceName": "SPUI25",
+      "categories": [
+        "demonstration"
+      ],
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "QUEER BANDS",
@@ -1360,7 +1375,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "DJ TIL 2 AM (T.B.A.)",
@@ -1375,7 +1390,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "FLINTA DJ LINEUP (T.B.A)",
@@ -1390,7 +1405,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "T.B.A",
@@ -1405,7 +1420,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "GREASY GURLZ",
@@ -1420,7 +1435,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "T.B.A",
@@ -1435,7 +1450,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "amsterdam-fashion-week",
@@ -1454,7 +1469,22 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
+    },
+    {
+      "title": "AI, Infrastructures and Sustainability",
+      "url": "https://spui25.nl/programma/ai-infrastructures-and-sustainability",
+      "imageUrl": "https://offbeat.amsterdam/media/abe34d9454bc5363f1d76ab177dad403.jpg",
+      "venue": "SPUI25",
+      "address": "Spui 25-27, 1012 WX Amsterdam",
+      "startDate": "2026-09-02T20:00:00.000+02:00",
+      "id": "spui25-273a251760aec728",
+      "source": "spui25",
+      "sourceName": "SPUI25",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "dutch-theatre-festival",
@@ -1473,7 +1503,7 @@
       "categories": [
         "park-square"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "amsterdam-fringe-festival",
@@ -1492,7 +1522,7 @@
       "categories": [
         "park-square"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "DIEP: season kickoff — informal get-together",
@@ -1508,7 +1538,22 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
+    },
+    {
+      "title": "Een impuls voor zorgvernieuwing: van evidence-based inzicht naar actie",
+      "url": "https://spui25.nl/programma/een-impuls-voor-zorgvernieuwing-van-evidence-based-inzicht-naar-actie",
+      "imageUrl": "https://offbeat.amsterdam/media/617d3575ca58bc26c29e1faf992dad87.jpg",
+      "venue": "SPUI25",
+      "address": "Spui 25-27, 1012 WX Amsterdam",
+      "startDate": "2026-09-03T14:30:00.000+02:00",
+      "id": "spui25-0daf73ae0deadea9",
+      "source": "spui25",
+      "sourceName": "SPUI25",
+      "categories": [
+        "demonstration"
+      ],
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "Dok Night Seizoens Opening",
@@ -1522,7 +1567,22 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
+    },
+    {
+      "title": "A Brief History of Environmental Humour",
+      "url": "https://spui25.nl/programma/a-brief-history-of-environmental-humour",
+      "imageUrl": "https://offbeat.amsterdam/media/4d0f7103558d4661d2c9e98dee1683d8.jpg",
+      "venue": "SPUI25",
+      "address": "Spui 25-27, 1012 WX Amsterdam",
+      "startDate": "2026-09-03T20:00:00.000+02:00",
+      "id": "spui25-809f6b543f28b3a2",
+      "source": "spui25",
+      "sourceName": "SPUI25",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "amsterdam-city-swim",
@@ -1540,7 +1600,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "Dok Night – Benefit dinner for Gaza & WaterbeesT in the basement",
@@ -1558,7 +1618,7 @@
         "live-music",
         "film-media"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "DIEP Seminar: PK Mohanty",
@@ -1575,7 +1635,22 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
+    },
+    {
+      "title": "​​Over de grens: identiteit, cultuur en de postnationale verbeelding​",
+      "url": "https://spui25.nl/programma/over-de-grens-identiteit-cultuur-en-de-postnationale-verbeelding",
+      "imageUrl": "https://offbeat.amsterdam/media/773f6b7031a5f768c0fb0817b2ac2f7f.jpg",
+      "venue": "SPUI25",
+      "address": "Spui 25-27, 1012 WX Amsterdam",
+      "startDate": "2026-09-10T17:00:00.000+02:00",
+      "id": "spui25-f3690ea91de38bc3",
+      "source": "spui25",
+      "sourceName": "SPUI25",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "open-monumentendag",
@@ -1594,7 +1669,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "DansDok – lekker dansen",
@@ -1610,7 +1685,37 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
+    },
+    {
+      "title": "Zittingscultuur in civiele zaken",
+      "url": "https://spui25.nl/programma/zittingscultuur-in-civiele-zaken",
+      "imageUrl": "https://offbeat.amsterdam/media/e34f805974c1cb1b99b2517fbee6352d.jpg",
+      "venue": "SPUI25",
+      "address": "Spui 25-27, 1012 WX Amsterdam",
+      "startDate": "2026-09-14T17:00:00.000+02:00",
+      "id": "spui25-426dd3c009e32036",
+      "source": "spui25",
+      "sourceName": "SPUI25",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
+    },
+    {
+      "title": "Zin en onzin van generaties",
+      "url": "https://spui25.nl/programma/zin-en-onzin-van-generaties",
+      "imageUrl": "https://offbeat.amsterdam/media/2b98dc8d809d9f840cb6c5c45369b15e.jpg",
+      "venue": "SPUI25",
+      "address": "Spui 25-27, 1012 WX Amsterdam",
+      "startDate": "2026-09-16T20:00:00.000+02:00",
+      "id": "spui25-00321f0a268eaa25",
+      "source": "spui25",
+      "sourceName": "SPUI25",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "jordaan-festival",
@@ -1629,7 +1734,7 @@
       "categories": [
         "park-square"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "DIEP Seminar: Constantino Tsallis",
@@ -1646,7 +1751,22 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
+    },
+    {
+      "title": "Das amerikanische Beben",
+      "url": "https://spui25.nl/programma/das-amerikanische-beben",
+      "imageUrl": "https://offbeat.amsterdam/media/4ac92f2c945910bb28d1dc53fade52ef.jpg",
+      "venue": "SPUI25",
+      "address": "Spui 25-27, 1012 WX Amsterdam",
+      "startDate": "2026-09-17T17:00:00.000+02:00",
+      "id": "spui25-d9c1071464b03b55",
+      "source": "spui25",
+      "sourceName": "SPUI25",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "Dok Night – SYMBIOPSYCHOTAXICINEMA Presented by Jeffrey Babcock",
@@ -1664,7 +1784,22 @@
         "live-music",
         "film-media"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
+    },
+    {
+      "title": "Herodotus en de patronen van de geschiedenis",
+      "url": "https://spui25.nl/programma/herodotus-en-de-patronen-van-de-geschiedenis",
+      "imageUrl": "https://offbeat.amsterdam/media/9103e331bd4ce3a5a0eadedbacc39b59.jpg",
+      "venue": "SPUI25",
+      "address": "Spui 25-27, 1012 WX Amsterdam",
+      "startDate": "2026-09-17T20:00:00.000+02:00",
+      "id": "spui25-c4989f6770d07bea",
+      "source": "spui25",
+      "sourceName": "SPUI25",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "nadav-kander-the-edge-of-things",
@@ -1684,7 +1819,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3639884,
       "lon": 4.8932631
     },
@@ -1705,7 +1840,7 @@
       "categories": [
         "park-square"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "Leo Bouwmeester",
@@ -1718,7 +1853,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "The Cauldron",
@@ -1731,7 +1866,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3356057,
       "lon": 4.8747611
     },
@@ -1747,25 +1882,9 @@
       "categories": [
         "classical"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3561982,
       "lon": 4.8790448
-    },
-    {
-      "title": "Mezrab Friday Night Storytelling",
-      "url": "https://mezrab.nl/events/mezrab-friday-night-storytelling-2-2026-07-03-2026-07-10-2026-07-17-2026-07-24-2026-07-31-2026-08-07-2026-08-14-2026-08-21-2026-08-28-2026-09-04-2026-09-11-2026-09-18/",
-      "venue": "Mezrab",
-      "startDate": "2026-09-18T20:00:00",
-      "dateText": "Fri 18.09 | 20:00",
-      "id": "mezrab-51c23a8659f18ca1",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
     },
     {
       "title": "Friday Night Live ft. Matěj Bursík & Robert Forejtek Quartet - tenor hang",
@@ -1778,7 +1897,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3691458,
       "lon": 4.8950558
     },
@@ -1793,9 +1912,39 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3357741,
       "lon": 4.8561652
+    },
+    {
+      "title": "Een avond met Douglas Stuart over zijn nieuwste roman ‘John, zoon van John’",
+      "url": "https://spui25.nl/programma/een-avond-met-douglas-stuart-over-zijn-nieuwste-roman-john-zoon-van-john",
+      "imageUrl": "https://offbeat.amsterdam/media/45d0b20b77233fd535577de06f8f63ca.jpg",
+      "venue": "SPUI25",
+      "address": "Spui 25-27, 1012 WX Amsterdam",
+      "startDate": "2026-09-18T20:00:00.000+02:00",
+      "id": "spui25-12a9b4b152cf847c",
+      "source": "spui25",
+      "sourceName": "SPUI25",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
+    },
+    {
+      "title": "Roots, Ancestors, DNA: What are we looking for?",
+      "url": "https://spui25.nl/programma/roots-ancestors-dna-what-are-we-looking-for",
+      "imageUrl": "https://offbeat.amsterdam/media/50a57f51f146a9199b5de5abbb6e221c.jpg",
+      "venue": "SPUI25",
+      "address": "Spui 25-27, 1012 WX Amsterdam",
+      "startDate": "2026-09-18T20:00:00.000+02:00",
+      "id": "spui25-e7bff397fe7f219c",
+      "source": "spui25",
+      "sourceName": "SPUI25",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "WAAN",
@@ -1812,7 +1961,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3779694,
       "lon": 4.9128862
     },
@@ -1829,7 +1978,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3834476,
       "lon": 4.8723709
     },
@@ -1846,9 +1995,25 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3830202,
       "lon": 4.8780599
+    },
+    {
+      "title": "Café Parisius Jam Session",
+      "url": "https://www.cafebertjavaplein.nl/",
+      "startDate": "2026-09-18T21:00:00.000+02:00",
+      "venue": "Café Parisius",
+      "price": "Free",
+      "isFree": true,
+      "id": "jazzin-4775ed2d440c7f1b",
+      "source": "jazzin",
+      "sourceName": "Jazzin' Amsterdam",
+      "categories": [
+        "live-music",
+        "free-entry"
+      ],
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "D!ma Loginov Group",
@@ -1862,7 +2027,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3635112,
       "lon": 4.8845183
     },
@@ -1883,7 +2048,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "Steve Reich 90 with the Colin Currie Group",
@@ -1897,7 +2062,7 @@
       "categories": [
         "classical"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3561982,
       "lon": 4.8790448
     },
@@ -1912,7 +2077,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3755725,
       "lon": 4.9007878
     },
@@ -1928,9 +2093,26 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3632009,
       "lon": 4.912678
+    },
+    {
+      "title": "Cotton Jazz on Tour @ Creacafé with Paul vd Feen alto, Stefan Lievenstro bas, Ron Cha piano and Dylan Vos on drms",
+      "url": "https://wwe.crea.nl/cafe/",
+      "startDate": "2026-09-19T16:31:00.000+02:00",
+      "venue": "Creacafé",
+      "price": "Free",
+      "isFree": true,
+      "id": "jazzin-82c87faff7f4dcef",
+      "source": "jazzin",
+      "sourceName": "Jazzin' Amsterdam",
+      "categories": [
+        "live-music",
+        "jazz",
+        "free-entry"
+      ],
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "Sibelius’ Violin Concerto & Mussorgsky's Pictures at an Exhibition",
@@ -1944,7 +2126,7 @@
       "categories": [
         "classical"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3561982,
       "lon": 4.8790448
     },
@@ -1960,7 +2142,7 @@
       "categories": [
         "classical"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3561982,
       "lon": 4.8790448
     },
@@ -1975,7 +2157,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.366342,
       "lon": 4.8863797
     },
@@ -1990,23 +2172,35 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
-      "title": "The ALT Mezrab Comedy Night (feat. Maya Ricote)",
-      "url": "https://mezrab.nl/events/the-alt-mezrab-comedy-night-28/",
-      "venue": "Mezrab",
-      "startDate": "2026-09-19T20:00:00",
-      "dateText": "Sat 19.09 | 20:00",
-      "id": "mezrab-5f1700c7ab2b7d80",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
+      "title": "Oleg Prilutskiy",
+      "url": "https://pompstation.nu/agenda",
+      "startDate": "2026-09-19T20:00:00.000+02:00",
+      "venue": "Pompstation",
+      "id": "jazzin-efdcc8b367815809",
+      "source": "jazzin",
+      "sourceName": "Jazzin' Amsterdam",
       "categories": [
-        "other"
+        "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
+      "lat": 52.3357741,
+      "lon": 4.8561652
+    },
+    {
+      "title": "Viny Night - Arie & Tom",
+      "url": "https://www.walhallacraftbeer.nl/events/",
+      "startDate": "2026-09-19T20:00:00.000+02:00",
+      "venue": "Walhalla Brouwerij & Proeflokaal",
+      "id": "jazzin-6b65edbbab29d88c",
+      "source": "jazzin",
+      "sourceName": "Jazzin' Amsterdam",
+      "categories": [
+        "live-music"
+      ],
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "12fu w/ wracaj bo ciemno (pl) + ok.ko + djalan-djalan + dj steve",
@@ -2021,7 +2215,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.354338,
       "lon": 4.8553367
     },
@@ -2039,37 +2233,24 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.378619,
       "lon": 4.8836352
     },
     {
-      "title": "Oleg Prilutskiy",
-      "url": "https://pompstation.nu/agenda",
-      "startDate": "2026-09-19T20:00:00.000+02:00",
-      "venue": "Pompstation",
-      "id": "jazzin-efdcc8b367815809",
+      "title": "Groove sessions with Vanilla Caliente: Bolero Night",
+      "url": "https://contra.weticket.io/groove-sessions-with-vanilla-caliente-bolero-night",
+      "startDate": "2026-09-19T20:30:00.000+02:00",
+      "venue": "Contra",
+      "id": "jazzin-c81af2f5f77a36d7",
       "source": "jazzin",
       "sourceName": "Jazzin' Amsterdam",
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3357741,
-      "lon": 4.8561652
-    },
-    {
-      "title": "Viny Night - Arie & Tom",
-      "url": "https://www.walhallacraftbeer.nl/events/",
-      "startDate": "2026-09-19T20:00:00.000+02:00",
-      "venue": "Walhalla Brouwerij & Proeflokaal",
-      "id": "jazzin-6b65edbbab29d88c",
-      "source": "jazzin",
-      "sourceName": "Jazzin' Amsterdam",
-      "categories": [
-        "live-music"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
+      "lat": 52.3691458,
+      "lon": 4.8950558
     },
     {
       "title": "Tyn Wybenga Brainteaser Orchestra",
@@ -2083,7 +2264,7 @@
         "live-music",
         "classical"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3837067,
       "lon": 4.9049297
     },
@@ -2102,24 +2283,9 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3779694,
       "lon": 4.9128862
-    },
-    {
-      "title": "Groove sessions with Vanilla Caliente: Bolero Night",
-      "url": "https://contra.weticket.io/groove-sessions-with-vanilla-caliente-bolero-night",
-      "startDate": "2026-09-19T20:30:00.000+02:00",
-      "venue": "Contra",
-      "id": "jazzin-c81af2f5f77a36d7",
-      "source": "jazzin",
-      "sourceName": "Jazzin' Amsterdam",
-      "categories": [
-        "live-music"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3691458,
-      "lon": 4.8950558
     },
     {
       "title": "Marios Charalampous Quartet",
@@ -2133,7 +2299,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3635112,
       "lon": 4.8845183
     },
@@ -2149,7 +2315,7 @@
       "categories": [
         "classical"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3561982,
       "lon": 4.8790448
     },
@@ -2165,7 +2331,7 @@
       "categories": [
         "classical"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3561982,
       "lon": 4.8790448
     },
@@ -2181,7 +2347,7 @@
       "categories": [
         "classical"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3561982,
       "lon": 4.8790448
     },
@@ -2197,7 +2363,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3572813,
       "lon": 4.8905634
     },
@@ -2215,7 +2381,7 @@
         "live-music",
         "free-entry"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "Jazz & Drinks - Diemen800",
@@ -2231,7 +2397,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "Amsterdam - Cologne improv connection - Duo Salvoandrea Lucifora / Raoul van der Weide, trio DIG & Ties Mellema",
@@ -2246,7 +2412,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3698193,
       "lon": 4.9030343
     },
@@ -2264,26 +2430,9 @@
         "live-music",
         "free-entry"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3671973,
       "lon": 4.8828153
-    },
-    {
-      "title": "DUO ROUTE SOLEIL - UITVERKOCHT!",
-      "url": "https://huisdepinto.nl/programma/duo-route-soleil/",
-      "startDate": "2026-09-20T16:00:00.000+02:00",
-      "venue": "Huis de Pinto",
-      "price": "7",
-      "isFree": false,
-      "id": "jazzin-40d45010923bef1d",
-      "source": "jazzin",
-      "sourceName": "Jazzin' Amsterdam",
-      "categories": [
-        "live-music"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.370111,
-      "lon": 4.9009202
     },
     {
       "title": "DBDB Live Jazz",
@@ -2299,7 +2448,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "Sunday Live Jazz - Jochem Braat Trio piano/bass/drums",
@@ -2313,23 +2462,24 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
-      "title": "Balfolk Social in de Mezrab met Duo Sionneau-Gielen en Vlier",
-      "url": "https://mezrab.nl/events/balfolk-social-in-de-mezrab-save-the-date/",
-      "venue": "Mezrab",
-      "startDate": "2026-09-20T16:15:00",
-      "dateText": "Sun 20.09 | 16:15",
-      "id": "mezrab-e947b377c590609c",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
+      "title": "DUO ROUTE SOLEIL - UITVERKOCHT!",
+      "url": "https://huisdepinto.nl/programma/duo-route-soleil/",
+      "startDate": "2026-09-20T16:00:00.000+02:00",
+      "venue": "Huis de Pinto",
+      "price": "7",
+      "isFree": false,
+      "id": "jazzin-40d45010923bef1d",
+      "source": "jazzin",
+      "sourceName": "Jazzin' Amsterdam",
       "categories": [
-        "other"
+        "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
+      "lat": 52.370111,
+      "lon": 4.9009202
     },
     {
       "title": "Duo Daan Herweg en Laura Dooge",
@@ -2345,7 +2495,7 @@
         "live-music",
         "free-entry"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "Jazz op zondag feat. Finn Peters",
@@ -2359,7 +2509,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3702265,
       "lon": 4.8984411
     },
@@ -2376,7 +2526,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3834476,
       "lon": 4.8723709
     },
@@ -2395,7 +2545,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3779694,
       "lon": 4.9128862
     },
@@ -2411,7 +2561,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3635112,
       "lon": 4.8845183
     },
@@ -2428,7 +2578,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3830202,
       "lon": 4.8780599
     },
@@ -2444,7 +2594,7 @@
       "categories": [
         "classical"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3561982,
       "lon": 4.8790448
     },
@@ -2460,7 +2610,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3635112,
       "lon": 4.8845183
     },
@@ -2479,7 +2629,22 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
+    },
+    {
+      "title": "Van pettenverkoper tot persbaron: M.S. Vaz Dias",
+      "url": "https://spui25.nl/programma/van-pettenverkoper-tot-persbaron-m-s-vaz-dias",
+      "imageUrl": "https://offbeat.amsterdam/media/98e75b63fc85a256036dc41295d41331.jpg",
+      "venue": "SPUI25",
+      "address": "Spui 25-27, 1012 WX Amsterdam",
+      "startDate": "2026-09-22T17:00:00.000+02:00",
+      "id": "spui25-733c8a3971adc057",
+      "source": "spui25",
+      "sourceName": "SPUI25",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "Daniel Barenboim and West-Eastern Divan Orchestra: Schumann and Schubert",
@@ -2493,7 +2658,7 @@
       "categories": [
         "classical"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3561982,
       "lon": 4.8790448
     },
@@ -2508,25 +2673,9 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3772351,
       "lon": 4.9400694
-    },
-    {
-      "title": "Pearls on a String",
-      "url": "https://mezrab.nl/events/pearls-on-a-string-2026-02-24-2026-07-28-2026-08-25-2026-09-22/",
-      "venue": "Mezrab",
-      "startDate": "2026-09-22T20:00:00",
-      "dateText": "Tue 22.09 | 20:00",
-      "id": "mezrab-7954e3914fd0f682",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
     },
     {
       "title": "Orchestre Partout Lab",
@@ -2539,7 +2688,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3779694,
       "lon": 4.9128862
     },
@@ -2556,9 +2705,24 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3779694,
       "lon": 4.9128862
+    },
+    {
+      "title": "Cultuurgeschiedenis en de politieke actualiteit van het nationalisme",
+      "url": "https://spui25.nl/programma/cultuurgeschiedenis-en-de-politieke-actualiteit-van-het-nationalisme",
+      "imageUrl": "https://offbeat.amsterdam/media/ac855572a2e4f537ab69de3b7692ab5b.jpg",
+      "venue": "SPUI25",
+      "address": "Spui 25-27, 1012 WX Amsterdam",
+      "startDate": "2026-09-22T20:00:00.000+02:00",
+      "id": "spui25-7c2a256714315951",
+      "source": "spui25",
+      "sourceName": "SPUI25",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "Witte Gei’t? met Jacob Drescher, Send Me Flowers, Virgil WX en Jana Mila",
@@ -2571,7 +2735,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.374158,
       "lon": 4.8726931
     },
@@ -2588,7 +2752,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3830202,
       "lon": 4.8780599
     },
@@ -2606,7 +2770,7 @@
         "live-music",
         "free-entry"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3531732,
       "lon": 4.9318944
     },
@@ -2622,7 +2786,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3635112,
       "lon": 4.8845183
     },
@@ -2641,7 +2805,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3779694,
       "lon": 4.9128862
     },
@@ -2659,7 +2823,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "Free Lunchtime Concert: International Van Wassenaer Competition",
@@ -2672,9 +2836,24 @@
       "categories": [
         "classical"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3561982,
       "lon": 4.8790448
+    },
+    {
+      "title": "The Transformation of the Writer in Times of War",
+      "url": "https://spui25.nl/programma/literature-beyond-the-page",
+      "imageUrl": "https://offbeat.amsterdam/media/b7e307056c5bb7de2613d89572ef57ee.jpg",
+      "venue": "SPUI25",
+      "address": "Spui 25-27, 1012 WX Amsterdam",
+      "startDate": "2026-09-23T17:00:00.000+02:00",
+      "id": "spui25-d4ace482403bca81",
+      "source": "spui25",
+      "sourceName": "SPUI25",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "VekoDiner van Erik Wildschut",
@@ -2689,7 +2868,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3830202,
       "lon": 4.8780599
     },
@@ -2705,7 +2884,7 @@
       "categories": [
         "classical"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3561982,
       "lon": 4.8790448
     },
@@ -2721,7 +2900,7 @@
       "categories": [
         "classical"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3561982,
       "lon": 4.8790448
     },
@@ -2739,7 +2918,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "Fancy Dress Party - \"You’re Cordially Invited” album release",
@@ -2754,25 +2933,9 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3698193,
       "lon": 4.9030343
-    },
-    {
-      "title": "Open Stage Storytelling Night",
-      "url": "https://mezrab.nl/events/open-stage-storytelling-night-2-2025-12-24-2026-07-01-2026-07-08-2026-07-15-2026-07-22-2026-07-29-2026-08-05-2026-08-12-2026-08-19-2026-08-26-2026-09-02-2026-09-09-2026-09-16-2026-09-23/",
-      "venue": "Mezrab",
-      "startDate": "2026-09-23T20:00:00",
-      "dateText": "Wed 23.09 | 20:00",
-      "id": "mezrab-6f0893d64affb823",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
     },
     {
       "title": "Muurbloem Jazz Jam Session",
@@ -2789,7 +2952,7 @@
         "jazz",
         "free-entry"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3742031,
       "lon": 4.8776939
     },
@@ -2805,7 +2968,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "Wouter Kiers Quartet",
@@ -2819,7 +2982,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3635112,
       "lon": 4.8845183
     },
@@ -2838,7 +3001,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "Restaurant: Sisi & Sevgi koken",
@@ -2853,7 +3016,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3830202,
       "lon": 4.8780599
     },
@@ -2872,7 +3035,7 @@
         "live-music",
         "film-media"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "Concertgebouw Orchestra & Seong-Jin Cho: Tchaikovsky's Piano Concerto No. 1",
@@ -2886,7 +3049,7 @@
       "categories": [
         "classical"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3561982,
       "lon": 4.8790448
     },
@@ -2902,7 +3065,7 @@
       "categories": [
         "classical"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3561982,
       "lon": 4.8790448
     },
@@ -2919,9 +3082,37 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3698193,
       "lon": 4.9030343
+    },
+    {
+      "title": "Theo Naishtat",
+      "url": "https://pompstation.nu/agenda",
+      "startDate": "2026-09-24T20:00:00.000+02:00",
+      "venue": "Pompstation",
+      "id": "jazzin-b0f9e8b82dc13232",
+      "source": "jazzin",
+      "sourceName": "Jazzin' Amsterdam",
+      "categories": [
+        "live-music"
+      ],
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
+      "lat": 52.3357741,
+      "lon": 4.8561652
+    },
+    {
+      "title": "B-Renaissance • Beats, Books & Bites • By Georgy Morhea • 1st Edition",
+      "url": "https://zojazz-stage.weticket.io/beats-books-bites-by-georgy-morhea-1st-edition",
+      "startDate": "2026-09-24T20:00:00.000+02:00",
+      "venue": "ZOJazz Stage",
+      "id": "jazzin-77c9bc8555e87d04",
+      "source": "jazzin",
+      "sourceName": "Jazzin' Amsterdam",
+      "categories": [
+        "live-music"
+      ],
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "Jazz Thursdays w/ Erik Verwey Invites: Sam Newbould",
@@ -2937,7 +3128,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3537525,
       "lon": 4.9117913
     },
@@ -2954,53 +3145,39 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3830202,
       "lon": 4.8780599
     },
     {
-      "title": "Theo Naishtat",
-      "url": "https://pompstation.nu/agenda",
+      "title": "No Nonsense: De neoliberale omslag in Nederland",
+      "url": "https://spui25.nl/programma/boekpresentatie-no-nonsense-de-neoliberale-omslag-in-nederland",
+      "imageUrl": "https://offbeat.amsterdam/media/7bbc3c5c32fe44c17370fd4fa945c1b8.jpg",
+      "venue": "SPUI25",
+      "address": "Spui 25-27, 1012 WX Amsterdam",
       "startDate": "2026-09-24T20:00:00.000+02:00",
-      "venue": "Pompstation",
-      "id": "jazzin-b0f9e8b82dc13232",
-      "source": "jazzin",
-      "sourceName": "Jazzin' Amsterdam",
-      "categories": [
-        "live-music"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3357741,
-      "lon": 4.8561652
-    },
-    {
-      "title": "B-Renaissance • Beats, Books & Bites • By Georgy Morhea • 1st Edition",
-      "url": "https://zojazz-stage.weticket.io/beats-books-bites-by-georgy-morhea-1st-edition",
-      "startDate": "2026-09-24T20:00:00.000+02:00",
-      "venue": "ZOJazz Stage",
-      "id": "jazzin-77c9bc8555e87d04",
-      "source": "jazzin",
-      "sourceName": "Jazzin' Amsterdam",
-      "categories": [
-        "live-music"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
-    },
-    {
-      "title": "Albaidar Duo ★ Arabic Folk ★ Magic Carpet Sessions ♫",
-      "url": "https://mezrab.nl/events/albaidar-duo-concert/",
-      "venue": "Mezrab",
-      "startDate": "2026-09-24T20:30:00",
-      "dateText": "Thu 24.09 | 20:30",
-      "id": "mezrab-19121b7f69c4ba54",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
+      "id": "spui25-a5ec567070ffc9c3",
+      "source": "spui25",
+      "sourceName": "SPUI25",
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
+    },
+    {
+      "title": "Dinner concert: Koen Verlaan sings Frank Sinatra",
+      "url": "https://contra.weticket.io/dinner-concert-koen-verlaan-sings-frank-sinatra",
+      "startDate": "2026-09-24T20:30:00.000+02:00",
+      "venue": "Contra",
+      "id": "jazzin-362081ea8116debc",
+      "source": "jazzin",
+      "sourceName": "Jazzin' Amsterdam",
+      "categories": [
+        "live-music"
+      ],
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
+      "lat": 52.3691458,
+      "lon": 4.8950558
     },
     {
       "title": "Mahsa Vahdat with Tord Gustavsen",
@@ -3017,7 +3194,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3779694,
       "lon": 4.9128862
     },
@@ -3035,7 +3212,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3834476,
       "lon": 4.8723709
     },
@@ -3053,22 +3230,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
-    },
-    {
-      "title": "Dinner concert: Koen Verlaan sings Frank Sinatra",
-      "url": "https://contra.weticket.io/dinner-concert-koen-verlaan-sings-frank-sinatra",
-      "startDate": "2026-09-24T20:30:00.000+02:00",
-      "venue": "Contra",
-      "id": "jazzin-362081ea8116debc",
-      "source": "jazzin",
-      "sourceName": "Jazzin' Amsterdam",
-      "categories": [
-        "live-music"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3691458,
-      "lon": 4.8950558
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "FUNK MEDICATION",
@@ -3082,7 +3244,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3635112,
       "lon": 4.8845183
     },
@@ -3104,7 +3266,7 @@
       "categories": [
         "clubbing-electronic"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3693692,
       "lon": 4.9012497
     },
@@ -3119,7 +3281,22 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
+    },
+    {
+      "title": "De volle zee is van niemand: ecopiraterij",
+      "url": "https://spui25.nl/programma/de-volle-zee-is-van-niemand-ecopiraterij-en-andere-vormen-van-actie",
+      "imageUrl": "https://offbeat.amsterdam/media/b90be0c7b7e7f4daef8865f142518daa.jpg",
+      "venue": "SPUI25",
+      "address": "Spui 25-27, 1012 WX Amsterdam",
+      "startDate": "2026-09-25T17:00:00.000+02:00",
+      "id": "spui25-40c172f7179da984",
+      "source": "spui25",
+      "sourceName": "SPUI25",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "Masterclass Young Dutch Musicians with Liza Ferschtman",
@@ -3133,7 +3310,7 @@
       "categories": [
         "classical"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3561982,
       "lon": 4.8790448
     },
@@ -3150,7 +3327,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3647777,
       "lon": 4.8810734
     },
@@ -3168,23 +3345,37 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
-      "title": "Mezrab Friday Night Storytelling",
-      "url": "https://mezrab.nl/events/mezrab-friday-night-storytelling-2-2026-07-03-2026-07-10-2026-07-17-2026-07-24-2026-07-31-2026-08-07-2026-08-14-2026-08-21-2026-08-28-2026-09-04-2026-09-11-2026-09-18-2026-09-25/",
-      "venue": "Mezrab",
-      "startDate": "2026-09-25T20:00:00",
-      "dateText": "Fri 25.09 | 20:00",
-      "id": "mezrab-f264b4c11f290206",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
+      "title": "Friday Night Live ft. Frank Groenendijk",
+      "url": "https://contra.weticket.io/friday-night-live-ft-frank-groenendijk",
+      "startDate": "2026-09-25T20:00:00.000+02:00",
+      "venue": "Contra",
+      "id": "jazzin-85bf060456b6402a",
+      "source": "jazzin",
+      "sourceName": "Jazzin' Amsterdam",
       "categories": [
-        "other"
+        "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
+      "lat": 52.3691458,
+      "lon": 4.8950558
+    },
+    {
+      "title": "Olivier Kayl",
+      "url": "https://pompstation.nu/agenda",
+      "startDate": "2026-09-25T20:00:00.000+02:00",
+      "venue": "Pompstation",
+      "id": "jazzin-8e5f6128e79d9c1a",
+      "source": "jazzin",
+      "sourceName": "Jazzin' Amsterdam",
+      "categories": [
+        "live-music"
+      ],
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
+      "lat": 52.3357741,
+      "lon": 4.8561652
     },
     {
       "title": "Jazz at the Pianola, Mehmet Polat Quartet",
@@ -3200,7 +3391,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.378619,
       "lon": 4.8836352
     },
@@ -3218,7 +3409,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3812772,
       "lon": 4.8906092
     },
@@ -3235,39 +3426,9 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3659789,
       "lon": 4.9392116
-    },
-    {
-      "title": "Friday Night Live ft. Frank Groenendijk",
-      "url": "https://contra.weticket.io/friday-night-live-ft-frank-groenendijk",
-      "startDate": "2026-09-25T20:00:00.000+02:00",
-      "venue": "Contra",
-      "id": "jazzin-85bf060456b6402a",
-      "source": "jazzin",
-      "sourceName": "Jazzin' Amsterdam",
-      "categories": [
-        "live-music"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3691458,
-      "lon": 4.8950558
-    },
-    {
-      "title": "Olivier Kayl",
-      "url": "https://pompstation.nu/agenda",
-      "startDate": "2026-09-25T20:00:00.000+02:00",
-      "venue": "Pompstation",
-      "id": "jazzin-8e5f6128e79d9c1a",
-      "source": "jazzin",
-      "sourceName": "Jazzin' Amsterdam",
-      "categories": [
-        "live-music"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3357741,
-      "lon": 4.8561652
     },
     {
       "title": "Beatriz",
@@ -3284,7 +3445,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3779694,
       "lon": 4.9128862
     },
@@ -3301,7 +3462,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3834476,
       "lon": 4.8723709
     },
@@ -3316,7 +3477,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3772351,
       "lon": 4.9400694
     },
@@ -3332,7 +3493,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3635112,
       "lon": 4.8845183
     },
@@ -3354,7 +3515,7 @@
         "park-square",
         "film-media"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "Kronkel Festival",
@@ -3369,7 +3530,7 @@
         "live-music",
         "park-square"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.354338,
       "lon": 4.8553367
     },
@@ -3385,7 +3546,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3632009,
       "lon": 4.912678
     },
@@ -3402,7 +3563,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "Braziliaanse buurtevenement",
@@ -3418,7 +3579,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "Impromptu Jazz & Funk Open Jam Session",
@@ -3435,7 +3596,7 @@
         "jazz",
         "free-entry"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3566349,
       "lon": 4.931038
     },
@@ -3454,7 +3615,7 @@
         "jazz",
         "free-entry"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "Nick van den Bos",
@@ -3467,7 +3628,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "Juyoung Byun - OURELEMENT",
@@ -3480,9 +3641,24 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3711377,
       "lon": 4.8900858
+    },
+    {
+      "title": "Eddy Nielsen",
+      "url": "https://pompstation.nu/agenda",
+      "startDate": "2026-09-26T20:00:00.000+02:00",
+      "venue": "Pompstation",
+      "id": "jazzin-ec4197f9db4470d6",
+      "source": "jazzin",
+      "sourceName": "Jazzin' Amsterdam",
+      "categories": [
+        "live-music"
+      ],
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
+      "lat": 52.3357741,
+      "lon": 4.8561652
     },
     {
       "title": "Hidden Jazz Club",
@@ -3498,7 +3674,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3812772,
       "lon": 4.8906092
     },
@@ -3513,24 +3689,9 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3610913,
       "lon": 4.9755155
-    },
-    {
-      "title": "Eddy Nielsen",
-      "url": "https://pompstation.nu/agenda",
-      "startDate": "2026-09-26T20:00:00.000+02:00",
-      "venue": "Pompstation",
-      "id": "jazzin-ec4197f9db4470d6",
-      "source": "jazzin",
-      "sourceName": "Jazzin' Amsterdam",
-      "categories": [
-        "live-music"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3357741,
-      "lon": 4.8561652
     },
     {
       "title": "Nocturne Nights x Boogieland presents RAGING BULL",
@@ -3545,7 +3706,22 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
+    },
+    {
+      "title": "Color in the yard x Contra",
+      "url": "https://contra.weticket.io/color-in-the-yard",
+      "startDate": "2026-09-26T20:30:00.000+02:00",
+      "venue": "Contra",
+      "id": "jazzin-c0ab5b1496c41583",
+      "source": "jazzin",
+      "sourceName": "Jazzin' Amsterdam",
+      "categories": [
+        "live-music"
+      ],
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
+      "lat": 52.3691458,
+      "lon": 4.8950558
     },
     {
       "title": "Julie Campiche – Unspoken | Raphael Vanoli Solo",
@@ -3562,7 +3738,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3779694,
       "lon": 4.9128862
     },
@@ -3577,24 +3753,9 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3842727,
       "lon": 4.8887335
-    },
-    {
-      "title": "Color in the yard x Contra",
-      "url": "https://contra.weticket.io/color-in-the-yard",
-      "startDate": "2026-09-26T20:30:00.000+02:00",
-      "venue": "Contra",
-      "id": "jazzin-c0ab5b1496c41583",
-      "source": "jazzin",
-      "sourceName": "Jazzin' Amsterdam",
-      "categories": [
-        "live-music"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3691458,
-      "lon": 4.8950558
     },
     {
       "title": "Trio Del Ferro/Teepe/Altenberg - The Latin Jazz Dream",
@@ -3610,25 +3771,9 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3698193,
       "lon": 4.9030343
-    },
-    {
-      "title": "Rebetiko Glenti ★ Rebetiko Against - Yvonne Melissa - Alexandra Charalampidou ♫",
-      "url": "https://mezrab.nl/events/rebetiko-glenti/",
-      "venue": "Mezrab",
-      "startDate": "2026-09-26T21:15:00",
-      "dateText": "Sat 26.09 | 21:15",
-      "id": "mezrab-60c78e9b0878f141",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
     },
     {
       "title": "Bop This!",
@@ -3642,7 +3787,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3635112,
       "lon": 4.8845183
     },
@@ -3662,7 +3807,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "SoWhat Familieconcert - Snip, ritsel en plop",
@@ -3677,7 +3822,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3060606,
       "lon": 5.0435003
     },
@@ -3694,7 +3839,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3830202,
       "lon": 4.8780599
     },
@@ -3711,7 +3856,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "Trio Jos van Beest met  Joep Grotendorst en Boet Kaaijk--- CELEBRATION Concert",
@@ -3726,7 +3871,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "L’Orchestre Jean LeJeune",
@@ -3742,7 +3887,7 @@
         "live-music",
         "free-entry"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3716857,
       "lon": 4.8832208
     },
@@ -3757,7 +3902,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "Jazz op zondag feat. Sam Newbould",
@@ -3771,7 +3916,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3702265,
       "lon": 4.8984411
     },
@@ -3788,7 +3933,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3834476,
       "lon": 4.8723709
     },
@@ -3807,7 +3952,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3779694,
       "lon": 4.9128862
     },
@@ -3823,25 +3968,24 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3635112,
       "lon": 4.8845183
     },
     {
-      "title": "Mezrab Comedy Open Mic",
-      "url": "https://mezrab.nl/events/mezrab-comedy-open-mic-2-2026-09-28/",
-      "venue": "Mezrab",
-      "startDate": "2026-09-28T20:00:00",
-      "dateText": "Mon 28.09 | 20:00",
-      "id": "mezrab-0eb015870c3da024",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
+      "title": "Over biografie en betrokkenheid: wie schrijft het verhaal van een overleden schrijver?",
+      "url": "https://spui25.nl/programma/over-biografie-en-betrokkenheid-wie-schrijft-het-verhaal-van-een-overleden-schrijver",
+      "imageUrl": "https://offbeat.amsterdam/media/0d2f1f2146348bfaec3fb76fddeacc89.jpg",
+      "venue": "SPUI25",
+      "address": "Spui 25-27, 1012 WX Amsterdam",
+      "startDate": "2026-09-28T17:00:00.000+02:00",
+      "id": "spui25-d796e6c92a7b4a17",
+      "source": "spui25",
+      "sourceName": "SPUI25",
       "categories": [
-        "live-music"
+        "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "Cool Sound + Special Guest",
@@ -3855,7 +3999,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3635112,
       "lon": 4.8845183
     },
@@ -3874,7 +4018,22 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
+    },
+    {
+      "title": "Hoe praat je over klimaat",
+      "url": "https://spui25.nl/programma/hoe-praat-je-over-klimaat",
+      "imageUrl": "https://offbeat.amsterdam/media/ad2ef599f960c5f97d509c124c7714ad.jpg",
+      "venue": "SPUI25",
+      "address": "Spui 25-27, 1012 WX Amsterdam",
+      "startDate": "2026-09-29T17:00:00.000+02:00",
+      "id": "spui25-8409be8b8aedec7a",
+      "source": "spui25",
+      "sourceName": "SPUI25",
+      "categories": [
+        "other"
+      ],
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "Rock ’n Roll Dansles met Gel",
@@ -3887,25 +4046,9 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3772351,
       "lon": 4.9400694
-    },
-    {
-      "title": "Welcome to the Playground",
-      "url": "https://mezrab.nl/events/welcome-to-the-playground-2026-09-29/",
-      "venue": "Mezrab",
-      "startDate": "2026-09-29T20:00:00",
-      "dateText": "Tue 29.09 | 20:00",
-      "id": "mezrab-3b11773642a83a2a",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
     },
     {
       "title": "Dutch Jazz Heritage: ode aan Gerry Mulligan",
@@ -3921,7 +4064,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3556688,
       "lon": 4.8796756
     },
@@ -3938,7 +4081,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3830202,
       "lon": 4.8780599
     },
@@ -3956,7 +4099,7 @@
         "live-music",
         "free-entry"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3531732,
       "lon": 4.9318944
     },
@@ -3972,7 +4115,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3635112,
       "lon": 4.8845183
     },
@@ -3991,7 +4134,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3779694,
       "lon": 4.9128862
     },
@@ -4008,25 +4151,9 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3830202,
       "lon": 4.8780599
-    },
-    {
-      "title": "Open Stage Storytelling Night",
-      "url": "https://mezrab.nl/events/open-stage-storytelling-night-2-2025-12-24-2026-07-01-2026-07-08-2026-07-15-2026-07-22-2026-07-29-2026-08-05-2026-08-12-2026-08-19-2026-08-26-2026-09-02-2026-09-09-2026-09-16-2026-09-23-2026-09-30/",
-      "venue": "Mezrab",
-      "startDate": "2026-09-30T20:00:00",
-      "dateText": "Wed 30.09 | 20:00",
-      "id": "mezrab-ba76ff8975aa3ca3",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
     },
     {
       "title": "Muurbloem Jazz Jam Session",
@@ -4043,7 +4170,7 @@
         "jazz",
         "free-entry"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3742031,
       "lon": 4.8776939
     },
@@ -4062,7 +4189,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3779694,
       "lon": 4.9128862
     },
@@ -4078,7 +4205,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "Eran Har Even",
@@ -4092,7 +4219,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3635112,
       "lon": 4.8845183
     },
@@ -4111,7 +4238,7 @@
         "live-music",
         "film-media"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "Opening ZOJazz Stage boekencollectie @ OBA Bijlmerplein",
@@ -4126,25 +4253,9 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3153892,
       "lon": 4.9535813
-    },
-    {
-      "title": "LGBTQ+ Stories",
-      "url": "https://mezrab.nl/events/lgbtq-stories-3/",
-      "venue": "Mezrab",
-      "startDate": "2026-10-01T20:00:00",
-      "dateText": "Thu 1.10 | 20:00",
-      "id": "mezrab-130edc7da8ef6f31",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
     },
     {
       "title": "Rachel Gould, Sanna van Vliet & Uli Glaßman",
@@ -4159,22 +4270,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
-    },
-    {
-      "title": "Oh La La!",
-      "url": "https://denieuweanita.nl/agenda/oh-la-la-3/",
-      "startDate": "2026-10-01T20:00:00.000+02:00",
-      "venue": "De Nieuwe Anita",
-      "id": "jazzin-58ff0235eecf7cac",
-      "source": "jazzin",
-      "sourceName": "Jazzin' Amsterdam",
-      "categories": [
-        "live-music"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.374158,
-      "lon": 4.8726931
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "Live jazz with Ron Cha",
@@ -4188,7 +4284,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3691458,
       "lon": 4.8950558
     },
@@ -4205,7 +4301,22 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
+    },
+    {
+      "title": "Oh La La!",
+      "url": "https://denieuweanita.nl/agenda/oh-la-la-3/",
+      "startDate": "2026-10-01T20:00:00.000+02:00",
+      "venue": "De Nieuwe Anita",
+      "id": "jazzin-58ff0235eecf7cac",
+      "source": "jazzin",
+      "sourceName": "Jazzin' Amsterdam",
+      "categories": [
+        "live-music"
+      ],
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
+      "lat": 52.374158,
+      "lon": 4.8726931
     },
     {
       "title": "Frank Rosaly with Jeff Parker, Rob Frye & Ibelisse Guardia Ferragutti",
@@ -4219,9 +4330,24 @@
       "categories": [
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3779694,
       "lon": 4.9128862
+    },
+    {
+      "title": "Judith Nijland",
+      "url": "https://dekhl.nl/podium/#events",
+      "startDate": "2026-10-01T20:30:00.000+02:00",
+      "venue": "De KHL",
+      "id": "jazzin-b60a63f7fadac2e2",
+      "source": "jazzin",
+      "sourceName": "Jazzin' Amsterdam",
+      "categories": [
+        "live-music"
+      ],
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
+      "lat": 52.3740065,
+      "lon": 4.9363092
     },
     {
       "title": "Frank Rosaly met Jeff Parker, Rob Frye & Ibelisse Guardia Ferragutti",
@@ -4236,7 +4362,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3779694,
       "lon": 4.9128862
     },
@@ -4254,7 +4380,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3834476,
       "lon": 4.8723709
     },
@@ -4272,22 +4398,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
-    },
-    {
-      "title": "Judith Nijland",
-      "url": "https://dekhl.nl/podium/#events",
-      "startDate": "2026-10-01T20:30:00.000+02:00",
-      "venue": "De KHL",
-      "id": "jazzin-b60a63f7fadac2e2",
-      "source": "jazzin",
-      "sourceName": "Jazzin' Amsterdam",
-      "categories": [
-        "live-music"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3740065,
-      "lon": 4.9363092
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "One Last Time",
@@ -4301,7 +4412,7 @@
         "sex-positive",
         "clubbing-electronic"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "afrovibes-festival",
@@ -4321,7 +4432,7 @@
         "park-square",
         "film-media"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "Leo Bouwmeester",
@@ -4334,23 +4445,22 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
-      "title": "Mezrab Friday Night Storytelling",
-      "url": "https://mezrab.nl/events/mezrab-friday-night-storytelling-2-2026-07-03-2026-07-10-2026-07-17-2026-07-24-2026-07-31-2026-08-07-2026-08-14-2026-08-21-2026-08-28-2026-09-04-2026-09-11-2026-09-18-2026-09-25-2026-10-02/",
-      "venue": "Mezrab",
-      "startDate": "2026-10-02T20:00:00",
-      "dateText": "Fri 2.10 | 20:00",
-      "id": "mezrab-05b2ed6af7f5a3e4",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
+      "title": "Friday Night Live ft. Lachy Hamilton",
+      "url": "https://contra.weticket.io/friday-night-live-ft-lachy-hamilton",
+      "startDate": "2026-10-02T20:00:00.000+02:00",
+      "venue": "Contra",
+      "id": "jazzin-8014c5ec0b572408",
+      "source": "jazzin",
+      "sourceName": "Jazzin' Amsterdam",
       "categories": [
-        "other"
+        "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
+      "lat": 52.3691458,
+      "lon": 4.8950558
     },
     {
       "title": "Metropole Orkest Cellos",
@@ -4365,22 +4475,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
-    },
-    {
-      "title": "Friday Night Live ft. Lachy Hamilton",
-      "url": "https://contra.weticket.io/friday-night-live-ft-lachy-hamilton",
-      "startDate": "2026-10-02T20:00:00.000+02:00",
-      "venue": "Contra",
-      "id": "jazzin-8014c5ec0b572408",
-      "source": "jazzin",
-      "sourceName": "Jazzin' Amsterdam",
-      "categories": [
-        "live-music"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3691458,
-      "lon": 4.8950558
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "Benjamin Herman’s European Alto Festival",
@@ -4398,7 +4493,7 @@
         "park-square",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3779694,
       "lon": 4.9128862
     },
@@ -4415,7 +4510,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3698193,
       "lon": 4.9030343
     },
@@ -4431,7 +4526,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3772351,
       "lon": 4.9400694
     },
@@ -4447,7 +4542,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3632009,
       "lon": 4.912678
     },
@@ -4462,23 +4557,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
-    },
-    {
-      "title": "The Original Mezrab Comedy Night",
-      "url": "https://mezrab.nl/events/the-original-mezrab-comedy-night-29/",
-      "venue": "Mezrab",
-      "startDate": "2026-10-03T20:00:00",
-      "dateText": "Sat 3.10 | 20:00",
-      "id": "mezrab-59bced872df8fac5",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "Groove sessions with Abigaël Ama",
@@ -4491,7 +4570,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3691458,
       "lon": 4.8950558
     },
@@ -4510,7 +4589,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3779694,
       "lon": 4.9128862
     },
@@ -4527,7 +4606,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.393151,
       "lon": 4.9107584
     },
@@ -4544,7 +4623,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "Cheese & Jazz",
@@ -4558,7 +4637,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3572813,
       "lon": 4.8905634
     },
@@ -4573,7 +4652,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3283491,
       "lon": 4.8945835
     },
@@ -4591,7 +4670,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "L’Orchestre Jean LeJeune",
@@ -4607,7 +4686,7 @@
         "live-music",
         "free-entry"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3671973,
       "lon": 4.8828153
     },
@@ -4622,22 +4701,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
-    },
-    {
-      "title": "NUTS",
-      "url": "https://www.ijzerstaven.nl/event-details/nuts-1",
-      "startDate": "2026-10-04T16:00:00.000+02:00",
-      "venue": "Salon de IJzerstaven",
-      "id": "jazzin-8a6058e9f6aa736a",
-      "source": "jazzin",
-      "sourceName": "Jazzin' Amsterdam",
-      "categories": [
-        "live-music"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3842727,
-      "lon": 4.8887335
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "Cafe Conrad x Jazz Collectief",
@@ -4651,7 +4715,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "Sunday Live Jazz - Joshua Redwahl Trio - piano/bass/drums",
@@ -4665,7 +4729,22 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
+    },
+    {
+      "title": "NUTS",
+      "url": "https://www.ijzerstaven.nl/event-details/nuts-1",
+      "startDate": "2026-10-04T16:00:00.000+02:00",
+      "venue": "Salon de IJzerstaven",
+      "id": "jazzin-8a6058e9f6aa736a",
+      "source": "jazzin",
+      "sourceName": "Jazzin' Amsterdam",
+      "categories": [
+        "live-music"
+      ],
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
+      "lat": 52.3842727,
+      "lon": 4.8887335
     },
     {
       "title": "Jazz op zondag feat. Michael Moore",
@@ -4679,25 +4758,9 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3702265,
       "lon": 4.8984411
-    },
-    {
-      "title": "Tell, then show! – our storytelling jam",
-      "url": "https://mezrab.nl/events/tell-then-show-our-storytelling-jam-5/",
-      "venue": "Mezrab",
-      "startDate": "2026-10-04T20:00:00",
-      "dateText": "Sun 4.10 | 20:00",
-      "id": "mezrab-d3a7618cf003f9a4",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
     },
     {
       "title": "Laura Misch",
@@ -4712,7 +4775,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3556688,
       "lon": 4.8796756
     },
@@ -4731,7 +4794,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3779694,
       "lon": 4.9128862
     },
@@ -4749,7 +4812,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "Azymuth",
@@ -4764,7 +4827,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3647777,
       "lon": 4.8810734
     },
@@ -4783,7 +4846,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "Rock ’n Roll Dansles met Gel",
@@ -4796,25 +4859,9 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3772351,
       "lon": 4.9400694
-    },
-    {
-      "title": "Mythos. Ancient tales from all around the world.",
-      "url": "https://mezrab.nl/events/mythos-ancient-tales-from-all-around-the-world-2026-07-07-2026-08-04-2026-09-01-2026-10-06/",
-      "venue": "Mezrab",
-      "startDate": "2026-10-06T20:00:00",
-      "dateText": "Tue 6.10 | 20:00",
-      "id": "mezrab-e587f876e51f34b2",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
     },
     {
       "title": "СОЮЗ (SOYUZ)",
@@ -4827,7 +4874,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3837067,
       "lon": 4.9049297
     },
@@ -4846,25 +4893,9 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3779694,
       "lon": 4.9128862
-    },
-    {
-      "title": "Open Stage Storytelling Night",
-      "url": "https://mezrab.nl/events/open-stage-storytelling-night-2-2025-12-24-2026-07-01-2026-07-08-2026-07-15-2026-07-22-2026-07-29-2026-08-05-2026-08-12-2026-08-19-2026-08-26-2026-09-02-2026-09-09-2026-09-16-2026-09-23-30-2026-10-07/",
-      "venue": "Mezrab",
-      "startDate": "2026-10-07T20:00:00",
-      "dateText": "Wed 7.10 | 20:00",
-      "id": "mezrab-8c1d458e1348ede5",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
     },
     {
       "title": "Di Stéffano Group - Meesterdrummer uit Brazilie - Freedom to Fly (Liberdade Para Voar)",
@@ -4877,7 +4908,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3698193,
       "lon": 4.9030343
     },
@@ -4893,7 +4924,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "flamenco-biennale",
@@ -4912,7 +4943,7 @@
       "categories": [
         "park-square"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "DIEP Seminar: Eric De Giuli",
@@ -4929,7 +4960,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "Jazz Night • Freedom in Sound • Graziella Hunsel Rivero • @ VU Griffioen",
@@ -4943,9 +4974,24 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3346074,
       "lon": 4.8636531
+    },
+    {
+      "title": "Contra residency with Avishai Darash trio",
+      "url": "https://contra.weticket.io/contra-residency-with-avishai-darash-trio",
+      "startDate": "2026-10-08T20:00:00.000+02:00",
+      "venue": "Contra",
+      "id": "jazzin-bc4493946a7247ce",
+      "source": "jazzin",
+      "sourceName": "Jazzin' Amsterdam",
+      "categories": [
+        "live-music"
+      ],
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
+      "lat": 52.3691458,
+      "lon": 4.8950558
     },
     {
       "title": "Nina Rompa (Ft. 3Violas) | Hoog | Releaseconcert",
@@ -4960,22 +5006,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
-    },
-    {
-      "title": "Contra residency with Avishai Darash trio",
-      "url": "https://contra.weticket.io/contra-residency-with-avishai-darash-trio",
-      "startDate": "2026-10-08T20:00:00.000+02:00",
-      "venue": "Contra",
-      "id": "jazzin-bc4493946a7247ce",
-      "source": "jazzin",
-      "sourceName": "Jazzin' Amsterdam",
-      "categories": [
-        "live-music"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3691458,
-      "lon": 4.8950558
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "Jason Moran solo",
@@ -4990,7 +5021,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3556688,
       "lon": 4.8796756
     },
@@ -5009,7 +5040,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3779694,
       "lon": 4.9128862
     },
@@ -5027,7 +5058,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3834476,
       "lon": 4.8723709
     },
@@ -5042,7 +5073,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3618546,
       "lon": 4.8647467
     },
@@ -5060,7 +5091,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3730796,
       "lon": 4.8924534
     },
@@ -5082,25 +5113,9 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3598431,
       "lon": 4.8850395
-    },
-    {
-      "title": "Mezrab Friday Night Storytelling",
-      "url": "https://mezrab.nl/events/mezrab-friday-night-storytelling-2-2026-07-03-2026-07-10-2026-07-17-2026-07-24-2026-07-31-2026-08-07-2026-08-14-2026-08-21-2026-08-28-2026-09-04-2026-09-11-2026-09-18-2026-09-25-2026-10-02-2026-10-09/",
-      "venue": "Mezrab",
-      "startDate": "2026-10-09T20:00:00",
-      "dateText": "Fri 9.10 | 20:00",
-      "id": "mezrab-8dc36b6c5aa98d51",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
     },
     {
       "title": "New York Jazz meets Jordaan; Henry Hay (06-49420542)",
@@ -5116,7 +5131,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3723138,
       "lon": 4.8811439
     },
@@ -5131,7 +5146,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3691458,
       "lon": 4.8950558
     },
@@ -5146,7 +5161,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "SONICO: The Edge of Tango",
@@ -5161,7 +5176,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3556688,
       "lon": 4.8796756
     },
@@ -5177,7 +5192,7 @@
       "categories": [
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3779694,
       "lon": 4.9128862
     },
@@ -5194,7 +5209,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3779694,
       "lon": 4.9128862
     },
@@ -5212,7 +5227,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3730796,
       "lon": 4.8924534
     },
@@ -5232,7 +5247,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "national-museum-week",
@@ -5251,7 +5266,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "cinekid-festival",
@@ -5271,7 +5286,7 @@
         "park-square",
         "film-media"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "LINDY HOP SPECIAL w/ Nils and Bianca – SAVE the DATE",
@@ -5284,7 +5299,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3772351,
       "lon": 4.9400694
     },
@@ -5301,7 +5316,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3830202,
       "lon": 4.8780599
     },
@@ -5317,9 +5332,37 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3632009,
       "lon": 4.912678
+    },
+    {
+      "title": "Groove sessions with Janggo HutaBelanda",
+      "url": "https://contra.weticket.io/groove-sessions-with-janggo-hutabelanda",
+      "startDate": "2026-10-10T20:00:00.000+02:00",
+      "venue": "Contra",
+      "id": "jazzin-9b1b41e0fa892881",
+      "source": "jazzin",
+      "sourceName": "Jazzin' Amsterdam",
+      "categories": [
+        "live-music"
+      ],
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
+      "lat": 52.3691458,
+      "lon": 4.8950558
+    },
+    {
+      "title": "Roda de Samba • By Saravá Samba Project • 1st Edition",
+      "url": "https://zojazz-stage.weticket.io/roda-de-samba-by-sarava-samba-project-1st-edition",
+      "startDate": "2026-10-10T20:00:00.000+02:00",
+      "venue": "ZOJazz Stage",
+      "id": "jazzin-1fb3a090b9037124",
+      "source": "jazzin",
+      "sourceName": "Jazzin' Amsterdam",
+      "categories": [
+        "live-music"
+      ],
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "New York Jazz Club w/  Soul Jazz Mania, Taylor Burgess & Lachy Hamilton Trio",
@@ -5333,7 +5376,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.374158,
       "lon": 4.8726931
     },
@@ -5350,37 +5393,24 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3698193,
       "lon": 4.9030343
     },
     {
-      "title": "Groove sessions with Janggo HutaBelanda",
-      "url": "https://contra.weticket.io/groove-sessions-with-janggo-hutabelanda",
-      "startDate": "2026-10-10T20:00:00.000+02:00",
-      "venue": "Contra",
-      "id": "jazzin-9b1b41e0fa892881",
+      "title": "Iris & Friends",
+      "url": "https://www.cafebacchus.nl/programma/iris-friends/",
+      "startDate": "2026-10-10T20:30:00.000+02:00",
+      "venue": "Cultureel Café Bacchus",
+      "price": "15.00",
+      "isFree": false,
+      "id": "jazzin-593b61c89178069d",
       "source": "jazzin",
       "sourceName": "Jazzin' Amsterdam",
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3691458,
-      "lon": 4.8950558
-    },
-    {
-      "title": "Roda de Samba • By Saravá Samba Project • 1st Edition",
-      "url": "https://zojazz-stage.weticket.io/roda-de-samba-by-sarava-samba-project-1st-edition",
-      "startDate": "2026-10-10T20:00:00.000+02:00",
-      "venue": "ZOJazz Stage",
-      "id": "jazzin-1fb3a090b9037124",
-      "source": "jazzin",
-      "sourceName": "Jazzin' Amsterdam",
-      "categories": [
-        "live-music"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "Pianoduo Festival: Sven Figee, Peter Beets & The New Jazz Orchestra",
@@ -5398,7 +5428,7 @@
         "classical",
         "park-square"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3612779,
       "lon": 4.8967933
     },
@@ -5417,7 +5447,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3779694,
       "lon": 4.9128862
     },
@@ -5432,40 +5462,9 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3842727,
       "lon": 4.8887335
-    },
-    {
-      "title": "Iris & Friends",
-      "url": "https://www.cafebacchus.nl/programma/iris-friends/",
-      "startDate": "2026-10-10T20:30:00.000+02:00",
-      "venue": "Cultureel Café Bacchus",
-      "price": "15.00",
-      "isFree": false,
-      "id": "jazzin-593b61c89178069d",
-      "source": "jazzin",
-      "sourceName": "Jazzin' Amsterdam",
-      "categories": [
-        "live-music"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
-    },
-    {
-      "title": "Persian Love ★ Bandari & Desert Dance ♫",
-      "url": "https://mezrab.nl/events/persianlove/",
-      "venue": "Mezrab",
-      "startDate": "2026-10-10T21:30:00",
-      "dateText": "Sat 10.10 | 21:30",
-      "id": "mezrab-fc5ca8f6e132b58b",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
     },
     {
       "title": "De Jazzfestafette",
@@ -5480,7 +5479,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3641781,
       "lon": 4.93883
     },
@@ -5498,9 +5497,23 @@
         "live-music",
         "free-entry"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3716857,
       "lon": 4.8832208
+    },
+    {
+      "title": "Sunday Live Jazz - Thijmen Schoute Trio - piano/bass/drums",
+      "url": "https://www.walhallacraftbeer.nl/events/",
+      "startDate": "2026-10-11T16:00:00.000+02:00",
+      "venue": "Walhalla Brouwerij & Proeflokaal",
+      "id": "jazzin-feba899432ef013d",
+      "source": "jazzin",
+      "sourceName": "Jazzin' Amsterdam",
+      "categories": [
+        "live-music",
+        "jazz"
+      ],
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "12-jarig jubileum tour - The Preacher Men",
@@ -5515,21 +5528,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
-    },
-    {
-      "title": "Sunday Live Jazz - Thijmen Schoute Trio - piano/bass/drums",
-      "url": "https://www.walhallacraftbeer.nl/events/",
-      "startDate": "2026-10-11T16:00:00.000+02:00",
-      "venue": "Walhalla Brouwerij & Proeflokaal",
-      "id": "jazzin-feba899432ef013d",
-      "source": "jazzin",
-      "sourceName": "Jazzin' Amsterdam",
-      "categories": [
-        "live-music",
-        "jazz"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "Jazz op zondag feat. Miguel Martinez",
@@ -5543,7 +5542,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3702265,
       "lon": 4.8984411
     },
@@ -5560,7 +5559,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3834476,
       "lon": 4.8723709
     },
@@ -5577,25 +5576,9 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3752016,
       "lon": 4.9011422
-    },
-    {
-      "title": "The MezJam",
-      "url": "https://mezrab.nl/events/the-mezjam-2026-07-12-2026-08-09-2026-09-13-2026-10-11/",
-      "venue": "Mezrab",
-      "startDate": "2026-10-11T20:00:00",
-      "dateText": "Sun 11.10 | 20:00",
-      "id": "mezrab-7a5959736a3ef852",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
     },
     {
       "title": "RAVEL - Album release! - Feestconcert met Ensemble Lumaka: muziek van Ravel voor fluit, harp en strijktrio",
@@ -5610,7 +5593,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3698193,
       "lon": 4.9030343
     },
@@ -5630,7 +5613,7 @@
         "jazz",
         "classical"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3779694,
       "lon": 4.9128862
     },
@@ -5645,7 +5628,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.370111,
       "lon": 4.9009202
     },
@@ -5662,7 +5645,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3698193,
       "lon": 4.9030343
     },
@@ -5679,7 +5662,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3647777,
       "lon": 4.8810734
     },
@@ -5694,7 +5677,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3621554,
       "lon": 4.8837824
     },
@@ -5709,25 +5692,9 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3621554,
       "lon": 4.8837824
-    },
-    {
-      "title": "Off the Page",
-      "url": "https://mezrab.nl/events/off-the-page-2-2026-10-13/",
-      "venue": "Mezrab",
-      "startDate": "2026-10-13T20:00:00",
-      "dateText": "Tue 13.10 | 20:00",
-      "id": "mezrab-8e9ad76dd78bfb14",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
     },
     {
       "title": "Cochemea",
@@ -5740,7 +5707,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3837067,
       "lon": 4.9049297
     },
@@ -5757,7 +5724,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3779694,
       "lon": 4.9128862
     },
@@ -5775,7 +5742,7 @@
         "live-music",
         "film-media"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3647777,
       "lon": 4.8810734
     },
@@ -5790,25 +5757,9 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3621554,
       "lon": 4.8837824
-    },
-    {
-      "title": "Open Stage Storytelling Night",
-      "url": "https://mezrab.nl/events/open-stage-storytelling-night-2-2025-12-24-2026-07-01-2026-07-08-2026-07-15-2026-07-22-2026-07-29-2026-08-05-2026-08-12-2026-08-19-2026-08-26-2026-09-02-2026-09-09-2026-09-16-2026-09-23-07-2026-10-14/",
-      "venue": "Mezrab",
-      "startDate": "2026-10-14T20:00:00",
-      "dateText": "Wed 14.10 | 20:00",
-      "id": "mezrab-23dd4796508fb849",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
     },
     {
       "title": "Peter Evans solo",
@@ -5823,7 +5774,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3779694,
       "lon": 4.9128862
     },
@@ -5839,24 +5790,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
-    },
-    {
-      "title": "Florian Zenker & Santiago Cimadevilla - Elektrische gitaar, bandoneon en effecten",
-      "url": "https://splendoramsterdam.com/agenda/111699304/florian-zenker-santiago-cimadevilla",
-      "startDate": "2026-10-15T20:00:00.000+02:00",
-      "venue": "Splendor",
-      "price": "17",
-      "isFree": false,
-      "id": "jazzin-809ebe919abaf728",
-      "source": "jazzin",
-      "sourceName": "Jazzin' Amsterdam",
-      "categories": [
-        "live-music"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3698193,
-      "lon": 4.9030343
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "Jazzy Thursdays with LIUKE ft. Sofiya Astapiuk",
@@ -5869,7 +5803,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3691458,
       "lon": 4.8950558
     },
@@ -5884,7 +5818,24 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
+    },
+    {
+      "title": "Florian Zenker & Santiago Cimadevilla - Elektrische gitaar, bandoneon en effecten",
+      "url": "https://splendoramsterdam.com/agenda/111699304/florian-zenker-santiago-cimadevilla",
+      "startDate": "2026-10-15T20:00:00.000+02:00",
+      "venue": "Splendor",
+      "price": "17",
+      "isFree": false,
+      "id": "jazzin-809ebe919abaf728",
+      "source": "jazzin",
+      "sourceName": "Jazzin' Amsterdam",
+      "categories": [
+        "live-music"
+      ],
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
+      "lat": 52.3698193,
+      "lon": 4.9030343
     },
     {
       "title": "corto.alto",
@@ -5897,7 +5848,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3837067,
       "lon": 4.9049297
     },
@@ -5914,7 +5865,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3779694,
       "lon": 4.9128862
     },
@@ -5932,25 +5883,9 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3834476,
       "lon": 4.8723709
-    },
-    {
-      "title": "Tasos Kofodimos & Yvonne Melissa w/ Mahyar Tahmasbi, Laia Escartin ★ Kormós album release ★ Magic Carpet Sessions ♫",
-      "url": "https://mezrab.nl/events/kormos-albumrelease/",
-      "venue": "Mezrab",
-      "startDate": "2026-10-15T21:00:00",
-      "dateText": "Thu 15.10 | 21:00",
-      "id": "mezrab-0d732ffe53e2fc2a",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
     },
     {
       "sourceId": "whistler-dandy-and-disruptor",
@@ -5970,42 +5905,9 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3583673,
       "lon": 4.88109
-    },
-    {
-      "title": "Myles Sanko",
-      "url": "https://www.melkweg.nl/en/agenda/myles-sanko-16-10-2026/",
-      "startDate": "2026-10-16T19:30:00.000+02:00",
-      "venue": "Melkweg",
-      "price": "29.9",
-      "isFree": false,
-      "id": "jazzin-a46d44a738e660d4",
-      "source": "jazzin",
-      "sourceName": "Jazzin' Amsterdam",
-      "categories": [
-        "live-music"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3647777,
-      "lon": 4.8810734
-    },
-    {
-      "title": "Mezrab Friday Night Storytelling",
-      "url": "https://mezrab.nl/events/mezrab-friday-night-storytelling-2-2026-07-03-2026-07-10-2026-07-17-2026-07-24-2026-07-31-2026-08-07-2026-08-14-2026-08-21-2026-08-28-2026-09-04-2026-09-11-2026-09-18-2026-09-25-2026-10-09-2026-10-16/",
-      "venue": "Mezrab",
-      "startDate": "2026-10-16T20:00:00",
-      "dateText": "Fri 16.10 | 20:00",
-      "id": "mezrab-ee2ffcbcf6c70c56",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
     },
     {
       "sourceId": "amsterdam-marathon",
@@ -6024,39 +5926,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
-    },
-    {
-      "title": "The ALT Mezrab Comedy Night",
-      "url": "https://mezrab.nl/events/the-alt-mezrab-comedy-night-29/",
-      "venue": "Mezrab",
-      "startDate": "2026-10-17T20:00:00",
-      "dateText": "Sat 17.10 | 20:00",
-      "id": "mezrab-e3556565656f6478",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
-    },
-    {
-      "title": "Balfolk Social in de Mezrab met Ragaeri en Celtic Constellation",
-      "url": "https://mezrab.nl/events/balfolk-social-in-de-mezrab-met-ragaeri-en-celtic-constellation/",
-      "venue": "Mezrab",
-      "startDate": "2026-10-18T16:15:00",
-      "dateText": "Sun 18.10 | 16:15",
-      "id": "mezrab-174a7fd59b5ef2c6",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "the-music-of-the-lord-of-the-rings",
@@ -6074,7 +5944,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "250A5E2A-52C1-4649-858E-4FCB3F461101",
@@ -6091,23 +5961,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
-    },
-    {
-      "title": "Samizdat: Stories from the Underground",
-      "url": "https://mezrab.nl/events/samizdat-stories-from-the-underground-2-2026-10-20/",
-      "venue": "Mezrab",
-      "startDate": "2026-10-20T20:00:00",
-      "dateText": "Tue 20.10 | 20:00",
-      "id": "mezrab-6dcda0f6f981c0af",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "amsterdam-dance-event",
@@ -6126,55 +5980,7 @@
       "categories": [
         "park-square"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
-    },
-    {
-      "title": "Open Stage Storytelling Night",
-      "url": "https://mezrab.nl/events/open-stage-storytelling-night-2-2025-12-24-2026-07-01-2026-07-08-2026-07-15-2026-07-22-2026-07-29-2026-08-05-2026-08-12-2026-08-19-2026-08-26-2026-09-02-2026-09-09-2026-09-16-2026-09-23-14-2026-10-21/",
-      "venue": "Mezrab",
-      "startDate": "2026-10-21T20:00:00",
-      "dateText": "Wed 21.10 | 20:00",
-      "id": "mezrab-9146ce17e21be060",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
-    },
-    {
-      "title": "Mezrab Friday Night Storytelling",
-      "url": "https://mezrab.nl/events/mezrab-friday-night-storytelling-2-2026-07-03-2026-07-10-2026-07-17-2026-07-24-2026-07-31-2026-08-07-2026-08-14-2026-08-21-2026-08-28-2026-09-04-2026-09-11-2026-09-18-2026-09-25-2026-10-16-2026-10-23/",
-      "venue": "Mezrab",
-      "startDate": "2026-10-23T20:00:00",
-      "dateText": "Fri 23.10 | 20:00",
-      "id": "mezrab-2a7e5664fd04ccbf",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
-    },
-    {
-      "title": "Addict Ameba Live + Baher ★ Afro-Latin ★ Salón Sonoro ♫",
-      "url": "https://mezrab.nl/events/addict-ameba-live/",
-      "venue": "Mezrab",
-      "startDate": "2026-10-24T21:00:00",
-      "dateText": "Sat 24.10 | 21:00",
-      "id": "mezrab-819316395ffd11fd",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "amf-amsterdam",
@@ -6192,39 +5998,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
-    },
-    {
-      "title": "Orchestre Partout Jam",
-      "url": "https://mezrab.nl/events/orchestre-partout-jam/",
-      "venue": "Mezrab",
-      "startDate": "2026-10-25T20:00:00",
-      "dateText": "Sun 25.10 | 20:00",
-      "id": "mezrab-e1bf5ca7ce5f762c",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
-    },
-    {
-      "title": "Mezrab Comedy Open Mic",
-      "url": "https://mezrab.nl/events/mezrab-comedy-open-mic-2-2026-09-28-2026-10-26/",
-      "venue": "Mezrab",
-      "startDate": "2026-10-26T20:00:00",
-      "dateText": "Mon 26.10 | 20:00",
-      "id": "mezrab-4b2ccbe42d987678",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "live-music"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "C0ED5FBB-46B4-4D1B-8A2F-81F50570AB43",
@@ -6241,55 +6015,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
-    },
-    {
-      "title": "Pearls on a String",
-      "url": "https://mezrab.nl/events/pearls-on-a-string-2026-02-24-2026-07-28-2026-08-25-2026-09-22-2026-10-27/",
-      "venue": "Mezrab",
-      "startDate": "2026-10-27T20:00:00",
-      "dateText": "Tue 27.10 | 20:00",
-      "id": "mezrab-8cd955f42a266707",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
-    },
-    {
-      "title": "Open Stage Storytelling Night",
-      "url": "https://mezrab.nl/events/open-stage-storytelling-night-2-2025-12-24-2026-07-01-2026-07-08-2026-07-15-2026-07-22-2026-07-29-2026-08-05-2026-08-12-2026-08-19-2026-08-26-2026-09-02-2026-09-09-2026-09-16-2026-09-23-21-2026-10-28/",
-      "venue": "Mezrab",
-      "startDate": "2026-10-28T20:00:00",
-      "dateText": "Wed 28.10 | 20:00",
-      "id": "mezrab-75544d73d797628d",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
-    },
-    {
-      "title": "Mezrab Friday Night Storytelling",
-      "url": "https://mezrab.nl/events/mezrab-friday-night-storytelling-2-2026-07-03-2026-07-10-2026-07-17-2026-07-24-2026-07-31-2026-08-07-2026-08-14-2026-08-21-2026-08-28-2026-09-04-2026-09-11-2026-09-18-2026-09-25-2026-10-23-2026-10-30/",
-      "venue": "Mezrab",
-      "startDate": "2026-10-30T20:00:00",
-      "dateText": "Fri 30.10 | 20:00",
-      "id": "mezrab-c7660f41a2ded40f",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "pan-amsterdam",
@@ -6308,7 +6034,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "E72257A1-F6C8-4BF4-B574-C837DAFEB03B",
@@ -6325,39 +6051,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
-    },
-    {
-      "title": "Mythos. Ancient tales from all around the world.",
-      "url": "https://mezrab.nl/events/mythos-ancient-tales-from-all-around-the-world-2026-07-07-2026-08-04-2026-09-01-2026-10-06-2026-11-03/",
-      "venue": "Mezrab",
-      "startDate": "2026-11-03T20:00:00",
-      "dateText": "Tue 3.11 | 20:00",
-      "id": "mezrab-1a3e6fd4f4b8b2c0",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
-    },
-    {
-      "title": "Open Stage Storytelling Night",
-      "url": "https://mezrab.nl/events/open-stage-storytelling-night-2-2025-12-24-2026-07-01-2026-07-08-2026-07-15-2026-07-22-2026-07-29-2026-08-05-2026-08-12-2026-08-19-2026-08-26-2026-09-02-2026-09-09-2026-09-16-2026-09-23-28-2026-11-04/",
-      "venue": "Mezrab",
-      "startDate": "2026-11-04T20:00:00",
-      "dateText": "Wed 4.11 | 20:00",
-      "id": "mezrab-19fa5def5f668294",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "the-amsterdam-storytelling-festival",
@@ -6376,39 +6070,7 @@
       "categories": [
         "park-square"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
-    },
-    {
-      "title": "Parviz + Helmar ★ Persian indie-funk ♫",
-      "url": "https://mezrab.nl/events/parviz/",
-      "venue": "Mezrab",
-      "startDate": "2026-11-05T20:30:00",
-      "dateText": "Thu 5.11 | 20:30",
-      "id": "mezrab-66a7eb4083beba5e",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "live-music"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
-    },
-    {
-      "title": "Mezrab Friday Night Storytelling",
-      "url": "https://mezrab.nl/events/mezrab-friday-night-storytelling-2-2026-07-03-2026-07-10-2026-07-17-2026-07-24-2026-07-31-2026-08-07-2026-08-14-2026-08-21-2026-08-28-2026-09-04-2026-09-11-2026-09-18-2026-09-25-2026-10-30-2026-11-06/",
-      "venue": "Mezrab",
-      "startDate": "2026-11-06T20:00:00",
-      "dateText": "Fri 6.11 | 20:00",
-      "id": "mezrab-bb637225242b3360",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "museum-night",
@@ -6426,23 +6088,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
-    },
-    {
-      "title": "The Original Mezrab Comedy Night",
-      "url": "https://mezrab.nl/events/the-original-mezrab-comedy-night-30/",
-      "venue": "Mezrab",
-      "startDate": "2026-11-07T20:00:00",
-      "dateText": "Sat 7.11 | 20:00",
-      "id": "mezrab-bade92dd3879af04",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "PolyDiner Amsterdam",
@@ -6458,25 +6104,9 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3730796,
       "lon": 4.8924534
-    },
-    {
-      "title": "The MezJam",
-      "url": "https://mezrab.nl/events/the-mezjam-2026-07-12-2026-08-09-2026-09-13-2026-10-11-2026-11-08/",
-      "venue": "Mezrab",
-      "startDate": "2026-11-08T20:00:00",
-      "dateText": "Sun 8.11 | 20:00",
-      "id": "mezrab-eb84f332de3488ea",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
     },
     {
       "sourceId": "C70BAD06-1B61-41B2-9849-393B9870AD9F",
@@ -6493,39 +6123,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
-    },
-    {
-      "title": "Off the Page",
-      "url": "https://mezrab.nl/events/off-the-page-2-2026-11-10/",
-      "venue": "Mezrab",
-      "startDate": "2026-11-10T20:00:00",
-      "dateText": "Tue 10.11 | 20:00",
-      "id": "mezrab-f67c099e32198edd",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
-    },
-    {
-      "title": "Open Stage Storytelling Night",
-      "url": "https://mezrab.nl/events/open-stage-storytelling-night-2-2025-12-24-2026-07-01-2026-07-08-2026-07-15-2026-07-22-2026-07-29-2026-08-05-2026-08-12-2026-08-19-2026-08-26-2026-09-02-2026-09-09-2026-09-16-2026-09-23-04-2026-11-11/",
-      "venue": "Mezrab",
-      "startDate": "2026-11-11T20:00:00",
-      "dateText": "Wed 11.11 | 20:00",
-      "id": "mezrab-3fa458af47d92158",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "idfa",
@@ -6544,55 +6142,7 @@
       "categories": [
         "film-media"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
-    },
-    {
-      "title": "Sercan Öztürk ★ Anatolian Roots ★ Magic Carpet Sessions ♫",
-      "url": "https://mezrab.nl/events/sercan-ozturk/",
-      "venue": "Mezrab",
-      "startDate": "2026-11-12T20:45:00",
-      "dateText": "Thu 12.11 | 20:45",
-      "id": "mezrab-63537b90b7ecb567",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
-    },
-    {
-      "title": "Mezrab Friday Night Storytelling",
-      "url": "https://mezrab.nl/events/mezrab-friday-night-storytelling-2-2026-07-03-2026-07-10-2026-07-17-2026-07-24-2026-07-31-2026-08-07-2026-08-14-2026-08-21-2026-08-28-2026-09-04-2026-09-11-2026-09-18-2026-09-25-2026-10-06-2026-11-13/",
-      "venue": "Mezrab",
-      "startDate": "2026-11-13T20:00:00",
-      "dateText": "Fri 13.11 | 20:00",
-      "id": "mezrab-4044c1f43aeb80e1",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
-    },
-    {
-      "title": "Beats Kebab ★ Babi & Katayoun ♫",
-      "url": "https://mezrab.nl/events/beatskebab/",
-      "venue": "Mezrab",
-      "startDate": "2026-11-14T21:30:00",
-      "dateText": "Sat 14.11 | 21:30",
-      "id": "mezrab-61d6e5273bb239a2",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "free-open-day-in-the-stedelijk",
@@ -6610,7 +6160,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "sinterklaas-arrival-parade",
@@ -6628,7 +6178,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "tribute-to-ludovico-einaudi",
@@ -6646,7 +6196,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "A8E7838C-2668-4E69-B3BE-2239DD6C295E",
@@ -6663,23 +6213,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
-    },
-    {
-      "title": "Samizdat: Stories from the Underground",
-      "url": "https://mezrab.nl/events/samizdat-stories-from-the-underground-2-2026-11-17/",
-      "venue": "Mezrab",
-      "startDate": "2026-11-17T20:00:00",
-      "dateText": "Tue 17.11 | 20:00",
-      "id": "mezrab-92d201935a4b70b7",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "amsterdam-art-week",
@@ -6698,39 +6232,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
-    },
-    {
-      "title": "Open Stage Storytelling Night",
-      "url": "https://mezrab.nl/events/open-stage-storytelling-night-2-2025-12-24-2026-07-01-2026-07-08-2026-07-15-2026-07-22-2026-07-29-2026-08-05-2026-08-12-2026-08-19-2026-08-26-2026-09-02-2026-09-09-2026-09-16-2026-09-23-11-2026-11-18/",
-      "venue": "Mezrab",
-      "startDate": "2026-11-18T20:00:00",
-      "dateText": "Wed 18.11 | 20:00",
-      "id": "mezrab-da39e640e5ccb6c5",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
-    },
-    {
-      "title": "Mezrab Friday Night Storytelling",
-      "url": "https://mezrab.nl/events/mezrab-friday-night-storytelling-2-2026-07-03-2026-07-10-2026-07-17-2026-07-24-2026-07-31-2026-08-07-2026-08-14-2026-08-21-2026-08-28-2026-09-04-2026-09-11-2026-09-18-2026-09-25-2026-10-13-2026-11-20/",
-      "venue": "Mezrab",
-      "startDate": "2026-11-20T20:00:00",
-      "dateText": "Fri 20.11 | 20:00",
-      "id": "mezrab-ed173bbaab50d357",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "g10-festival",
@@ -6749,55 +6251,7 @@
       "categories": [
         "park-square"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
-    },
-    {
-      "title": "The ALT Mezrab Comedy Night",
-      "url": "https://mezrab.nl/events/the-alt-mezrab-comedy-night-30/",
-      "venue": "Mezrab",
-      "startDate": "2026-11-21T20:00:00",
-      "dateText": "Sat 21.11 | 20:00",
-      "id": "mezrab-d8894c207ff810d5",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
-    },
-    {
-      "title": "Orchestre Partout Jam",
-      "url": "https://mezrab.nl/events/orchestre-partout-jam-6/",
-      "venue": "Mezrab",
-      "startDate": "2026-11-22T20:00:00",
-      "dateText": "Sun 22.11 | 20:00",
-      "id": "mezrab-c79c904cee0a7d46",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
-    },
-    {
-      "title": "Mezrab Comedy Open Mic",
-      "url": "https://mezrab.nl/events/mezrab-comedy-open-mic-2-2026-09-28-2026-10-26-2026-11-23/",
-      "venue": "Mezrab",
-      "startDate": "2026-11-23T20:00:00",
-      "dateText": "Mon 23.11 | 20:00",
-      "id": "mezrab-13574767420216f6",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "live-music"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "5690B152-91A3-4E38-8532-6B36250B2202",
@@ -6814,23 +6268,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
-    },
-    {
-      "title": "Pearls on a String",
-      "url": "https://mezrab.nl/events/pearls-on-a-string-2026-02-24-2026-07-28-2026-08-25-2026-09-22-2026-10-27-2026-11-24/",
-      "venue": "Mezrab",
-      "startDate": "2026-11-24T20:00:00",
-      "dateText": "Tue 24.11 | 20:00",
-      "id": "mezrab-7bd68381ef895a32",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "affordable-art-fair-amsterdam",
@@ -6849,39 +6287,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
-    },
-    {
-      "title": "Open Stage Storytelling Night",
-      "url": "https://mezrab.nl/events/open-stage-storytelling-night-2-2025-12-24-2026-07-01-2026-07-08-2026-07-15-2026-07-22-2026-07-29-2026-08-05-2026-08-12-2026-08-19-2026-08-26-2026-09-02-2026-09-09-2026-09-16-2026-09-23-18-2026-11-25/",
-      "venue": "Mezrab",
-      "startDate": "2026-11-25T20:00:00",
-      "dateText": "Wed 25.11 | 20:00",
-      "id": "mezrab-e5f2eac5b7d22a94",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
-    },
-    {
-      "title": "Club Amsterdam Klezmer ★ Amsterdam Klezmer Band & guests ♫",
-      "url": "https://mezrab.nl/events/clubamsterdamklezmer-band/",
-      "venue": "Mezrab",
-      "startDate": "2026-11-26T20:00:00",
-      "dateText": "Thu 26.11 | 20:00",
-      "id": "mezrab-1d0c2cc1b13fc52d",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "amsterdam-light-festival",
@@ -6900,23 +6306,7 @@
       "categories": [
         "park-square"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
-    },
-    {
-      "title": "Mezrab Friday Night Storytelling",
-      "url": "https://mezrab.nl/events/mezrab-friday-night-storytelling-2-2026-07-03-2026-07-10-2026-07-17-2026-07-24-2026-07-31-2026-08-07-2026-08-14-2026-08-21-2026-08-28-2026-09-04-2026-09-11-2026-09-18-2026-09-25-2026-10-20-2026-11-27/",
-      "venue": "Mezrab",
-      "startDate": "2026-11-27T20:00:00",
-      "dateText": "Fri 27.11 | 20:00",
-      "id": "mezrab-b8c2da48d56671e3",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "the-spirit-of-amsterdam",
@@ -6935,23 +6325,7 @@
       "categories": [
         "clubbing-electronic"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
-    },
-    {
-      "title": "Tell, then show! – our storytelling jam",
-      "url": "https://mezrab.nl/events/tell-then-show-our-storytelling-jam-6/",
-      "venue": "Mezrab",
-      "startDate": "2026-11-29T20:00:00",
-      "dateText": "Sun 29.11 | 20:00",
-      "id": "mezrab-17e4ac8cfb128190",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "the-world-of-john-williams",
@@ -6969,7 +6343,7 @@
       "categories": [
         "film-media"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "41639297-DC8A-4FFD-97CD-4CF14129646F",
@@ -6986,87 +6360,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
-    },
-    {
-      "title": "Mythos. Ancient tales from all around the world.",
-      "url": "https://mezrab.nl/events/mythos-ancient-tales-from-all-around-the-world-2026-07-07-2026-08-04-2026-09-01-2026-10-06-2026-11-03-2026-12-01/",
-      "venue": "Mezrab",
-      "startDate": "2026-12-01T20:00:00",
-      "dateText": "Tue 1.12 | 20:00",
-      "id": "mezrab-2b44c09b05a0ff55",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
-    },
-    {
-      "title": "Open Stage Storytelling Night",
-      "url": "https://mezrab.nl/events/open-stage-storytelling-night-2-2025-12-24-2026-07-01-2026-07-08-2026-07-15-2026-07-22-2026-07-29-2026-08-05-2026-08-12-2026-08-19-2026-08-26-2026-09-02-2026-09-09-2026-09-16-2026-09-23-25-2026-12-02/",
-      "venue": "Mezrab",
-      "startDate": "2026-12-02T20:00:00",
-      "dateText": "Wed 2.12 | 20:00",
-      "id": "mezrab-19c10138bf89da79",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
-    },
-    {
-      "title": "Banda Entopica ★ Salón Sonoro ♫",
-      "url": "https://mezrab.nl/events/banda-entopica/",
-      "venue": "Mezrab",
-      "startDate": "2026-12-03T21:00:00",
-      "dateText": "Thu 3.12 | 21:00",
-      "id": "mezrab-e5f5d4ac954a321a",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
-    },
-    {
-      "title": "Mezrab Friday Night Storytelling",
-      "url": "https://mezrab.nl/events/mezrab-friday-night-storytelling-2-2026-07-03-2026-07-10-2026-07-17-2026-07-24-2026-07-31-2026-08-07-2026-08-14-2026-08-21-2026-08-28-2026-09-04-2026-09-11-2026-09-18-2026-09-25-2026-10-27-2026-12-04/",
-      "venue": "Mezrab",
-      "startDate": "2026-12-04T20:00:00",
-      "dateText": "Fri 4.12 | 20:00",
-      "id": "mezrab-beaee75b52150aa4",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
-    },
-    {
-      "title": "The Original Mezrab Comedy Night",
-      "url": "https://mezrab.nl/events/the-original-mezrab-comedy-night-31/",
-      "venue": "Mezrab",
-      "startDate": "2026-12-05T20:00:00",
-      "dateText": "Sat 5.12 | 20:00",
-      "id": "mezrab-0a918737aebe36e3",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "hayao-miyazaki-s-dreams",
@@ -7084,7 +6378,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "1D0DE59B-F60A-4751-87B4-B169CAD210AF",
@@ -7101,55 +6395,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
-    },
-    {
-      "title": "Off the Page",
-      "url": "https://mezrab.nl/events/off-the-page-2-2026-12-08/",
-      "venue": "Mezrab",
-      "startDate": "2026-12-08T20:00:00",
-      "dateText": "Tue 8.12 | 20:00",
-      "id": "mezrab-4bf83c29f0f6da2b",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
-    },
-    {
-      "title": "Open Stage Storytelling Night",
-      "url": "https://mezrab.nl/events/open-stage-storytelling-night-2-2025-12-24-2026-07-01-2026-07-08-2026-07-15-2026-07-22-2026-07-29-2026-08-05-2026-08-12-2026-08-19-2026-08-26-2026-09-02-2026-09-09-2026-09-16-2026-09-23-02-2026-12-09/",
-      "venue": "Mezrab",
-      "startDate": "2026-12-09T20:00:00",
-      "dateText": "Wed 9.12 | 20:00",
-      "id": "mezrab-097ad0fc5bd863e5",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
-    },
-    {
-      "title": "LGBTQ+ Stories",
-      "url": "https://mezrab.nl/events/lgbtq-stories-4/",
-      "venue": "Mezrab",
-      "startDate": "2026-12-10T20:00:00",
-      "dateText": "Thu 10.12 | 20:00",
-      "id": "mezrab-8c61b53c90ac00b7",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "the-music-of-the-lord-of-the-rings",
@@ -7167,7 +6413,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "the-nutcracker-and-the-mouse-king",
@@ -7186,7 +6432,7 @@
       "categories": [
         "opera-ballet"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "het-amsterdamse-winterparadijs",
@@ -7206,23 +6452,7 @@
         "park-square",
         "film-media"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
-    },
-    {
-      "title": "The MezJam",
-      "url": "https://mezrab.nl/events/the-mezjam-2026-07-12-2026-08-09-2026-09-13-2026-10-11-2026-11-08-2026-12-13/",
-      "venue": "Mezrab",
-      "startDate": "2026-12-13T20:00:00",
-      "dateText": "Sun 13.12 | 20:00",
-      "id": "mezrab-a31265d07fe20ffe",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "world-christmas-circus",
@@ -7241,7 +6471,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "title": "Poly Kerstdiner Amsterdam",
@@ -7257,25 +6487,9 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
+      "scrapedAt": "2026-09-18T10:55:35.013Z",
       "lat": 52.3730796,
       "lon": 4.8924534
-    },
-    {
-      "title": "The ALT Mezrab Comedy Night",
-      "url": "https://mezrab.nl/events/the-alt-mezrab-comedy-night-31/",
-      "venue": "Mezrab",
-      "startDate": "2026-12-19T20:00:00",
-      "dateText": "Sat 19.12 | 20:00",
-      "id": "mezrab-bd50b8aab56caa20",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
     },
     {
       "sourceId": "holiday-on-ice",
@@ -7294,7 +6508,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "chopin-champagne",
@@ -7312,23 +6526,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
-    },
-    {
-      "title": "The Original Mezrab Comedy Night",
-      "url": "https://mezrab.nl/events/the-original-mezrab-comedy-night-32/",
-      "venue": "Mezrab",
-      "startDate": "2027-01-02T20:00:00",
-      "dateText": "Sat 2.01 | 20:00",
-      "id": "mezrab-bf65796812a3c0b6",
-      "source": "mezrab",
-      "sourceName": "Mezrab",
-      "categories": [
-        "other"
-      ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z",
-      "lat": 52.3760018,
-      "lon": 4.9275854
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "1F78973A-9C8A-47E8-9CFE-878E90732E47",
@@ -7345,7 +6543,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     },
     {
       "sourceId": "amsterdam-sculpture-biennial-artzuid",
@@ -7364,7 +6562,7 @@
       "categories": [
         "park-square"
       ],
-      "scrapedAt": "2026-09-18T04:05:04.469Z"
+      "scrapedAt": "2026-09-18T10:55:35.013Z"
     }
   ]
 }
