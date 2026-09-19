@@ -53,6 +53,10 @@
     "lon": 4.9384292
   },
   "Cafe Conrad": null,
+  "Café Czaar": {
+    "lat": 52.3718403,
+    "lon": 4.9318027
+  },
   "Café de Engelbewaarder": {
     "lat": 52.3702265,
     "lon": 4.8984411
@@ -381,6 +385,10 @@
     "lat": 52.3651443,
     "lon": 4.9359029
   },
+  "Studio/K": {
+    "lat": 52.3651487,
+    "lon": 4.9361459
+  },
   "Takland": null,
   "Technologia Incognita": {
     "lat": 52.34557,
@@ -448,6 +456,7 @@
     "lon": 4.8839863
   },
   "WIHH (former bank)": null,
+  "Wijn Proeverij Festivino Oost - Qfactory - Oost Poort": null,
   "Zaal 100": {
     "lat": 52.3830202,
     "lon": 4.8780599
