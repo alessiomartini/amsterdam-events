@@ -463,6 +463,10 @@ re-run the same debug-fetch workflow against `main` to get fresh HTML and
 fix the one file in `src/scrapers/` that broke — nothing else in the
 pipeline (types, categorization, dedup, frontend) needs to change.
 
+See `FUTURE-ARCHITECTURE.md` for known issues (a Windows-only `npm run
+build` bug), dependency notes, and an undecided idea about a user
+notes/feedback widget.
+
 ### Extending
 
 - **Add a source**: create `src/scrapers/<name>.ts` exporting
