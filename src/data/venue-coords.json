@@ -23,6 +23,7 @@
     "lat": 52.3730796,
     "lon": 4.8924534
   },
+  "Amsterdam Blue Dock, CvA": null,
   "Art Singel 100": {
     "lat": 52.3672993,
     "lon": 4.8905683
@@ -281,6 +282,10 @@
   "Museumplein": {
     "lat": 52.3572706,
     "lon": 4.8815398
+  },
+  "Muziekgebouw": {
+    "lat": 52.3782711,
+    "lon": 4.9131079
   },
   "Nassaukerk": {
     "lat": 52.3826878,
