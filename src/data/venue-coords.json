@@ -146,6 +146,10 @@
     "lat": 52.3612779,
     "lon": 4.8967933
   },
+  "De Groene Olifant": {
+    "lat": 52.3640109,
+    "lon": 4.9200038
+  },
   "De Hoek": null,
   "De KHL": {
     "lat": 52.3740065,
@@ -226,6 +230,7 @@
     "lon": 4.8845183
   },
   "Jazzcafé Nieuwe Meer Aalsmeer": null,
+  "Jazzcafé NieuweMeer Aalsmeer": null,
   "Jewish Museum": {
     "lat": 52.3671491,
     "lon": 4.9037833
@@ -461,6 +466,10 @@
     "lon": 4.9117913
   },
   "Vondelbunker": null,
+  "Vondelpark, Amsterdam": {
+    "lat": 52.3571974,
+    "lon": 4.864119
+  },
   "Vrankrijk": {
     "lat": 52.3716913,
     "lon": 4.8892221
@@ -478,5 +487,6 @@
   },
   "ZO Jazz Stage": null,
   "ZOJazz Stage": null,
-  "ZOJazz Stage • Horeca & foyer": null
+  "ZOJazz Stage • Horeca & foyer": null,
+  "ZOJazzstage": null
 }
