@@ -136,6 +136,10 @@
     "lat": 52.3612541,
     "lon": 4.8647593
   },
+  "Dam square, Amsterdam": {
+    "lat": 52.3731162,
+    "lon": 4.8923511
+  },
   "De Boule de Boule": null,
   "De Boule De Boule": null,
   "De Ceuvel": {
@@ -254,6 +258,7 @@
     "lat": 52.3723138,
     "lon": 4.8811439
   },
+  "Lola Lieven": null,
   "Manhattan Lounge Bar": {
     "lat": 52.3356057,
     "lon": 4.8747611
@@ -263,6 +268,7 @@
     "lat": 52.3647777,
     "lon": 4.8810734
   },
+  "Metro Weesperplein": null,
   "Mezrab": {
     "lat": 52.3760018,
     "lon": 4.9275854
@@ -378,6 +384,10 @@
     "lat": 52.3698193,
     "lon": 4.9030343
   },
+  "Spui, Amsterdam": {
+    "lat": 52.3687817,
+    "lon": 4.889683
+  },
   "SPUI25": null,
   "Spuistraat 5, Amsterdam": {
     "lat": 52.3769262,
@@ -476,6 +486,10 @@
     "lon": 4.8892221
   },
   "Walhalla Brouwerij & Proeflokaal": null,
+  "Westergasbrug": {
+    "lat": 52.3856313,
+    "lon": 4.8748435
+  },
   "Westerkerk": {
     "lat": 52.3745473,
     "lon": 4.8839863
