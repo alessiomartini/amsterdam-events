@@ -181,6 +181,7 @@
   "Dokhuis": null,
   "Dokhuis Galerie": null,
   "Dokzaal": null,
+  "Dokzaal &#038; Dokhuis galerie": null,
   "Dutch National Opera & Ballet": {
     "lat": 52.3674313,
     "lon": 4.9012206
@@ -334,6 +335,10 @@
     "lat": 52.354338,
     "lon": 4.8553367
   },
+  "Oedipus Brewing": {
+    "lat": 52.3852252,
+    "lon": 4.9236797
+  },
   "Op de brug": null,
   "OT301": {
     "lat": 52.3601403,
@@ -380,6 +385,7 @@
     "lon": 4.8887335
   },
   "Schuilkerk De Hoop": null,
+  "Secret Location": null,
   "Singer Laren": null,
   "Sociëteit de Kring": null,
   "Sociëteit Ramses Shaffy Huis": null,
