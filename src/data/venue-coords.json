@@ -43,6 +43,7 @@
     "lat": 52.3779694,
     "lon": 4.9128862
   },
+  "Bimhuis Café": null,
   "Boedapest": null,
   "Boekhandel van Noord": {
     "lat": 52.3989436,
@@ -71,6 +72,10 @@
   "Café de Muurbloem": {
     "lat": 52.3742031,
     "lon": 4.8776939
+  },
+  "Café de nieuwe vaart": {
+    "lat": 52.3679161,
+    "lon": 4.9254834
   },
   "Café de Pianist": {
     "lat": 52.3834476,
@@ -168,6 +173,10 @@
   "De Nieuwe Kerk": {
     "lat": 52.3644876,
     "lon": 4.9075933
+  },
+  "De Nieuwe Vaart": {
+    "lat": 52.367983,
+    "lon": 4.9510437
   },
   "De Roode Bioscoop": null,
   "De Roode Remise": null,
@@ -353,6 +362,10 @@
     "lat": 52.378619,
     "lon": 4.8836352
   },
+  "Piet de Gruyter": {
+    "lat": 52.3845876,
+    "lon": 4.8752718
+  },
   "Plantage Dok": null,
   "Plofhuis7 (Weesp)": null,
   "Podium Genieten": {
@@ -387,6 +400,10 @@
   "Schuilkerk De Hoop": null,
   "Secret Location": null,
   "Singer Laren": null,
+  "Snob Amsterdam": {
+    "lat": 52.3650998,
+    "lon": 4.8961108
+  },
   "Sociëteit de Kring": null,
   "Sociëteit Ramses Shaffy Huis": null,
   "Spare Key": null,
@@ -417,6 +434,7 @@
   },
   "Stone’s Leidseplein": null,
   "Stones Cafe Leidseplein": null,
+  "Stones Café Leidseplein": null,
   "STRAAT Museum": {
     "lat": 52.4019462,
     "lon": 4.8938542
