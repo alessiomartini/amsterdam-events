@@ -13,6 +13,10 @@
     "lat": 52.3841398,
     "lon": 4.9029914
   },
+  "A Lab Amsterdam": {
+    "lat": 52.3841398,
+    "lon": 4.9029914
+  },
   "ADM Noord/Het Groene Veld": null,
   "Allard Pierson": {
     "lat": 52.3688053,
@@ -216,6 +220,7 @@
   "Grachtenmuseum": null,
   "Greene Room": null,
   "Groot Bijlmerplein": null,
+  "Hans Brinker Bar": null,
   "Het Concertgebouw": {
     "lat": 52.3556688,
     "lon": 4.8796756
@@ -538,6 +543,7 @@
     "lon": 4.8780599
   },
   "ZO Jazz Stage": null,
+  "ZOjazz Stage": null,
   "ZOJazz Stage": null,
   "ZOJazz Stage • Horeca & foyer": null,
   "ZOJazzstage": null
