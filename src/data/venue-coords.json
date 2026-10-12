@@ -279,6 +279,7 @@
     "lat": 52.3723138,
     "lon": 4.8811439
   },
+  "LIMINAL, Amsterdam": null,
   "Lola Lieven": null,
   "Manhattan Lounge Bar": {
     "lat": 52.3356057,
@@ -330,6 +331,10 @@
     "lon": 4.8770408
   },
   "NDSM shipyard": null,
+  "Nieuw en Meer": {
+    "lat": 52.329931,
+    "lon": 4.8120253
+  },
   "NieuwLand": null,
   "OBA • Bijlmerplein": {
     "lat": 52.3153892,
