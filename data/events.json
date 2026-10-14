@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T22:28:17.593Z",
+  "generatedAt": "2026-10-14T04:21:09.129Z",
   "count": 448,
   "events": [
     {
@@ -23,7 +23,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3688053,
       "lon": 4.8930549
     },
@@ -47,7 +47,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Pink Dance's dance",
@@ -72,7 +72,7 @@
       "categories": [
         "park-square"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Exhibition: the ESSENCE",
@@ -95,7 +95,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.4019462,
       "lon": 4.8938542
     },
@@ -118,7 +118,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Exhibition Worn in the Rijksmuseum",
@@ -141,7 +141,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3598431,
       "lon": 4.8850395
     },
@@ -166,7 +166,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3989436,
       "lon": 4.9366003
     },
@@ -191,7 +191,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3533479,
       "lon": 4.9063152
     },
@@ -216,7 +216,7 @@
         "park-square",
         "free-entry"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Lunchconcerten in de Westerkerk",
@@ -241,7 +241,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3745473,
       "lon": 4.8839863
     },
@@ -265,7 +265,7 @@
       "categories": [
         "park-square"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.395648,
       "lon": 4.8753577
     },
@@ -289,7 +289,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.360094,
       "lon": 4.882086
     },
@@ -311,7 +311,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "sourceId": "flamingos-and-spoonbills",
@@ -327,7 +327,7 @@
         "park-square",
         "free-entry"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "sourceId": "melkweg-expo",
@@ -343,7 +343,7 @@
         "free-entry",
         "free-museum"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "sourceId": "rijksmuseum-gardens",
@@ -358,7 +358,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "sourceId": "lunchtime-concerts",
@@ -373,7 +373,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "sourceId": "vondelpark-open-air-theater",
@@ -389,7 +389,7 @@
         "park-square",
         "free-entry"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "sourceId": "civic-guards-gallery",
@@ -405,7 +405,7 @@
         "free-entry",
         "free-museum"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "sourceId": "yoga-class-in-the-park",
@@ -421,7 +421,7 @@
         "park-square",
         "free-entry"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "sourceId": "nemo-s-panorama-terrace",
@@ -436,7 +436,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "sourceId": "begijnhof",
@@ -451,7 +451,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "sourceId": "cross-the-ij-river-by-ferry",
@@ -466,7 +466,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "sourceId": "free-tour-of-amsterdam",
@@ -481,7 +481,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "sourceId": "free-organ-concert",
@@ -496,7 +496,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "sourceId": "friday-night-skate",
@@ -511,7 +511,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "sourceId": "amsterdam-city-archives",
@@ -526,7 +526,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "sourceId": "free-guided-diamond-tour",
@@ -541,7 +541,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "sourceId": "choral-evensong",
@@ -556,7 +556,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "sourceId": "free-jazz-session",
@@ -573,7 +573,7 @@
         "free-museum",
         "free-entry"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "sourceId": "botanic-garden-zuidas",
@@ -588,7 +588,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "sourceId": "musical-treat-during-lunch-break",
@@ -603,7 +603,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "sourceId": "andy-warhol-the-textiles",
@@ -622,7 +622,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "sourceId": "wish-me-well",
@@ -641,7 +641,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "sourceId": "fragments",
@@ -660,7 +660,7 @@
       "categories": [
         "clubbing-electronic"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3716809,
       "lon": 4.8866696
     },
@@ -681,7 +681,7 @@
       "categories": [
         "jazz"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "sourceId": "echoes-of-speed",
@@ -700,7 +700,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.369659,
       "lon": 4.87083
     },
@@ -720,7 +720,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3904885,
       "lon": 4.8737264
     },
@@ -741,7 +741,7 @@
       "categories": [
         "jazz"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.36456,
       "lon": 4.8923905
     },
@@ -762,7 +762,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3672993,
       "lon": 4.8905683
     },
@@ -782,7 +782,7 @@
       "categories": [
         "film-media"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "sourceId": "world-press-photo-exhibition-2026",
@@ -801,7 +801,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3644876,
       "lon": 4.9075933
     },
@@ -822,7 +822,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "sourceId": "kho-liang-ie-mid-century-modernist",
@@ -841,7 +841,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3579003,
       "lon": 4.8798598
     },
@@ -862,7 +862,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3676412,
       "lon": 4.8848369
     },
@@ -883,7 +883,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3598431,
       "lon": 4.8850395
     },
@@ -904,7 +904,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.360094,
       "lon": 4.882086
     },
@@ -925,7 +925,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3688053,
       "lon": 4.8930549
     },
@@ -946,7 +946,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3587165,
       "lon": 4.8819619
     },
@@ -966,7 +966,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3587165,
       "lon": 4.8819619
     },
@@ -987,7 +987,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3587165,
       "lon": 4.8819619
     },
@@ -1007,7 +1007,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "sourceId": "vondelpark-open-air-theater",
@@ -1024,7 +1024,7 @@
       "categories": [
         "park-square"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "sourceId": "electric-tram-museum-amsterdam",
@@ -1041,7 +1041,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "sourceId": "ajax-amsterdam-football-club",
@@ -1058,7 +1058,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "sourceId": "sinterklaasavond",
@@ -1075,7 +1075,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "sourceId": "the-music-of-harry-potter-by-mystery-ensemble",
@@ -1092,7 +1092,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "sourceId": "new-year-s-eve",
@@ -1109,7 +1109,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Lennox",
@@ -1123,7 +1123,7 @@
       "categories": [
         "opera-ballet"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3674313,
       "lon": 4.9012206
     },
@@ -1139,7 +1139,7 @@
       "categories": [
         "opera-ballet"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3674313,
       "lon": 4.9012206
     },
@@ -1155,7 +1155,7 @@
       "categories": [
         "opera-ballet"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3674313,
       "lon": 4.9012206
     },
@@ -1171,7 +1171,7 @@
       "categories": [
         "opera-ballet"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3674313,
       "lon": 4.9012206
     },
@@ -1189,7 +1189,7 @@
         "clubbing-electronic",
         "park-square"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Living Room Session: Music as Memory",
@@ -1204,7 +1204,7 @@
         "opera-ballet",
         "clubbing-electronic"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3674313,
       "lon": 4.9012206
     },
@@ -1220,7 +1220,7 @@
       "categories": [
         "opera-ballet"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3674313,
       "lon": 4.9012206
     },
@@ -1236,7 +1236,7 @@
       "categories": [
         "opera-ballet"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Uprising",
@@ -1250,7 +1250,7 @@
       "categories": [
         "opera-ballet"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3674313,
       "lon": 4.9012206
     },
@@ -1268,7 +1268,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "sourceId": "judy-chicago-revelations",
@@ -1288,7 +1288,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3671491,
       "lon": 4.9037833
     },
@@ -1305,7 +1305,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "DE WALLEN FESTIVAL",
@@ -1320,7 +1320,7 @@
       "categories": [
         "park-square"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "DE WALLEN FESTIVAL: JAZZ",
@@ -1336,7 +1336,7 @@
         "jazz",
         "park-square"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "QUEER BANDS",
@@ -1351,7 +1351,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "DJ TIL 2 AM (T.B.A.)",
@@ -1366,7 +1366,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "FLINTA DJ LINEUP (T.B.A)",
@@ -1381,7 +1381,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "T.B.A",
@@ -1396,7 +1396,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "GREASY GURLZ",
@@ -1411,7 +1411,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "T.B.A",
@@ -1426,7 +1426,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "sourceId": "amsterdam-fashion-week",
@@ -1445,7 +1445,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "sourceId": "dutch-theatre-festival",
@@ -1464,7 +1464,7 @@
       "categories": [
         "park-square"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "sourceId": "amsterdam-fringe-festival",
@@ -1483,7 +1483,7 @@
       "categories": [
         "park-square"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "DIEP: season kickoff — informal get-together",
@@ -1499,7 +1499,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "sourceId": "amsterdam-city-swim",
@@ -1517,7 +1517,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "DIEP Seminar: PK Mohanty",
@@ -1534,7 +1534,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "sourceId": "open-monumentendag",
@@ -1553,7 +1553,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "sourceId": "jordaan-festival",
@@ -1572,7 +1572,7 @@
       "categories": [
         "park-square"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "DIEP Seminar: Constantino Tsallis",
@@ -1589,7 +1589,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "sourceId": "nadav-kander-the-edge-of-things",
@@ -1609,7 +1609,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3639884,
       "lon": 4.8932631
     },
@@ -1630,7 +1630,7 @@
       "categories": [
         "park-square"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "sourceId": "dam-tot-damloop",
@@ -1649,7 +1649,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "DIEP Seminar: Deb Panja",
@@ -1666,7 +1666,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "sourceId": "experimentation",
@@ -1686,7 +1686,7 @@
       "categories": [
         "clubbing-electronic"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3693692,
       "lon": 4.9012497
     },
@@ -1706,7 +1706,7 @@
       "categories": [
         "park-square"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "sourceId": "ambacht-in-beeld-festival",
@@ -1726,7 +1726,7 @@
         "park-square",
         "film-media"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "sourceId": "the-best-of-adele",
@@ -1744,7 +1744,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Achter het masker van Hendrik Tollens",
@@ -1759,7 +1759,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "One Last Time",
@@ -1773,7 +1773,7 @@
         "sex-positive",
         "clubbing-electronic"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "sourceId": "afrovibes-festival",
@@ -1793,7 +1793,7 @@
         "park-square",
         "film-media"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Masdoelhak en Adriana: Indonesisch-Nederlandse postkoloniale herinnering, rekenschap en reconciliatie",
@@ -1808,7 +1808,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Omgekeerd oriëntalisme",
@@ -1823,7 +1823,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "The AI Blow-up. How the “Technology of the Future” turned into a political battleground",
@@ -1838,7 +1838,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "De stille strijd om Jeruzalem",
@@ -1853,7 +1853,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "De onvoorstelbare wereld van narcisme",
@@ -1868,7 +1868,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "sourceId": "flamenco-biennale",
@@ -1887,7 +1887,7 @@
       "categories": [
         "park-square"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "DIEP Seminar: Eric De Giuli",
@@ -1904,7 +1904,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Ongewenst, maar niet uitzetbaar",
@@ -1919,7 +1919,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "sourceId": "willem-de-kooning-at-work",
@@ -1939,7 +1939,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3598431,
       "lon": 4.8850395
     },
@@ -1956,7 +1956,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "sourceId": "grachtenrace",
@@ -1974,7 +1974,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "sourceId": "national-museum-week",
@@ -1993,7 +1993,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "sourceId": "cinekid-festival",
@@ -2013,22 +2013,7 @@
         "park-square",
         "film-media"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
-    },
-    {
-      "title": "Fat Freddy's Drop",
-      "url": "https://www.paradiso.nl/programma/fat-freddys-drop/2654374",
-      "startDate": "2026-10-13T19:30:00.000+02:00",
-      "venue": "Paradiso",
-      "id": "jazzin-4e81471698720e64",
-      "source": "jazzin",
-      "sourceName": "Jazzin' Amsterdam",
-      "categories": [
-        "live-music"
-      ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
-      "lat": 52.3621554,
-      "lon": 4.8837824
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Animals and Politics: The State, Authoritarianism and Multispecies Assemblies",
@@ -2043,76 +2028,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
-    },
-    {
-      "title": "Cochemea",
-      "url": "https://tolhuistuin.nl/evenementen/cochemea",
-      "startDate": "2026-10-13T20:30:00.000+02:00",
-      "venue": "Tolhuistuin",
-      "id": "jazzin-543cbfc3533a5c5c",
-      "source": "jazzin",
-      "sourceName": "Jazzin' Amsterdam",
-      "categories": [
-        "live-music"
-      ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
-      "lat": 52.3837067,
-      "lon": 4.9049297
-    },
-    {
-      "title": "Jazzcafé!",
-      "url": "https://zaal100.nl/event/impro-jazz-13-10-26/",
-      "startDate": "2026-10-13T21:00:00.000+02:00",
-      "venue": "Zaal 100",
-      "price": "5",
-      "isFree": false,
-      "id": "jazzin-34ad37560a9147fc",
-      "source": "jazzin",
-      "sourceName": "Jazzin' Amsterdam",
-      "categories": [
-        "live-music"
-      ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
-      "lat": 52.3830202,
-      "lon": 4.8780599
-    },
-    {
-      "title": "Elsa's trio met Inge Klinge (zang en contrabas) en Olaf Hoeks (sax)",
-      "url": "https://www.elsascafe.nl/",
-      "startDate": "2026-10-13T21:30:00.000+02:00",
-      "venue": "Elsa's Café",
-      "price": "Free",
-      "isFree": true,
-      "id": "jazzin-282fd8547b09c1ab",
-      "source": "jazzin",
-      "sourceName": "Jazzin' Amsterdam",
-      "categories": [
-        "live-music",
-        "free-entry"
-      ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
-      "lat": 52.3531732,
-      "lon": 4.9318944
-    },
-    {
-      "title": "Tuesday Jam",
-      "url": "https://www.bimhuis.nl/agenda/tuesday-jam-282/",
-      "startDate": "2026-10-13T22:00:00.000+02:00",
-      "venue": "Bimhuis",
-      "description": "Jam session with international, young and acclaimed talent at the cafe.",
-      "price": "free",
-      "isFree": false,
-      "id": "jazzin-7bf11ef4c701c6c1",
-      "source": "jazzin",
-      "sourceName": "Jazzin' Amsterdam",
-      "categories": [
-        "live-music",
-        "jazz"
-      ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
-      "lat": 52.3779694,
-      "lon": 4.9128862
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Free Lunchtime Concert: International Vocal Competition ’s-Hertogenbosch",
@@ -2125,7 +2041,7 @@
       "categories": [
         "classical"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3561982,
       "lon": 4.8790448
     },
@@ -2142,7 +2058,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Restaurant: Yayang",
@@ -2157,7 +2073,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3830202,
       "lon": 4.8780599
     },
@@ -2173,7 +2089,7 @@
       "categories": [
         "classical"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3561982,
       "lon": 4.8790448
     },
@@ -2189,7 +2105,7 @@
       "categories": [
         "classical"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3561982,
       "lon": 4.8790448
     },
@@ -2207,7 +2123,7 @@
         "live-music",
         "film-media"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3647777,
       "lon": 4.8810734
     },
@@ -2222,7 +2138,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3621554,
       "lon": 4.8837824
     },
@@ -2238,7 +2154,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -2256,7 +2172,7 @@
         "live-music",
         "free-entry"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3852252,
       "lon": 4.9236797
     },
@@ -2274,7 +2190,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3733744,
       "lon": 4.8812644
     },
@@ -2292,7 +2208,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3742031,
       "lon": 4.8776939
     },
@@ -2309,7 +2225,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3698193,
       "lon": 4.9030343
     },
@@ -2326,7 +2242,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Peter Evans solo | Terrie Ex solo",
@@ -2343,7 +2259,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3779694,
       "lon": 4.9128862
     },
@@ -2359,7 +2275,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Ólafur Arnalds - Falling Apart Together",
@@ -2373,7 +2289,7 @@
       "categories": [
         "classical"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3561982,
       "lon": 4.8790448
     },
@@ -2390,7 +2306,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Restaurant: Sisi & Sevgi koken",
@@ -2405,7 +2321,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3830202,
       "lon": 4.8780599
     },
@@ -2424,7 +2340,7 @@
         "live-music",
         "film-media"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Martin Fröst and Roland Pontinen: French music",
@@ -2438,7 +2354,7 @@
       "categories": [
         "classical"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3561982,
       "lon": 4.8790448
     },
@@ -2453,7 +2369,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3691458,
       "lon": 4.8950558
     },
@@ -2470,7 +2386,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Jazz Thursdays w/ Amsterdam Jazz Trio",
@@ -2486,7 +2402,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3537525,
       "lon": 4.9117913
     },
@@ -2503,7 +2419,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3698193,
       "lon": 4.9030343
     },
@@ -2520,7 +2436,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3830202,
       "lon": 4.8780599
     },
@@ -2537,7 +2453,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "corto.alto",
@@ -2550,7 +2466,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3837067,
       "lon": 4.9049297
     },
@@ -2569,7 +2485,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3779694,
       "lon": 4.9128862
     },
@@ -2587,7 +2503,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3834476,
       "lon": 4.8723709
     },
@@ -2604,7 +2520,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3830202,
       "lon": 4.8780599
     },
@@ -2620,7 +2536,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -2635,7 +2551,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3691458,
       "lon": 4.8950558
     },
@@ -2657,7 +2573,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3583673,
       "lon": 4.88109
     },
@@ -2678,7 +2594,7 @@
         "free-entry",
         "free-museum"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Children's Concert: Cello Cello plays OUD! (6+, Dutch spoken)",
@@ -2692,7 +2608,7 @@
       "categories": [
         "classical"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3561982,
       "lon": 4.8790448
     },
@@ -2707,7 +2623,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Myles Sanko",
@@ -2722,7 +2638,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3647777,
       "lon": 4.8810734
     },
@@ -2738,7 +2654,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -2755,7 +2671,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3840904,
       "lon": 4.8839824
     },
@@ -2770,7 +2686,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.374158,
       "lon": 4.8726931
     },
@@ -2787,7 +2703,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Friday Night Live ft. Linus Eppinger & mystery guest",
@@ -2800,7 +2716,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3691458,
       "lon": 4.8950558
     },
@@ -2815,7 +2731,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Broker's Bar Jazz Club: Mark Beebe + jam session",
@@ -2831,7 +2747,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Savine | extended Little Black Dress Tour 2026",
@@ -2846,7 +2762,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Orchestre Partout & New European Ensemble – A Ticket to Aleppo",
@@ -2863,7 +2779,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3779694,
       "lon": 4.9128862
     },
@@ -2880,7 +2796,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3834476,
       "lon": 4.8723709
     },
@@ -2897,7 +2813,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3772351,
       "lon": 4.9400694
     },
@@ -2918,7 +2834,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Stéphane Denève: Poulenc révisité",
@@ -2932,7 +2848,7 @@
       "categories": [
         "classical"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3561982,
       "lon": 4.8790448
     },
@@ -2948,7 +2864,7 @@
       "categories": [
         "classical"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3561982,
       "lon": 4.8790448
     },
@@ -2963,7 +2879,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3755725,
       "lon": 4.9007878
     },
@@ -2979,7 +2895,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3632009,
       "lon": 4.912678
     },
@@ -2995,7 +2911,7 @@
       "categories": [
         "classical"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3561982,
       "lon": 4.8790448
     },
@@ -3011,7 +2927,7 @@
       "categories": [
         "classical"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3561982,
       "lon": 4.8790448
     },
@@ -3026,7 +2942,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "The ALT Mezrab Comedy Night (HEADLINER: Rob Duncan - PRINTER OF THE YEAR)",
@@ -3040,7 +2956,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -3057,7 +2973,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3698193,
       "lon": 4.9030343
     },
@@ -3074,7 +2990,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3713859,
       "lon": 4.8946432
     },
@@ -3089,7 +3005,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3691458,
       "lon": 4.8950558
     },
@@ -3108,7 +3024,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3779694,
       "lon": 4.9128862
     },
@@ -3126,7 +3042,7 @@
         "live-music",
         "free-entry"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Vivaldi’s The Four Seasons with Noa Wildschut",
@@ -3140,7 +3056,7 @@
       "categories": [
         "classical"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3561982,
       "lon": 4.8790448
     },
@@ -3156,7 +3072,7 @@
       "categories": [
         "classical"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3561982,
       "lon": 4.8790448
     },
@@ -3174,7 +3090,7 @@
         "live-music",
         "free-entry"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Event | Kumpulan aan het IJ – Het kleurrijke moederland",
@@ -3187,7 +3103,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "L’Orchestre Jean LeJeune",
@@ -3203,7 +3119,7 @@
         "live-music",
         "free-entry"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3671973,
       "lon": 4.8828153
     },
@@ -3219,7 +3135,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Coen van Dam & Friends; JAZZ MESTREECH",
@@ -3235,7 +3151,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Jazzy Jewels & Classical Pearls - Cd-presentatie concert",
@@ -3251,7 +3167,7 @@
         "live-music",
         "classical"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3698193,
       "lon": 4.9030343
     },
@@ -3267,7 +3183,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3702265,
       "lon": 4.8984411
     },
@@ -3284,7 +3200,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3834476,
       "lon": 4.8723709
     },
@@ -3299,7 +3215,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3691458,
       "lon": 4.8950558
     },
@@ -3315,7 +3231,7 @@
         "live-music",
         "clubbing-electronic"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Orchestre Partout Jam",
@@ -3329,7 +3245,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -3346,7 +3262,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3713859,
       "lon": 4.8946432
     },
@@ -3363,7 +3279,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "price": "19",
       "lat": 52.3782711,
       "lon": 4.9131079
@@ -3384,7 +3300,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Societal Challenges around Post-Quantum Cryptography",
@@ -3399,7 +3315,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Over de domheid en andere essays",
@@ -3414,7 +3330,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Jam Session",
@@ -3427,7 +3343,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.37579,
       "lon": 4.9100473
     },
@@ -3446,7 +3362,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Mapping Data Work",
@@ -3461,7 +3377,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Rock ’n Roll Dansles met Gel",
@@ -3476,7 +3392,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3772351,
       "lon": 4.9400694
     },
@@ -3492,7 +3408,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -3509,7 +3425,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.354338,
       "lon": 4.8553367
     },
@@ -3527,7 +3443,7 @@
         "live-music",
         "free-entry"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3531732,
       "lon": 4.9318944
     },
@@ -3546,7 +3462,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3779694,
       "lon": 4.9128862
     },
@@ -3567,7 +3483,7 @@
       "categories": [
         "park-square"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Middle management science en poëzie",
@@ -3582,7 +3498,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Restaurant: Yayang",
@@ -3597,7 +3513,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3830202,
       "lon": 4.8780599
     },
@@ -3612,7 +3528,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Takuya Nakamura",
@@ -3627,7 +3543,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3647777,
       "lon": 4.8810734
     },
@@ -3643,7 +3559,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -3659,7 +3575,7 @@
         "live-music",
         "clubbing-electronic"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3698193,
       "lon": 4.9030343
     },
@@ -3676,7 +3592,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3830202,
       "lon": 4.8780599
     },
@@ -3695,7 +3611,7 @@
         "live-music",
         "film-media"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Oktopedians",
@@ -3710,7 +3626,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3830202,
       "lon": 4.8780599
     },
@@ -3727,7 +3643,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "ADE dinner show with SMANDEM.",
@@ -3740,7 +3656,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3691458,
       "lon": 4.8950558
     },
@@ -3755,7 +3671,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Grip op je energie: de wetenschap over vermoeidheid, motivatie en energiemanagement",
@@ -3770,7 +3686,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "RADIOHOP | Tomoki Sanders",
@@ -3787,7 +3703,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3779694,
       "lon": 4.9128862
     },
@@ -3805,7 +3721,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3834476,
       "lon": 4.8723709
     },
@@ -3822,7 +3738,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3556688,
       "lon": 4.8796756
     },
@@ -3837,7 +3753,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Anna Sollewijn & Chris Muller Duo",
@@ -3852,7 +3768,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3834476,
       "lon": 4.8723709
     },
@@ -3868,7 +3784,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -3885,7 +3801,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.354338,
       "lon": 4.8553367
     },
@@ -3904,7 +3820,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3779694,
       "lon": 4.9128862
     },
@@ -3919,7 +3835,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3691458,
       "lon": 4.8950558
     },
@@ -3934,7 +3850,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Law and the Politics of Diversity",
@@ -3949,7 +3865,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Balboa & Shag Party",
@@ -3964,7 +3880,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3772351,
       "lon": 4.9400694
     },
@@ -3981,7 +3897,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3834476,
       "lon": 4.8723709
     },
@@ -3997,7 +3913,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3632009,
       "lon": 4.912678
     },
@@ -4015,7 +3931,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "GoldFish",
@@ -4030,7 +3946,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3647777,
       "lon": 4.8810734
     },
@@ -4045,7 +3961,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "All Jazzed Up: Femke Mooren Quartet & Anne-Roos",
@@ -4060,7 +3976,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "ADE dinner show with Superweekend",
@@ -4073,7 +3989,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3691458,
       "lon": 4.8950558
     },
@@ -4091,7 +4007,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Brass Rave Unit | MANOLO | STORKEN",
@@ -4109,7 +4025,7 @@
         "clubbing-electronic",
         "jazz"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3779694,
       "lon": 4.9128862
     },
@@ -4125,7 +4041,7 @@
       "categories": [
         "jazz"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -4145,7 +4061,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Maarten Voortman Quartet",
@@ -4160,7 +4076,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "L’Orchestre Jean LeJeune",
@@ -4176,7 +4092,7 @@
         "live-music",
         "free-entry"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3716857,
       "lon": 4.8832208
     },
@@ -4191,7 +4107,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Pi Strijkkwartet",
@@ -4204,7 +4120,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3842727,
       "lon": 4.8887335
     },
@@ -4222,7 +4138,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Balfolk Social in de Mezrab met Ragaeri en Celtic Constellation",
@@ -4236,7 +4152,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -4252,7 +4168,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3702265,
       "lon": 4.8984411
     },
@@ -4271,7 +4187,7 @@
         "jazz",
         "free-entry"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3640109,
       "lon": 4.9200038
     },
@@ -4288,7 +4204,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3834476,
       "lon": 4.8723709
     },
@@ -4305,7 +4221,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.354338,
       "lon": 4.8553367
     },
@@ -4324,7 +4240,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3779694,
       "lon": 4.9128862
     },
@@ -4340,7 +4256,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -4359,7 +4275,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Rock ’n Roll Dansles met Gel",
@@ -4374,7 +4290,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3772351,
       "lon": 4.9400694
     },
@@ -4390,7 +4306,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -4407,7 +4323,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3556688,
       "lon": 4.8796756
     },
@@ -4425,7 +4341,7 @@
         "live-music",
         "free-entry"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3531732,
       "lon": 4.9318944
     },
@@ -4444,7 +4360,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3779694,
       "lon": 4.9128862
     },
@@ -4461,7 +4377,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3830202,
       "lon": 4.8780599
     },
@@ -4476,7 +4392,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Poly Stories | Shame en Guilt",
@@ -4492,7 +4408,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3730796,
       "lon": 4.8924534
     },
@@ -4509,7 +4425,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3647777,
       "lon": 4.8810734
     },
@@ -4525,7 +4441,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -4544,7 +4460,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3779694,
       "lon": 4.9128862
     },
@@ -4560,7 +4476,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "IMPRODECO • Sounding Dutch Coloniality",
@@ -4575,7 +4491,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Restaurant: Sisi & Sevgi koken",
@@ -4590,7 +4506,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3830202,
       "lon": 4.8780599
     },
@@ -4609,7 +4525,7 @@
         "live-music",
         "film-media"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Jazz Thursdays w/ Erik Verwey Trio",
@@ -4625,7 +4541,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3537525,
       "lon": 4.9117913
     },
@@ -4642,7 +4558,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3830202,
       "lon": 4.8780599
     },
@@ -4657,7 +4573,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3691458,
       "lon": 4.8950558
     },
@@ -4676,7 +4592,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3779694,
       "lon": 4.9128862
     },
@@ -4694,7 +4610,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3834476,
       "lon": 4.8723709
     },
@@ -4709,7 +4625,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3740065,
       "lon": 4.9363092
     },
@@ -4726,7 +4642,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Leo Bouwmeester",
@@ -4739,7 +4655,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Impromptu Jazz & Funk Jam",
@@ -4756,7 +4672,7 @@
         "jazz",
         "free-entry"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3566349,
       "lon": 4.931038
     },
@@ -4772,7 +4688,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -4790,7 +4706,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3812772,
       "lon": 4.8906092
     },
@@ -4807,7 +4723,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Friday Night Live ft. Egle Petrosiute",
@@ -4820,7 +4736,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3691458,
       "lon": 4.8950558
     },
@@ -4837,7 +4753,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3556688,
       "lon": 4.8796756
     },
@@ -4856,7 +4772,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3779694,
       "lon": 4.9128862
     },
@@ -4873,7 +4789,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3834476,
       "lon": 4.8723709
     },
@@ -4890,7 +4806,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3755725,
       "lon": 4.9007878
     },
@@ -4907,7 +4823,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3772351,
       "lon": 4.9400694
     },
@@ -4926,7 +4842,7 @@
       "categories": [
         "demonstration"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "IMPRODECO • Sounding Dutch Coloniality",
@@ -4941,7 +4857,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Lindy Hop Crash Course",
@@ -4956,7 +4872,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3772351,
       "lon": 4.9400694
     },
@@ -4972,7 +4888,7 @@
       "categories": [
         "jazz"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3779694,
       "lon": 4.9128862
     },
@@ -4987,7 +4903,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3779694,
       "lon": 4.9128862
     },
@@ -5002,7 +4918,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3782711,
       "lon": 4.9131079
     },
@@ -5018,7 +4934,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3632009,
       "lon": 4.912678
     },
@@ -5035,7 +4951,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "African Soundscapes",
@@ -5050,7 +4966,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3830202,
       "lon": 4.8780599
     },
@@ -5065,7 +4981,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Vinyl Night - Tom & Arne",
@@ -5078,7 +4994,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Hidden Jazz Club",
@@ -5094,7 +5010,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3812772,
       "lon": 4.8906092
     },
@@ -5109,7 +5025,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3691458,
       "lon": 4.8950558
     },
@@ -5129,7 +5045,7 @@
         "jazz",
         "classical"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3779694,
       "lon": 4.9128862
     },
@@ -5150,7 +5066,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Yurt Sessions - Verrassingsconcert",
@@ -5163,7 +5079,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3782711,
       "lon": 4.9131079
     },
@@ -5179,7 +5095,7 @@
       "categories": [
         "jazz"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3779694,
       "lon": 4.9128862
     },
@@ -5194,7 +5110,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3779694,
       "lon": 4.9128862
     },
@@ -5209,7 +5125,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Corinna & The Cosmopolitans play ‘Doris Day’",
@@ -5222,7 +5138,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3339743,
       "lon": 4.884209
     },
@@ -5239,7 +5155,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3830202,
       "lon": 4.8780599
     },
@@ -5257,7 +5173,7 @@
         "live-music",
         "free-entry"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3671973,
       "lon": 4.8828153
     },
@@ -5273,7 +5189,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3702265,
       "lon": 4.8984411
     },
@@ -5290,7 +5206,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3542912,
       "lon": 4.854033
     },
@@ -5310,7 +5226,7 @@
       "categories": [
         "film-media"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Chateau concert",
@@ -5323,7 +5239,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3842727,
       "lon": 4.8887335
     },
@@ -5343,7 +5259,7 @@
         "jazz",
         "classical"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3782711,
       "lon": 4.9131079
     },
@@ -5360,7 +5276,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3698193,
       "lon": 4.9030343
     },
@@ -5375,7 +5291,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "KHEMEIA (Singer-Songwriter / Jazz)",
@@ -5391,20 +5307,22 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Cellofest: Emir Cello, Kaan Yazici + Sander van Elferen",
       "url": "https://www.bimhuis.nl/agenda/01-nov-cellofest-emir-cello/",
       "startDate": "2026-11-01T22:00:00.000+01:00",
       "venue": "Bimhuis",
+      "description": "Rock, metal and Indonesian Keroncong.",
       "id": "jazzin-16209a7560614d98",
       "source": "jazzin",
       "sourceName": "Jazzin' Amsterdam",
       "categories": [
-        "live-music"
+        "live-music",
+        "jazz"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3779694,
       "lon": 4.9128862
     },
@@ -5419,7 +5337,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3779694,
       "lon": 4.9128862
     },
@@ -5434,7 +5352,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3779694,
       "lon": 4.9128862
     },
@@ -5449,7 +5367,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3782711,
       "lon": 4.9131079
     },
@@ -5464,7 +5382,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3779694,
       "lon": 4.9128862
     },
@@ -5481,7 +5399,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3782711,
       "lon": 4.9131079
     },
@@ -5496,7 +5414,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3779694,
       "lon": 4.9128862
     },
@@ -5515,7 +5433,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Yurt Sessions - Verrassingsconcert",
@@ -5528,7 +5446,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3782711,
       "lon": 4.9131079
     },
@@ -5545,7 +5463,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3772351,
       "lon": 4.9400694
     },
@@ -5561,7 +5479,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -5578,7 +5496,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3782711,
       "lon": 4.9131079
     },
@@ -5593,7 +5511,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.374158,
       "lon": 4.8726931
     },
@@ -5610,7 +5528,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3782711,
       "lon": 4.9131079
     },
@@ -5625,7 +5543,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3782711,
       "lon": 4.9131079
     },
@@ -5641,7 +5559,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -5658,7 +5576,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3556688,
       "lon": 4.8796756
     },
@@ -5679,7 +5597,7 @@
       "categories": [
         "park-square"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Masterclass: Giovanni Gnocchi",
@@ -5692,7 +5610,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3779694,
       "lon": 4.9128862
     },
@@ -5709,7 +5627,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3782711,
       "lon": 4.9131079
     },
@@ -5728,7 +5646,7 @@
         "live-music",
         "film-media"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "15 Jaar Bijlmer Got Talent • Het Tweedaagse Jubileum Festival!",
@@ -5742,7 +5660,7 @@
         "live-music",
         "park-square"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Cellofest: Common Features",
@@ -5755,7 +5673,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3779694,
       "lon": 4.9128862
     },
@@ -5770,7 +5688,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3691458,
       "lon": 4.8950558
     },
@@ -5787,7 +5705,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3556688,
       "lon": 4.8796756
     },
@@ -5803,7 +5721,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -5821,7 +5739,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3834476,
       "lon": 4.8723709
     },
@@ -5836,7 +5754,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.370111,
       "lon": 4.9009202
     },
@@ -5853,7 +5771,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3782711,
       "lon": 4.9131079
     },
@@ -5868,7 +5786,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3779694,
       "lon": 4.9128862
     },
@@ -5883,7 +5801,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3779694,
       "lon": 4.9128862
     },
@@ -5898,7 +5816,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3779694,
       "lon": 4.9128862
     },
@@ -5913,7 +5831,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3782711,
       "lon": 4.9131079
     },
@@ -5928,7 +5846,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "15 Jaar Bijlmer Got Talent • Het Tweedaagse Jubileum Festival!",
@@ -5942,7 +5860,7 @@
         "live-music",
         "park-square"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Mezrab Friday Night Storytelling",
@@ -5956,7 +5874,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -5974,7 +5892,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.378619,
       "lon": 4.8836352
     },
@@ -5991,7 +5909,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3782711,
       "lon": 4.9131079
     },
@@ -6006,7 +5924,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3779694,
       "lon": 4.9128862
     },
@@ -6023,7 +5941,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3834476,
       "lon": 4.8723709
     },
@@ -6040,7 +5958,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3772351,
       "lon": 4.9400694
     },
@@ -6057,7 +5975,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3782711,
       "lon": 4.9131079
     },
@@ -6077,7 +5995,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "De Vergelijking: Victor Julien-Laferrière",
@@ -6090,7 +6008,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3779694,
       "lon": 4.9128862
     },
@@ -6106,7 +6024,7 @@
         "live-music",
         "jazz"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.329931,
       "lon": 4.8120253
     },
@@ -6121,9 +6039,39 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3779694,
       "lon": 4.9128862
+    },
+    {
+      "title": "\"totally wired\" le guess who x antipode, occii, girls to the front, zalzala",
+      "url": "https://occii.org/events/totally-wired/",
+      "startDate": "2026-11-07T14:00:00.000+01:00",
+      "venue": "OCCII",
+      "price": "free",
+      "isFree": false,
+      "id": "jazzin-4b35d8ed9cfa3e71",
+      "source": "jazzin",
+      "sourceName": "Jazzin' Amsterdam",
+      "categories": [
+        "live-music"
+      ],
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
+      "lat": 52.354338,
+      "lon": 4.8553367
+    },
+    {
+      "title": "Nick van den Bos",
+      "url": "http://jazzfry.nl/",
+      "startDate": "2026-11-07T19:00:00.000+01:00",
+      "venue": "Café Parisius",
+      "id": "jazzin-5b190423d2bae02e",
+      "source": "jazzin",
+      "sourceName": "Jazzin' Amsterdam",
+      "categories": [
+        "live-music"
+      ],
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "The Original Mezrab Comedy Night",
@@ -6137,9 +6085,55 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
+    },
+    {
+      "title": "Sunflower & Guests - Album presentatie - Love letters",
+      "url": "https://splendoramsterdam.com/agenda/111678133/sunflower",
+      "startDate": "2026-11-07T20:00:00.000+01:00",
+      "venue": "Splendor",
+      "price": "15",
+      "isFree": false,
+      "id": "jazzin-dfd409ea4b4d9f3a",
+      "source": "jazzin",
+      "sourceName": "Jazzin' Amsterdam",
+      "categories": [
+        "live-music"
+      ],
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
+      "lat": 52.3698193,
+      "lon": 4.9030343
+    },
+    {
+      "title": "Groove Sessions with The ISO Trio",
+      "url": "https://contra.weticket.io/groove-sessions-with-the-iso-trio",
+      "startDate": "2026-11-07T20:00:00.000+01:00",
+      "venue": "Contra",
+      "id": "jazzin-8b34ed66d9c36ef7",
+      "source": "jazzin",
+      "sourceName": "Jazzin' Amsterdam",
+      "categories": [
+        "live-music"
+      ],
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
+      "lat": 52.3691458,
+      "lon": 4.8950558
+    },
+    {
+      "title": "Avant-Garde Jazz Series • By Sun-Mi Hong • ft. Kit Downes & Jeremy Viner • 1st Edition",
+      "url": "https://zojazz-stage.weticket.io/sun-mi-hong-sessions-1st-edition",
+      "startDate": "2026-11-07T20:00:00.000+01:00",
+      "venue": "ZOJazz Stage",
+      "id": "jazzin-044d54be89c00916",
+      "source": "jazzin",
+      "sourceName": "Jazzin' Amsterdam",
+      "categories": [
+        "live-music",
+        "jazz"
+      ],
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "PolyDiner Amsterdam",
@@ -6155,7 +6149,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3730796,
       "lon": 4.8924534
     },
@@ -6171,7 +6165,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -6189,7 +6183,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Persian language storytelling night",
@@ -6203,7 +6197,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -6222,7 +6216,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Off the Page",
@@ -6236,7 +6230,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -6252,7 +6246,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -6273,7 +6267,7 @@
       "categories": [
         "film-media"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Dok Night",
@@ -6290,7 +6284,7 @@
         "live-music",
         "film-media"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Sercan Öztürk ★ Anatolian Roots ★ Magic Carpet Sessions ♫",
@@ -6304,7 +6298,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -6320,7 +6314,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -6336,7 +6330,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -6356,7 +6350,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "sourceId": "sinterklaas-arrival-parade",
@@ -6374,7 +6368,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "sourceId": "tribute-to-ludovico-einaudi",
@@ -6392,7 +6386,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "sourceId": "A8E7838C-2668-4E69-B3BE-2239DD6C295E",
@@ -6409,7 +6403,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Samizdat: Stories from the Underground",
@@ -6423,7 +6417,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -6444,7 +6438,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Open Stage Storytelling Night",
@@ -6458,7 +6452,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -6474,7 +6468,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -6490,7 +6484,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -6508,7 +6502,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3730796,
       "lon": 4.8924534
     },
@@ -6529,7 +6523,7 @@
       "categories": [
         "park-square"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "The ALT Mezrab Comedy Night",
@@ -6543,7 +6537,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -6559,7 +6553,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -6575,7 +6569,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -6594,7 +6588,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Pearls on a String",
@@ -6608,7 +6602,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -6629,7 +6623,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Open Stage Storytelling Night",
@@ -6643,7 +6637,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -6659,7 +6653,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -6680,7 +6674,7 @@
       "categories": [
         "park-square"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Mezrab Friday Night Storytelling",
@@ -6694,7 +6688,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -6715,7 +6709,7 @@
       "categories": [
         "clubbing-electronic"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Tell, then show! – our storytelling jam",
@@ -6729,7 +6723,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -6749,7 +6743,7 @@
       "categories": [
         "film-media"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "sourceId": "41639297-DC8A-4FFD-97CD-4CF14129646F",
@@ -6766,7 +6760,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Mythos. Ancient tales from all around the world.",
@@ -6780,7 +6774,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -6796,7 +6790,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -6812,7 +6806,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -6828,7 +6822,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -6844,7 +6838,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -6864,7 +6858,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Persian language storytelling night",
@@ -6878,7 +6872,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -6897,7 +6891,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Off the Page",
@@ -6911,7 +6905,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -6927,7 +6921,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -6943,7 +6937,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -6959,7 +6953,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -6977,7 +6971,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3730796,
       "lon": 4.8924534
     },
@@ -6997,7 +6991,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "sourceId": "the-nutcracker-and-the-mouse-king",
@@ -7016,7 +7010,7 @@
       "categories": [
         "opera-ballet"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Cabaret Saalik presents Rābkah ★ Swana Sounds ★ Libyan food ★ Belly Dance ♫",
@@ -7030,7 +7024,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -7052,7 +7046,7 @@
         "park-square",
         "film-media"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Book Launch Rasha Hilwi",
@@ -7066,7 +7060,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -7082,7 +7076,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -7100,7 +7094,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3730796,
       "lon": 4.8924534
     },
@@ -7116,7 +7110,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -7132,7 +7126,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -7153,7 +7147,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Tarab Machine ★ Electrifying Middle Eastern Jazz & Rock ★ Magic Carpet Sessions ♫",
@@ -7167,7 +7161,7 @@
       "categories": [
         "jazz"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -7183,7 +7177,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -7201,7 +7195,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3730796,
       "lon": 4.8924534
     },
@@ -7217,7 +7211,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -7233,7 +7227,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -7249,7 +7243,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -7270,7 +7264,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Mezrab Friday Night Storytelling",
@@ -7284,7 +7278,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -7304,7 +7298,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Mezrab Comedy Open Mic",
@@ -7318,7 +7312,7 @@
       "categories": [
         "live-music"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -7334,7 +7328,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -7350,7 +7344,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -7366,7 +7360,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -7382,7 +7376,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -7398,7 +7392,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -7415,7 +7409,7 @@
       "categories": [
         "sex-positive"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "sourceId": "1F78973A-9C8A-47E8-9CFE-878E90732E47",
@@ -7432,7 +7426,7 @@
       "categories": [
         "free-entry"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     },
     {
       "title": "Mezrab at Verkadefabriek: Resistance",
@@ -7446,7 +7440,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -7462,7 +7456,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -7478,7 +7472,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -7494,7 +7488,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -7510,7 +7504,7 @@
       "categories": [
         "other"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z",
+      "scrapedAt": "2026-10-14T04:20:07.562Z",
       "lat": 52.3760018,
       "lon": 4.9275854
     },
@@ -7531,7 +7525,7 @@
       "categories": [
         "park-square"
       ],
-      "scrapedAt": "2026-10-13T22:28:11.609Z"
+      "scrapedAt": "2026-10-14T04:20:07.562Z"
     }
   ]
 }
