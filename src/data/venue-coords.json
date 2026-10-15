@@ -98,6 +98,10 @@
     "lon": 4.9001341
   },
   "Café Parisius": null,
+  "Cafe Quelle": {
+    "lat": 52.3618546,
+    "lon": 4.8647467
+  },
   "Café Quelle": {
     "lat": 52.3618546,
     "lon": 4.8647467
@@ -505,6 +509,7 @@
     "lat": 52.3610913,
     "lon": 4.9755155
   },
+  "Theatercafé de Richel": null,
   "Theatercafé De Richel": null,
   "Tolhuistuin": {
     "lat": 52.3837067,
