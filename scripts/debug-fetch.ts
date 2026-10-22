@@ -1,3 +1,4 @@
+import { fileURLToPath } from "node:url";
 import { mkdir, writeFile } from "node:fs/promises";
 import { fetchText } from "../src/lib/http.js";
 
@@ -32,7 +33,7 @@ const TARGETS: Record<string, string> = {
 };
 
 async function main() {
-  const outDir = new URL("../debug-html/", import.meta.url).pathname;
+  const outDir = fileURLToPath(new URL("../debug-html/", import.meta.url));
   await mkdir(outDir, { recursive: true });
 
   for (const [name, url] of Object.entries(TARGETS)) {

@@ -1,7 +1,8 @@
 import { readFile, writeFile } from "node:fs/promises";
 import type { Event } from "../types.js";
+import { fileURLToPath } from "node:url";
 
-const CACHE_PATH = new URL("../data/venue-coords.json", import.meta.url).pathname;
+const CACHE_PATH = fileURLToPath(new URL("../data/venue-coords.json", import.meta.url));
 const NOMINATIM_URL = "https://nominatim.openstreetmap.org/search";
 // Nominatim's usage policy (https://operations.osmfoundation.org/policies/nominatim/)
 // requires a descriptive User-Agent identifying the application (a generic
