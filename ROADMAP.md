@@ -8,7 +8,8 @@ Unico file per todo, idee, decisioni e diario, letto da Projects Overview
 ## Da fare
 - [x] Aggregazione da più fonti e sito statico filtrabile
 - [x] Aggiornamento automatico degli eventi
-- [ ] Sistemare `npm run build` su Windows
+- [x] Sistemare `npm run build` su Windows
+- [ ] Verificare `npm run build` sul checkout Windows
 - [ ] Decidere sul feedback centralizzato tra i siti
 
 ## Idee
@@ -67,7 +68,9 @@ fosse mai discussa).
 Ideas not yet decided, and work known to be half-done or broken. Read this
 before starting new work.
 
-### Known bug: `npm run build` fails on Windows
+### Known bug: `npm run build` fails on Windows (corretto il 2026-10-22)
+
+**Corretto il 2026-10-22**: tutti i percorsi costruiti con `new URL(..., import.meta.url).pathname` (`src/build-site.ts`, `src/scrape.ts`, `src/lib/geocode.ts`, `scripts/debug-fetch.ts`) ora usano `fileURLToPath()` da `node:url` (come bonus decodifica anche `%20`). Verificato solo su Linux (typecheck, test, build); da confermare sul checkout Windows. Sotto, la descrizione originale del bug.
 
 `src/build-site.ts` builds its source/destination paths with
 `new URL(..., import.meta.url).pathname`. On Windows that produces a path
@@ -125,6 +128,7 @@ transcribed/refreshed rather than auto-scraped and will silently go stale
 until someone refreshes them by hand.
 
 ## Log
+- 2026-10-22: 🤖 corretto `npm run build` su Windows usando `fileURLToPath()` al posto di `URL.pathname` (verificato solo su Linux)
 - 2026-10-19: installabile come app a sé dal telefono (manifest con nome, icona e perimetro propri)
 - 2026-10-18: FUTURE-ARCHITECTURE.md unito in ROADMAP.md (protocollo unico)
 - 2026-10-15: creata la roadmap per Projects Overview

@@ -1,9 +1,10 @@
+import { fileURLToPath } from "node:url";
 import { runAllScrapers } from "./scrapers/index.js";
 import { dedupe, toEvents } from "./lib/dedupe.js";
 import { geocodeEvents } from "./lib/geocode.js";
 import { writeEvents } from "./lib/store.js";
 
-const OUT_PATH = new URL("../data/events.json", import.meta.url).pathname;
+const OUT_PATH = fileURLToPath(new URL("../data/events.json", import.meta.url));
 
 async function main() {
   const scrapedAt = new Date().toISOString();

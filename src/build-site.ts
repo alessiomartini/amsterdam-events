@@ -1,11 +1,12 @@
 import { mkdir, copyFile, readdir } from "node:fs/promises";
 import { dirname, join } from "node:path";
+import { fileURLToPath } from "node:url";
 
-const SRC = new URL("../data/events.json", import.meta.url).pathname;
-const DEST = new URL("../web/data/events.json", import.meta.url).pathname;
+const SRC = fileURLToPath(new URL("../data/events.json", import.meta.url));
+const DEST = fileURLToPath(new URL("../web/data/events.json", import.meta.url));
 
-const LEAFLET_SRC = new URL("../node_modules/leaflet/dist", import.meta.url).pathname;
-const LEAFLET_DEST = new URL("../web/vendor/leaflet", import.meta.url).pathname;
+const LEAFLET_SRC = fileURLToPath(new URL("../node_modules/leaflet/dist", import.meta.url));
+const LEAFLET_DEST = fileURLToPath(new URL("../web/vendor/leaflet", import.meta.url));
 
 async function main() {
   await mkdir(dirname(DEST), { recursive: true });
