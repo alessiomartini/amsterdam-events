@@ -305,6 +305,10 @@
     "lon": 4.8747611
   },
   "MARIONETTEN THEATRE": null,
+  "Meervaart Theater": {
+    "lat": 52.3589481,
+    "lon": 4.8073957
+  },
   "Melkweg": {
     "lat": 52.3647777,
     "lon": 4.8810734
@@ -381,6 +385,10 @@
     "lon": 4.9236797
   },
   "Op de brug": null,
+  "Openbare Bibliotheek Amsterdam": {
+    "lat": 52.3399339,
+    "lon": 4.9432748
+  },
   "OT301": {
     "lat": 52.3601403,
     "lon": 4.8656923
