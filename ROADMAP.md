@@ -9,7 +9,7 @@ Unico file per todo, idee, decisioni e diario, letto da Projects Overview
 - [x] Aggregazione da più fonti e sito statico filtrabile
 - [x] Aggiornamento automatico degli eventi
 - [x] Sistemare `npm run build` su Windows
-- [ ] Verificare `npm run build` sul checkout Windows
+- [ ] Verificare su Windows il fix di `URL.pathname` → `fileURLToPath()` (`npm run build`)
 - [ ] Decidere sul feedback centralizzato tra i siti
 
 ## Idee
@@ -70,7 +70,7 @@ before starting new work.
 
 ### Known bug: `npm run build` fails on Windows (corretto il 2026-10-22)
 
-**Corretto il 2026-10-22**: tutti i percorsi costruiti con `new URL(..., import.meta.url).pathname` (`src/build-site.ts`, `src/scrape.ts`, `src/lib/geocode.ts`, `scripts/debug-fetch.ts`) ora usano `fileURLToPath()` da `node:url` (come bonus decodifica anche `%20`). Verificato solo su Linux (typecheck, test, build); da confermare sul checkout Windows. Sotto, la descrizione originale del bug.
+**Corretto il 2026-10-22**: tutti i percorsi costruiti con `new URL(..., import.meta.url).pathname` (`src/build-site.ts`, `src/scrape.ts`, `src/lib/geocode.ts`, `scripts/debug-fetch.ts`) ora usano `fileURLToPath()` da `node:url` (come bonus decodifica anche `%20`). Verificato solo su Linux (typecheck, test, build); da confermare sul checkout Windows. Riesame del 2026-10-31: nessun'altra causa Windows trovata (niente `rm`/`cp`/`VAR=x` negli script npm, nessun `__dirname`, percorsi con `join()`); typecheck, test e build passano anche su una copia con tutti i file di testo convertiti in CRLF. Sotto, la descrizione originale del bug.
 
 `src/build-site.ts` builds its source/destination paths with
 `new URL(..., import.meta.url).pathname`. On Windows that produces a path
@@ -128,6 +128,7 @@ transcribed/refreshed rather than auto-scraped and will silently go stale
 until someone refreshes them by hand.
 
 ## Log
+- 2026-10-31: 🤖 riesaminato `npm run build` su Windows: nessuna altra causa oltre a `URL.pathname` (già corretta), build ok anche con file CRLF simulati su Linux
 - 2026-10-22: 🤖 corretto `npm run build` su Windows usando `fileURLToPath()` al posto di `URL.pathname` (verificato solo su Linux)
 - 2026-10-19: installabile come app a sé dal telefono (manifest con nome, icona e perimetro propri)
 - 2026-10-18: FUTURE-ARCHITECTURE.md unito in ROADMAP.md (protocollo unico)
