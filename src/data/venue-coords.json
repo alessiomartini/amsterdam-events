@@ -221,6 +221,10 @@
     "lon": 4.932097
   },
   "Eindhoven & Amsterdam": null,
+  "Elsa's Cafe": {
+    "lat": 52.3531732,
+    "lon": 4.9318944
+  },
   "Elsa's Café": {
     "lat": 52.3531732,
     "lon": 4.9318944
@@ -402,6 +406,7 @@
     "lat": 52.3601403,
     "lon": 4.8656923
   },
+  "OUT Latin Club Amsterdam": null,
   "Paradiso": {
     "lat": 52.3621554,
     "lon": 4.8837824
