@@ -17,15 +17,12 @@ data transformation, and site generation separate.
 
 - Explore the relevant scraper, schema, fixture, and generated-data path before editing.
 - Read `ROADMAP.md` first — it tracks known bugs (e.g. `npm run build`
-  currently fails on a Windows checkout, see that file) and an undecided idea about
-  a notes/feedback widget. Don't rediscover these from scratch.
+  currently fails on a Windows checkout, see that file). Don't rediscover these from scratch.
 - Prefer focused tests and small changes; do not commit secrets or scraped personal data.
 - Preserve the existing data-source and attribution conventions in `README.md`.
 - Before committing, inspect `git diff`, report the verification commands and results,
   and avoid committing generated output unless the repository already tracks it.
-- This project has no notes/feedback backend today. Don't add one without discussing
-  the approach first — see the "Feedback centralizzato" section of
-  `ROADMAP.md` for the two options under consideration.
+- Feedback: `web/notes-widget.js` posts to the shared `site-notes` Worker (site `amsterdam-events`); no per-site backend.
 
 ## Roadmap, idee e progressi
 

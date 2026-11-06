@@ -10,13 +10,13 @@ Unico file per todo, idee, decisioni e diario, letto da Projects Overview
 - [x] Aggiornamento automatico degli eventi
 - [x] Sistemare `npm run build` su Windows
 - [ ] Verificare su Windows il fix di `URL.pathname` → `fileURLToPath()` (`npm run build`)
-- [ ] Decidere sul feedback centralizzato tra i siti
+- [x] Decidere sul feedback centralizzato tra i siti (2026-11-06: Worker unico site-notes)
 
 ## Idee
 
 ### Feedback centralizzato — idea, non ancora decisa
 
-- [ ] Feedback centralizzato — idea, non ancora decisa
+- [x] Feedback centralizzato — deciso e fatto il 2026-11-06 con il Worker unico site-notes
 
 Questo repo **non ha ancora nessuna feature di note/feedback**: nessun
 endpoint, nessun worker, nessuna tabella per questo. Idea da valutare in
@@ -128,6 +128,7 @@ transcribed/refreshed rather than auto-scraped and will silently go stale
 until someone refreshes them by hand.
 
 ## Log
+- 2026-11-06: aggiunto il pulsante Feedback (`web/notes-widget.js`, POST al Worker site-notes con coda locale): scelta la via del Worker unico; serve il deploy di site-notes.
 - 2026-10-31: 🤖 riesaminato `npm run build` su Windows: nessuna altra causa oltre a `URL.pathname` (già corretta), build ok anche con file CRLF simulati su Linux
 - 2026-10-22: 🤖 corretto `npm run build` su Windows usando `fileURLToPath()` al posto di `URL.pathname` (verificato solo su Linux)
 - 2026-10-19: installabile come app a sé dal telefono (manifest con nome, icona e perimetro propri)
