@@ -128,7 +128,7 @@ transcribed/refreshed rather than auto-scraped and will silently go stale
 until someone refreshes them by hand.
 
 ## Log
-- 2026-11-06: aggiunto il pulsante Feedback (`web/notes-widget.js`, POST al Worker site-notes con coda locale): scelta la via del Worker unico; serve il deploy di site-notes. widget note v2 canonico (site-notes/widget) al posto del vecchio feedback.
+- 2026-11-06: aggiunto il pulsante Feedback (`web/notes-widget.js`, POST al Worker site-notes con coda locale): scelta la via del Worker unico; serve il deploy di site-notes. widget note v2 canonico (site-notes/widget) al posto del vecchio feedback. widget note allineato alla versione finale (migrazione key#field, dedupe), ?v=3.
 - 2026-10-31: 🤖 riesaminato `npm run build` su Windows: nessuna altra causa oltre a `URL.pathname` (già corretta), build ok anche con file CRLF simulati su Linux
 - 2026-10-22: 🤖 corretto `npm run build` su Windows usando `fileURLToPath()` al posto di `URL.pathname` (verificato solo su Linux)
 - 2026-10-19: installabile come app a sé dal telefono (manifest con nome, icona e perimetro propri)
