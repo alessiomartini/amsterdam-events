@@ -15,7 +15,6 @@ data transformation, and site generation separate.
 
 ## Workflow
 
-- Read `ROADMAP.md` first — it tracks known bugs (e.g. `npm run build`
-  currently fails on a Windows checkout, see that file). Don't rediscover these from scratch.
-- Preserve the existing data-source and attribution conventions in `README.md`.
+- Read `ROADMAP.md` first: it tracks known issues, dependency notes and open ideas.
+- Preserve the existing data-source and attribution conventions in `README.md`; per-scraper details are in `docs/scrapers.md`.
 - Do not commit scraped personal data or generated output unless the repository already tracks it.
