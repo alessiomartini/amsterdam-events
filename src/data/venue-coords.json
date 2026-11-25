@@ -60,6 +60,10 @@
   },
   "Breughem meetingpoint": null,
   "Budapest": null,
+  "Buiksloterkerk Amsterdam": {
+    "lat": 52.4018227,
+    "lon": 4.9163471
+  },
   "Buikslotermeerplein, Amsterdam": {
     "lat": 52.4019931,
     "lon": 4.9323589
@@ -301,6 +305,7 @@
     "lat": 52.3635112,
     "lon": 4.8845183
   },
+  "Jazz op zondag - Podium Horizon Amsterdam": null,
   "Jazzcafé Nieuwe Meer Aalsmeer": null,
   "Jazzcafé NieuweMeer": null,
   "Jazzcafé NieuweMeer Aalsmeer": null,
