@@ -116,6 +116,10 @@
     "lat": 52.3661289,
     "lon": 4.9001341
   },
+  "Cafe Parisius": {
+    "lat": 52.3639551,
+    "lon": 4.9384292
+  },
   "Café Parisius": null,
   "Cafe Quelle": {
     "lat": 52.3618546,
@@ -275,6 +279,7 @@
     "lon": 4.9310417
   },
   "Hans Brinker Bar": null,
+  "Het Badhuistheater": null,
   "Het Concertgebouw": {
     "lat": 52.3556688,
     "lon": 4.8796756
